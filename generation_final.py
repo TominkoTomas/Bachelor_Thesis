@@ -32,7 +32,7 @@ def _generate_story_process(result_queue):
         JUST OUTPUT THE STORY TEXT, nothing else. Do not include any metadata or formatting."""
         
         # API call
-        API_KEY = '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' 
+        API_KEY = '' # Enter your API Key 
         API_URL = 'https://openrouter.ai/api/v1/chat/completions'
         response = requests.post(
             API_URL,
