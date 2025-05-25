@@ -1,0 +1,1067 @@
+{
+  "story": "Leo and Olivia were best friends. One day, they decided to explore an old house at the edge of town. The house looked scary, but they were curious. Leo opened a heavy door that creaked loudly. Inside, it was dark and dusty. Olivia stayed close behind him, feeling a little nervous. They walked carefully through the rooms, finding old furniture and broken toys. Suddenly, they heard a funny noise. Olivia giggled, but Leo jumped. It was just a stray cat! They laughed and felt brave again. They kept exploring until they found a small treasure box under a table. Inside was a shiny key. They wondered what it opened. Leo and Olivia promised to come back and find out someday. They left the house before it got dark, happy with their adventure. The heavy door creaked again as Leo closed it behind them. They ran home, excited to tell their friends about the old house and the mystery key.",
+  "characters": [
+    {
+      "question": "What did Leo open?",
+      "character": "Leo",
+      "story": "Leo and Olivia were best friends. One day, they decided to explore an old house at the edge of town. The house looked scary, but they were curious. Leo opened a heavy door that creaked loudly. Inside, it was dark and dusty. Olivia stayed close behind him, feeling a little nervous. They walked carefully through the rooms, finding old furniture and broken toys. Suddenly, they heard a funny noise. Olivia giggled, but Leo jumped. It was just a stray cat! They laughed and felt brave again. They kept exploring until they found a small treasure box under a table. Inside was a shiny key. They wondered what it opened. Leo and Olivia promised to come back and find out someday. They left the house before it got dark, happy with their adventure. The heavy door creaked again as Leo closed it behind them. They ran home, excited to tell their friends about the old house and the mystery key.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A box of cookies.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.0070667266845703
+            },
+            {
+              "token": " box",
+              "logprob": -3.3369078636169434
+            },
+            {
+              "token": " of",
+              "logprob": -1.920182228088379
+            },
+            {
+              "token": " cookies",
+              "logprob": -3.500802993774414
+            },
+            {
+              "token": ".",
+              "logprob": -0.5747944712638855
+            },
+            {
+              "token": " \n",
+              "logprob": -1.4748919010162354
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "nothing.",
+          "token_data": [
+            {
+              "token": " nothing",
+              "logprob": -4.150147914886475
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.020923376083374
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The old house.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.753114104270935
+            },
+            {
+              "token": " old",
+              "logprob": -3.113619327545166
+            },
+            {
+              "token": " house",
+              "logprob": -0.1843019723892212
+            },
+            {
+              "token": ".",
+              "logprob": -0.8414691090583801
+            },
+            {
+              "token": " Q",
+              "logprob": -1.1616613864898682
+            },
+            {
+              "token": ":",
+              "logprob": -0.015668261796236038
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "a heavy door.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -1.8593744039535522
+            },
+            {
+              "token": " heavy",
+              "logprob": -1.1479500532150269
+            },
+            {
+              "token": " door",
+              "logprob": -0.01022128015756607
+            },
+            {
+              "token": ".",
+              "logprob": -0.9135279655456543
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.0286145210266113
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "(1 sentance)",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.0264811515808105
+            },
+            {
+              "token": " (",
+              "logprob": -4.260733604431152
+            },
+            {
+              "token": "1",
+              "logprob": -2.419163942337036
+            },
+            {
+              "token": " sent",
+              "logprob": -3.5907487869262695
+            },
+            {
+              "token": "ance",
+              "logprob": -0.18307988345623016
+            },
+            {
+              "token": ")",
+              "logprob": -0.5956231355667114
+            },
+            {
+              "token": " Q",
+              "logprob": -3.298769950866699
+            },
+            {
+              "token": ":",
+              "logprob": -0.03651900589466095
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The answer is: a. What did Leo open? (Leo opened a heavy door.)",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.753114104270935
+            },
+            {
+              "token": " answer",
+              "logprob": -3.8986077308654785
+            },
+            {
+              "token": " is",
+              "logprob": -1.081771731376648
+            },
+            {
+              "token": ":",
+              "logprob": -2.5926780700683594
+            },
+            {
+              "token": " a",
+              "logprob": -1.2778396606445312
+            },
+            {
+              "token": ".",
+              "logprob": -2.2581818103790283
+            },
+            {
+              "token": " What",
+              "logprob": -4.779803276062012
+            },
+            {
+              "token": " did",
+              "logprob": -0.5021196603775024
+            },
+            {
+              "token": " Leo",
+              "logprob": -0.13710054755210876
+            },
+            {
+              "token": " open",
+              "logprob": -0.12762373685836792
+            },
+            {
+              "token": "?",
+              "logprob": -0.3650657832622528
+            },
+            {
+              "token": " (",
+              "logprob": -3.492173194885254
+            },
+            {
+              "token": "Leo",
+              "logprob": -3.9944980144500732
+            },
+            {
+              "token": " opened",
+              "logprob": -0.22521060705184937
+            },
+            {
+              "token": " a",
+              "logprob": -0.8832908272743225
+            },
+            {
+              "token": " heavy",
+              "logprob": -0.7183190584182739
+            },
+            {
+              "token": " door",
+              "logprob": -0.006729913409799337
+            },
+            {
+              "token": ".)",
+              "logprob": -2.9731240272521973
+            },
+            {
+              "token": " ",
+              "logprob": -3.182748794555664
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -2.6562094688415527
+            },
+            {
+              "token": " using",
+              "logprob": -0.44495299458503723
+            },
+            {
+              "token": " one",
+              "logprob": -0.22273501753807068
+            },
+            {
+              "token": " whole",
+              "logprob": -0.11778675019741058
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.27933818101882935
+            },
+            {
+              "token": ".",
+              "logprob": -0.3202110230922699
+            },
+            {
+              "token": " Q",
+              "logprob": -3.313778877258301
+            },
+            {
+              "token": ":",
+              "logprob": -0.07196922600269318
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "They opened a heavy door. B: They opened a small door. C: The did not open anything, it was a key.",
+          "token_data": [
+            {
+              "token": " They",
+              "logprob": -4.211842060089111
+            },
+            {
+              "token": " opened",
+              "logprob": -0.36515551805496216
+            },
+            {
+              "token": " a",
+              "logprob": -0.39287421107292175
+            },
+            {
+              "token": " heavy",
+              "logprob": -1.2662147283554077
+            },
+            {
+              "token": " door",
+              "logprob": -0.0201050266623497
+            },
+            {
+              "token": ".",
+              "logprob": -0.9375263452529907
+            },
+            {
+              "token": " B",
+              "logprob": -3.38085675239563
+            },
+            {
+              "token": ":",
+              "logprob": -0.01199320424348116
+            },
+            {
+              "token": " They",
+              "logprob": -0.24325110018253326
+            },
+            {
+              "token": " opened",
+              "logprob": -0.04349743574857712
+            },
+            {
+              "token": " a",
+              "logprob": -0.19287358224391937
+            },
+            {
+              "token": " small",
+              "logprob": -2.242967128753662
+            },
+            {
+              "token": " door",
+              "logprob": -0.3787190914154053
+            },
+            {
+              "token": ".",
+              "logprob": -0.038833171129226685
+            },
+            {
+              "token": " C",
+              "logprob": -0.2531696557998657
+            },
+            {
+              "token": ":",
+              "logprob": -0.009724152274429798
+            },
+            {
+              "token": " The",
+              "logprob": -4.589024543762207
+            },
+            {
+              "token": " did",
+              "logprob": -4.448231220245361
+            },
+            {
+              "token": " not",
+              "logprob": -1.0517284870147705
+            },
+            {
+              "token": " open",
+              "logprob": -0.12167955189943314
+            },
+            {
+              "token": " anything",
+              "logprob": -1.9883019924163818
+            },
+            {
+              "token": ",",
+              "logprob": -3.6501946449279785
+            },
+            {
+              "token": " it",
+              "logprob": -2.1971993446350098
+            },
+            {
+              "token": " was",
+              "logprob": -0.17883610725402832
+            },
+            {
+              "token": " a",
+              "logprob": -0.7862550020217896
+            },
+            {
+              "token": " key",
+              "logprob": -2.813340902328491
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.8576674461364746
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The key that Leo opened is the mystery. You do not want to answer the question \"Why?\" You can have more than one sentence with details, but use the same idea.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.753114104270935
+            },
+            {
+              "token": " key",
+              "logprob": -1.895310878753662
+            },
+            {
+              "token": " that",
+              "logprob": -4.205561637878418
+            },
+            {
+              "token": " Leo",
+              "logprob": -3.1650238037109375
+            },
+            {
+              "token": " opened",
+              "logprob": -0.3752668499946594
+            },
+            {
+              "token": " is",
+              "logprob": -2.837411403656006
+            },
+            {
+              "token": " the",
+              "logprob": -1.3329403400421143
+            },
+            {
+              "token": " mystery",
+              "logprob": -3.1657626628875732
+            },
+            {
+              "token": ".",
+              "logprob": -3.95796799659729
+            },
+            {
+              "token": " You",
+              "logprob": -3.686361789703369
+            },
+            {
+              "token": " do",
+              "logprob": -4.561069488525391
+            },
+            {
+              "token": " not",
+              "logprob": -0.16855907440185547
+            },
+            {
+              "token": " want",
+              "logprob": -2.3206334114074707
+            },
+            {
+              "token": " to",
+              "logprob": -0.06659594923257828
+            },
+            {
+              "token": " answer",
+              "logprob": -2.724395513534546
+            },
+            {
+              "token": " the",
+              "logprob": -2.317561626434326
+            },
+            {
+              "token": " question",
+              "logprob": -0.8436809778213501
+            },
+            {
+              "token": " \"",
+              "logprob": -3.343845844268799
+            },
+            {
+              "token": "Why",
+              "logprob": -2.114611864089966
+            },
+            {
+              "token": "?\"",
+              "logprob": -2.441707134246826
+            },
+            {
+              "token": " You",
+              "logprob": -2.3443093299865723
+            },
+            {
+              "token": " can",
+              "logprob": -2.3280630111694336
+            },
+            {
+              "token": " have",
+              "logprob": -4.7090582847595215
+            },
+            {
+              "token": " more",
+              "logprob": -3.9148950576782227
+            },
+            {
+              "token": " than",
+              "logprob": -0.9088178873062134
+            },
+            {
+              "token": " one",
+              "logprob": -0.08362974971532822
+            },
+            {
+              "token": " sentence",
+              "logprob": -3.2383623123168945
+            },
+            {
+              "token": " with",
+              "logprob": -3.944103240966797
+            },
+            {
+              "token": " details",
+              "logprob": -4.391082763671875
+            },
+            {
+              "token": ",",
+              "logprob": -2.112435817718506
+            },
+            {
+              "token": " but",
+              "logprob": -0.38493287563323975
+            },
+            {
+              "token": " use",
+              "logprob": -4.842504978179932
+            },
+            {
+              "token": " the",
+              "logprob": -1.4107286930084229
+            },
+            {
+              "token": " same",
+              "logprob": -1.5996867418289185
+            },
+            {
+              "token": " idea",
+              "logprob": -4.042031288146973
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.9576361179351807
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "a: The doo 4, open The door 2.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -1.8593744039535522
+            },
+            {
+              "token": ":",
+              "logprob": -3.0503997802734375
+            },
+            {
+              "token": " The",
+              "logprob": -2.4547231197357178
+            },
+            {
+              "token": " do",
+              "logprob": -4.011602401733398
+            },
+            {
+              "token": "o",
+              "logprob": -1.367800235748291
+            },
+            {
+              "token": " ",
+              "logprob": -4.948659420013428
+            },
+            {
+              "token": "4",
+              "logprob": -4.355212211608887
+            },
+            {
+              "token": ",",
+              "logprob": -4.939449310302734
+            },
+            {
+              "token": " open",
+              "logprob": -4.747969627380371
+            },
+            {
+              "token": " The",
+              "logprob": -4.1201171875
+            },
+            {
+              "token": " door",
+              "logprob": -0.7658559083938599
+            },
+            {
+              "token": " ",
+              "logprob": -1.9061615467071533
+            },
+            {
+              "token": "2",
+              "logprob": -2.059720039367676
+            },
+            {
+              "token": ".",
+              "logprob": -1.0506473779678345
+            },
+            {
+              "token": " Q",
+              "logprob": -1.898728370666504
+            },
+            {
+              "token": ":",
+              "logprob": -0.04429150000214577
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What did Olivia open?",
+      "character": "Olivia",
+      "story": "Leo and Olivia were best friends. One day, they decided to explore an old house at the edge of town. The house looked scary, but they were curious. Leo opened a heavy door that creaked loudly. Inside, it was dark and dusty. Olivia stayed close behind him, feeling a little nervous. They walked carefully through the rooms, finding old furniture and broken toys. Suddenly, they heard a funny noise. Olivia giggled, but Leo jumped. It was just a stray cat! They laughed and felt brave again. They kept exploring until they found a small treasure box under a table. Inside was a shiny key. They wondered what it opened. Leo and Olivia promised to come back and find out someday. They left the house before it got dark, happy with their adventure. The heavy door creaked again as Leo closed it behind them. They ran home, excited to tell their friends about the old house and the mystery key.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Answer in one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.886215925216675
+            },
+            {
+              "token": " in",
+              "logprob": -3.0280916690826416
+            },
+            {
+              "token": " one",
+              "logprob": -0.5179960131645203
+            },
+            {
+              "token": " whole",
+              "logprob": -1.004775881767273
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.1885214000940323
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.185894727706909
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Olivia opened the heavy door that creaked loudly.",
+          "token_data": [
+            {
+              "token": " Olivia",
+              "logprob": -4.292468070983887
+            },
+            {
+              "token": " opened",
+              "logprob": -0.19880817830562592
+            },
+            {
+              "token": " the",
+              "logprob": -0.7838546633720398
+            },
+            {
+              "token": " heavy",
+              "logprob": -2.390712022781372
+            },
+            {
+              "token": " door",
+              "logprob": -0.035784415900707245
+            },
+            {
+              "token": " that",
+              "logprob": -2.127345561981201
+            },
+            {
+              "token": " c",
+              "logprob": -0.15196026861667633
+            },
+            {
+              "token": "reak",
+              "logprob": -0.004483409691601992
+            },
+            {
+              "token": "ed",
+              "logprob": -0.0030567371286451817
+            },
+            {
+              "token": " loudly",
+              "logprob": -0.22850549221038818
+            },
+            {
+              "token": ".",
+              "logprob": -0.38005611300468445
+            },
+            {
+              "token": " Q",
+              "logprob": -2.0604021549224854
+            },
+            {
+              "token": ":",
+              "logprob": -0.01963687129318714
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Olivia opened an old dresser that she was going to bring inside when a light went off and the room got dark.",
+          "token_data": [
+            {
+              "token": " Olivia",
+              "logprob": -4.292468070983887
+            },
+            {
+              "token": " opened",
+              "logprob": -0.19880817830562592
+            },
+            {
+              "token": " an",
+              "logprob": -3.147650957107544
+            },
+            {
+              "token": " old",
+              "logprob": -0.3322785794734955
+            },
+            {
+              "token": " dresser",
+              "logprob": -4.545319557189941
+            },
+            {
+              "token": " that",
+              "logprob": -3.4065518379211426
+            },
+            {
+              "token": " she",
+              "logprob": -3.1994259357452393
+            },
+            {
+              "token": " was",
+              "logprob": -2.971479654312134
+            },
+            {
+              "token": " going",
+              "logprob": -4.393054485321045
+            },
+            {
+              "token": " to",
+              "logprob": -0.07287401705980301
+            },
+            {
+              "token": " bring",
+              "logprob": -4.817243576049805
+            },
+            {
+              "token": " inside",
+              "logprob": -2.486295700073242
+            },
+            {
+              "token": " when",
+              "logprob": -3.7980196475982666
+            },
+            {
+              "token": " a",
+              "logprob": -2.8226442337036133
+            },
+            {
+              "token": " light",
+              "logprob": -3.8746371269226074
+            },
+            {
+              "token": " went",
+              "logprob": -3.0469605922698975
+            },
+            {
+              "token": " off",
+              "logprob": -0.6446887254714966
+            },
+            {
+              "token": " and",
+              "logprob": -2.752830982208252
+            },
+            {
+              "token": " the",
+              "logprob": -2.231656789779663
+            },
+            {
+              "token": " room",
+              "logprob": -2.1534619331359863
+            },
+            {
+              "token": " got",
+              "logprob": -1.4029910564422607
+            },
+            {
+              "token": " dark",
+              "logprob": -0.37061014771461487
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.1005489826202393
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Nothing. She thought Leo might be trying to trick her.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -4.001702308654785
+            },
+            {
+              "token": ".",
+              "logprob": -0.4882616102695465
+            },
+            {
+              "token": " She",
+              "logprob": -3.4739198684692383
+            },
+            {
+              "token": " thought",
+              "logprob": -3.9887547492980957
+            },
+            {
+              "token": " Leo",
+              "logprob": -3.5647130012512207
+            },
+            {
+              "token": " might",
+              "logprob": -2.5010581016540527
+            },
+            {
+              "token": " be",
+              "logprob": -0.6939556002616882
+            },
+            {
+              "token": " trying",
+              "logprob": -4.212615013122559
+            },
+            {
+              "token": " to",
+              "logprob": -0.02721884287893772
+            },
+            {
+              "token": " trick",
+              "logprob": -0.891220211982727
+            },
+            {
+              "token": " her",
+              "logprob": -0.029129760339856148
+            },
+            {
+              "token": ".",
+              "logprob": -0.6905008554458618
+            },
+            {
+              "token": " Q",
+              "logprob": -2.0117013454437256
+            },
+            {
+              "token": ":",
+              "logprob": -0.021750368177890778
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "the front door",
+          "token_data": [
+            {
+              "token": " the",
+              "logprob": -3.0671937465667725
+            },
+            {
+              "token": " front",
+              "logprob": -2.983341932296753
+            },
+            {
+              "token": " door",
+              "logprob": -0.02404876798391342
+            },
+            {
+              "token": "\n",
+              "logprob": -3.1201343536376953
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The old house.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.8142869472503662
+            },
+            {
+              "token": " old",
+              "logprob": -2.706890106201172
+            },
+            {
+              "token": " house",
+              "logprob": -0.22129245102405548
+            },
+            {
+              "token": ".",
+              "logprob": -0.5628352165222168
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7168208956718445
+            },
+            {
+              "token": ":",
+              "logprob": -0.015002516098320484
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A small treasure box.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.1479413509368896
+            },
+            {
+              "token": " small",
+              "logprob": -3.1492319107055664
+            },
+            {
+              "token": " treasure",
+              "logprob": -0.6939337849617004
+            },
+            {
+              "token": " box",
+              "logprob": -0.03589252755045891
+            },
+            {
+              "token": ".",
+              "logprob": -0.6066922545433044
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.10759973526001
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A: It was just a cat.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.1479413509368896
+            },
+            {
+              "token": ":",
+              "logprob": -1.6324130296707153
+            },
+            {
+              "token": " It",
+              "logprob": -4.044491291046143
+            },
+            {
+              "token": " was",
+              "logprob": -0.2770863473415375
+            },
+            {
+              "token": " just",
+              "logprob": -1.482702374458313
+            },
+            {
+              "token": " a",
+              "logprob": -0.030939260497689247
+            },
+            {
+              "token": " cat",
+              "logprob": -2.6614418029785156
+            },
+            {
+              "token": ".",
+              "logprob": -0.5681605935096741
+            },
+            {
+              "token": " Q",
+              "logprob": -1.4052560329437256
+            },
+            {
+              "token": ":",
+              "logprob": -0.02882808819413185
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "an old treasure box.",
+          "token_data": [
+            {
+              "token": " an",
+              "logprob": -4.774256706237793
+            },
+            {
+              "token": " old",
+              "logprob": -0.23118437826633453
+            },
+            {
+              "token": " treasure",
+              "logprob": -3.7672877311706543
+            },
+            {
+              "token": " box",
+              "logprob": -0.1643764078617096
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.5297598838806152
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "A: B: C: D: E: F:",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.1479413509368896
+            },
+            {
+              "token": ":",
+              "logprob": -1.6324130296707153
+            },
+            {
+              "token": " B",
+              "logprob": -3.6200480461120605
+            },
+            {
+              "token": ":",
+              "logprob": -0.10128691047430038
+            },
+            {
+              "token": " C",
+              "logprob": -0.5779310464859009
+            },
+            {
+              "token": ":",
+              "logprob": -0.10009635239839554
+            },
+            {
+              "token": " D",
+              "logprob": -0.6329238414764404
+            },
+            {
+              "token": ":",
+              "logprob": -0.12127352505922318
+            },
+            {
+              "token": " E",
+              "logprob": -0.2819192409515381
+            },
+            {
+              "token": ":",
+              "logprob": -0.08769446611404419
+            },
+            {
+              "token": " F",
+              "logprob": -0.15343575179576874
+            },
+            {
+              "token": ":\n",
+              "logprob": -4.559460639953613
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,899 @@
+{
+  "story": "Charlotte and Olivia were best friends. They loved playing together after school. One day, Charlotte had a secret. She wanted to tell Olivia but was too shy. Charlotte wrote a secret note and hid it in her backpack. At school, Olivia talked about her new puppy. Charlotte listened but kept thinking about the note. After lunch, Charlotte felt brave. She took the note out and handed it to Olivia. Olivia opened it and smiled. The note said, \"You are my best friend.\" Olivia hugged Charlotte. They both laughed and promised to keep the note forever. That night, Charlotte felt happy. She knew Olivia would always be her friend. The next day, they played together like always. The secret note was their little treasure. No one else knew about it. Charlotte and Olivia were happy to share their friendship.",
+  "characters": [
+    {
+      "question": "What type of message did Charlotte write?",
+      "character": "Charlotte",
+      "story": "Charlotte and Olivia were best friends. They loved playing together after school. One day, Charlotte had a secret. She wanted to tell Olivia but was too shy. Charlotte wrote a secret note and hid it in her backpack. At school, Olivia talked about her new puppy. Charlotte listened but kept thinking about the note. After lunch, Charlotte felt brave. She took the note out and handed it to Olivia. Olivia opened it and smiled. The note said, \"You are my best friend.\" Olivia hugged Charlotte. They both laughed and promised to keep the note forever. That night, Charlotte felt happy. She knew Olivia would always be her friend. The next day, they played together like always. The secret note was their little treasure. No one else knew about it. Charlotte and Olivia were happy to share their friendship.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "I am my best friend.",
+          "token_data": [
+            {
+              "token": " I",
+              "logprob": -3.620360851287842
+            },
+            {
+              "token": " am",
+              "logprob": -2.9785313606262207
+            },
+            {
+              "token": " my",
+              "logprob": -2.912526845932007
+            },
+            {
+              "token": " best",
+              "logprob": -0.1621863692998886
+            },
+            {
+              "token": " friend",
+              "logprob": -0.24303564429283142
+            },
+            {
+              "token": ".",
+              "logprob": -0.610028088092804
+            },
+            {
+              "token": " \n",
+              "logprob": -2.048194169998169
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The note was \"You are my best friend.\"",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.7253785133361816
+            },
+            {
+              "token": " note",
+              "logprob": -1.3050075769424438
+            },
+            {
+              "token": " was",
+              "logprob": -2.408216953277588
+            },
+            {
+              "token": " \"",
+              "logprob": -2.7426702976226807
+            },
+            {
+              "token": "You",
+              "logprob": -0.060599491000175476
+            },
+            {
+              "token": " are",
+              "logprob": -0.01805548556149006
+            },
+            {
+              "token": " my",
+              "logprob": -0.023182785138487816
+            },
+            {
+              "token": " best",
+              "logprob": -0.02185242623090744
+            },
+            {
+              "token": " friend",
+              "logprob": -0.013755997642874718
+            },
+            {
+              "token": ".\"",
+              "logprob": -0.5939008593559265
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.3979177474975586
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "I am your best friend!",
+          "token_data": [
+            {
+              "token": " I",
+              "logprob": -3.6630311012268066
+            },
+            {
+              "token": " am",
+              "logprob": -2.998932361602783
+            },
+            {
+              "token": " your",
+              "logprob": -0.599409282207489
+            },
+            {
+              "token": " best",
+              "logprob": -0.1724802702665329
+            },
+            {
+              "token": " friend",
+              "logprob": -0.02846631594002247
+            },
+            {
+              "token": "!",
+              "logprob": -2.7870218753814697
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.980076551437378
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "She had to get one note from Olivia.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -3.512549877166748
+            },
+            {
+              "token": " had",
+              "logprob": -3.563656806945801
+            },
+            {
+              "token": " to",
+              "logprob": -2.4072675704956055
+            },
+            {
+              "token": " get",
+              "logprob": -4.230855464935303
+            },
+            {
+              "token": " one",
+              "logprob": -4.93309211730957
+            },
+            {
+              "token": " note",
+              "logprob": -2.824862003326416
+            },
+            {
+              "token": " from",
+              "logprob": -3.255767822265625
+            },
+            {
+              "token": " Olivia",
+              "logprob": -1.148125171661377
+            },
+            {
+              "token": ".",
+              "logprob": -1.4936753511428833
+            },
+            {
+              "token": " \n",
+              "logprob": -1.6511327028274536
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The message said that I love you to my friend.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.7253785133361816
+            },
+            {
+              "token": " message",
+              "logprob": -0.7810970544815063
+            },
+            {
+              "token": " said",
+              "logprob": -1.9031764268875122
+            },
+            {
+              "token": " that",
+              "logprob": -3.1696441173553467
+            },
+            {
+              "token": " I",
+              "logprob": -3.285304546356201
+            },
+            {
+              "token": " love",
+              "logprob": -1.8142921924591064
+            },
+            {
+              "token": " you",
+              "logprob": -0.12464360892772675
+            },
+            {
+              "token": " to",
+              "logprob": -3.551811933517456
+            },
+            {
+              "token": " my",
+              "logprob": -1.1572843790054321
+            },
+            {
+              "token": " friend",
+              "logprob": -0.9203009009361267
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.211442708969116
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "\"You are my best friend.\"",
+          "token_data": [
+            {
+              "token": " \"",
+              "logprob": -2.323157787322998
+            },
+            {
+              "token": "You",
+              "logprob": -0.08377841860055923
+            },
+            {
+              "token": " are",
+              "logprob": -0.0495271310210228
+            },
+            {
+              "token": " my",
+              "logprob": -0.023898398503661156
+            },
+            {
+              "token": " best",
+              "logprob": -0.034119512885808945
+            },
+            {
+              "token": " friend",
+              "logprob": -0.027537234127521515
+            },
+            {
+              "token": ".\"\n\n",
+              "logprob": -2.7006378173828125
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "\"You are my best friend.\"",
+          "token_data": [
+            {
+              "token": " \"",
+              "logprob": -2.323157787322998
+            },
+            {
+              "token": "You",
+              "logprob": -0.08377841860055923
+            },
+            {
+              "token": " are",
+              "logprob": -0.0495271310210228
+            },
+            {
+              "token": " my",
+              "logprob": -0.023898398503661156
+            },
+            {
+              "token": " best",
+              "logprob": -0.034119512885808945
+            },
+            {
+              "token": " friend",
+              "logprob": -0.027537234127521515
+            },
+            {
+              "token": ".\"\n\n",
+              "logprob": -2.7006378173828125
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -2.7135348320007324
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "You are my best friend.",
+          "token_data": [
+            {
+              "token": " You",
+              "logprob": -1.7504667043685913
+            },
+            {
+              "token": " are",
+              "logprob": -0.10308195650577545
+            },
+            {
+              "token": " my",
+              "logprob": -0.025743404403328896
+            },
+            {
+              "token": " best",
+              "logprob": -0.05400129035115242
+            },
+            {
+              "token": " friend",
+              "logprob": -0.02960321679711342
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.5421783924102783
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -2.7135348320007324
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What type of message did Olivia write?",
+      "character": "Olivia",
+      "story": "Charlotte and Olivia were best friends. They loved playing together after school. One day, Charlotte had a secret. She wanted to tell Olivia but was too shy. Charlotte wrote a secret note and hid it in her backpack. At school, Olivia talked about her new puppy. Charlotte listened but kept thinking about the note. After lunch, Charlotte felt brave. She took the note out and handed it to Olivia. Olivia opened it and smiled. The note said, \"You are my best friend.\" Olivia hugged Charlotte. They both laughed and promised to keep the note forever. That night, Charlotte felt happy. She knew Olivia would always be her friend. The next day, they played together like always. The secret note was their little treasure. No one else knew about it. Charlotte and Olivia were happy to share their friendship.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "That she got a puppy",
+          "token_data": [
+            {
+              "token": " That",
+              "logprob": -4.094115257263184
+            },
+            {
+              "token": " she",
+              "logprob": -1.4904415607452393
+            },
+            {
+              "token": " got",
+              "logprob": -3.270073890686035
+            },
+            {
+              "token": " a",
+              "logprob": -0.214353546500206
+            },
+            {
+              "token": " puppy",
+              "logprob": -1.058843970298767
+            },
+            {
+              "token": "\n",
+              "logprob": -3.207894802093506
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "You are my best friend.",
+          "token_data": [
+            {
+              "token": " You",
+              "logprob": -1.7020256519317627
+            },
+            {
+              "token": " are",
+              "logprob": -0.12638242542743683
+            },
+            {
+              "token": " my",
+              "logprob": -0.029059823602437973
+            },
+            {
+              "token": " best",
+              "logprob": -0.07878585904836655
+            },
+            {
+              "token": " friend",
+              "logprob": -0.032018400728702545
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.2385499477386475
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Charlotte was so afraid of speaking, she decided to hide her note inside her backpack. After school they talked and laughed about the note. The note helped Charlotte see her friendship with Olivia.",
+          "token_data": [
+            {
+              "token": " Charlotte",
+              "logprob": -3.486699342727661
+            },
+            {
+              "token": " was",
+              "logprob": -2.8712103366851807
+            },
+            {
+              "token": " so",
+              "logprob": -3.533869981765747
+            },
+            {
+              "token": " afraid",
+              "logprob": -3.2892653942108154
+            },
+            {
+              "token": " of",
+              "logprob": -2.0451555252075195
+            },
+            {
+              "token": " speaking",
+              "logprob": -4.530727386474609
+            },
+            {
+              "token": ",",
+              "logprob": -3.686725378036499
+            },
+            {
+              "token": " she",
+              "logprob": -0.5218997001647949
+            },
+            {
+              "token": " decided",
+              "logprob": -2.843526840209961
+            },
+            {
+              "token": " to",
+              "logprob": -0.14806875586509705
+            },
+            {
+              "token": " hide",
+              "logprob": -2.755232810974121
+            },
+            {
+              "token": " her",
+              "logprob": -1.2720924615859985
+            },
+            {
+              "token": " note",
+              "logprob": -0.6781681180000305
+            },
+            {
+              "token": " inside",
+              "logprob": -2.798957347869873
+            },
+            {
+              "token": " her",
+              "logprob": -0.1959654837846756
+            },
+            {
+              "token": " backpack",
+              "logprob": -0.24556151032447815
+            },
+            {
+              "token": ".",
+              "logprob": -0.4318481683731079
+            },
+            {
+              "token": " After",
+              "logprob": -2.823490858078003
+            },
+            {
+              "token": " school",
+              "logprob": -2.71643328666687
+            },
+            {
+              "token": " they",
+              "logprob": -3.468529224395752
+            },
+            {
+              "token": " talked",
+              "logprob": -2.6464035511016846
+            },
+            {
+              "token": " and",
+              "logprob": -3.163944721221924
+            },
+            {
+              "token": " laughed",
+              "logprob": -3.1422770023345947
+            },
+            {
+              "token": " about",
+              "logprob": -1.2891544103622437
+            },
+            {
+              "token": " the",
+              "logprob": -1.7048866748809814
+            },
+            {
+              "token": " note",
+              "logprob": -0.27312955260276794
+            },
+            {
+              "token": ".",
+              "logprob": -0.46479862928390503
+            },
+            {
+              "token": " The",
+              "logprob": -3.1233720779418945
+            },
+            {
+              "token": " note",
+              "logprob": -0.41210484504699707
+            },
+            {
+              "token": " helped",
+              "logprob": -3.2247848510742188
+            },
+            {
+              "token": " Charlotte",
+              "logprob": -1.8668328523635864
+            },
+            {
+              "token": " see",
+              "logprob": -3.9993057250976562
+            },
+            {
+              "token": " her",
+              "logprob": -2.067192554473877
+            },
+            {
+              "token": " friendship",
+              "logprob": -1.79595947265625
+            },
+            {
+              "token": " with",
+              "logprob": -0.4260328412055969
+            },
+            {
+              "token": " Olivia",
+              "logprob": -0.027933429926633835
+            },
+            {
+              "token": ".",
+              "logprob": -0.5489436984062195
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.3922488689422607
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The message that Olivia wrote was \"You are my best friend\".",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.2335522174835205
+            },
+            {
+              "token": " message",
+              "logprob": -0.9292394518852234
+            },
+            {
+              "token": " that",
+              "logprob": -2.225916862487793
+            },
+            {
+              "token": " Olivia",
+              "logprob": -0.31219279766082764
+            },
+            {
+              "token": " wrote",
+              "logprob": -0.22400633990764618
+            },
+            {
+              "token": " was",
+              "logprob": -0.39554551243782043
+            },
+            {
+              "token": " \"",
+              "logprob": -1.959458351135254
+            },
+            {
+              "token": "You",
+              "logprob": -0.21842452883720398
+            },
+            {
+              "token": " are",
+              "logprob": -0.045088693499565125
+            },
+            {
+              "token": " my",
+              "logprob": -0.022819891571998596
+            },
+            {
+              "token": " best",
+              "logprob": -0.03512537479400635
+            },
+            {
+              "token": " friend",
+              "logprob": -0.024362005293369293
+            },
+            {
+              "token": "\".",
+              "logprob": -2.143087387084961
+            },
+            {
+              "token": " Q",
+              "logprob": -1.6911362409591675
+            },
+            {
+              "token": ":",
+              "logprob": -0.02244497649371624
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "\"You are my best friend.\"",
+          "token_data": [
+            {
+              "token": " \"",
+              "logprob": -2.416714906692505
+            },
+            {
+              "token": "You",
+              "logprob": -0.22080889344215393
+            },
+            {
+              "token": " are",
+              "logprob": -0.06862816214561462
+            },
+            {
+              "token": " my",
+              "logprob": -0.03110787272453308
+            },
+            {
+              "token": " best",
+              "logprob": -0.07842054218053818
+            },
+            {
+              "token": " friend",
+              "logprob": -0.037259478121995926
+            },
+            {
+              "token": ".\"",
+              "logprob": -0.7994810342788696
+            },
+            {
+              "token": " Q",
+              "logprob": -0.968869149684906
+            },
+            {
+              "token": ":",
+              "logprob": -0.026655230671167374
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A message that she loved her friend.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.591874361038208
+            },
+            {
+              "token": " message",
+              "logprob": -1.9904648065567017
+            },
+            {
+              "token": " that",
+              "logprob": -2.341550350189209
+            },
+            {
+              "token": " she",
+              "logprob": -1.7915115356445312
+            },
+            {
+              "token": " loved",
+              "logprob": -1.2356538772583008
+            },
+            {
+              "token": " her",
+              "logprob": -2.0778326988220215
+            },
+            {
+              "token": " friend",
+              "logprob": -1.079414963722229
+            },
+            {
+              "token": ".",
+              "logprob": -0.618022620677948
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -4.25208854675293
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "\"You are my best friend.\"",
+          "token_data": [
+            {
+              "token": " \"",
+              "logprob": -2.416714906692505
+            },
+            {
+              "token": "You",
+              "logprob": -0.22080889344215393
+            },
+            {
+              "token": " are",
+              "logprob": -0.06862816214561462
+            },
+            {
+              "token": " my",
+              "logprob": -0.03110787272453308
+            },
+            {
+              "token": " best",
+              "logprob": -0.07842054218053818
+            },
+            {
+              "token": " friend",
+              "logprob": -0.037259478121995926
+            },
+            {
+              "token": ".\"",
+              "logprob": -0.7994810342788696
+            },
+            {
+              "token": " ",
+              "logprob": -3.1903085708618164
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "She wrote a secret note and hid it in her backpack.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.18568229675293
+            },
+            {
+              "token": " She",
+              "logprob": -4.516719818115234
+            },
+            {
+              "token": " wrote",
+              "logprob": -0.7172280550003052
+            },
+            {
+              "token": " a",
+              "logprob": -0.8944286108016968
+            },
+            {
+              "token": " secret",
+              "logprob": -0.9378052353858948
+            },
+            {
+              "token": " note",
+              "logprob": -0.23567625880241394
+            },
+            {
+              "token": " and",
+              "logprob": -2.8614163398742676
+            },
+            {
+              "token": " hid",
+              "logprob": -0.3044913411140442
+            },
+            {
+              "token": " it",
+              "logprob": -0.03189336508512497
+            },
+            {
+              "token": " in",
+              "logprob": -0.04284767806529999
+            },
+            {
+              "token": " her",
+              "logprob": -0.1063985750079155
+            },
+            {
+              "token": " backpack",
+              "logprob": -0.1154838502407074
+            },
+            {
+              "token": ".",
+              "logprob": -0.3363010883331299
+            },
+            {
+              "token": " \n",
+              "logprob": -1.5944184064865112
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Olivia wrote, “You are my best friend”.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.18568229675293
+            },
+            {
+              "token": " Olivia",
+              "logprob": -3.2237653732299805
+            },
+            {
+              "token": " wrote",
+              "logprob": -0.7128763794898987
+            },
+            {
+              "token": ",",
+              "logprob": -1.667375922203064
+            },
+            {
+              "token": " “",
+              "logprob": -2.8674137592315674
+            },
+            {
+              "token": "You",
+              "logprob": -0.22557085752487183
+            },
+            {
+              "token": " are",
+              "logprob": -0.05904948338866234
+            },
+            {
+              "token": " my",
+              "logprob": -0.04953756928443909
+            },
+            {
+              "token": " best",
+              "logprob": -0.09658773243427277
+            },
+            {
+              "token": " friend",
+              "logprob": -0.0351092591881752
+            },
+            {
+              "token": "”.",
+              "logprob": -2.9366238117218018
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.4186925888061523
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "A secret note.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.591874361038208
+            },
+            {
+              "token": " secret",
+              "logprob": -1.15386164188385
+            },
+            {
+              "token": " note",
+              "logprob": -0.3478519916534424
+            },
+            {
+              "token": ".",
+              "logprob": -0.7563143968582153
+            },
+            {
+              "token": " \n",
+              "logprob": -1.5037808418273926
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

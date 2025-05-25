@@ -1,0 +1,847 @@
+{
+  "story": "Oliver and Henry were best friends. One hot summer day, they decided to play soccer in the park. The sun was shining brightly, and they ran around laughing. After a while, Oliver felt very thirsty. He stopped playing and went to his bag. He took out a bottle of water and drank it quickly. Oliver drank cold water and felt much better. Henry kept playing and kicked the ball high into the air. Oliver cheered for him and then joined the game again. They played until the sky turned orange. When it was time to go home, they promised to meet again the next day. Both boys were happy and tired. They waved goodbye and walked to their houses. Oliver thought about how fun the day had been. He couldn’t wait to see Henry again. The end.",
+  "characters": [
+    {
+      "question": "What temperature was Oliver's drink?",
+      "character": "Oliver",
+      "story": "Oliver and Henry were best friends. One hot summer day, they decided to play soccer in the park. The sun was shining brightly, and they ran around laughing. After a while, Oliver felt very thirsty. He stopped playing and went to his bag. He took out a bottle of water and drank it quickly. Oliver drank cold water and felt much better. Henry kept playing and kicked the ball high into the air. Oliver cheered for him and then joined the game again. They played until the sky turned orange. When it was time to go home, they promised to meet again the next day. Both boys were happy and tired. They waved goodbye and walked to their houses. Oliver thought about how fun the day had been. He couldn’t wait to see Henry again. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Answer: What temperature was Oliver's drink? a hot drink",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.182323455810547
+            },
+            {
+              "token": ":",
+              "logprob": -1.657654047012329
+            },
+            {
+              "token": " What",
+              "logprob": -4.494472503662109
+            },
+            {
+              "token": " temperature",
+              "logprob": -0.26219773292541504
+            },
+            {
+              "token": " was",
+              "logprob": -0.33696624636650085
+            },
+            {
+              "token": " Oliver",
+              "logprob": -0.06412754952907562
+            },
+            {
+              "token": "'s",
+              "logprob": -0.08949651569128036
+            },
+            {
+              "token": " drink",
+              "logprob": -0.08721408993005753
+            },
+            {
+              "token": "?",
+              "logprob": -0.21089054644107819
+            },
+            {
+              "token": " a",
+              "logprob": -3.678208112716675
+            },
+            {
+              "token": " hot",
+              "logprob": -4.19273567199707
+            },
+            {
+              "token": " drink",
+              "logprob": -1.32689368724823
+            },
+            {
+              "token": " Q",
+              "logprob": -3.3923864364624023
+            },
+            {
+              "token": ":",
+              "logprob": -0.07138089835643768
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Hot!  B: Cold.",
+          "token_data": [
+            {
+              "token": " Hot",
+              "logprob": -3.1079261302948
+            },
+            {
+              "token": "!",
+              "logprob": -3.43377685546875
+            },
+            {
+              "token": " ",
+              "logprob": -3.157410144805908
+            },
+            {
+              "token": " B",
+              "logprob": -3.213728427886963
+            },
+            {
+              "token": ":",
+              "logprob": -0.04276521876454353
+            },
+            {
+              "token": " Cold",
+              "logprob": -0.6528266668319702
+            },
+            {
+              "token": ".",
+              "logprob": -2.3650717735290527
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.2756423950195312
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "He felt much better!",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -4.730151176452637
+            },
+            {
+              "token": " felt",
+              "logprob": -2.4020309448242188
+            },
+            {
+              "token": " much",
+              "logprob": -0.5647944808006287
+            },
+            {
+              "token": " better",
+              "logprob": -0.10552952438592911
+            },
+            {
+              "token": "!",
+              "logprob": -3.1393303871154785
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "A B C D: a c d",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -4.0916337966918945
+            },
+            {
+              "token": " B",
+              "logprob": -4.889029502868652
+            },
+            {
+              "token": " C",
+              "logprob": -0.19602017104625702
+            },
+            {
+              "token": " D",
+              "logprob": -0.263731986284256
+            },
+            {
+              "token": ":",
+              "logprob": -4.437023162841797
+            },
+            {
+              "token": " a",
+              "logprob": -4.959256172180176
+            },
+            {
+              "token": " c",
+              "logprob": -4.237358093261719
+            },
+            {
+              "token": " d",
+              "logprob": -1.441830039024353
+            },
+            {
+              "token": "\n",
+              "logprob": -2.427318572998047
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Hot",
+          "token_data": [
+            {
+              "token": " Hot",
+              "logprob": -3.1079261302948
+            },
+            {
+              "token": " Q",
+              "logprob": -2.053624153137207
+            },
+            {
+              "token": ":",
+              "logprob": -0.025184309110045433
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "80 ° C",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -2.7780139446258545
+            },
+            {
+              "token": "80",
+              "logprob": -4.429863929748535
+            },
+            {
+              "token": " °",
+              "logprob": -2.8630433082580566
+            },
+            {
+              "token": " C",
+              "logprob": -2.7450313568115234
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.140054702758789
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The drink felt better than the warm temperature.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.3251311779022217
+            },
+            {
+              "token": " drink",
+              "logprob": -2.2248587608337402
+            },
+            {
+              "token": " felt",
+              "logprob": -3.1489815711975098
+            },
+            {
+              "token": " better",
+              "logprob": -2.529021739959717
+            },
+            {
+              "token": " than",
+              "logprob": -1.1897014379501343
+            },
+            {
+              "token": " the",
+              "logprob": -2.1329410076141357
+            },
+            {
+              "token": " warm",
+              "logprob": -3.9320902824401855
+            },
+            {
+              "token": " temperature",
+              "logprob": -0.7388899922370911
+            },
+            {
+              "token": ".",
+              "logprob": -1.2611258029937744
+            },
+            {
+              "token": " \n",
+              "logprob": -1.7173947095870972
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.0054872035980225
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It was warm.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.2602832317352295
+            },
+            {
+              "token": " was",
+              "logprob": -0.19385026395320892
+            },
+            {
+              "token": " warm",
+              "logprob": -3.4426212310791016
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.0136685371398926
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.0054872035980225
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What temperature was Henry's drink?",
+      "character": "Henry",
+      "story": "Oliver and Henry were best friends. One hot summer day, they decided to play soccer in the park. The sun was shining brightly, and they ran around laughing. After a while, Oliver felt very thirsty. He stopped playing and went to his bag. He took out a bottle of water and drank it quickly. Oliver drank cold water and felt much better. Henry kept playing and kicked the ball high into the air. Oliver cheered for him and then joined the game again. They played until the sky turned orange. When it was time to go home, they promised to meet again the next day. Both boys were happy and tired. They waved goodbye and walked to their houses. Oliver thought about how fun the day had been. He couldn’t wait to see Henry again. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "How long does it take the drink to be ready?",
+          "token_data": [
+            {
+              "token": " How",
+              "logprob": -3.899204730987549
+            },
+            {
+              "token": " long",
+              "logprob": -3.877074718475342
+            },
+            {
+              "token": " does",
+              "logprob": -2.8846473693847656
+            },
+            {
+              "token": " it",
+              "logprob": -0.2871505320072174
+            },
+            {
+              "token": " take",
+              "logprob": -0.06423912942409515
+            },
+            {
+              "token": " the",
+              "logprob": -3.6488280296325684
+            },
+            {
+              "token": " drink",
+              "logprob": -3.155313730239868
+            },
+            {
+              "token": " to",
+              "logprob": -0.41393235325813293
+            },
+            {
+              "token": " be",
+              "logprob": -2.427213668823242
+            },
+            {
+              "token": " ready",
+              "logprob": -3.769649028778076
+            },
+            {
+              "token": "?",
+              "logprob": -0.29981502890586853
+            },
+            {
+              "token": " \n",
+              "logprob": -2.2222256660461426
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Henry drank a hot drink. Oliver drank cold water and felt much better. (Q) The temperature of his water was low. (Q) It was about 40°C in the orange sky. (Q) He poured himself an extra bottle of cold water.(R)",
+          "token_data": [
+            {
+              "token": " Henry",
+              "logprob": -1.8977457284927368
+            },
+            {
+              "token": " drank",
+              "logprob": -1.97975754737854
+            },
+            {
+              "token": " a",
+              "logprob": -0.916244626045227
+            },
+            {
+              "token": " hot",
+              "logprob": -2.4804203510284424
+            },
+            {
+              "token": " drink",
+              "logprob": -0.29783281683921814
+            },
+            {
+              "token": ".",
+              "logprob": -0.6461570858955383
+            },
+            {
+              "token": " Oliver",
+              "logprob": -2.523560047149658
+            },
+            {
+              "token": " drank",
+              "logprob": -1.9679659605026245
+            },
+            {
+              "token": " cold",
+              "logprob": -0.9380931854248047
+            },
+            {
+              "token": " water",
+              "logprob": -0.024201907217502594
+            },
+            {
+              "token": " and",
+              "logprob": -0.6494218111038208
+            },
+            {
+              "token": " felt",
+              "logprob": -0.02113884687423706
+            },
+            {
+              "token": " much",
+              "logprob": -0.05921892449259758
+            },
+            {
+              "token": " better",
+              "logprob": -0.022785749286413193
+            },
+            {
+              "token": ".",
+              "logprob": -0.18406054377555847
+            },
+            {
+              "token": " (",
+              "logprob": -4.0366950035095215
+            },
+            {
+              "token": "Q",
+              "logprob": -4.62510871887207
+            },
+            {
+              "token": ")",
+              "logprob": -2.138878345489502
+            },
+            {
+              "token": " The",
+              "logprob": -3.9566783905029297
+            },
+            {
+              "token": " temperature",
+              "logprob": -0.9574085474014282
+            },
+            {
+              "token": " of",
+              "logprob": -0.5265056490898132
+            },
+            {
+              "token": " his",
+              "logprob": -2.799130916595459
+            },
+            {
+              "token": " water",
+              "logprob": -1.8014178276062012
+            },
+            {
+              "token": " was",
+              "logprob": -0.4366752505302429
+            },
+            {
+              "token": " low",
+              "logprob": -4.616665363311768
+            },
+            {
+              "token": ".",
+              "logprob": -0.375001460313797
+            },
+            {
+              "token": " (",
+              "logprob": -0.9743803143501282
+            },
+            {
+              "token": "Q",
+              "logprob": -1.465054988861084
+            },
+            {
+              "token": ")",
+              "logprob": -0.10568645596504211
+            },
+            {
+              "token": " It",
+              "logprob": -3.893728733062744
+            },
+            {
+              "token": " was",
+              "logprob": -0.39307403564453125
+            },
+            {
+              "token": " about",
+              "logprob": -4.593268394470215
+            },
+            {
+              "token": " ",
+              "logprob": -1.0184565782546997
+            },
+            {
+              "token": "40",
+              "logprob": -3.028836488723755
+            },
+            {
+              "token": "°C",
+              "logprob": -3.0347511768341064
+            },
+            {
+              "token": " in",
+              "logprob": -5.034030437469482
+            },
+            {
+              "token": " the",
+              "logprob": -1.0432578325271606
+            },
+            {
+              "token": " orange",
+              "logprob": -4.377431392669678
+            },
+            {
+              "token": " sky",
+              "logprob": -0.983904242515564
+            },
+            {
+              "token": ".",
+              "logprob": -0.21263617277145386
+            },
+            {
+              "token": " (",
+              "logprob": -0.39795923233032227
+            },
+            {
+              "token": "Q",
+              "logprob": -0.1472652405500412
+            },
+            {
+              "token": ")",
+              "logprob": -0.09807462990283966
+            },
+            {
+              "token": " He",
+              "logprob": -2.66800856590271
+            },
+            {
+              "token": " poured",
+              "logprob": -5.728318214416504
+            },
+            {
+              "token": " himself",
+              "logprob": -2.306804656982422
+            },
+            {
+              "token": " an",
+              "logprob": -4.200400352478027
+            },
+            {
+              "token": " extra",
+              "logprob": -3.8304507732391357
+            },
+            {
+              "token": " bottle",
+              "logprob": -1.7140604257583618
+            },
+            {
+              "token": " of",
+              "logprob": -0.3164249360561371
+            },
+            {
+              "token": " cold",
+              "logprob": -2.3765954971313477
+            },
+            {
+              "token": " water",
+              "logprob": -0.0987502858042717
+            },
+            {
+              "token": ".(",
+              "logprob": -4.615856647491455
+            },
+            {
+              "token": "R",
+              "logprob": -5.191124439239502
+            },
+            {
+              "token": ")\n",
+              "logprob": -2.9358150959014893
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "How well was the orange sky?",
+          "token_data": [
+            {
+              "token": " How",
+              "logprob": -3.8553662300109863
+            },
+            {
+              "token": " well",
+              "logprob": -3.92398738861084
+            },
+            {
+              "token": " was",
+              "logprob": -2.4185051918029785
+            },
+            {
+              "token": " the",
+              "logprob": -3.186516761779785
+            },
+            {
+              "token": " orange",
+              "logprob": -3.217951774597168
+            },
+            {
+              "token": " sky",
+              "logprob": -4.01976203918457
+            },
+            {
+              "token": "?\n",
+              "logprob": -3.2380926609039307
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.1545605659484863
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "It was very hot.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.4019951820373535
+            },
+            {
+              "token": " was",
+              "logprob": -0.2776827812194824
+            },
+            {
+              "token": " very",
+              "logprob": -1.961322546005249
+            },
+            {
+              "token": " hot",
+              "logprob": -0.6920313239097595
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.6628193855285645
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Cold",
+          "token_data": [
+            {
+              "token": " Cold",
+              "logprob": -3.8596091270446777
+            },
+            {
+              "token": "\n",
+              "logprob": -2.6280767917633057
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It was very warm. B: It was cold. C: It was scorching! D: It was quite toasty!",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.4019951820373535
+            },
+            {
+              "token": " was",
+              "logprob": -0.2776827812194824
+            },
+            {
+              "token": " very",
+              "logprob": -1.961322546005249
+            },
+            {
+              "token": " warm",
+              "logprob": -2.6658129692077637
+            },
+            {
+              "token": ".",
+              "logprob": -0.7248913645744324
+            },
+            {
+              "token": " B",
+              "logprob": -3.120333433151245
+            },
+            {
+              "token": ":",
+              "logprob": -0.013439302332699299
+            },
+            {
+              "token": " It",
+              "logprob": -0.2899748384952545
+            },
+            {
+              "token": " was",
+              "logprob": -0.08676845580339432
+            },
+            {
+              "token": " cold",
+              "logprob": -3.223524332046509
+            },
+            {
+              "token": ".",
+              "logprob": -0.17259494960308075
+            },
+            {
+              "token": " C",
+              "logprob": -0.23711365461349487
+            },
+            {
+              "token": ":",
+              "logprob": -0.006092666182667017
+            },
+            {
+              "token": " It",
+              "logprob": -0.10664848238229752
+            },
+            {
+              "token": " was",
+              "logprob": -0.04200183227658272
+            },
+            {
+              "token": " sc",
+              "logprob": -4.356642723083496
+            },
+            {
+              "token": "orch",
+              "logprob": -0.28337982296943665
+            },
+            {
+              "token": "ing",
+              "logprob": -0.0048612020909786224
+            },
+            {
+              "token": "!",
+              "logprob": -3.1999361515045166
+            },
+            {
+              "token": " D",
+              "logprob": -1.206851601600647
+            },
+            {
+              "token": ":",
+              "logprob": -0.021246451884508133
+            },
+            {
+              "token": " It",
+              "logprob": -0.20523831248283386
+            },
+            {
+              "token": " was",
+              "logprob": -0.04839222505688667
+            },
+            {
+              "token": " quite",
+              "logprob": -3.6381282806396484
+            },
+            {
+              "token": " to",
+              "logprob": -2.732205629348755
+            },
+            {
+              "token": "asty",
+              "logprob": -0.031097356230020523
+            },
+            {
+              "token": "!\n\n",
+              "logprob": -2.8004767894744873
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n\n",
+              "logprob": -4.299631595611572
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n\n",
+              "logprob": -4.299631595611572
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "How many degrees was it?",
+          "token_data": [
+            {
+              "token": " How",
+              "logprob": -3.8553662300109863
+            },
+            {
+              "token": " many",
+              "logprob": -1.7243720293045044
+            },
+            {
+              "token": " degrees",
+              "logprob": -2.9123659133911133
+            },
+            {
+              "token": " was",
+              "logprob": -0.9649753570556641
+            },
+            {
+              "token": " it",
+              "logprob": -1.7944872379302979
+            },
+            {
+              "token": "?",
+              "logprob": -0.3583207130432129
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

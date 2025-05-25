@@ -1,0 +1,1255 @@
+{
+  "story": "Sophia and Jamie were best friends who lived next door to each other. One sunny morning, Sophia decided to plant flowers in her garden. She loved roses because they smelled so good. Sophia planted a fragrant rose near the fence where Jamie could see it from his window. Jamie was busy playing with his toy cars and didn’t notice at first. Sophia watered the rose every day and watched it grow. She hoped Jamie would see how pretty it was. One afternoon, Jamie finally looked out the window and saw the rose. “That’s a nice flower,” he said. Sophia smiled and said, “I planted it for you to see.” Jamie grinned and went back to playing with his cars. Sophia was happy her rose made the garden more beautiful. She kept taking care of it, and the rose grew bigger and brighter every day. The two friends continued to enjoy their time together, each doing their own favorite things.",
+  "characters": [
+    {
+      "question": "What smell did the flower Sophia planted have?",
+      "character": "Sophia",
+      "story": "Sophia and Jamie were best friends who lived next door to each other. One sunny morning, Sophia decided to plant flowers in her garden. She loved roses because they smelled so good. Sophia planted a fragrant rose near the fence where Jamie could see it from his window. Jamie was busy playing with his toy cars and didn’t notice at first. Sophia watered the rose every day and watched it grow. She hoped Jamie would see how pretty it was. One afternoon, Jamie finally looked out the window and saw the rose. “That’s a nice flower,” he said. Sophia smiled and said, “I planted it for you to see.” Jamie grinned and went back to playing with his cars. Sophia was happy her rose made the garden more beautiful. She kept taking care of it, and the rose grew bigger and brighter every day. The two friends continued to enjoy their time together, each doing their own favorite things.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The rose that she planted smelled really nice, but it wasn’t just a good smell. She said that roses reminded her of someone very special to her. We know her as Grandma Sophia. Sophia’s mom had given up flowers for when she was playing outside. Grandma Sophia loved roses for many reasons but also because they were the only plant allowed in the family. He taught me how to be patient and work with you and then have fun. What made you want a rose that you planted for Jamie?",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.949118137359619
+            },
+            {
+              "token": " rose",
+              "logprob": -1.267914056777954
+            },
+            {
+              "token": " that",
+              "logprob": -3.4001076221466064
+            },
+            {
+              "token": " she",
+              "logprob": -2.6661436557769775
+            },
+            {
+              "token": " planted",
+              "logprob": -0.12017971277236938
+            },
+            {
+              "token": " smelled",
+              "logprob": -0.7311595678329468
+            },
+            {
+              "token": " really",
+              "logprob": -2.6902403831481934
+            },
+            {
+              "token": " nice",
+              "logprob": -1.5505212545394897
+            },
+            {
+              "token": ",",
+              "logprob": -2.4958200454711914
+            },
+            {
+              "token": " but",
+              "logprob": -2.4895944595336914
+            },
+            {
+              "token": " it",
+              "logprob": -1.6957457065582275
+            },
+            {
+              "token": " wasn",
+              "logprob": -3.1035850048065186
+            },
+            {
+              "token": "’t",
+              "logprob": -1.005275845527649
+            },
+            {
+              "token": " just",
+              "logprob": -3.8732552528381348
+            },
+            {
+              "token": " a",
+              "logprob": -2.0825719833374023
+            },
+            {
+              "token": " good",
+              "logprob": -3.437044143676758
+            },
+            {
+              "token": " smell",
+              "logprob": -0.1454291045665741
+            },
+            {
+              "token": ".",
+              "logprob": -1.1860520839691162
+            },
+            {
+              "token": " She",
+              "logprob": -3.2740085124969482
+            },
+            {
+              "token": " said",
+              "logprob": -3.026437759399414
+            },
+            {
+              "token": " that",
+              "logprob": -1.2385200262069702
+            },
+            {
+              "token": " roses",
+              "logprob": -2.583298921585083
+            },
+            {
+              "token": " reminded",
+              "logprob": -3.9176478385925293
+            },
+            {
+              "token": " her",
+              "logprob": -0.01772363670170307
+            },
+            {
+              "token": " of",
+              "logprob": -0.04289644956588745
+            },
+            {
+              "token": " someone",
+              "logprob": -3.9679229259490967
+            },
+            {
+              "token": " very",
+              "logprob": -3.3049964904785156
+            },
+            {
+              "token": " special",
+              "logprob": -0.2435048371553421
+            },
+            {
+              "token": " to",
+              "logprob": -1.2845758199691772
+            },
+            {
+              "token": " her",
+              "logprob": -0.0052801198326051235
+            },
+            {
+              "token": ".",
+              "logprob": -0.5109566450119019
+            },
+            {
+              "token": " We",
+              "logprob": -4.504945755004883
+            },
+            {
+              "token": " know",
+              "logprob": -2.2724452018737793
+            },
+            {
+              "token": " her",
+              "logprob": -3.1168413162231445
+            },
+            {
+              "token": " as",
+              "logprob": -2.2607784271240234
+            },
+            {
+              "token": " Grandma",
+              "logprob": -3.930002212524414
+            },
+            {
+              "token": " Sophia",
+              "logprob": -0.5953242778778076
+            },
+            {
+              "token": ".",
+              "logprob": -0.8721762895584106
+            },
+            {
+              "token": " Sophia",
+              "logprob": -3.932931900024414
+            },
+            {
+              "token": "’s",
+              "logprob": -2.2188704013824463
+            },
+            {
+              "token": " mom",
+              "logprob": -2.861515760421753
+            },
+            {
+              "token": " had",
+              "logprob": -2.7491044998168945
+            },
+            {
+              "token": " given",
+              "logprob": -3.9459831714630127
+            },
+            {
+              "token": " up",
+              "logprob": -4.458487033843994
+            },
+            {
+              "token": " flowers",
+              "logprob": -4.339391708374023
+            },
+            {
+              "token": " for",
+              "logprob": -2.3089370727539062
+            },
+            {
+              "token": " when",
+              "logprob": -5.812107086181641
+            },
+            {
+              "token": " she",
+              "logprob": -0.4807961583137512
+            },
+            {
+              "token": " was",
+              "logprob": -0.8721491694450378
+            },
+            {
+              "token": " playing",
+              "logprob": -4.990903854370117
+            },
+            {
+              "token": " outside",
+              "logprob": -2.0370144844055176
+            },
+            {
+              "token": ".",
+              "logprob": -0.9859326481819153
+            },
+            {
+              "token": " Grandma",
+              "logprob": -1.5460286140441895
+            },
+            {
+              "token": " Sophia",
+              "logprob": -0.05429106205701828
+            },
+            {
+              "token": " loved",
+              "logprob": -2.5837361812591553
+            },
+            {
+              "token": " roses",
+              "logprob": -2.0262579917907715
+            },
+            {
+              "token": " for",
+              "logprob": -3.376352310180664
+            },
+            {
+              "token": " many",
+              "logprob": -2.9058780670166016
+            },
+            {
+              "token": " reasons",
+              "logprob": -0.18726122379302979
+            },
+            {
+              "token": " but",
+              "logprob": -4.062770366668701
+            },
+            {
+              "token": " also",
+              "logprob": -4.037240982055664
+            },
+            {
+              "token": " because",
+              "logprob": -0.3598872721195221
+            },
+            {
+              "token": " they",
+              "logprob": -0.9486719369888306
+            },
+            {
+              "token": " were",
+              "logprob": -1.9750292301177979
+            },
+            {
+              "token": " the",
+              "logprob": -3.6420414447784424
+            },
+            {
+              "token": " only",
+              "logprob": -2.595393419265747
+            },
+            {
+              "token": " plant",
+              "logprob": -3.8310604095458984
+            },
+            {
+              "token": " allowed",
+              "logprob": -3.599076747894287
+            },
+            {
+              "token": " in",
+              "logprob": -0.8225144147872925
+            },
+            {
+              "token": " the",
+              "logprob": -1.5157345533370972
+            },
+            {
+              "token": " family",
+              "logprob": -3.7398722171783447
+            },
+            {
+              "token": ".",
+              "logprob": -0.7060133814811707
+            },
+            {
+              "token": " He",
+              "logprob": -4.615899562835693
+            },
+            {
+              "token": " taught",
+              "logprob": -4.694664001464844
+            },
+            {
+              "token": " me",
+              "logprob": -4.1843438148498535
+            },
+            {
+              "token": " how",
+              "logprob": -1.9008314609527588
+            },
+            {
+              "token": " to",
+              "logprob": -0.13129642605781555
+            },
+            {
+              "token": " be",
+              "logprob": -1.8008157014846802
+            },
+            {
+              "token": " patient",
+              "logprob": -2.7888870239257812
+            },
+            {
+              "token": " and",
+              "logprob": -0.7872214913368225
+            },
+            {
+              "token": " work",
+              "logprob": -4.448719024658203
+            },
+            {
+              "token": " with",
+              "logprob": -2.1108179092407227
+            },
+            {
+              "token": " you",
+              "logprob": -3.4602932929992676
+            },
+            {
+              "token": " and",
+              "logprob": -2.857922077178955
+            },
+            {
+              "token": " then",
+              "logprob": -4.749668121337891
+            },
+            {
+              "token": " have",
+              "logprob": -4.580267906188965
+            },
+            {
+              "token": " fun",
+              "logprob": -1.1354745626449585
+            },
+            {
+              "token": ".",
+              "logprob": -0.9324687123298645
+            },
+            {
+              "token": " What",
+              "logprob": -4.80678653717041
+            },
+            {
+              "token": " made",
+              "logprob": -3.9811949729919434
+            },
+            {
+              "token": " you",
+              "logprob": -1.897070050239563
+            },
+            {
+              "token": " want",
+              "logprob": -1.683384895324707
+            },
+            {
+              "token": " a",
+              "logprob": -4.309316635131836
+            },
+            {
+              "token": " rose",
+              "logprob": -1.5644934177398682
+            },
+            {
+              "token": " that",
+              "logprob": -3.3389084339141846
+            },
+            {
+              "token": " you",
+              "logprob": -1.0172964334487915
+            },
+            {
+              "token": " planted",
+              "logprob": -2.6100823879241943
+            },
+            {
+              "token": " for",
+              "logprob": -0.7416157126426697
+            },
+            {
+              "token": " Jamie",
+              "logprob": -1.553849220275879
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -3.4655656814575195
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Roses.",
+          "token_data": [
+            {
+              "token": " Roses",
+              "logprob": -1.4201220273971558
+            },
+            {
+              "token": ".",
+              "logprob": -2.644198417663574
+            },
+            {
+              "token": " \n",
+              "logprob": -1.7897653579711914
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Roses smell so good because of this reason. Rose smells like the number 4 to people with asthma, diabetes, and Alzheimer's Disease.",
+          "token_data": [
+            {
+              "token": " Roses",
+              "logprob": -1.4201220273971558
+            },
+            {
+              "token": " smell",
+              "logprob": -0.8062791228294373
+            },
+            {
+              "token": " so",
+              "logprob": -1.042759656906128
+            },
+            {
+              "token": " good",
+              "logprob": -0.08791885524988174
+            },
+            {
+              "token": " because",
+              "logprob": -2.7085161209106445
+            },
+            {
+              "token": " of",
+              "logprob": -1.7245893478393555
+            },
+            {
+              "token": " this",
+              "logprob": -4.058066368103027
+            },
+            {
+              "token": " reason",
+              "logprob": -2.3339874744415283
+            },
+            {
+              "token": ".",
+              "logprob": -0.7033559679985046
+            },
+            {
+              "token": " Rose",
+              "logprob": -4.143681049346924
+            },
+            {
+              "token": " smells",
+              "logprob": -2.0163869857788086
+            },
+            {
+              "token": " like",
+              "logprob": -3.2809066772460938
+            },
+            {
+              "token": " the",
+              "logprob": -2.7539758682250977
+            },
+            {
+              "token": " number",
+              "logprob": -5.394925117492676
+            },
+            {
+              "token": " ",
+              "logprob": -0.36663204431533813
+            },
+            {
+              "token": "4",
+              "logprob": -2.49145770072937
+            },
+            {
+              "token": " to",
+              "logprob": -4.822535514831543
+            },
+            {
+              "token": " people",
+              "logprob": -4.373534202575684
+            },
+            {
+              "token": " with",
+              "logprob": -1.2125606536865234
+            },
+            {
+              "token": " asthma",
+              "logprob": -4.024259090423584
+            },
+            {
+              "token": ",",
+              "logprob": -2.7280473709106445
+            },
+            {
+              "token": " diabetes",
+              "logprob": -4.289438247680664
+            },
+            {
+              "token": ",",
+              "logprob": -0.22387464344501495
+            },
+            {
+              "token": " and",
+              "logprob": -1.048324704170227
+            },
+            {
+              "token": " Alzheimer",
+              "logprob": -3.3319478034973145
+            },
+            {
+              "token": "'s",
+              "logprob": -0.6948558688163757
+            },
+            {
+              "token": " Disease",
+              "logprob": -3.6565113067626953
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.0436978340148926
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "What smell did the flower Sophia planted have?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.875032424926758
+            },
+            {
+              "token": " smell",
+              "logprob": -0.5782340168952942
+            },
+            {
+              "token": " did",
+              "logprob": -0.15915846824645996
+            },
+            {
+              "token": " the",
+              "logprob": -0.16450485587120056
+            },
+            {
+              "token": " flower",
+              "logprob": -0.1307516247034073
+            },
+            {
+              "token": " Sophia",
+              "logprob": -0.2810920774936676
+            },
+            {
+              "token": " planted",
+              "logprob": -0.07275786250829697
+            },
+            {
+              "token": " have",
+              "logprob": -0.06688755005598068
+            },
+            {
+              "token": "?",
+              "logprob": -0.36877503991127014
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.944375514984131
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "What did you notice when Jamie first saw the flower? B: When he got back, what happened next? C: Which part of her body is smiling?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.875032424926758
+            },
+            {
+              "token": " did",
+              "logprob": -2.7066729068756104
+            },
+            {
+              "token": " you",
+              "logprob": -1.54496431350708
+            },
+            {
+              "token": " notice",
+              "logprob": -1.363825798034668
+            },
+            {
+              "token": " when",
+              "logprob": -2.0596656799316406
+            },
+            {
+              "token": " Jamie",
+              "logprob": -3.369535446166992
+            },
+            {
+              "token": " first",
+              "logprob": -2.542759418487549
+            },
+            {
+              "token": " saw",
+              "logprob": -1.4408369064331055
+            },
+            {
+              "token": " the",
+              "logprob": -0.19141098856925964
+            },
+            {
+              "token": " flower",
+              "logprob": -0.8371644020080566
+            },
+            {
+              "token": "?",
+              "logprob": -0.28247591853141785
+            },
+            {
+              "token": " B",
+              "logprob": -2.968538761138916
+            },
+            {
+              "token": ":",
+              "logprob": -0.018455220386385918
+            },
+            {
+              "token": " When",
+              "logprob": -3.816969871520996
+            },
+            {
+              "token": " he",
+              "logprob": -3.6208996772766113
+            },
+            {
+              "token": " got",
+              "logprob": -4.524404048919678
+            },
+            {
+              "token": " back",
+              "logprob": -2.208484649658203
+            },
+            {
+              "token": ",",
+              "logprob": -3.043790578842163
+            },
+            {
+              "token": " what",
+              "logprob": -1.0989363193511963
+            },
+            {
+              "token": " happened",
+              "logprob": -3.277261257171631
+            },
+            {
+              "token": " next",
+              "logprob": -0.7748057842254639
+            },
+            {
+              "token": "?",
+              "logprob": -0.21780593693256378
+            },
+            {
+              "token": " C",
+              "logprob": -0.6422478556632996
+            },
+            {
+              "token": ":",
+              "logprob": -0.01067015714943409
+            },
+            {
+              "token": " Which",
+              "logprob": -3.211627244949341
+            },
+            {
+              "token": " part",
+              "logprob": -2.5486364364624023
+            },
+            {
+              "token": " of",
+              "logprob": -0.23043842613697052
+            },
+            {
+              "token": " her",
+              "logprob": -3.9135677814483643
+            },
+            {
+              "token": " body",
+              "logprob": -4.104907989501953
+            },
+            {
+              "token": " is",
+              "logprob": -3.752955675125122
+            },
+            {
+              "token": " smiling",
+              "logprob": -4.033412933349609
+            },
+            {
+              "token": "?\n",
+              "logprob": -4.371026039123535
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "What did the rose smell of?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.875032424926758
+            },
+            {
+              "token": " did",
+              "logprob": -2.7066729068756104
+            },
+            {
+              "token": " the",
+              "logprob": -0.8178220391273499
+            },
+            {
+              "token": " rose",
+              "logprob": -2.077038288116455
+            },
+            {
+              "token": " smell",
+              "logprob": -0.4271998405456543
+            },
+            {
+              "token": " of",
+              "logprob": -3.1372523307800293
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.4330031871795654
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It was a good scent of roses.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.4560537338256836
+            },
+            {
+              "token": " was",
+              "logprob": -2.32307767868042
+            },
+            {
+              "token": " a",
+              "logprob": -0.9756609201431274
+            },
+            {
+              "token": " good",
+              "logprob": -3.982485771179199
+            },
+            {
+              "token": " scent",
+              "logprob": -3.536893844604492
+            },
+            {
+              "token": " of",
+              "logprob": -1.386995792388916
+            },
+            {
+              "token": " roses",
+              "logprob": -0.4100976884365082
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.7390754222869873
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "What smell did the flower Sophia planted have?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.875032424926758
+            },
+            {
+              "token": " smell",
+              "logprob": -0.5782340168952942
+            },
+            {
+              "token": " did",
+              "logprob": -0.15915846824645996
+            },
+            {
+              "token": " the",
+              "logprob": -0.16450485587120056
+            },
+            {
+              "token": " flower",
+              "logprob": -0.1307516247034073
+            },
+            {
+              "token": " Sophia",
+              "logprob": -0.2810920774936676
+            },
+            {
+              "token": " planted",
+              "logprob": -0.07275786250829697
+            },
+            {
+              "token": " have",
+              "logprob": -0.06688755005598068
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.190373182296753
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "roses",
+          "token_data": [
+            {
+              "token": " roses",
+              "logprob": -2.464165687561035
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.608214378356934
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The answer is that it smells just like the scent of the flower. It can help us to know what that means.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.0028724670410156
+            },
+            {
+              "token": " answer",
+              "logprob": -2.399925947189331
+            },
+            {
+              "token": " is",
+              "logprob": -1.0052268505096436
+            },
+            {
+              "token": " that",
+              "logprob": -3.4513349533081055
+            },
+            {
+              "token": " it",
+              "logprob": -1.6486835479736328
+            },
+            {
+              "token": " smells",
+              "logprob": -3.0457630157470703
+            },
+            {
+              "token": " just",
+              "logprob": -4.343812465667725
+            },
+            {
+              "token": " like",
+              "logprob": -0.39439740777015686
+            },
+            {
+              "token": " the",
+              "logprob": -2.3074212074279785
+            },
+            {
+              "token": " scent",
+              "logprob": -4.400633335113525
+            },
+            {
+              "token": " of",
+              "logprob": -0.39392879605293274
+            },
+            {
+              "token": " the",
+              "logprob": -2.5184872150421143
+            },
+            {
+              "token": " flower",
+              "logprob": -2.193551540374756
+            },
+            {
+              "token": ".",
+              "logprob": -2.265291452407837
+            },
+            {
+              "token": " It",
+              "logprob": -3.0482358932495117
+            },
+            {
+              "token": " can",
+              "logprob": -4.200021743774414
+            },
+            {
+              "token": " help",
+              "logprob": -3.6552467346191406
+            },
+            {
+              "token": " us",
+              "logprob": -3.2037198543548584
+            },
+            {
+              "token": " to",
+              "logprob": -1.603044033050537
+            },
+            {
+              "token": " know",
+              "logprob": -2.767791509628296
+            },
+            {
+              "token": " what",
+              "logprob": -1.377991795539856
+            },
+            {
+              "token": " that",
+              "logprob": -3.4821231365203857
+            },
+            {
+              "token": " means",
+              "logprob": -3.2053513526916504
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.2962074279785156
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What smell did the flower Jamie planted have?",
+      "character": "Jamie",
+      "story": "Sophia and Jamie were best friends who lived next door to each other. One sunny morning, Sophia decided to plant flowers in her garden. She loved roses because they smelled so good. Sophia planted a fragrant rose near the fence where Jamie could see it from his window. Jamie was busy playing with his toy cars and didn’t notice at first. Sophia watered the rose every day and watched it grow. She hoped Jamie would see how pretty it was. One afternoon, Jamie finally looked out the window and saw the rose. “That’s a nice flower,” he said. Sophia smiled and said, “I planted it for you to see.” Jamie grinned and went back to playing with his cars. Sophia was happy her rose made the garden more beautiful. She kept taking care of it, and the rose grew bigger and brighter every day. The two friends continued to enjoy their time together, each doing their own favorite things.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Answer: roses",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.674848556518555
+            },
+            {
+              "token": ":",
+              "logprob": -1.527207374572754
+            },
+            {
+              "token": " roses",
+              "logprob": -3.0094168186187744
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.493683338165283
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Rosa roseas",
+          "token_data": [
+            {
+              "token": " Rosa",
+              "logprob": -4.938399314880371
+            },
+            {
+              "token": " rose",
+              "logprob": -4.868012428283691
+            },
+            {
+              "token": "as",
+              "logprob": -2.3093111515045166
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.3919496536254883
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.287537574768066
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "rose",
+          "token_data": [
+            {
+              "token": " rose",
+              "logprob": -3.153773307800293
+            },
+            {
+              "token": "\n",
+              "logprob": -1.7194738388061523
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "the roses smelled.",
+          "token_data": [
+            {
+              "token": " the",
+              "logprob": -4.8716325759887695
+            },
+            {
+              "token": " roses",
+              "logprob": -3.9687070846557617
+            },
+            {
+              "token": " smelled",
+              "logprob": -2.033220052719116
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.4332878589630127
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The scent of roses",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.137934684753418
+            },
+            {
+              "token": " scent",
+              "logprob": -3.481682538986206
+            },
+            {
+              "token": " of",
+              "logprob": -0.2650468647480011
+            },
+            {
+              "token": " roses",
+              "logprob": -1.1123828887939453
+            },
+            {
+              "token": "\n",
+              "logprob": -3.5471558570861816
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "That answer should have been \"perfumed,\" for the roses you put in there are very perfume.",
+          "token_data": [
+            {
+              "token": " That",
+              "logprob": -4.685445785522461
+            },
+            {
+              "token": " answer",
+              "logprob": -3.7278640270233154
+            },
+            {
+              "token": " should",
+              "logprob": -2.5738682746887207
+            },
+            {
+              "token": " have",
+              "logprob": -1.8044748306274414
+            },
+            {
+              "token": " been",
+              "logprob": -0.9181481003761292
+            },
+            {
+              "token": " \"",
+              "logprob": -2.8075356483459473
+            },
+            {
+              "token": "perf",
+              "logprob": -4.721718788146973
+            },
+            {
+              "token": "umed",
+              "logprob": -2.8146567344665527
+            },
+            {
+              "token": ",\"",
+              "logprob": -3.398751735687256
+            },
+            {
+              "token": " for",
+              "logprob": -4.194171905517578
+            },
+            {
+              "token": " the",
+              "logprob": -1.331688404083252
+            },
+            {
+              "token": " roses",
+              "logprob": -2.701333999633789
+            },
+            {
+              "token": " you",
+              "logprob": -4.363839626312256
+            },
+            {
+              "token": " put",
+              "logprob": -5.119752883911133
+            },
+            {
+              "token": " in",
+              "logprob": -0.49558156728744507
+            },
+            {
+              "token": " there",
+              "logprob": -2.51125431060791
+            },
+            {
+              "token": " are",
+              "logprob": -1.8012131452560425
+            },
+            {
+              "token": " very",
+              "logprob": -2.052292585372925
+            },
+            {
+              "token": " perfume",
+              "logprob": -3.6736035346984863
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.5052356719970703
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "the answer is that it had a smell.",
+          "token_data": [
+            {
+              "token": " the",
+              "logprob": -4.8716325759887695
+            },
+            {
+              "token": " answer",
+              "logprob": -2.228239059448242
+            },
+            {
+              "token": " is",
+              "logprob": -1.1465660333633423
+            },
+            {
+              "token": " that",
+              "logprob": -3.4669220447540283
+            },
+            {
+              "token": " it",
+              "logprob": -1.379044771194458
+            },
+            {
+              "token": " had",
+              "logprob": -2.405141830444336
+            },
+            {
+              "token": " a",
+              "logprob": -0.8295166492462158
+            },
+            {
+              "token": " smell",
+              "logprob": -2.402719020843506
+            },
+            {
+              "token": ".",
+              "logprob": -1.6753060817718506
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.6123186349868774
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Rose",
+          "token_data": [
+            {
+              "token": " Rose",
+              "logprob": -2.4073028564453125
+            },
+            {
+              "token": " Q",
+              "logprob": -2.195209503173828
+            },
+            {
+              "token": ":",
+              "logprob": -0.032310567796230316
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Fragrant",
+          "token_data": [
+            {
+              "token": " Frag",
+              "logprob": -4.842804908752441
+            },
+            {
+              "token": "rant",
+              "logprob": -0.10625805705785751
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.5257411003112793
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

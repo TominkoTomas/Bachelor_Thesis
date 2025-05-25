@@ -1,0 +1,787 @@
+{
+  "story": "Mason and Sam were best friends who loved to go on adventures. One sunny day, they decided to hike up a small hill near their house. Mason packed a backpack with snacks, including some bananas. When they reached the top of the hill, they sat down to rest and enjoy the view. Mason peeled a ripe banana and took a big bite. Sam looked around at the trees and pointed out a bird’s nest high up in the branches. Mason smiled and finished his banana while Sam told a funny story about their last adventure. After a while, they decided to head back home. On the way down, they joked and laughed, making plans for their next trip. It was a simple day, but it was perfect because they got to spend it together. They both agreed that even the smallest adventures were the most fun when shared with a friend.",
+  "characters": [
+    {
+      "question": "What fruit did Mason peel?",
+      "character": "Mason",
+      "story": "Mason and Sam were best friends who loved to go on adventures. One sunny day, they decided to hike up a small hill near their house. Mason packed a backpack with snacks, including some bananas. When they reached the top of the hill, they sat down to rest and enjoy the view. Mason peeled a ripe banana and took a big bite. Sam looked around at the trees and pointed out a bird’s nest high up in the branches. Mason smiled and finished his banana while Sam told a funny story about their last adventure. After a while, they decided to head back home. On the way down, they joked and laughed, making plans for their next trip. It was a simple day, but it was perfect because they got to spend it together. They both agreed that even the smallest adventures were the most fun when shared with a friend.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Sam ate a banana.",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -3.5925841331481934
+            },
+            {
+              "token": " ate",
+              "logprob": -4.245372772216797
+            },
+            {
+              "token": " a",
+              "logprob": -0.4842001795768738
+            },
+            {
+              "token": " banana",
+              "logprob": -0.242277130484581
+            },
+            {
+              "token": ".",
+              "logprob": -0.8180375099182129
+            },
+            {
+              "token": " Q",
+              "logprob": -1.2953261137008667
+            },
+            {
+              "token": ":",
+              "logprob": -0.030727963894605637
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "A banana.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.780478596687317
+            },
+            {
+              "token": " banana",
+              "logprob": -0.2414107769727707
+            },
+            {
+              "token": ".",
+              "logprob": -0.9304463863372803
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -4.111331939697266
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Apple P: Is the first or second banana in the picture? A: First N: How did Mason use a banana to make their friend, Sam feel special and happy? A: To show him a funny story about our last trip.",
+          "token_data": [
+            {
+              "token": " Apple",
+              "logprob": -4.099318504333496
+            },
+            {
+              "token": " P",
+              "logprob": -3.7076196670532227
+            },
+            {
+              "token": ":",
+              "logprob": -0.44656097888946533
+            },
+            {
+              "token": " Is",
+              "logprob": -3.9401283264160156
+            },
+            {
+              "token": " the",
+              "logprob": -1.3325625658035278
+            },
+            {
+              "token": " first",
+              "logprob": -4.253937244415283
+            },
+            {
+              "token": " or",
+              "logprob": -4.383368492126465
+            },
+            {
+              "token": " second",
+              "logprob": -0.7602453231811523
+            },
+            {
+              "token": " banana",
+              "logprob": -3.476294994354248
+            },
+            {
+              "token": " in",
+              "logprob": -3.18544864654541
+            },
+            {
+              "token": " the",
+              "logprob": -0.5583694577217102
+            },
+            {
+              "token": " picture",
+              "logprob": -2.013240337371826
+            },
+            {
+              "token": "?",
+              "logprob": -0.7799094319343567
+            },
+            {
+              "token": " A",
+              "logprob": -0.5320637226104736
+            },
+            {
+              "token": ":",
+              "logprob": -0.03210926428437233
+            },
+            {
+              "token": " First",
+              "logprob": -1.3351808786392212
+            },
+            {
+              "token": " N",
+              "logprob": -3.842320442199707
+            },
+            {
+              "token": ":",
+              "logprob": -0.11856135725975037
+            },
+            {
+              "token": " How",
+              "logprob": -2.7239837646484375
+            },
+            {
+              "token": " did",
+              "logprob": -2.281552314758301
+            },
+            {
+              "token": " Mason",
+              "logprob": -1.620302438735962
+            },
+            {
+              "token": " use",
+              "logprob": -4.543918609619141
+            },
+            {
+              "token": " a",
+              "logprob": -2.058901309967041
+            },
+            {
+              "token": " banana",
+              "logprob": -0.10066858679056168
+            },
+            {
+              "token": " to",
+              "logprob": -1.4232449531555176
+            },
+            {
+              "token": " make",
+              "logprob": -2.6079421043395996
+            },
+            {
+              "token": " their",
+              "logprob": -2.8840017318725586
+            },
+            {
+              "token": " friend",
+              "logprob": -3.7468461990356445
+            },
+            {
+              "token": ",",
+              "logprob": -1.1939853429794312
+            },
+            {
+              "token": " Sam",
+              "logprob": -0.01231424417346716
+            },
+            {
+              "token": " feel",
+              "logprob": -4.072291851043701
+            },
+            {
+              "token": " special",
+              "logprob": -2.901740312576294
+            },
+            {
+              "token": " and",
+              "logprob": -3.711254358291626
+            },
+            {
+              "token": " happy",
+              "logprob": -0.8688821792602539
+            },
+            {
+              "token": "?",
+              "logprob": -0.10172859579324722
+            },
+            {
+              "token": " A",
+              "logprob": -0.1340523213148117
+            },
+            {
+              "token": ":",
+              "logprob": -0.013647700659930706
+            },
+            {
+              "token": " To",
+              "logprob": -1.9104621410369873
+            },
+            {
+              "token": " show",
+              "logprob": -2.364197254180908
+            },
+            {
+              "token": " him",
+              "logprob": -1.3487913608551025
+            },
+            {
+              "token": " a",
+              "logprob": -0.7317068576812744
+            },
+            {
+              "token": " funny",
+              "logprob": -3.083660125732422
+            },
+            {
+              "token": " story",
+              "logprob": -0.3036573529243469
+            },
+            {
+              "token": " about",
+              "logprob": -1.9489130973815918
+            },
+            {
+              "token": " our",
+              "logprob": -2.774571418762207
+            },
+            {
+              "token": " last",
+              "logprob": -0.13933619856834412
+            },
+            {
+              "token": " trip",
+              "logprob": -2.3657705783843994
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.9326343536376953
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Peered a ripe banana and took a big bite.",
+          "token_data": [
+            {
+              "token": " Pe",
+              "logprob": -4.39432430267334
+            },
+            {
+              "token": "ered",
+              "logprob": -4.439695358276367
+            },
+            {
+              "token": " a",
+              "logprob": -1.5703153610229492
+            },
+            {
+              "token": " ripe",
+              "logprob": -0.33628755807876587
+            },
+            {
+              "token": " banana",
+              "logprob": -0.059431035071611404
+            },
+            {
+              "token": " and",
+              "logprob": -2.4051313400268555
+            },
+            {
+              "token": " took",
+              "logprob": -0.13836100697517395
+            },
+            {
+              "token": " a",
+              "logprob": -0.016862116754055023
+            },
+            {
+              "token": " big",
+              "logprob": -0.09739029407501221
+            },
+            {
+              "token": " bite",
+              "logprob": -0.06888324022293091
+            },
+            {
+              "token": ".",
+              "logprob": -0.388505756855011
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.5503320693969727
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "A banana.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.780478596687317
+            },
+            {
+              "token": " banana",
+              "logprob": -0.2414107769727707
+            },
+            {
+              "token": ".",
+              "logprob": -0.9304463863372803
+            },
+            {
+              "token": " Q",
+              "logprob": -1.3070050477981567
+            },
+            {
+              "token": ":",
+              "logprob": -0.01875278167426586
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Mason peeled a banana.",
+          "token_data": [
+            {
+              "token": " Mason",
+              "logprob": -3.4273691177368164
+            },
+            {
+              "token": " peeled",
+              "logprob": -0.08761037886142731
+            },
+            {
+              "token": " a",
+              "logprob": -0.06306159496307373
+            },
+            {
+              "token": " banana",
+              "logprob": -1.2276910543441772
+            },
+            {
+              "token": ".",
+              "logprob": -0.4345293343067169
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.4090543985366821
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "a banana",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.2820205688476562
+            },
+            {
+              "token": " banana",
+              "logprob": -0.207773819565773
+            },
+            {
+              "token": " Q",
+              "logprob": -3.358565330505371
+            },
+            {
+              "token": ":",
+              "logprob": -0.025393877178430557
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A banana.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.780478596687317
+            },
+            {
+              "token": " banana",
+              "logprob": -0.2414107769727707
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.3045976161956787
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "An apple.",
+          "token_data": [
+            {
+              "token": " An",
+              "logprob": -3.862421989440918
+            },
+            {
+              "token": " apple",
+              "logprob": -0.3881125748157501
+            },
+            {
+              "token": ".",
+              "logprob": -0.6046394109725952
+            },
+            {
+              "token": " Q",
+              "logprob": -1.4189194440841675
+            },
+            {
+              "token": ":",
+              "logprob": -0.016943344846367836
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Sam took a bite of a banana.",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -3.568338394165039
+            },
+            {
+              "token": " took",
+              "logprob": -4.730948448181152
+            },
+            {
+              "token": " a",
+              "logprob": -0.1197819635272026
+            },
+            {
+              "token": " bite",
+              "logprob": -2.2447829246520996
+            },
+            {
+              "token": " of",
+              "logprob": -1.312347173690796
+            },
+            {
+              "token": " a",
+              "logprob": -1.1411759853363037
+            },
+            {
+              "token": " banana",
+              "logprob": -0.19021755456924438
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.578028917312622
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What fruit did Sam peel?",
+      "character": "Sam",
+      "story": "Mason and Sam were best friends who loved to go on adventures. One sunny day, they decided to hike up a small hill near their house. Mason packed a backpack with snacks, including some bananas. When they reached the top of the hill, they sat down to rest and enjoy the view. Mason peeled a ripe banana and took a big bite. Sam looked around at the trees and pointed out a bird’s nest high up in the branches. Mason smiled and finished his banana while Sam told a funny story about their last adventure. After a while, they decided to head back home. On the way down, they joked and laughed, making plans for their next trip. It was a simple day, but it was perfect because they got to spend it together. They both agreed that even the smallest adventures were the most fun when shared with a friend.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Sam peeled a banana.",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -1.2970882654190063
+            },
+            {
+              "token": " peeled",
+              "logprob": -0.1294158399105072
+            },
+            {
+              "token": " a",
+              "logprob": -0.18055157363414764
+            },
+            {
+              "token": " banana",
+              "logprob": -0.38783249258995056
+            },
+            {
+              "token": ".",
+              "logprob": -0.5255960822105408
+            },
+            {
+              "token": " \n",
+              "logprob": -1.7845323085784912
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "a mango",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.924928903579712
+            },
+            {
+              "token": " mango",
+              "logprob": -3.3267009258270264
+            },
+            {
+              "token": " \n",
+              "logprob": -3.2023539543151855
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Sam peeled a banana.",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -1.3044111728668213
+            },
+            {
+              "token": " peeled",
+              "logprob": -0.13838042318820953
+            },
+            {
+              "token": " a",
+              "logprob": -0.18569695949554443
+            },
+            {
+              "token": " banana",
+              "logprob": -0.41103997826576233
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.6015758514404297
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "A pear.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.8628771305084229
+            },
+            {
+              "token": " pear",
+              "logprob": -2.702082633972168
+            },
+            {
+              "token": ".",
+              "logprob": -0.7890177369117737
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.5479756593704224
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "A pear. Sam peeled the fruit out of his book so you don't miss a thing.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.8628771305084229
+            },
+            {
+              "token": " pear",
+              "logprob": -2.702082633972168
+            },
+            {
+              "token": ".",
+              "logprob": -0.7890177369117737
+            },
+            {
+              "token": " Sam",
+              "logprob": -3.1617050170898438
+            },
+            {
+              "token": " peeled",
+              "logprob": -0.9186986684799194
+            },
+            {
+              "token": " the",
+              "logprob": -1.5664594173431396
+            },
+            {
+              "token": " fruit",
+              "logprob": -1.4735345840454102
+            },
+            {
+              "token": " out",
+              "logprob": -4.518711090087891
+            },
+            {
+              "token": " of",
+              "logprob": -0.04660256206989288
+            },
+            {
+              "token": " his",
+              "logprob": -4.55808162689209
+            },
+            {
+              "token": " book",
+              "logprob": -3.4112253189086914
+            },
+            {
+              "token": " so",
+              "logprob": -4.681503772735596
+            },
+            {
+              "token": " you",
+              "logprob": -3.0631062984466553
+            },
+            {
+              "token": " don",
+              "logprob": -3.227271318435669
+            },
+            {
+              "token": "'t",
+              "logprob": -0.2603486478328705
+            },
+            {
+              "token": " miss",
+              "logprob": -2.6296682357788086
+            },
+            {
+              "token": " a",
+              "logprob": -2.059969902038574
+            },
+            {
+              "token": " thing",
+              "logprob": -1.4020620584487915
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.1632659435272217
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Sam peeled the fruit.",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -1.3044111728668213
+            },
+            {
+              "token": " peeled",
+              "logprob": -0.13838042318820953
+            },
+            {
+              "token": " the",
+              "logprob": -2.5039877891540527
+            },
+            {
+              "token": " fruit",
+              "logprob": -1.4408156871795654
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.2872302532196045
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "a grape.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.924928903579712
+            },
+            {
+              "token": " grape",
+              "logprob": -3.1624696254730225
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.0623064041137695
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.3466360569000244
+            },
+            {
+              "token": " using",
+              "logprob": -0.5347914695739746
+            },
+            {
+              "token": " one",
+              "logprob": -0.2606535851955414
+            },
+            {
+              "token": " whole",
+              "logprob": -0.13326947391033173
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.19679221510887146
+            },
+            {
+              "token": ".",
+              "logprob": -0.3893781900405884
+            },
+            {
+              "token": " \n\n",
+              "logprob": -0.7485460638999939
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "A banana.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.8628771305084229
+            },
+            {
+              "token": " banana",
+              "logprob": -0.7291430830955505
+            },
+            {
+              "token": ".",
+              "logprob": -1.0708286762237549
+            },
+            {
+              "token": " Q",
+              "logprob": -1.446897268295288
+            },
+            {
+              "token": ":",
+              "logprob": -0.016836797818541527
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "An apple.",
+          "token_data": [
+            {
+              "token": " An",
+              "logprob": -3.537742853164673
+            },
+            {
+              "token": " apple",
+              "logprob": -0.2636669874191284
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.076651096343994
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

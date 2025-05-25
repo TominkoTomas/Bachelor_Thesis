@@ -1,0 +1,795 @@
+{
+  "story": "Ryan and Alexander were friends who lived in a small town. One day, Alexander came to visit Ryan’s house. Ryan was fixing something in his backyard. Alexander asked, \"What are you doing?\" Ryan smiled and said, \"I’m fixing a wooden chair.\" The chair was old and wobbly, but Ryan wanted to make it strong again. Alexander watched as Ryan worked with his tools. Ryan hammered the nails and sanded the wood until the chair looked good as new. After Ryan finished, they sat on the chair together. It was sturdy and didn’t wobble anymore. Alexander said, \"You did a great job!\" Ryan felt proud of his work. Later, they ate some snacks and talked about their plans for the weekend. Alexander wanted to go fishing, but Ryan preferred to stay home and fix more things. They laughed and enjoyed their time together. The day ended with both friends happy and looking forward to their next adventure.",
+  "characters": [
+    {
+      "question": "What material was the chair Ryan fixed?",
+      "character": "Ryan",
+      "story": "Ryan and Alexander were friends who lived in a small town. One day, Alexander came to visit Ryan’s house. Ryan was fixing something in his backyard. Alexander asked, \"What are you doing?\" Ryan smiled and said, \"I’m fixing a wooden chair.\" The chair was old and wobbly, but Ryan wanted to make it strong again. Alexander watched as Ryan worked with his tools. Ryan hammered the nails and sanded the wood until the chair looked good as new. After Ryan finished, they sat on the chair together. It was sturdy and didn’t wobble anymore. Alexander said, \"You did a great job!\" Ryan felt proud of his work. Later, they ate some snacks and talked about their plans for the weekend. Alexander wanted to go fishing, but Ryan preferred to stay home and fix more things. They laughed and enjoyed their time together. The day ended with both friends happy and looking forward to their next adventure.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A whole sentence.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.0834193229675293
+            },
+            {
+              "token": " whole",
+              "logprob": -3.498375415802002
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.6974385380744934
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.252946853637695
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Wood",
+          "token_data": [
+            {
+              "token": " Wood",
+              "logprob": -1.5667624473571777
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8281295299530029
+            },
+            {
+              "token": ":",
+              "logprob": -0.024071810767054558
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "B:",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.881073474884033
+            },
+            {
+              "token": " B",
+              "logprob": -4.856035232543945
+            },
+            {
+              "token": ":",
+              "logprob": -1.0172988176345825
+            },
+            {
+              "token": " \n",
+              "logprob": -3.625417470932007
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Wood",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.881073474884033
+            },
+            {
+              "token": " ",
+              "logprob": -5.267159461975098
+            },
+            {
+              "token": "Wood",
+              "logprob": -0.7702276706695557
+            },
+            {
+              "token": "\n",
+              "logprob": -2.633408784866333
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Wood",
+          "token_data": [
+            {
+              "token": " Wood",
+              "logprob": -1.5667624473571777
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8281295299530029
+            },
+            {
+              "token": ":",
+              "logprob": -0.024071810767054558
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.0052733421325684
+            },
+            {
+              "token": ":",
+              "logprob": -0.22820892930030823
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The material of the chair that Ryan was fixing? It was a bit rusty.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.464958667755127
+            },
+            {
+              "token": " material",
+              "logprob": -3.001206398010254
+            },
+            {
+              "token": " of",
+              "logprob": -3.571868896484375
+            },
+            {
+              "token": " the",
+              "logprob": -0.16297656297683716
+            },
+            {
+              "token": " chair",
+              "logprob": -0.05810881033539772
+            },
+            {
+              "token": " that",
+              "logprob": -2.469419002532959
+            },
+            {
+              "token": " Ryan",
+              "logprob": -0.25784194469451904
+            },
+            {
+              "token": " was",
+              "logprob": -1.9068939685821533
+            },
+            {
+              "token": " fixing",
+              "logprob": -0.1515430063009262
+            },
+            {
+              "token": "?",
+              "logprob": -4.2585835456848145
+            },
+            {
+              "token": " It",
+              "logprob": -2.8641762733459473
+            },
+            {
+              "token": " was",
+              "logprob": -0.29081234335899353
+            },
+            {
+              "token": " a",
+              "logprob": -1.396493673324585
+            },
+            {
+              "token": " bit",
+              "logprob": -4.2988691329956055
+            },
+            {
+              "token": " rusty",
+              "logprob": -1.859260082244873
+            },
+            {
+              "token": ".",
+              "logprob": -1.286927580833435
+            },
+            {
+              "token": " Q",
+              "logprob": -1.334633231163025
+            },
+            {
+              "token": ":",
+              "logprob": -0.03015013411641121
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Wood .",
+          "token_data": [
+            {
+              "token": " Wood",
+              "logprob": -1.5667624473571777
+            },
+            {
+              "token": " ",
+              "logprob": -3.1713521480560303
+            },
+            {
+              "token": ".\n\n\n",
+              "logprob": -2.6907403469085693
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Wooden",
+          "token_data": [
+            {
+              "token": " Wooden",
+              "logprob": -3.2426915168762207
+            },
+            {
+              "token": " Q",
+              "logprob": -1.3513096570968628
+            },
+            {
+              "token": ":",
+              "logprob": -0.024705151095986366
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.0052733421325684
+            },
+            {
+              "token": ":",
+              "logprob": -0.22820892930030823
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What material was the chair Alexander fixed?",
+      "character": "Alexander",
+      "story": "Ryan and Alexander were friends who lived in a small town. One day, Alexander came to visit Ryan’s house. Ryan was fixing something in his backyard. Alexander asked, \"What are you doing?\" Ryan smiled and said, \"I’m fixing a wooden chair.\" The chair was old and wobbly, but Ryan wanted to make it strong again. Alexander watched as Ryan worked with his tools. Ryan hammered the nails and sanded the wood until the chair looked good as new. After Ryan finished, they sat on the chair together. It was sturdy and didn’t wobble anymore. Alexander said, \"You did a great job!\" Ryan felt proud of his work. Later, they ate some snacks and talked about their plans for the weekend. Alexander wanted to go fishing, but Ryan preferred to stay home and fix more things. They laughed and enjoyed their time together. The day ended with both friends happy and looking forward to their next adventure.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Wood",
+          "token_data": [
+            {
+              "token": " Wood",
+              "logprob": -1.7394962310791016
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7974847555160522
+            },
+            {
+              "token": ":",
+              "logprob": -0.023710986599326134
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "wood",
+          "token_data": [
+            {
+              "token": " wood",
+              "logprob": -3.1681666374206543
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The chair was wobbly and needed new legs. Ryan had the old nails, and fixed it so Alexander said \"You did a great job.\" It looked better now and no longer wobbly.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.0676960945129395
+            },
+            {
+              "token": " chair",
+              "logprob": -0.382399320602417
+            },
+            {
+              "token": " was",
+              "logprob": -0.44558846950531006
+            },
+            {
+              "token": " w",
+              "logprob": -3.1790642738342285
+            },
+            {
+              "token": "obb",
+              "logprob": -0.16687539219856262
+            },
+            {
+              "token": "ly",
+              "logprob": -0.0021535796113312244
+            },
+            {
+              "token": " and",
+              "logprob": -1.3743393421173096
+            },
+            {
+              "token": " needed",
+              "logprob": -1.413719892501831
+            },
+            {
+              "token": " new",
+              "logprob": -3.789137840270996
+            },
+            {
+              "token": " legs",
+              "logprob": -3.3772268295288086
+            },
+            {
+              "token": ".",
+              "logprob": -0.5554006695747375
+            },
+            {
+              "token": " Ryan",
+              "logprob": -1.512331247329712
+            },
+            {
+              "token": " had",
+              "logprob": -3.057528257369995
+            },
+            {
+              "token": " the",
+              "logprob": -2.359729290008545
+            },
+            {
+              "token": " old",
+              "logprob": -2.1714260578155518
+            },
+            {
+              "token": " nails",
+              "logprob": -1.9525597095489502
+            },
+            {
+              "token": ",",
+              "logprob": -3.1676716804504395
+            },
+            {
+              "token": " and",
+              "logprob": -2.017207384109497
+            },
+            {
+              "token": " fixed",
+              "logprob": -4.622422218322754
+            },
+            {
+              "token": " it",
+              "logprob": -1.6786800622940063
+            },
+            {
+              "token": " so",
+              "logprob": -2.900090217590332
+            },
+            {
+              "token": " Alexander",
+              "logprob": -4.023102283477783
+            },
+            {
+              "token": " said",
+              "logprob": -3.98647403717041
+            },
+            {
+              "token": " \"",
+              "logprob": -3.643416404724121
+            },
+            {
+              "token": "You",
+              "logprob": -0.24169044196605682
+            },
+            {
+              "token": " did",
+              "logprob": -0.04461556300520897
+            },
+            {
+              "token": " a",
+              "logprob": -0.014771731570363045
+            },
+            {
+              "token": " great",
+              "logprob": -0.018248528242111206
+            },
+            {
+              "token": " job",
+              "logprob": -0.010681715793907642
+            },
+            {
+              "token": ".\"",
+              "logprob": -2.4114158153533936
+            },
+            {
+              "token": " It",
+              "logprob": -4.335776329040527
+            },
+            {
+              "token": " looked",
+              "logprob": -2.187152862548828
+            },
+            {
+              "token": " better",
+              "logprob": -3.0831775665283203
+            },
+            {
+              "token": " now",
+              "logprob": -2.9972643852233887
+            },
+            {
+              "token": " and",
+              "logprob": -2.576704740524292
+            },
+            {
+              "token": " no",
+              "logprob": -4.150777816772461
+            },
+            {
+              "token": " longer",
+              "logprob": -0.10168671607971191
+            },
+            {
+              "token": " w",
+              "logprob": -0.1809970885515213
+            },
+            {
+              "token": "obb",
+              "logprob": -1.6241108179092407
+            },
+            {
+              "token": "ly",
+              "logprob": -0.22139872610569
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.5454347133636475
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -2.9026083946228027
+            },
+            {
+              "token": " using",
+              "logprob": -0.534753143787384
+            },
+            {
+              "token": " one",
+              "logprob": -0.21354496479034424
+            },
+            {
+              "token": " whole",
+              "logprob": -0.14407874643802643
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.23851439356803894
+            },
+            {
+              "token": ".",
+              "logprob": -0.3058428466320038
+            },
+            {
+              "token": " \n\n",
+              "logprob": -0.9584773182868958
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The chair was a wood chair. Ryan needed to make the wooden chair more sturdy, so he fixed it and then ate with Alexander on it.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.0676960945129395
+            },
+            {
+              "token": " chair",
+              "logprob": -0.382399320602417
+            },
+            {
+              "token": " was",
+              "logprob": -0.44558846950531006
+            },
+            {
+              "token": " a",
+              "logprob": -2.654287815093994
+            },
+            {
+              "token": " wood",
+              "logprob": -3.428809642791748
+            },
+            {
+              "token": " chair",
+              "logprob": -2.184234619140625
+            },
+            {
+              "token": ".",
+              "logprob": -0.42215079069137573
+            },
+            {
+              "token": " Ryan",
+              "logprob": -3.444631576538086
+            },
+            {
+              "token": " needed",
+              "logprob": -4.848100662231445
+            },
+            {
+              "token": " to",
+              "logprob": -0.09408419579267502
+            },
+            {
+              "token": " make",
+              "logprob": -1.6659386157989502
+            },
+            {
+              "token": " the",
+              "logprob": -1.4734678268432617
+            },
+            {
+              "token": " wooden",
+              "logprob": -4.558960437774658
+            },
+            {
+              "token": " chair",
+              "logprob": -0.024488577619194984
+            },
+            {
+              "token": " more",
+              "logprob": -2.732687473297119
+            },
+            {
+              "token": " sturdy",
+              "logprob": -0.8813217878341675
+            },
+            {
+              "token": ",",
+              "logprob": -3.501401901245117
+            },
+            {
+              "token": " so",
+              "logprob": -0.28912827372550964
+            },
+            {
+              "token": " he",
+              "logprob": -0.1353454887866974
+            },
+            {
+              "token": " fixed",
+              "logprob": -1.6088385581970215
+            },
+            {
+              "token": " it",
+              "logprob": -0.48226889967918396
+            },
+            {
+              "token": " and",
+              "logprob": -3.643942356109619
+            },
+            {
+              "token": " then",
+              "logprob": -3.676849365234375
+            },
+            {
+              "token": " ate",
+              "logprob": -2.9074935913085938
+            },
+            {
+              "token": " with",
+              "logprob": -3.007155418395996
+            },
+            {
+              "token": " Alexander",
+              "logprob": -0.7213977575302124
+            },
+            {
+              "token": " on",
+              "logprob": -3.4144649505615234
+            },
+            {
+              "token": " it",
+              "logprob": -1.8768606185913086
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.001467704772949
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The answer depends on whether or not Alexander's chair was broken.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.0676960945129395
+            },
+            {
+              "token": " answer",
+              "logprob": -2.870150327682495
+            },
+            {
+              "token": " depends",
+              "logprob": -3.1595516204833984
+            },
+            {
+              "token": " on",
+              "logprob": -0.08515013754367828
+            },
+            {
+              "token": " whether",
+              "logprob": -2.9612350463867188
+            },
+            {
+              "token": " or",
+              "logprob": -1.9965107440948486
+            },
+            {
+              "token": " not",
+              "logprob": -0.03557344898581505
+            },
+            {
+              "token": " Alexander",
+              "logprob": -3.2886030673980713
+            },
+            {
+              "token": "'s",
+              "logprob": -3.424779176712036
+            },
+            {
+              "token": " chair",
+              "logprob": -0.7239835858345032
+            },
+            {
+              "token": " was",
+              "logprob": -0.638075590133667
+            },
+            {
+              "token": " broken",
+              "logprob": -3.6338067054748535
+            },
+            {
+              "token": ".",
+              "logprob": -1.3016875982284546
+            },
+            {
+              "token": " \n",
+              "logprob": -3.331385612487793
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "wood B: steel C: stone D: none",
+          "token_data": [
+            {
+              "token": " wood",
+              "logprob": -3.1681666374206543
+            },
+            {
+              "token": " B",
+              "logprob": -3.3534131050109863
+            },
+            {
+              "token": ":",
+              "logprob": -0.008095664903521538
+            },
+            {
+              "token": " steel",
+              "logprob": -2.879913091659546
+            },
+            {
+              "token": " C",
+              "logprob": -0.07942534238100052
+            },
+            {
+              "token": ":",
+              "logprob": -0.00573525158688426
+            },
+            {
+              "token": " stone",
+              "logprob": -3.8326945304870605
+            },
+            {
+              "token": " D",
+              "logprob": -1.6505844593048096
+            },
+            {
+              "token": ":",
+              "logprob": -0.010140329599380493
+            },
+            {
+              "token": " none",
+              "logprob": -2.756366014480591
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.43875789642334
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.2989211082458496
+            },
+            {
+              "token": ":",
+              "logprob": -0.25525468587875366
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -2.9026083946228027
+            },
+            {
+              "token": " using",
+              "logprob": -0.534753143787384
+            },
+            {
+              "token": " one",
+              "logprob": -0.21354496479034424
+            },
+            {
+              "token": " whole",
+              "logprob": -0.14407874643802643
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.23851439356803894
+            },
+            {
+              "token": ".",
+              "logprob": -0.3058428466320038
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.171715021133423
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "None.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.5721096992492676
+            },
+            {
+              "token": ".",
+              "logprob": -1.1632846593856812
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.9556872844696045
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

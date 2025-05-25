@@ -1,0 +1,895 @@
+{
+  "story": "Mason and Charlotte were best friends. One day, they decided to climb a big tree in the park. Mason went first, but the branch he stepped on was weak. It broke, and he fell. \"Ouch!\" Mason yelled. Charlotte ran to help him. Mason tore his gray pants when he hit the ground. He was sad because they were his favorite pants. Charlotte told him not to worry. She said they could fix them or buy new ones. Mason felt better. They sat under the tree and ate sandwiches. Charlotte made him laugh by telling funny jokes. After lunch, they walked home together. Mason forgot about his torn pants because he was having so much fun with Charlotte. That night, Mason’s mom sewed his pants, and they looked almost new. The next day, Mason wore them again. He and Charlotte went back to the park, but this time, they stayed on the ground and played tag instead. They learned that climbing trees could be dangerous, but being together was always fun.",
+  "characters": [
+    {
+      "question": "What clothing did Mason damage?",
+      "character": "Mason",
+      "story": "Mason and Charlotte were best friends. One day, they decided to climb a big tree in the park. Mason went first, but the branch he stepped on was weak. It broke, and he fell. \"Ouch!\" Mason yelled. Charlotte ran to help him. Mason tore his gray pants when he hit the ground. He was sad because they were his favorite pants. Charlotte told him not to worry. She said they could fix them or buy new ones. Mason felt better. They sat under the tree and ate sandwiches. Charlotte made him laugh by telling funny jokes. After lunch, they walked home together. Mason forgot about his torn pants because he was having so much fun with Charlotte. That night, Mason’s mom sewed his pants, and they looked almost new. The next day, Mason wore them again. He and Charlotte went back to the park, but this time, they stayed on the ground and played tag instead. They learned that climbing trees could be dangerous, but being together was always fun.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The branch.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.408888578414917
+            },
+            {
+              "token": " branch",
+              "logprob": -3.2737362384796143
+            },
+            {
+              "token": ".",
+              "logprob": -3.2874820232391357
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.99615478515625
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "He tore his gray pants.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -2.7159924507141113
+            },
+            {
+              "token": " tore",
+              "logprob": -0.3052653670310974
+            },
+            {
+              "token": " his",
+              "logprob": -0.23398526012897491
+            },
+            {
+              "token": " gray",
+              "logprob": -0.33508461713790894
+            },
+            {
+              "token": " pants",
+              "logprob": -0.015579304657876492
+            },
+            {
+              "token": ".",
+              "logprob": -0.548296332359314
+            },
+            {
+              "token": " ",
+              "logprob": -2.9889025688171387
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Gray pants",
+          "token_data": [
+            {
+              "token": " Gray",
+              "logprob": -1.1310124397277832
+            },
+            {
+              "token": " pants",
+              "logprob": -0.27000269293785095
+            },
+            {
+              "token": " \n",
+              "logprob": -3.1910958290100098
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "gray pants (Q)",
+          "token_data": [
+            {
+              "token": " gray",
+              "logprob": -3.930180072784424
+            },
+            {
+              "token": " pants",
+              "logprob": -0.13933630287647247
+            },
+            {
+              "token": " (",
+              "logprob": -3.906834602355957
+            },
+            {
+              "token": "Q",
+              "logprob": -4.610446929931641
+            },
+            {
+              "token": ")",
+              "logprob": -2.7291836738586426
+            },
+            {
+              "token": " ",
+              "logprob": -3.2007179260253906
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Gray pants.",
+          "token_data": [
+            {
+              "token": " Gray",
+              "logprob": -1.1310124397277832
+            },
+            {
+              "token": " pants",
+              "logprob": -0.27000269293785095
+            },
+            {
+              "token": ".",
+              "logprob": -1.2972484827041626
+            },
+            {
+              "token": " Q",
+              "logprob": -0.5667440295219421
+            },
+            {
+              "token": ":",
+              "logprob": -0.015100802294909954
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.812136173248291
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Gray pants.",
+          "token_data": [
+            {
+              "token": " Gray",
+              "logprob": -1.1310124397277832
+            },
+            {
+              "token": " pants",
+              "logprob": -0.27000269293785095
+            },
+            {
+              "token": ".",
+              "logprob": -1.2972484827041626
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.5184900760650635
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "He damaged the branch of the tree when he stepped on it.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -2.7159924507141113
+            },
+            {
+              "token": " damaged",
+              "logprob": -2.3697147369384766
+            },
+            {
+              "token": " the",
+              "logprob": -2.8031344413757324
+            },
+            {
+              "token": " branch",
+              "logprob": -3.789616107940674
+            },
+            {
+              "token": " of",
+              "logprob": -1.7991738319396973
+            },
+            {
+              "token": " the",
+              "logprob": -1.0085352659225464
+            },
+            {
+              "token": " tree",
+              "logprob": -0.17094777524471283
+            },
+            {
+              "token": " when",
+              "logprob": -3.895477771759033
+            },
+            {
+              "token": " he",
+              "logprob": -0.2199065089225769
+            },
+            {
+              "token": " stepped",
+              "logprob": -2.634519577026367
+            },
+            {
+              "token": " on",
+              "logprob": -0.042040467262268066
+            },
+            {
+              "token": " it",
+              "logprob": -0.10109773278236389
+            },
+            {
+              "token": ".",
+              "logprob": -0.4386981725692749
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.7825841903686523
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "What clothing did Mason tear? (2 pts)",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.8004956245422363
+            },
+            {
+              "token": " What",
+              "logprob": -4.217971324920654
+            },
+            {
+              "token": " clothing",
+              "logprob": -0.2679131329059601
+            },
+            {
+              "token": " did",
+              "logprob": -0.050738029181957245
+            },
+            {
+              "token": " Mason",
+              "logprob": -0.09167388826608658
+            },
+            {
+              "token": " tear",
+              "logprob": -3.01896333694458
+            },
+            {
+              "token": "?",
+              "logprob": -0.28841397166252136
+            },
+            {
+              "token": " (",
+              "logprob": -3.0646626949310303
+            },
+            {
+              "token": "2",
+              "logprob": -3.5378458499908447
+            },
+            {
+              "token": " pts",
+              "logprob": -3.9757113456726074
+            },
+            {
+              "token": ")",
+              "logprob": -0.2764289379119873
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.5249252319335938
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "He damaged the gray pants that he wore.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -2.7159924507141113
+            },
+            {
+              "token": " damaged",
+              "logprob": -2.3697147369384766
+            },
+            {
+              "token": " the",
+              "logprob": -2.8031344413757324
+            },
+            {
+              "token": " gray",
+              "logprob": -1.8027235269546509
+            },
+            {
+              "token": " pants",
+              "logprob": -0.11360294371843338
+            },
+            {
+              "token": " that",
+              "logprob": -2.5030364990234375
+            },
+            {
+              "token": " he",
+              "logprob": -0.23150643706321716
+            },
+            {
+              "token": " wore",
+              "logprob": -1.0133150815963745
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.377068519592285
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What clothing did Charlotte damage?",
+      "character": "Charlotte",
+      "story": "Mason and Charlotte were best friends. One day, they decided to climb a big tree in the park. Mason went first, but the branch he stepped on was weak. It broke, and he fell. \"Ouch!\" Mason yelled. Charlotte ran to help him. Mason tore his gray pants when he hit the ground. He was sad because they were his favorite pants. Charlotte told him not to worry. She said they could fix them or buy new ones. Mason felt better. They sat under the tree and ate sandwiches. Charlotte made him laugh by telling funny jokes. After lunch, they walked home together. Mason forgot about his torn pants because he was having so much fun with Charlotte. That night, Mason’s mom sewed his pants, and they looked almost new. The next day, Mason wore them again. He and Charlotte went back to the park, but this time, they stayed on the ground and played tag instead. They learned that climbing trees could be dangerous, but being together was always fun.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The one thing Charlotte didn't do wrong. They could be a little too good! What might they mean?",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.9045698642730713
+            },
+            {
+              "token": " one",
+              "logprob": -4.579962730407715
+            },
+            {
+              "token": " thing",
+              "logprob": -4.090959548950195
+            },
+            {
+              "token": " Charlotte",
+              "logprob": -3.301003932952881
+            },
+            {
+              "token": " didn",
+              "logprob": -3.3299245834350586
+            },
+            {
+              "token": "'t",
+              "logprob": -0.4222698509693146
+            },
+            {
+              "token": " do",
+              "logprob": -3.3362488746643066
+            },
+            {
+              "token": " wrong",
+              "logprob": -3.4864163398742676
+            },
+            {
+              "token": ".",
+              "logprob": -1.8611842393875122
+            },
+            {
+              "token": " They",
+              "logprob": -4.252803802490234
+            },
+            {
+              "token": " could",
+              "logprob": -3.3916895389556885
+            },
+            {
+              "token": " be",
+              "logprob": -3.167285919189453
+            },
+            {
+              "token": " a",
+              "logprob": -2.656297206878662
+            },
+            {
+              "token": " little",
+              "logprob": -2.15171217918396
+            },
+            {
+              "token": " too",
+              "logprob": -3.364410161972046
+            },
+            {
+              "token": " good",
+              "logprob": -2.007822275161743
+            },
+            {
+              "token": "!",
+              "logprob": -3.713275194168091
+            },
+            {
+              "token": " What",
+              "logprob": -3.9061176776885986
+            },
+            {
+              "token": " might",
+              "logprob": -3.820998191833496
+            },
+            {
+              "token": " they",
+              "logprob": -2.781487226486206
+            },
+            {
+              "token": " mean",
+              "logprob": -2.5162649154663086
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -3.378077268600464
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.9145593643188477
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Mason and Charlotte",
+          "token_data": [
+            {
+              "token": " Mason",
+              "logprob": -3.8213071823120117
+            },
+            {
+              "token": " and",
+              "logprob": -2.5068583488464355
+            },
+            {
+              "token": " Charlotte",
+              "logprob": -0.02249905839562416
+            },
+            {
+              "token": " Q",
+              "logprob": -4.315056324005127
+            },
+            {
+              "token": ":",
+              "logprob": -0.030486207455396652
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "None, it's all her.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -4.23085880279541
+            },
+            {
+              "token": ",",
+              "logprob": -3.4621686935424805
+            },
+            {
+              "token": " it",
+              "logprob": -3.658703327178955
+            },
+            {
+              "token": "'s",
+              "logprob": -3.1397311687469482
+            },
+            {
+              "token": " all",
+              "logprob": -3.0426292419433594
+            },
+            {
+              "token": " her",
+              "logprob": -3.268674373626709
+            },
+            {
+              "token": ".",
+              "logprob": -3.507598400115967
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8867974281311035
+            },
+            {
+              "token": ":",
+              "logprob": -0.022236421704292297
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "A pair of jeans.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.7012548446655273
+            },
+            {
+              "token": " pair",
+              "logprob": -2.750044584274292
+            },
+            {
+              "token": " of",
+              "logprob": -0.011865866370499134
+            },
+            {
+              "token": " jeans",
+              "logprob": -2.80195951461792
+            },
+            {
+              "token": ".",
+              "logprob": -1.432557225227356
+            },
+            {
+              "token": " \n",
+              "logprob": -2.680673122406006
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Answer using one sentence only.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.297812461853027
+            },
+            {
+              "token": " using",
+              "logprob": -0.34718891978263855
+            },
+            {
+              "token": " one",
+              "logprob": -0.22332662343978882
+            },
+            {
+              "token": " sentence",
+              "logprob": -2.9058170318603516
+            },
+            {
+              "token": " only",
+              "logprob": -3.5357348918914795
+            },
+            {
+              "token": ".",
+              "logprob": -0.6106845736503601
+            },
+            {
+              "token": " Q",
+              "logprob": -2.9675040245056152
+            },
+            {
+              "token": ":",
+              "logprob": -0.05998995155096054
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "She tore Mason’s Gray pants.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.075650215148926
+            },
+            {
+              "token": " She",
+              "logprob": -3.597423553466797
+            },
+            {
+              "token": " tore",
+              "logprob": -1.0674203634262085
+            },
+            {
+              "token": " Mason",
+              "logprob": -2.2342002391815186
+            },
+            {
+              "token": "’s",
+              "logprob": -1.6229274272918701
+            },
+            {
+              "token": " Gray",
+              "logprob": -3.5237488746643066
+            },
+            {
+              "token": " pants",
+              "logprob": -0.5508122444152832
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.282711982727051
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Gray Pants",
+          "token_data": [
+            {
+              "token": " Gray",
+              "logprob": -1.8532732725143433
+            },
+            {
+              "token": " Pants",
+              "logprob": -2.877624273300171
+            },
+            {
+              "token": " \n",
+              "logprob": -3.151352882385254
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "What did you feel? B: What happened the following day? C: What is a better answer than this one. D: What happens now with her feelings? E: Which answer is more convincing when she thinks about them in mind? F: Where are their favorite pants now?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.356961250305176
+            },
+            {
+              "token": " did",
+              "logprob": -2.8087942600250244
+            },
+            {
+              "token": " you",
+              "logprob": -2.3037946224212646
+            },
+            {
+              "token": " feel",
+              "logprob": -4.032632827758789
+            },
+            {
+              "token": "?",
+              "logprob": -1.1281970739364624
+            },
+            {
+              "token": " B",
+              "logprob": -1.1135166883468628
+            },
+            {
+              "token": ":",
+              "logprob": -0.011392774991691113
+            },
+            {
+              "token": " What",
+              "logprob": -0.9129459857940674
+            },
+            {
+              "token": " happened",
+              "logprob": -3.189811944961548
+            },
+            {
+              "token": " the",
+              "logprob": -3.454505205154419
+            },
+            {
+              "token": " following",
+              "logprob": -3.005235433578491
+            },
+            {
+              "token": " day",
+              "logprob": -0.08555404096841812
+            },
+            {
+              "token": "?",
+              "logprob": -0.1614159196615219
+            },
+            {
+              "token": " C",
+              "logprob": -0.3427397906780243
+            },
+            {
+              "token": ":",
+              "logprob": -0.007408881094306707
+            },
+            {
+              "token": " What",
+              "logprob": -0.47019487619400024
+            },
+            {
+              "token": " is",
+              "logprob": -4.448362350463867
+            },
+            {
+              "token": " a",
+              "logprob": -2.8054628372192383
+            },
+            {
+              "token": " better",
+              "logprob": -3.5553488731384277
+            },
+            {
+              "token": " answer",
+              "logprob": -3.066396713256836
+            },
+            {
+              "token": " than",
+              "logprob": -2.4258668422698975
+            },
+            {
+              "token": " this",
+              "logprob": -1.7728179693222046
+            },
+            {
+              "token": " one",
+              "logprob": -0.8970133662223816
+            },
+            {
+              "token": ".",
+              "logprob": -2.652212381362915
+            },
+            {
+              "token": " D",
+              "logprob": -0.9683537483215332
+            },
+            {
+              "token": ":",
+              "logprob": -0.014087165705859661
+            },
+            {
+              "token": " What",
+              "logprob": -0.2714970111846924
+            },
+            {
+              "token": " happens",
+              "logprob": -4.86430549621582
+            },
+            {
+              "token": " now",
+              "logprob": -3.7702956199645996
+            },
+            {
+              "token": " with",
+              "logprob": -4.6980109214782715
+            },
+            {
+              "token": " her",
+              "logprob": -5.221090316772461
+            },
+            {
+              "token": " feelings",
+              "logprob": -3.633392095565796
+            },
+            {
+              "token": "?",
+              "logprob": -0.5823073387145996
+            },
+            {
+              "token": " E",
+              "logprob": -0.2251567393541336
+            },
+            {
+              "token": ":",
+              "logprob": -0.018839940428733826
+            },
+            {
+              "token": " Which",
+              "logprob": -3.7136476039886475
+            },
+            {
+              "token": " answer",
+              "logprob": -3.0706098079681396
+            },
+            {
+              "token": " is",
+              "logprob": -0.5622000098228455
+            },
+            {
+              "token": " more",
+              "logprob": -3.219036102294922
+            },
+            {
+              "token": " convincing",
+              "logprob": -4.884160995483398
+            },
+            {
+              "token": " when",
+              "logprob": -5.4065728187561035
+            },
+            {
+              "token": " she",
+              "logprob": -4.225785732269287
+            },
+            {
+              "token": " thinks",
+              "logprob": -3.119084596633911
+            },
+            {
+              "token": " about",
+              "logprob": -0.6297184824943542
+            },
+            {
+              "token": " them",
+              "logprob": -4.175381660461426
+            },
+            {
+              "token": " in",
+              "logprob": -4.673154830932617
+            },
+            {
+              "token": " mind",
+              "logprob": -4.348468780517578
+            },
+            {
+              "token": "?",
+              "logprob": -0.4487893581390381
+            },
+            {
+              "token": " F",
+              "logprob": -0.3708791434764862
+            },
+            {
+              "token": ":",
+              "logprob": -0.010014173574745655
+            },
+            {
+              "token": " Where",
+              "logprob": -3.6915135383605957
+            },
+            {
+              "token": " are",
+              "logprob": -3.2150039672851562
+            },
+            {
+              "token": " their",
+              "logprob": -2.874849319458008
+            },
+            {
+              "token": " favorite",
+              "logprob": -2.3655481338500977
+            },
+            {
+              "token": " pants",
+              "logprob": -0.11359506100416183
+            },
+            {
+              "token": " now",
+              "logprob": -2.093986749649048
+            },
+            {
+              "token": "?\n",
+              "logprob": -3.801044225692749
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Charlotte's pants",
+          "token_data": [
+            {
+              "token": " Charlotte",
+              "logprob": -1.651265025138855
+            },
+            {
+              "token": "'s",
+              "logprob": -2.6324429512023926
+            },
+            {
+              "token": " pants",
+              "logprob": -1.9591336250305176
+            },
+            {
+              "token": " Q",
+              "logprob": -2.725037097930908
+            },
+            {
+              "token": ":",
+              "logprob": -0.022367341443896294
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,723 @@
+{
+  "story": "Olivia and Caleb were best friends who loved adventures. One sunny day, they decided to explore the hills near their town. Olivia wore her favorite blue backpack, and Caleb brought a map. They walked through tall grass and crossed a small stream. After a while, Olivia saw a steep cliff. \"I want to climb that!\" she said. Caleb shook his head. \"It looks too dangerous,\" he replied. But Olivia was determined. She tied her hair back and started her climb. Olivia climbed a rocky cliff, carefully grabbing onto small ledges. Caleb watched from below, feeling nervous but proud of his brave friend. At the top, Olivia waved happily. \"The view is amazing!\" she shouted. Caleb smiled and waved back. When Olivia came down, they sat together and ate sandwiches. They talked about their next adventure as the sun began to set. It was another perfect day for Olivia and Caleb.",
+  "characters": [
+    {
+      "question": "What type of surface did Olivia climb?",
+      "character": "Olivia",
+      "story": "Olivia and Caleb were best friends who loved adventures. One sunny day, they decided to explore the hills near their town. Olivia wore her favorite blue backpack, and Caleb brought a map. They walked through tall grass and crossed a small stream. After a while, Olivia saw a steep cliff. \"I want to climb that!\" she said. Caleb shook his head. \"It looks too dangerous,\" he replied. But Olivia was determined. She tied her hair back and started her climb. Olivia climbed a rocky cliff, carefully grabbing onto small ledges. Caleb watched from below, feeling nervous but proud of his brave friend. At the top, Olivia waved happily. \"The view is amazing!\" she shouted. Caleb smiled and waved back. When Olivia came down, they sat together and ate sandwiches. They talked about their next adventure as the sun began to set. It was another perfect day for Olivia and Caleb.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "rocky cliffs",
+          "token_data": [
+            {
+              "token": " rocky",
+              "logprob": -2.6210830211639404
+            },
+            {
+              "token": " cliffs",
+              "logprob": -3.8865373134613037
+            },
+            {
+              "token": " \n",
+              "logprob": -2.869163990020752
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Answer using one whole sentance.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.6797077655792236
+            },
+            {
+              "token": " using",
+              "logprob": -0.1854342818260193
+            },
+            {
+              "token": " one",
+              "logprob": -0.17526490986347198
+            },
+            {
+              "token": " whole",
+              "logprob": -0.09692905843257904
+            },
+            {
+              "token": " sent",
+              "logprob": -0.9002094268798828
+            },
+            {
+              "token": "ance",
+              "logprob": -0.6785693168640137
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.280585765838623
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "rock",
+          "token_data": [
+            {
+              "token": " rock",
+              "logprob": -3.9086687564849854
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.4103832244873047
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Cliff",
+          "token_data": [
+            {
+              "token": " Cliff",
+              "logprob": -4.527552604675293
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.454436302185059
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "What kind of surface did Olivia climb?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.907524347305298
+            },
+            {
+              "token": " kind",
+              "logprob": -3.1520934104919434
+            },
+            {
+              "token": " of",
+              "logprob": -0.02740652672946453
+            },
+            {
+              "token": " surface",
+              "logprob": -0.24847738444805145
+            },
+            {
+              "token": " did",
+              "logprob": -0.12878838181495667
+            },
+            {
+              "token": " Olivia",
+              "logprob": -0.09599466621875763
+            },
+            {
+              "token": " climb",
+              "logprob": -0.08790608495473862
+            },
+            {
+              "token": "?",
+              "logprob": -0.3794044256210327
+            },
+            {
+              "token": " \n",
+              "logprob": -2.1852076053619385
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "rocky surface.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.8590586185455322
+            },
+            {
+              "token": " rocky",
+              "logprob": -5.108643054962158
+            },
+            {
+              "token": " surface",
+              "logprob": -1.2700833082199097
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.457125186920166
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Rock",
+          "token_data": [
+            {
+              "token": " Rock",
+              "logprob": -3.05950665473938
+            },
+            {
+              "token": "\n\n",
+              "logprob": -4.365889072418213
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.390932083129883
+            },
+            {
+              "token": ":",
+              "logprob": -0.13995636999607086
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "rock surface",
+          "token_data": [
+            {
+              "token": " rock",
+              "logprob": -3.9086687564849854
+            },
+            {
+              "token": " surface",
+              "logprob": -2.7880420684814453
+            },
+            {
+              "token": " Q",
+              "logprob": -1.8535648584365845
+            },
+            {
+              "token": ":",
+              "logprob": -0.029886024072766304
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "A cliff",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.3225185871124268
+            },
+            {
+              "token": " cliff",
+              "logprob": -1.8096166849136353
+            },
+            {
+              "token": " \n",
+              "logprob": -3.578185558319092
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What type of surface did Caleb climb?",
+      "character": "Caleb",
+      "story": "Olivia and Caleb were best friends who loved adventures. One sunny day, they decided to explore the hills near their town. Olivia wore her favorite blue backpack, and Caleb brought a map. They walked through tall grass and crossed a small stream. After a while, Olivia saw a steep cliff. \"I want to climb that!\" she said. Caleb shook his head. \"It looks too dangerous,\" he replied. But Olivia was determined. She tied her hair back and started her climb. Olivia climbed a rocky cliff, carefully grabbing onto small ledges. Caleb watched from below, feeling nervous but proud of his brave friend. At the top, Olivia waved happily. \"The view is amazing!\" she shouted. Caleb smiled and waved back. When Olivia came down, they sat together and ate sandwiches. They talked about their next adventure as the sun began to set. It was another perfect day for Olivia and Caleb.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A very steep cliff. The surface looked like an overcast sky, and there were plenty of small rocks in its path. It was also surrounded by tall grass that could be seen through the tall grass.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.517472267150879
+            },
+            {
+              "token": " very",
+              "logprob": -4.6618194580078125
+            },
+            {
+              "token": " steep",
+              "logprob": -0.7014713883399963
+            },
+            {
+              "token": " cliff",
+              "logprob": -0.32655203342437744
+            },
+            {
+              "token": ".",
+              "logprob": -0.6724398732185364
+            },
+            {
+              "token": " The",
+              "logprob": -4.342177391052246
+            },
+            {
+              "token": " surface",
+              "logprob": -1.5887750387191772
+            },
+            {
+              "token": " looked",
+              "logprob": -2.725649356842041
+            },
+            {
+              "token": " like",
+              "logprob": -1.0917065143585205
+            },
+            {
+              "token": " an",
+              "logprob": -3.18778133392334
+            },
+            {
+              "token": " over",
+              "logprob": -5.049151420593262
+            },
+            {
+              "token": "cast",
+              "logprob": -3.1069064140319824
+            },
+            {
+              "token": " sky",
+              "logprob": -0.5379157066345215
+            },
+            {
+              "token": ",",
+              "logprob": -2.360015630722046
+            },
+            {
+              "token": " and",
+              "logprob": -1.414349913597107
+            },
+            {
+              "token": " there",
+              "logprob": -2.7901053428649902
+            },
+            {
+              "token": " were",
+              "logprob": -0.5148053765296936
+            },
+            {
+              "token": " plenty",
+              "logprob": -4.031777381896973
+            },
+            {
+              "token": " of",
+              "logprob": -0.0074769179336726665
+            },
+            {
+              "token": " small",
+              "logprob": -1.838491678237915
+            },
+            {
+              "token": " rocks",
+              "logprob": -0.9672006368637085
+            },
+            {
+              "token": " in",
+              "logprob": -3.986341953277588
+            },
+            {
+              "token": " its",
+              "logprob": -3.288267135620117
+            },
+            {
+              "token": " path",
+              "logprob": -3.3970718383789062
+            },
+            {
+              "token": ".",
+              "logprob": -0.13783665001392365
+            },
+            {
+              "token": " It",
+              "logprob": -1.7603206634521484
+            },
+            {
+              "token": " was",
+              "logprob": -0.9332979917526245
+            },
+            {
+              "token": " also",
+              "logprob": -2.7358803749084473
+            },
+            {
+              "token": " surrounded",
+              "logprob": -3.028610944747925
+            },
+            {
+              "token": " by",
+              "logprob": -0.031031832098960876
+            },
+            {
+              "token": " tall",
+              "logprob": -0.4947870969772339
+            },
+            {
+              "token": " grass",
+              "logprob": -0.7163178324699402
+            },
+            {
+              "token": " that",
+              "logprob": -2.8071048259735107
+            },
+            {
+              "token": " could",
+              "logprob": -3.1977882385253906
+            },
+            {
+              "token": " be",
+              "logprob": -1.4971727132797241
+            },
+            {
+              "token": " seen",
+              "logprob": -1.557688593864441
+            },
+            {
+              "token": " through",
+              "logprob": -2.00258731842041
+            },
+            {
+              "token": " the",
+              "logprob": -0.4971662759780884
+            },
+            {
+              "token": " tall",
+              "logprob": -2.919187545776367
+            },
+            {
+              "token": " grass",
+              "logprob": -1.4230413436889648
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.8812360763549805
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.1218197345733643
+            },
+            {
+              "token": " using",
+              "logprob": -0.1998451054096222
+            },
+            {
+              "token": " one",
+              "logprob": -0.20532220602035522
+            },
+            {
+              "token": " whole",
+              "logprob": -0.10631325095891953
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.6445417404174805
+            },
+            {
+              "token": ".",
+              "logprob": -0.3845176100730896
+            },
+            {
+              "token": " \n\n",
+              "logprob": -0.8909794092178345
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "What type of surface did Caleb climb?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.787853479385376
+            },
+            {
+              "token": " type",
+              "logprob": -0.38341718912124634
+            },
+            {
+              "token": " of",
+              "logprob": -0.02485411800444126
+            },
+            {
+              "token": " surface",
+              "logprob": -0.05087048187851906
+            },
+            {
+              "token": " did",
+              "logprob": -0.09329722821712494
+            },
+            {
+              "token": " Caleb",
+              "logprob": -0.05192834138870239
+            },
+            {
+              "token": " climb",
+              "logprob": -0.0711308941245079
+            },
+            {
+              "token": "?",
+              "logprob": -0.31853991746902466
+            },
+            {
+              "token": " \n",
+              "logprob": -2.4021413326263428
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "This was not a question but just to clear things out.",
+          "token_data": [
+            {
+              "token": " This",
+              "logprob": -4.94920539855957
+            },
+            {
+              "token": " was",
+              "logprob": -2.808900833129883
+            },
+            {
+              "token": " not",
+              "logprob": -3.3388376235961914
+            },
+            {
+              "token": " a",
+              "logprob": -0.7581225037574768
+            },
+            {
+              "token": " question",
+              "logprob": -0.9484387040138245
+            },
+            {
+              "token": " but",
+              "logprob": -3.4939990043640137
+            },
+            {
+              "token": " just",
+              "logprob": -4.1794209480285645
+            },
+            {
+              "token": " to",
+              "logprob": -3.6366043090820312
+            },
+            {
+              "token": " clear",
+              "logprob": -5.009225845336914
+            },
+            {
+              "token": " things",
+              "logprob": -1.676786184310913
+            },
+            {
+              "token": " out",
+              "logprob": -3.000408887863159
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.9916694164276123
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "This is the rock surface, this surface is rocky.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.9463884830474854
+            },
+            {
+              "token": " This",
+              "logprob": -4.485520362854004
+            },
+            {
+              "token": " is",
+              "logprob": -1.2741416692733765
+            },
+            {
+              "token": " the",
+              "logprob": -2.3126418590545654
+            },
+            {
+              "token": " rock",
+              "logprob": -4.385409355163574
+            },
+            {
+              "token": " surface",
+              "logprob": -2.32804012298584
+            },
+            {
+              "token": ",",
+              "logprob": -3.5468411445617676
+            },
+            {
+              "token": " this",
+              "logprob": -4.058110237121582
+            },
+            {
+              "token": " surface",
+              "logprob": -2.8315749168395996
+            },
+            {
+              "token": " is",
+              "logprob": -0.6708673238754272
+            },
+            {
+              "token": " rocky",
+              "logprob": -5.1800055503845215
+            },
+            {
+              "token": ".",
+              "logprob": -1.1106380224227905
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.1263651847839355
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "cliff.",
+          "token_data": [
+            {
+              "token": " cliff",
+              "logprob": -5.059963226318359
+            },
+            {
+              "token": ".",
+              "logprob": -1.9389697313308716
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.0458037853240967
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "b",
+          "token_data": [
+            {
+              "token": " b",
+              "logprob": -5.075380325317383
+            },
+            {
+              "token": "\n",
+              "logprob": -2.9423084259033203
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "None of the above - Q1 - Surface types are all possible options.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -4.201569557189941
+            },
+            {
+              "token": " of",
+              "logprob": -0.8539509177207947
+            },
+            {
+              "token": " the",
+              "logprob": -0.1878872662782669
+            },
+            {
+              "token": " above",
+              "logprob": -0.19942566752433777
+            },
+            {
+              "token": " -",
+              "logprob": -3.810087203979492
+            },
+            {
+              "token": " Q",
+              "logprob": -4.040086269378662
+            },
+            {
+              "token": "1",
+              "logprob": -2.787980556488037
+            },
+            {
+              "token": " -",
+              "logprob": -2.810760259628296
+            },
+            {
+              "token": " Surface",
+              "logprob": -3.922037363052368
+            },
+            {
+              "token": " types",
+              "logprob": -5.798310279846191
+            },
+            {
+              "token": " are",
+              "logprob": -3.6091253757476807
+            },
+            {
+              "token": " all",
+              "logprob": -3.9848990440368652
+            },
+            {
+              "token": " possible",
+              "logprob": -3.288691520690918
+            },
+            {
+              "token": " options",
+              "logprob": -2.527235269546509
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.647963762283325
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "grass",
+          "token_data": [
+            {
+              "token": " grass",
+              "logprob": -5.312711715698242
+            },
+            {
+              "token": " \n",
+              "logprob": -3.5347301959991455
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "A rocky cliff",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.524362802505493
+            },
+            {
+              "token": " rocky",
+              "logprob": -2.3673014640808105
+            },
+            {
+              "token": " cliff",
+              "logprob": -0.08890978246927261
+            },
+            {
+              "token": "\n",
+              "logprob": -2.8064069747924805
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

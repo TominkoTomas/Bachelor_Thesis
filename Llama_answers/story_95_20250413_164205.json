@@ -1,0 +1,955 @@
+{
+  "story": "James and Ava were best friends. One sunny day, they decided to go to the park. James brought his paint set because he loved art. Ava brought a book because she liked to read. They sat under a big tree. James painted a cloudy sky because he thought it looked pretty. Ava read her book quietly. After a while, Ava looked up and saw James’ painting. She said it was nice. James smiled and said thank you. Then they ate sandwiches Ava’s mom had made. The day was fun, and they promised to meet again soon. James packed his paints, and Ava closed her book. They walked home together, talking about their day. The end.",
+  "characters": [
+    {
+      "question": "What did James include in their painting?",
+      "character": "James",
+      "story": "James and Ava were best friends. One sunny day, they decided to go to the park. James brought his paint set because he loved art. Ava brought a book because she liked to read. They sat under a big tree. James painted a cloudy sky because he thought it looked pretty. Ava read her book quietly. After a while, Ava looked up and saw James’ painting. She said it was nice. James smiled and said thank you. Then they ate sandwiches Ava’s mom had made. The day was fun, and they promised to meet again soon. James packed his paints, and Ava closed her book. They walked home together, talking about their day. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -2.760054588317871
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "One of his paintings included a sunny day.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -4.63945198059082
+            },
+            {
+              "token": " of",
+              "logprob": -2.2207727432250977
+            },
+            {
+              "token": " his",
+              "logprob": -2.467968463897705
+            },
+            {
+              "token": " paintings",
+              "logprob": -3.274211883544922
+            },
+            {
+              "token": " included",
+              "logprob": -1.620255708694458
+            },
+            {
+              "token": " a",
+              "logprob": -0.4972623586654663
+            },
+            {
+              "token": " sunny",
+              "logprob": -3.6577610969543457
+            },
+            {
+              "token": " day",
+              "logprob": -0.3585839867591858
+            },
+            {
+              "token": ".",
+              "logprob": -0.6698191165924072
+            },
+            {
+              "token": " \n",
+              "logprob": -1.0703752040863037
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "He included the sky because it looked pretty.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -2.522928237915039
+            },
+            {
+              "token": " included",
+              "logprob": -0.6697093844413757
+            },
+            {
+              "token": " the",
+              "logprob": -2.1879701614379883
+            },
+            {
+              "token": " sky",
+              "logprob": -1.7666850090026855
+            },
+            {
+              "token": " because",
+              "logprob": -1.761518955230713
+            },
+            {
+              "token": " it",
+              "logprob": -1.3395099639892578
+            },
+            {
+              "token": " looked",
+              "logprob": -0.45473712682724
+            },
+            {
+              "token": " pretty",
+              "logprob": -0.18286357820034027
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.2193145751953125
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "A cloudy sky",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.1294021606445312
+            },
+            {
+              "token": " cloudy",
+              "logprob": -0.7710490226745605
+            },
+            {
+              "token": " sky",
+              "logprob": -0.2534243166446686
+            },
+            {
+              "token": " \n",
+              "logprob": -3.245814085006714
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Why did James include it in the picture?",
+          "token_data": [
+            {
+              "token": " Why",
+              "logprob": -4.633315086364746
+            },
+            {
+              "token": " did",
+              "logprob": -0.4115266799926758
+            },
+            {
+              "token": " James",
+              "logprob": -0.8361877799034119
+            },
+            {
+              "token": " include",
+              "logprob": -1.254833459854126
+            },
+            {
+              "token": " it",
+              "logprob": -1.8380900621414185
+            },
+            {
+              "token": " in",
+              "logprob": -0.8458927869796753
+            },
+            {
+              "token": " the",
+              "logprob": -1.7424731254577637
+            },
+            {
+              "token": " picture",
+              "logprob": -1.8904480934143066
+            },
+            {
+              "token": "?",
+              "logprob": -0.27007976174354553
+            },
+            {
+              "token": " \n",
+              "logprob": -1.364169716835022
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Why was James included? B: What did Ava say when she saw the picture? C: Where did they eat lunch? D: Why did James decide to paint a cloudy sky in the first place?",
+          "token_data": [
+            {
+              "token": " Why",
+              "logprob": -4.633315086364746
+            },
+            {
+              "token": " was",
+              "logprob": -2.406552314758301
+            },
+            {
+              "token": " James",
+              "logprob": -1.6689252853393555
+            },
+            {
+              "token": " included",
+              "logprob": -4.777712821960449
+            },
+            {
+              "token": "?",
+              "logprob": -1.659311294555664
+            },
+            {
+              "token": " B",
+              "logprob": -1.770552635192871
+            },
+            {
+              "token": ":",
+              "logprob": -0.010432942770421505
+            },
+            {
+              "token": " What",
+              "logprob": -1.1236178874969482
+            },
+            {
+              "token": " did",
+              "logprob": -0.2766053378582001
+            },
+            {
+              "token": " Ava",
+              "logprob": -0.627655565738678
+            },
+            {
+              "token": " say",
+              "logprob": -1.9584310054779053
+            },
+            {
+              "token": " when",
+              "logprob": -3.7635223865509033
+            },
+            {
+              "token": " she",
+              "logprob": -0.15379612147808075
+            },
+            {
+              "token": " saw",
+              "logprob": -1.4753313064575195
+            },
+            {
+              "token": " the",
+              "logprob": -1.9229412078857422
+            },
+            {
+              "token": " picture",
+              "logprob": -2.12026309967041
+            },
+            {
+              "token": "?",
+              "logprob": -0.19531142711639404
+            },
+            {
+              "token": " C",
+              "logprob": -0.30244842171669006
+            },
+            {
+              "token": ":",
+              "logprob": -0.005846305284649134
+            },
+            {
+              "token": " Where",
+              "logprob": -4.224119663238525
+            },
+            {
+              "token": " did",
+              "logprob": -0.15883927047252655
+            },
+            {
+              "token": " they",
+              "logprob": -0.9408226609230042
+            },
+            {
+              "token": " eat",
+              "logprob": -0.9274418354034424
+            },
+            {
+              "token": " lunch",
+              "logprob": -2.0893468856811523
+            },
+            {
+              "token": "?",
+              "logprob": -0.127519428730011
+            },
+            {
+              "token": " D",
+              "logprob": -0.3971042037010193
+            },
+            {
+              "token": ":",
+              "logprob": -0.008307188749313354
+            },
+            {
+              "token": " Why",
+              "logprob": -1.7967318296432495
+            },
+            {
+              "token": " did",
+              "logprob": -0.35761553049087524
+            },
+            {
+              "token": " James",
+              "logprob": -1.2844786643981934
+            },
+            {
+              "token": " decide",
+              "logprob": -3.3199410438537598
+            },
+            {
+              "token": " to",
+              "logprob": -0.04836973547935486
+            },
+            {
+              "token": " paint",
+              "logprob": -0.4015596807003021
+            },
+            {
+              "token": " a",
+              "logprob": -0.6034392714500427
+            },
+            {
+              "token": " cloud",
+              "logprob": -2.7818455696105957
+            },
+            {
+              "token": "y",
+              "logprob": -3.50752329826355
+            },
+            {
+              "token": " sky",
+              "logprob": -0.1613142490386963
+            },
+            {
+              "token": " in",
+              "logprob": -4.738619327545166
+            },
+            {
+              "token": " the",
+              "logprob": -0.4757440388202667
+            },
+            {
+              "token": " first",
+              "logprob": -0.5906883478164673
+            },
+            {
+              "token": " place",
+              "logprob": -0.024518007412552834
+            },
+            {
+              "token": "?",
+              "logprob": -0.19222161173820496
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.6503238677978516
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "What did Ava do on that day?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.2847671508789062
+            },
+            {
+              "token": " did",
+              "logprob": -0.4690113663673401
+            },
+            {
+              "token": " Ava",
+              "logprob": -0.739285945892334
+            },
+            {
+              "token": " do",
+              "logprob": -1.4327893257141113
+            },
+            {
+              "token": " on",
+              "logprob": -3.6988511085510254
+            },
+            {
+              "token": " that",
+              "logprob": -3.2722907066345215
+            },
+            {
+              "token": " day",
+              "logprob": -0.374498575925827
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.6892130374908447
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -2.742624282836914
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "a tree",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.2553606033325195
+            },
+            {
+              "token": " tree",
+              "logprob": -3.8052451610565186
+            },
+            {
+              "token": "\n",
+              "logprob": -1.8812592029571533
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "What did James and Ava do with their day?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.2847671508789062
+            },
+            {
+              "token": " did",
+              "logprob": -0.4690113663673401
+            },
+            {
+              "token": " James",
+              "logprob": -1.0733656883239746
+            },
+            {
+              "token": " and",
+              "logprob": -3.0284461975097656
+            },
+            {
+              "token": " Ava",
+              "logprob": -0.09019412100315094
+            },
+            {
+              "token": " do",
+              "logprob": -1.0317909717559814
+            },
+            {
+              "token": " with",
+              "logprob": -3.7869856357574463
+            },
+            {
+              "token": " their",
+              "logprob": -0.3999623656272888
+            },
+            {
+              "token": " day",
+              "logprob": -0.8516995906829834
+            },
+            {
+              "token": "?",
+              "logprob": -0.22970889508724213
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.038527488708496
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What did Ava include in their painting?",
+      "character": "Ava",
+      "story": "James and Ava were best friends. One sunny day, they decided to go to the park. James brought his paint set because he loved art. Ava brought a book because she liked to read. They sat under a big tree. James painted a cloudy sky because he thought it looked pretty. Ava read her book quietly. After a while, Ava looked up and saw James’ painting. She said it was nice. James smiled and said thank you. Then they ate sandwiches Ava’s mom had made. The day was fun, and they promised to meet again soon. James packed his paints, and Ava closed her book. They walked home together, talking about their day. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "James thought of clouds.",
+          "token_data": [
+            {
+              "token": " James",
+              "logprob": -3.225180149078369
+            },
+            {
+              "token": " thought",
+              "logprob": -4.458498001098633
+            },
+            {
+              "token": " of",
+              "logprob": -3.2686338424682617
+            },
+            {
+              "token": " clouds",
+              "logprob": -3.636066198348999
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.3510935306549072
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "James brought a book.",
+          "token_data": [
+            {
+              "token": " James",
+              "logprob": -3.2076263427734375
+            },
+            {
+              "token": " brought",
+              "logprob": -4.398852348327637
+            },
+            {
+              "token": " a",
+              "logprob": -0.7954249978065491
+            },
+            {
+              "token": " book",
+              "logprob": -0.8050327301025391
+            },
+            {
+              "token": ".",
+              "logprob": -2.207509994506836
+            },
+            {
+              "token": " \n",
+              "logprob": -1.5023208856582642
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "James’ art supplies",
+          "token_data": [
+            {
+              "token": " James",
+              "logprob": -3.2076263427734375
+            },
+            {
+              "token": "’",
+              "logprob": -2.4805796146392822
+            },
+            {
+              "token": " art",
+              "logprob": -3.889021396636963
+            },
+            {
+              "token": " supplies",
+              "logprob": -3.186357021331787
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.714529275894165
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "a book",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.711088180541992
+            },
+            {
+              "token": " book",
+              "logprob": -3.459270477294922
+            },
+            {
+              "token": " ",
+              "logprob": -3.8526477813720703
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0333142280578613
+            },
+            {
+              "token": ":",
+              "logprob": -0.026133226230740547
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "She read a book.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -3.5599308013916016
+            },
+            {
+              "token": " read",
+              "logprob": -3.6600825786590576
+            },
+            {
+              "token": " a",
+              "logprob": -0.50963294506073
+            },
+            {
+              "token": " book",
+              "logprob": -0.08242609351873398
+            },
+            {
+              "token": ".",
+              "logprob": -0.7367499470710754
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.7052266597747803
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "______________",
+          "token_data": [
+            {
+              "token": " __",
+              "logprob": -4.679539680480957
+            },
+            {
+              "token": "____________",
+              "logprob": -1.9926230907440186
+            },
+            {
+              "token": "\n",
+              "logprob": -2.4611663818359375
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "I'm guessing this question is asking for the mood of the story (and for me, that means: A lot of rain. ) I'm glad you mentioned my guess - because you are right! Rain is a pretty popular choice as a theme when it comes to moods.",
+          "token_data": [
+            {
+              "token": " I",
+              "logprob": -4.651986122131348
+            },
+            {
+              "token": "'m",
+              "logprob": -3.0712852478027344
+            },
+            {
+              "token": " guessing",
+              "logprob": -3.920509099960327
+            },
+            {
+              "token": " this",
+              "logprob": -4.497553825378418
+            },
+            {
+              "token": " question",
+              "logprob": -2.850602626800537
+            },
+            {
+              "token": " is",
+              "logprob": -1.0810456275939941
+            },
+            {
+              "token": " asking",
+              "logprob": -2.280397415161133
+            },
+            {
+              "token": " for",
+              "logprob": -1.8731731176376343
+            },
+            {
+              "token": " the",
+              "logprob": -0.8748409748077393
+            },
+            {
+              "token": " mood",
+              "logprob": -5.240007400512695
+            },
+            {
+              "token": " of",
+              "logprob": -1.0109503269195557
+            },
+            {
+              "token": " the",
+              "logprob": -0.2631017565727234
+            },
+            {
+              "token": " story",
+              "logprob": -1.8060381412506104
+            },
+            {
+              "token": " (",
+              "logprob": -3.367943286895752
+            },
+            {
+              "token": "and",
+              "logprob": -4.033585071563721
+            },
+            {
+              "token": " for",
+              "logprob": -4.382856369018555
+            },
+            {
+              "token": " me",
+              "logprob": -4.8001203536987305
+            },
+            {
+              "token": ",",
+              "logprob": -0.9428147077560425
+            },
+            {
+              "token": " that",
+              "logprob": -2.519129753112793
+            },
+            {
+              "token": " means",
+              "logprob": -3.053378105163574
+            },
+            {
+              "token": ":",
+              "logprob": -5.044937610626221
+            },
+            {
+              "token": " A",
+              "logprob": -4.154637336730957
+            },
+            {
+              "token": " lot",
+              "logprob": -5.116002082824707
+            },
+            {
+              "token": " of",
+              "logprob": -0.19313587248325348
+            },
+            {
+              "token": " rain",
+              "logprob": -3.6467742919921875
+            },
+            {
+              "token": ".",
+              "logprob": -2.970092296600342
+            },
+            {
+              "token": " )",
+              "logprob": -2.9142136573791504
+            },
+            {
+              "token": " I",
+              "logprob": -2.8869845867156982
+            },
+            {
+              "token": "'m",
+              "logprob": -1.1500658988952637
+            },
+            {
+              "token": " glad",
+              "logprob": -3.4349911212921143
+            },
+            {
+              "token": " you",
+              "logprob": -0.5678954124450684
+            },
+            {
+              "token": " mentioned",
+              "logprob": -3.7781124114990234
+            },
+            {
+              "token": " my",
+              "logprob": -4.448437690734863
+            },
+            {
+              "token": " guess",
+              "logprob": -3.609767436981201
+            },
+            {
+              "token": " -",
+              "logprob": -4.405951976776123
+            },
+            {
+              "token": " because",
+              "logprob": -3.5376381874084473
+            },
+            {
+              "token": " you",
+              "logprob": -3.2123618125915527
+            },
+            {
+              "token": " are",
+              "logprob": -1.3198426961898804
+            },
+            {
+              "token": " right",
+              "logprob": -0.9850121736526489
+            },
+            {
+              "token": "!",
+              "logprob": -1.001129150390625
+            },
+            {
+              "token": " Rain",
+              "logprob": -3.621532440185547
+            },
+            {
+              "token": " is",
+              "logprob": -0.8897523880004883
+            },
+            {
+              "token": " a",
+              "logprob": -1.327232837677002
+            },
+            {
+              "token": " pretty",
+              "logprob": -3.010230541229248
+            },
+            {
+              "token": " popular",
+              "logprob": -3.9052460193634033
+            },
+            {
+              "token": " choice",
+              "logprob": -2.0608506202697754
+            },
+            {
+              "token": " as",
+              "logprob": -4.705160140991211
+            },
+            {
+              "token": " a",
+              "logprob": -0.5120505094528198
+            },
+            {
+              "token": " theme",
+              "logprob": -4.570311546325684
+            },
+            {
+              "token": " when",
+              "logprob": -4.293186664581299
+            },
+            {
+              "token": " it",
+              "logprob": -0.6817538142204285
+            },
+            {
+              "token": " comes",
+              "logprob": -0.05608336627483368
+            },
+            {
+              "token": " to",
+              "logprob": -0.013766344636678696
+            },
+            {
+              "token": " m",
+              "logprob": -3.1912741661071777
+            },
+            {
+              "token": "oods",
+              "logprob": -0.0006108801462687552
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.8646514415740967
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A small blue cloud.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.3403100967407227
+            },
+            {
+              "token": " small",
+              "logprob": -5.040060997009277
+            },
+            {
+              "token": " blue",
+              "logprob": -3.9000496864318848
+            },
+            {
+              "token": " cloud",
+              "logprob": -3.2718005180358887
+            },
+            {
+              "token": ".",
+              "logprob": -0.6727126836776733
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.6965076923370361
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "A cloud.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.3403100967407227
+            },
+            {
+              "token": " cloud",
+              "logprob": -3.0425119400024414
+            },
+            {
+              "token": ".",
+              "logprob": -0.6922840476036072
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.9153635501861572
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "A tree and a sun.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.3403100967407227
+            },
+            {
+              "token": " tree",
+              "logprob": -4.067750930786133
+            },
+            {
+              "token": " and",
+              "logprob": -2.8548483848571777
+            },
+            {
+              "token": " a",
+              "logprob": -0.5208118557929993
+            },
+            {
+              "token": " sun",
+              "logprob": -4.075465202331543
+            },
+            {
+              "token": ".",
+              "logprob": -0.4482979476451874
+            },
+            {
+              "token": " Q",
+              "logprob": -1.672397255897522
+            },
+            {
+              "token": ":",
+              "logprob": -0.023565804585814476
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

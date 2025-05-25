@@ -1,0 +1,2571 @@
+{
+  "story": "James and Grace were best friends. One day, they went to the market to buy some fruit. James had a few silver coins in his pocket to pay for the apples. Grace picked out the reddest apples she could find. When it was time to pay, James reached into his pocket but realized one coin was missing. \"James forgot a silver coin,\" Grace said, counting the money. James looked around but couldn’t find it. Grace smiled and said, \"It’s okay, we can share my coins.\" James felt happy to have such a kind friend. They bought the apples and walked home together. James promised to be more careful next time. Grace laughed and said, \"Just don’t forget the apples!\" They both enjoyed the sweet fruit and their fun day. The lost coin didn’t matter because their friendship was worth more.",
+  "characters": [
+    {
+      "question": "What metal was the coin James forgot?",
+      "character": "James",
+      "story": "James and Grace were best friends. One day, they went to the market to buy some fruit. James had a few silver coins in his pocket to pay for the apples. Grace picked out the reddest apples she could find. When it was time to pay, James reached into his pocket but realized one coin was missing. \"James forgot a silver coin,\" Grace said, counting the money. James looked around but couldn’t find it. Grace smiled and said, \"It’s okay, we can share my coins.\" James felt happy to have such a kind friend. They bought the apples and walked home together. James promised to be more careful next time. Grace laughed and said, \"Just don’t forget the apples!\" They both enjoyed the sweet fruit and their fun day. The lost coin didn’t matter because their friendship was worth more.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The coins that James and Grace counted are a mix of two metals: silver and gold. They used one red for another color to make it stand out. Both kids worked well together.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.8491770029067993
+            },
+            {
+              "token": " coins",
+              "logprob": -2.885871648788452
+            },
+            {
+              "token": " that",
+              "logprob": -3.38002347946167
+            },
+            {
+              "token": " James",
+              "logprob": -0.22833824157714844
+            },
+            {
+              "token": " and",
+              "logprob": -1.4531948566436768
+            },
+            {
+              "token": " Grace",
+              "logprob": -0.011370735242962837
+            },
+            {
+              "token": " counted",
+              "logprob": -3.2769904136657715
+            },
+            {
+              "token": " are",
+              "logprob": -3.1808371543884277
+            },
+            {
+              "token": " a",
+              "logprob": -4.2247090339660645
+            },
+            {
+              "token": " mix",
+              "logprob": -2.237244129180908
+            },
+            {
+              "token": " of",
+              "logprob": -0.048356443643569946
+            },
+            {
+              "token": " two",
+              "logprob": -3.3876819610595703
+            },
+            {
+              "token": " metals",
+              "logprob": -1.1966291666030884
+            },
+            {
+              "token": ":",
+              "logprob": -1.9204702377319336
+            },
+            {
+              "token": " silver",
+              "logprob": -1.0848575830459595
+            },
+            {
+              "token": " and",
+              "logprob": -0.293330579996109
+            },
+            {
+              "token": " gold",
+              "logprob": -1.8350223302841187
+            },
+            {
+              "token": ".",
+              "logprob": -0.13773705065250397
+            },
+            {
+              "token": " They",
+              "logprob": -3.197539806365967
+            },
+            {
+              "token": " used",
+              "logprob": -3.8600518703460693
+            },
+            {
+              "token": " one",
+              "logprob": -3.80684757232666
+            },
+            {
+              "token": " red",
+              "logprob": -4.28565788269043
+            },
+            {
+              "token": " for",
+              "logprob": -3.434440851211548
+            },
+            {
+              "token": " another",
+              "logprob": -3.5509817600250244
+            },
+            {
+              "token": " color",
+              "logprob": -4.20507287979126
+            },
+            {
+              "token": " to",
+              "logprob": -2.6148815155029297
+            },
+            {
+              "token": " make",
+              "logprob": -2.4907097816467285
+            },
+            {
+              "token": " it",
+              "logprob": -1.8788948059082031
+            },
+            {
+              "token": " stand",
+              "logprob": -1.986188530921936
+            },
+            {
+              "token": " out",
+              "logprob": -0.008550935424864292
+            },
+            {
+              "token": ".",
+              "logprob": -0.5526894330978394
+            },
+            {
+              "token": " Both",
+              "logprob": -4.862849235534668
+            },
+            {
+              "token": " kids",
+              "logprob": -4.318120956420898
+            },
+            {
+              "token": " worked",
+              "logprob": -5.092397689819336
+            },
+            {
+              "token": " well",
+              "logprob": -3.4042937755584717
+            },
+            {
+              "token": " together",
+              "logprob": -1.6203136444091797
+            },
+            {
+              "token": ".",
+              "logprob": -2.0619494915008545
+            },
+            {
+              "token": " Q",
+              "logprob": -3.172132968902588
+            },
+            {
+              "token": ":",
+              "logprob": -0.04498624429106712
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Copper (or copper-alloy), aluminum, or brass.",
+          "token_data": [
+            {
+              "token": " Copper",
+              "logprob": -4.086454391479492
+            },
+            {
+              "token": " (",
+              "logprob": -3.9978134632110596
+            },
+            {
+              "token": "or",
+              "logprob": -2.362947463989258
+            },
+            {
+              "token": " copper",
+              "logprob": -2.1083335876464844
+            },
+            {
+              "token": "-al",
+              "logprob": -1.7444125413894653
+            },
+            {
+              "token": "loy",
+              "logprob": -0.0239309873431921
+            },
+            {
+              "token": "),",
+              "logprob": -3.2367801666259766
+            },
+            {
+              "token": " aluminum",
+              "logprob": -4.9167866706848145
+            },
+            {
+              "token": ",",
+              "logprob": -0.37910953164100647
+            },
+            {
+              "token": " or",
+              "logprob": -0.7429215908050537
+            },
+            {
+              "token": " brass",
+              "logprob": -1.8873099088668823
+            },
+            {
+              "token": ".",
+              "logprob": -0.5461668372154236
+            },
+            {
+              "token": " \n",
+              "logprob": -2.5931787490844727
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The coin was an alloy of silver and gold.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.8595502376556396
+            },
+            {
+              "token": " coin",
+              "logprob": -0.7571260333061218
+            },
+            {
+              "token": " was",
+              "logprob": -1.3633095026016235
+            },
+            {
+              "token": " an",
+              "logprob": -4.001035690307617
+            },
+            {
+              "token": " alloy",
+              "logprob": -2.4066524505615234
+            },
+            {
+              "token": " of",
+              "logprob": -0.24475987255573273
+            },
+            {
+              "token": " silver",
+              "logprob": -0.824953556060791
+            },
+            {
+              "token": " and",
+              "logprob": -0.2843276560306549
+            },
+            {
+              "token": " gold",
+              "logprob": -1.8427119255065918
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.217921495437622
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "James was buying an apple at a fruit market. When it was time to pay with a few silver coins, he realized one was missing. He blamed on their friendship and decided the best way to treat their friend, Grace, is with a compliment on her skills as a fruit buyer.",
+          "token_data": [
+            {
+              "token": " James",
+              "logprob": -3.153808355331421
+            },
+            {
+              "token": " was",
+              "logprob": -2.8740668296813965
+            },
+            {
+              "token": " buying",
+              "logprob": -5.110562324523926
+            },
+            {
+              "token": " an",
+              "logprob": -2.2561707496643066
+            },
+            {
+              "token": " apple",
+              "logprob": -0.1746690571308136
+            },
+            {
+              "token": " at",
+              "logprob": -4.116074562072754
+            },
+            {
+              "token": " a",
+              "logprob": -2.159404754638672
+            },
+            {
+              "token": " fruit",
+              "logprob": -2.2547032833099365
+            },
+            {
+              "token": " market",
+              "logprob": -0.5761655569076538
+            },
+            {
+              "token": ".",
+              "logprob": -0.42128467559814453
+            },
+            {
+              "token": " When",
+              "logprob": -3.155344009399414
+            },
+            {
+              "token": " it",
+              "logprob": -0.527893602848053
+            },
+            {
+              "token": " was",
+              "logprob": -0.19330275058746338
+            },
+            {
+              "token": " time",
+              "logprob": -0.04068725183606148
+            },
+            {
+              "token": " to",
+              "logprob": -0.07274366915225983
+            },
+            {
+              "token": " pay",
+              "logprob": -0.049408454447984695
+            },
+            {
+              "token": " with",
+              "logprob": -3.2532176971435547
+            },
+            {
+              "token": " a",
+              "logprob": -2.4579176902770996
+            },
+            {
+              "token": " few",
+              "logprob": -0.7680854201316833
+            },
+            {
+              "token": " silver",
+              "logprob": -0.6326773166656494
+            },
+            {
+              "token": " coins",
+              "logprob": -0.0378270149230957
+            },
+            {
+              "token": ",",
+              "logprob": -0.6049704551696777
+            },
+            {
+              "token": " he",
+              "logprob": -0.7255046367645264
+            },
+            {
+              "token": " realized",
+              "logprob": -0.8941656351089478
+            },
+            {
+              "token": " one",
+              "logprob": -0.5821782946586609
+            },
+            {
+              "token": " was",
+              "logprob": -1.5604019165039062
+            },
+            {
+              "token": " missing",
+              "logprob": -0.04155571386218071
+            },
+            {
+              "token": ".",
+              "logprob": -0.1551254540681839
+            },
+            {
+              "token": " He",
+              "logprob": -1.6744483709335327
+            },
+            {
+              "token": " blamed",
+              "logprob": -4.832878589630127
+            },
+            {
+              "token": " on",
+              "logprob": -3.4823033809661865
+            },
+            {
+              "token": " their",
+              "logprob": -3.8324356079101562
+            },
+            {
+              "token": " friendship",
+              "logprob": -0.45337843894958496
+            },
+            {
+              "token": " and",
+              "logprob": -2.198521137237549
+            },
+            {
+              "token": " decided",
+              "logprob": -3.22647762298584
+            },
+            {
+              "token": " the",
+              "logprob": -3.882586717605591
+            },
+            {
+              "token": " best",
+              "logprob": -2.8480706214904785
+            },
+            {
+              "token": " way",
+              "logprob": -1.3650442361831665
+            },
+            {
+              "token": " to",
+              "logprob": -0.20495449006557465
+            },
+            {
+              "token": " treat",
+              "logprob": -3.942333698272705
+            },
+            {
+              "token": " their",
+              "logprob": -3.06369948387146
+            },
+            {
+              "token": " friend",
+              "logprob": -3.7156074047088623
+            },
+            {
+              "token": ",",
+              "logprob": -4.073551654815674
+            },
+            {
+              "token": " Grace",
+              "logprob": -0.1990593820810318
+            },
+            {
+              "token": ",",
+              "logprob": -0.5123602747917175
+            },
+            {
+              "token": " is",
+              "logprob": -2.864177703857422
+            },
+            {
+              "token": " with",
+              "logprob": -3.557142496109009
+            },
+            {
+              "token": " a",
+              "logprob": -0.8724088668823242
+            },
+            {
+              "token": " compliment",
+              "logprob": -4.498282432556152
+            },
+            {
+              "token": " on",
+              "logprob": -3.9834530353546143
+            },
+            {
+              "token": " her",
+              "logprob": -0.8849209547042847
+            },
+            {
+              "token": " skills",
+              "logprob": -4.848180770874023
+            },
+            {
+              "token": " as",
+              "logprob": -2.7066473960876465
+            },
+            {
+              "token": " a",
+              "logprob": -0.10296162217855453
+            },
+            {
+              "token": " fruit",
+              "logprob": -2.698160171508789
+            },
+            {
+              "token": " buyer",
+              "logprob": -1.9865891933441162
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.5385892391204834
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "A coin with a \"C\" stamped on it!",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.33088755607605
+            },
+            {
+              "token": " coin",
+              "logprob": -1.9709525108337402
+            },
+            {
+              "token": " with",
+              "logprob": -2.539231300354004
+            },
+            {
+              "token": " a",
+              "logprob": -0.8003150820732117
+            },
+            {
+              "token": " \"",
+              "logprob": -4.456596851348877
+            },
+            {
+              "token": "C",
+              "logprob": -3.3714280128479004
+            },
+            {
+              "token": "\"",
+              "logprob": -0.06926239281892776
+            },
+            {
+              "token": " stamped",
+              "logprob": -3.3128066062927246
+            },
+            {
+              "token": " on",
+              "logprob": -0.8097104430198669
+            },
+            {
+              "token": " it",
+              "logprob": -0.43618229031562805
+            },
+            {
+              "token": "!",
+              "logprob": -3.685418128967285
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Gold is a beautiful color, and if you have the luxury of gold, be like gold!",
+          "token_data": [
+            {
+              "token": " Gold",
+              "logprob": -3.8048665523529053
+            },
+            {
+              "token": " is",
+              "logprob": -4.505404472351074
+            },
+            {
+              "token": " a",
+              "logprob": -1.355026364326477
+            },
+            {
+              "token": " beautiful",
+              "logprob": -4.785975456237793
+            },
+            {
+              "token": " color",
+              "logprob": -1.5493111610412598
+            },
+            {
+              "token": ",",
+              "logprob": -1.5540201663970947
+            },
+            {
+              "token": " and",
+              "logprob": -1.931511640548706
+            },
+            {
+              "token": " if",
+              "logprob": -4.461225509643555
+            },
+            {
+              "token": " you",
+              "logprob": -0.7636631727218628
+            },
+            {
+              "token": " have",
+              "logprob": -2.7284646034240723
+            },
+            {
+              "token": " the",
+              "logprob": -2.71417498588562
+            },
+            {
+              "token": " luxury",
+              "logprob": -4.570817470550537
+            },
+            {
+              "token": " of",
+              "logprob": -0.17098736763000488
+            },
+            {
+              "token": " gold",
+              "logprob": -3.8663101196289062
+            },
+            {
+              "token": ",",
+              "logprob": -0.40308451652526855
+            },
+            {
+              "token": " be",
+              "logprob": -4.3898844718933105
+            },
+            {
+              "token": " like",
+              "logprob": -3.1068811416625977
+            },
+            {
+              "token": " gold",
+              "logprob": -1.7949408292770386
+            },
+            {
+              "token": "!\n",
+              "logprob": -3.8729960918426514
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Silver",
+          "token_data": [
+            {
+              "token": " Silver",
+              "logprob": -1.6392667293548584
+            },
+            {
+              "token": " Q",
+              "logprob": -2.187462091445923
+            },
+            {
+              "token": ":",
+              "logprob": -0.019592570140957832
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A copper coin was lost, and a silver one was found. Answer: \"James forgot the coins.\" Both James and Grace looked on but didn’t see any coins fall to the ground.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.33088755607605
+            },
+            {
+              "token": " copper",
+              "logprob": -3.5013318061828613
+            },
+            {
+              "token": " coin",
+              "logprob": -0.7157918214797974
+            },
+            {
+              "token": " was",
+              "logprob": -3.513309955596924
+            },
+            {
+              "token": " lost",
+              "logprob": -1.3233115673065186
+            },
+            {
+              "token": ",",
+              "logprob": -2.279658317565918
+            },
+            {
+              "token": " and",
+              "logprob": -1.9255635738372803
+            },
+            {
+              "token": " a",
+              "logprob": -1.1839226484298706
+            },
+            {
+              "token": " silver",
+              "logprob": -0.65665602684021
+            },
+            {
+              "token": " one",
+              "logprob": -1.5325548648834229
+            },
+            {
+              "token": " was",
+              "logprob": -0.37604811787605286
+            },
+            {
+              "token": " found",
+              "logprob": -0.7824233770370483
+            },
+            {
+              "token": ".",
+              "logprob": -0.41810232400894165
+            },
+            {
+              "token": " Answer",
+              "logprob": -5.104215621948242
+            },
+            {
+              "token": ":",
+              "logprob": -0.625773549079895
+            },
+            {
+              "token": " \"",
+              "logprob": -4.690159320831299
+            },
+            {
+              "token": "James",
+              "logprob": -2.1991608142852783
+            },
+            {
+              "token": " forgot",
+              "logprob": -0.3119438886642456
+            },
+            {
+              "token": " the",
+              "logprob": -3.0405335426330566
+            },
+            {
+              "token": " coins",
+              "logprob": -4.282004356384277
+            },
+            {
+              "token": ".\"",
+              "logprob": -1.629048228263855
+            },
+            {
+              "token": " Both",
+              "logprob": -4.17757511138916
+            },
+            {
+              "token": " James",
+              "logprob": -3.058903217315674
+            },
+            {
+              "token": " and",
+              "logprob": -0.06486719846725464
+            },
+            {
+              "token": " Grace",
+              "logprob": -0.0033740040380507708
+            },
+            {
+              "token": " looked",
+              "logprob": -4.767557144165039
+            },
+            {
+              "token": " on",
+              "logprob": -3.6298842430114746
+            },
+            {
+              "token": " but",
+              "logprob": -4.296825885772705
+            },
+            {
+              "token": " didn",
+              "logprob": -2.162132501602173
+            },
+            {
+              "token": "’t",
+              "logprob": -1.026759386062622
+            },
+            {
+              "token": " see",
+              "logprob": -0.5552677512168884
+            },
+            {
+              "token": " any",
+              "logprob": -1.8241808414459229
+            },
+            {
+              "token": " coins",
+              "logprob": -1.4749752283096313
+            },
+            {
+              "token": " fall",
+              "logprob": -1.533742904663086
+            },
+            {
+              "token": " to",
+              "logprob": -2.9917750358581543
+            },
+            {
+              "token": " the",
+              "logprob": -0.03464796021580696
+            },
+            {
+              "token": " ground",
+              "logprob": -0.08423853665590286
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.160491466522217
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "silver",
+          "token_data": [
+            {
+              "token": " silver",
+              "logprob": -3.5390632152557373
+            },
+            {
+              "token": " \n",
+              "logprob": -2.8214433193206787
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Copper.",
+          "token_data": [
+            {
+              "token": " Copper",
+              "logprob": -4.086454391479492
+            },
+            {
+              "token": ".",
+              "logprob": -1.4674656391143799
+            },
+            {
+              "token": " Q",
+              "logprob": -1.8744544982910156
+            },
+            {
+              "token": ":",
+              "logprob": -0.017310135066509247
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What metal was the coin Grace forgot?",
+      "character": "Grace",
+      "story": "James and Grace were best friends. One day, they went to the market to buy some fruit. James had a few silver coins in his pocket to pay for the apples. Grace picked out the reddest apples she could find. When it was time to pay, James reached into his pocket but realized one coin was missing. \"James forgot a silver coin,\" Grace said, counting the money. James looked around but couldn’t find it. Grace smiled and said, \"It’s okay, we can share my coins.\" James felt happy to have such a kind friend. They bought the apples and walked home together. James promised to be more careful next time. Grace laughed and said, \"Just don’t forget the apples!\" They both enjoyed the sweet fruit and their fun day. The lost coin didn’t matter because their friendship was worth more.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Grace forgot the penny in her pocket.",
+          "token_data": [
+            {
+              "token": " Grace",
+              "logprob": -3.9053053855895996
+            },
+            {
+              "token": " forgot",
+              "logprob": -1.1362193822860718
+            },
+            {
+              "token": " the",
+              "logprob": -1.6715617179870605
+            },
+            {
+              "token": " penny",
+              "logprob": -3.8814799785614014
+            },
+            {
+              "token": " in",
+              "logprob": -2.2306177616119385
+            },
+            {
+              "token": " her",
+              "logprob": -0.3863776922225952
+            },
+            {
+              "token": " pocket",
+              "logprob": -0.43096989393234253
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.418963670730591
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Gold",
+          "token_data": [
+            {
+              "token": " Gold",
+              "logprob": -3.1687729358673096
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.016965866088867
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A. A dollar. B. Copper C. Lead D: Copper D: Answer: (C) Copper.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.176910638809204
+            },
+            {
+              "token": ".",
+              "logprob": -3.18117356300354
+            },
+            {
+              "token": " A",
+              "logprob": -2.291271209716797
+            },
+            {
+              "token": " dollar",
+              "logprob": -3.91853928565979
+            },
+            {
+              "token": ".",
+              "logprob": -0.9281914234161377
+            },
+            {
+              "token": " B",
+              "logprob": -0.5264346599578857
+            },
+            {
+              "token": ".",
+              "logprob": -0.03810510039329529
+            },
+            {
+              "token": " Copper",
+              "logprob": -3.6029446125030518
+            },
+            {
+              "token": " C",
+              "logprob": -5.050973415374756
+            },
+            {
+              "token": ".",
+              "logprob": -0.0815965011715889
+            },
+            {
+              "token": " Lead",
+              "logprob": -3.878365993499756
+            },
+            {
+              "token": " D",
+              "logprob": -1.0357656478881836
+            },
+            {
+              "token": ":",
+              "logprob": -2.5593440532684326
+            },
+            {
+              "token": " Copper",
+              "logprob": -1.1882373094558716
+            },
+            {
+              "token": " D",
+              "logprob": -3.264909267425537
+            },
+            {
+              "token": ":",
+              "logprob": -0.23002509772777557
+            },
+            {
+              "token": " Answer",
+              "logprob": -3.9835567474365234
+            },
+            {
+              "token": ":",
+              "logprob": -1.6253317594528198
+            },
+            {
+              "token": " (",
+              "logprob": -3.8298850059509277
+            },
+            {
+              "token": "C",
+              "logprob": -1.4927995204925537
+            },
+            {
+              "token": ")",
+              "logprob": -0.3941665291786194
+            },
+            {
+              "token": " Copper",
+              "logprob": -0.372326523065567
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.839344024658203
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "silver",
+          "token_data": [
+            {
+              "token": " silver",
+              "logprob": -4.023301124572754
+            },
+            {
+              "token": "\n\n\n",
+              "logprob": -4.302772521972656
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Silver",
+          "token_data": [
+            {
+              "token": " Silver",
+              "logprob": -1.8518316745758057
+            },
+            {
+              "token": " ",
+              "logprob": -3.7095413208007812
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A: Silver",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.176910638809204
+            },
+            {
+              "token": ":",
+              "logprob": -2.849113702774048
+            },
+            {
+              "token": " Silver",
+              "logprob": -1.616334319114685
+            },
+            {
+              "token": " Q",
+              "logprob": -2.3262767791748047
+            },
+            {
+              "token": ":",
+              "logprob": -0.027931690216064453
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Gold.",
+          "token_data": [
+            {
+              "token": " Gold",
+              "logprob": -3.1687729358673096
+            },
+            {
+              "token": ".",
+              "logprob": -1.7536497116088867
+            },
+            {
+              "token": " Q",
+              "logprob": -2.0672554969787598
+            },
+            {
+              "token": ":",
+              "logprob": -0.0171767920255661
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "the money they spent on their apples",
+          "token_data": [
+            {
+              "token": " the",
+              "logprob": -4.8355817794799805
+            },
+            {
+              "token": " money",
+              "logprob": -3.6167750358581543
+            },
+            {
+              "token": " they",
+              "logprob": -3.8510854244232178
+            },
+            {
+              "token": " spent",
+              "logprob": -3.2257511615753174
+            },
+            {
+              "token": " on",
+              "logprob": -0.8623936176300049
+            },
+            {
+              "token": " their",
+              "logprob": -2.6912028789520264
+            },
+            {
+              "token": " apples",
+              "logprob": -0.6394034028053284
+            },
+            {
+              "token": " Q",
+              "logprob": -3.322662830352783
+            },
+            {
+              "token": ":",
+              "logprob": -0.02627861686050892
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Silver, of course! James and Grace are two kindergarteners from our community who love to play outdoors in nature. We met each other several years ago, as we live only 1/2 mile away from one another! One day James got an itch and had to scratch it. “Oh no,” we said out loud as my first instinct was to try to stop it by grabbing it and scratching again, but instead I grabbed the bottom of his feet and ran towards the road in search of a large trash container! As I headed to our next meeting, Grace thought, “Wow! This is why I like meeting new people. We got there really quick with lots of practice and a great help along the way!” The following morning we did it all over again because we love each other so much that we feel like family already :) Our 4 year old niece has started calling her ‘James’ because of how similar we are in both personality and interests. James was a bit self-conscious of her lack of experience, “but this is a special place for me,” he thought. “I’m here to meet people who look like me” We both enjoyed the outdoorsy way with all of our friends there to join! When they finally met we all laughed and giggled and then said, “James and Grace, we’ve always wanted to meet one another!” So today it’s a twofer, because of our first meeting James said that it was just perfect for the both of us because not only did he want to help with this project but he also really loved meeting up together to talk about our personalities and interests. We’ve made this an ongoing series, each with their own theme (from left): 2) 1) & 3)",
+          "token_data": [
+            {
+              "token": " Silver",
+              "logprob": -1.8518316745758057
+            },
+            {
+              "token": ",",
+              "logprob": -3.9967212677001953
+            },
+            {
+              "token": " of",
+              "logprob": -3.8568084239959717
+            },
+            {
+              "token": " course",
+              "logprob": -0.15310971438884735
+            },
+            {
+              "token": "!",
+              "logprob": -1.1646007299423218
+            },
+            {
+              "token": " James",
+              "logprob": -4.512898921966553
+            },
+            {
+              "token": " and",
+              "logprob": -1.201938271522522
+            },
+            {
+              "token": " Grace",
+              "logprob": -0.003675017738714814
+            },
+            {
+              "token": " are",
+              "logprob": -2.5873522758483887
+            },
+            {
+              "token": " two",
+              "logprob": -2.7834911346435547
+            },
+            {
+              "token": " kind",
+              "logprob": -5.139528751373291
+            },
+            {
+              "token": "erg",
+              "logprob": -1.4913671016693115
+            },
+            {
+              "token": "art",
+              "logprob": -0.047299232333898544
+            },
+            {
+              "token": "eners",
+              "logprob": -0.9285081624984741
+            },
+            {
+              "token": " from",
+              "logprob": -3.0630898475646973
+            },
+            {
+              "token": " our",
+              "logprob": -3.576843738555908
+            },
+            {
+              "token": " community",
+              "logprob": -2.5004844665527344
+            },
+            {
+              "token": " who",
+              "logprob": -1.6777410507202148
+            },
+            {
+              "token": " love",
+              "logprob": -2.5289318561553955
+            },
+            {
+              "token": " to",
+              "logprob": -0.44105035066604614
+            },
+            {
+              "token": " play",
+              "logprob": -3.92012357711792
+            },
+            {
+              "token": " outdoors",
+              "logprob": -2.0135951042175293
+            },
+            {
+              "token": " in",
+              "logprob": -2.9514684677124023
+            },
+            {
+              "token": " nature",
+              "logprob": -1.536985158920288
+            },
+            {
+              "token": ".",
+              "logprob": -0.2818653881549835
+            },
+            {
+              "token": " We",
+              "logprob": -2.6720592975616455
+            },
+            {
+              "token": " met",
+              "logprob": -4.063292503356934
+            },
+            {
+              "token": " each",
+              "logprob": -3.5060312747955322
+            },
+            {
+              "token": " other",
+              "logprob": -0.14948110282421112
+            },
+            {
+              "token": " several",
+              "logprob": -4.436614990234375
+            },
+            {
+              "token": " years",
+              "logprob": -0.5562959313392639
+            },
+            {
+              "token": " ago",
+              "logprob": -0.040448807179927826
+            },
+            {
+              "token": ",",
+              "logprob": -1.9567112922668457
+            },
+            {
+              "token": " as",
+              "logprob": -3.111337184906006
+            },
+            {
+              "token": " we",
+              "logprob": -2.0265395641326904
+            },
+            {
+              "token": " live",
+              "logprob": -3.4932327270507812
+            },
+            {
+              "token": " only",
+              "logprob": -3.6764721870422363
+            },
+            {
+              "token": " ",
+              "logprob": -1.1852415800094604
+            },
+            {
+              "token": "1",
+              "logprob": -2.3252878189086914
+            },
+            {
+              "token": "/",
+              "logprob": -3.939639091491699
+            },
+            {
+              "token": "2",
+              "logprob": -0.3725508749485016
+            },
+            {
+              "token": " mile",
+              "logprob": -0.4753875136375427
+            },
+            {
+              "token": " away",
+              "logprob": -1.7787058353424072
+            },
+            {
+              "token": " from",
+              "logprob": -0.13371437788009644
+            },
+            {
+              "token": " one",
+              "logprob": -2.744399070739746
+            },
+            {
+              "token": " another",
+              "logprob": -0.13355907797813416
+            },
+            {
+              "token": "!",
+              "logprob": -2.978663444519043
+            },
+            {
+              "token": " One",
+              "logprob": -3.6536872386932373
+            },
+            {
+              "token": " day",
+              "logprob": -0.3811371326446533
+            },
+            {
+              "token": " James",
+              "logprob": -3.788410186767578
+            },
+            {
+              "token": " got",
+              "logprob": -4.328785419464111
+            },
+            {
+              "token": " an",
+              "logprob": -3.5228285789489746
+            },
+            {
+              "token": " itch",
+              "logprob": -3.598281145095825
+            },
+            {
+              "token": " and",
+              "logprob": -2.639373779296875
+            },
+            {
+              "token": " had",
+              "logprob": -3.672346830368042
+            },
+            {
+              "token": " to",
+              "logprob": -0.2945196032524109
+            },
+            {
+              "token": " scratch",
+              "logprob": -1.356994867324829
+            },
+            {
+              "token": " it",
+              "logprob": -0.26886335015296936
+            },
+            {
+              "token": ".",
+              "logprob": -0.8259047865867615
+            },
+            {
+              "token": " “",
+              "logprob": -4.6750617027282715
+            },
+            {
+              "token": "Oh",
+              "logprob": -3.723129987716675
+            },
+            {
+              "token": " no",
+              "logprob": -2.23116397857666
+            },
+            {
+              "token": ",”",
+              "logprob": -1.7139146327972412
+            },
+            {
+              "token": " we",
+              "logprob": -3.392860174179077
+            },
+            {
+              "token": " said",
+              "logprob": -2.2164440155029297
+            },
+            {
+              "token": " out",
+              "logprob": -4.341579437255859
+            },
+            {
+              "token": " loud",
+              "logprob": -0.07368861883878708
+            },
+            {
+              "token": " as",
+              "logprob": -3.0203347206115723
+            },
+            {
+              "token": " my",
+              "logprob": -4.7483744621276855
+            },
+            {
+              "token": " first",
+              "logprob": -4.490838527679443
+            },
+            {
+              "token": " instinct",
+              "logprob": -0.9097484350204468
+            },
+            {
+              "token": " was",
+              "logprob": -0.2594798803329468
+            },
+            {
+              "token": " to",
+              "logprob": -0.09217855334281921
+            },
+            {
+              "token": " try",
+              "logprob": -4.354806900024414
+            },
+            {
+              "token": " to",
+              "logprob": -0.6943365335464478
+            },
+            {
+              "token": " stop",
+              "logprob": -3.6716489791870117
+            },
+            {
+              "token": " it",
+              "logprob": -1.578843593597412
+            },
+            {
+              "token": " by",
+              "logprob": -2.928858757019043
+            },
+            {
+              "token": " grabbing",
+              "logprob": -3.0809013843536377
+            },
+            {
+              "token": " it",
+              "logprob": -2.1035659313201904
+            },
+            {
+              "token": " and",
+              "logprob": -2.718308925628662
+            },
+            {
+              "token": " scratching",
+              "logprob": -3.492748498916626
+            },
+            {
+              "token": " again",
+              "logprob": -5.754754066467285
+            },
+            {
+              "token": ",",
+              "logprob": -2.3670766353607178
+            },
+            {
+              "token": " but",
+              "logprob": -0.7281511425971985
+            },
+            {
+              "token": " instead",
+              "logprob": -3.847940444946289
+            },
+            {
+              "token": " I",
+              "logprob": -1.4833781719207764
+            },
+            {
+              "token": " grabbed",
+              "logprob": -2.1893811225891113
+            },
+            {
+              "token": " the",
+              "logprob": -2.1241650581359863
+            },
+            {
+              "token": " bottom",
+              "logprob": -4.124911785125732
+            },
+            {
+              "token": " of",
+              "logprob": -0.21473360061645508
+            },
+            {
+              "token": " his",
+              "logprob": -2.2357089519500732
+            },
+            {
+              "token": " feet",
+              "logprob": -2.400909185409546
+            },
+            {
+              "token": " and",
+              "logprob": -1.1156284809112549
+            },
+            {
+              "token": " ran",
+              "logprob": -4.917201042175293
+            },
+            {
+              "token": " towards",
+              "logprob": -4.540952205657959
+            },
+            {
+              "token": " the",
+              "logprob": -1.2476087808609009
+            },
+            {
+              "token": " road",
+              "logprob": -4.606193542480469
+            },
+            {
+              "token": " in",
+              "logprob": -4.2945990562438965
+            },
+            {
+              "token": " search",
+              "logprob": -2.445708751678467
+            },
+            {
+              "token": " of",
+              "logprob": -0.38249534368515015
+            },
+            {
+              "token": " a",
+              "logprob": -0.8001229763031006
+            },
+            {
+              "token": " large",
+              "logprob": -5.103741645812988
+            },
+            {
+              "token": " trash",
+              "logprob": -3.435901165008545
+            },
+            {
+              "token": " container",
+              "logprob": -3.0305981636047363
+            },
+            {
+              "token": "!",
+              "logprob": -3.3673176765441895
+            },
+            {
+              "token": " As",
+              "logprob": -2.4627888202667236
+            },
+            {
+              "token": " I",
+              "logprob": -1.1683547496795654
+            },
+            {
+              "token": " headed",
+              "logprob": -4.927067756652832
+            },
+            {
+              "token": " to",
+              "logprob": -1.945839524269104
+            },
+            {
+              "token": " our",
+              "logprob": -2.956088066101074
+            },
+            {
+              "token": " next",
+              "logprob": -4.1436967849731445
+            },
+            {
+              "token": " meeting",
+              "logprob": -2.080078601837158
+            },
+            {
+              "token": ",",
+              "logprob": -1.5009886026382446
+            },
+            {
+              "token": " Grace",
+              "logprob": -2.3983154296875
+            },
+            {
+              "token": " thought",
+              "logprob": -3.8809919357299805
+            },
+            {
+              "token": ",",
+              "logprob": -2.450198173522949
+            },
+            {
+              "token": " “",
+              "logprob": -0.14929701387882233
+            },
+            {
+              "token": "Wow",
+              "logprob": -4.048372745513916
+            },
+            {
+              "token": "!",
+              "logprob": -1.9938194751739502
+            },
+            {
+              "token": " This",
+              "logprob": -2.6970839500427246
+            },
+            {
+              "token": " is",
+              "logprob": -0.6742575168609619
+            },
+            {
+              "token": " why",
+              "logprob": -4.592348098754883
+            },
+            {
+              "token": " I",
+              "logprob": -1.4049044847488403
+            },
+            {
+              "token": " like",
+              "logprob": -3.195847272872925
+            },
+            {
+              "token": " meeting",
+              "logprob": -4.204433441162109
+            },
+            {
+              "token": " new",
+              "logprob": -2.7287144660949707
+            },
+            {
+              "token": " people",
+              "logprob": -0.7003495693206787
+            },
+            {
+              "token": ".",
+              "logprob": -2.040010929107666
+            },
+            {
+              "token": " We",
+              "logprob": -1.1106553077697754
+            },
+            {
+              "token": " got",
+              "logprob": -3.414910316467285
+            },
+            {
+              "token": " there",
+              "logprob": -5.355385780334473
+            },
+            {
+              "token": " really",
+              "logprob": -4.158477306365967
+            },
+            {
+              "token": " quick",
+              "logprob": -0.9524469375610352
+            },
+            {
+              "token": " with",
+              "logprob": -4.85423469543457
+            },
+            {
+              "token": " lots",
+              "logprob": -4.050631523132324
+            },
+            {
+              "token": " of",
+              "logprob": -0.038108088076114655
+            },
+            {
+              "token": " practice",
+              "logprob": -3.6913819313049316
+            },
+            {
+              "token": " and",
+              "logprob": -1.820717215538025
+            },
+            {
+              "token": " a",
+              "logprob": -2.48545241355896
+            },
+            {
+              "token": " great",
+              "logprob": -3.2439417839050293
+            },
+            {
+              "token": " help",
+              "logprob": -5.03953218460083
+            },
+            {
+              "token": " along",
+              "logprob": -3.428468942642212
+            },
+            {
+              "token": " the",
+              "logprob": -0.10761450231075287
+            },
+            {
+              "token": " way",
+              "logprob": -0.007865764200687408
+            },
+            {
+              "token": "!”",
+              "logprob": -2.764390230178833
+            },
+            {
+              "token": " The",
+              "logprob": -3.4203267097473145
+            },
+            {
+              "token": " following",
+              "logprob": -5.51363468170166
+            },
+            {
+              "token": " morning",
+              "logprob": -3.1635892391204834
+            },
+            {
+              "token": " we",
+              "logprob": -1.6181620359420776
+            },
+            {
+              "token": " did",
+              "logprob": -4.570147514343262
+            },
+            {
+              "token": " it",
+              "logprob": -1.214555025100708
+            },
+            {
+              "token": " all",
+              "logprob": -1.3379220962524414
+            },
+            {
+              "token": " over",
+              "logprob": -1.014886498451233
+            },
+            {
+              "token": " again",
+              "logprob": -0.030483203008770943
+            },
+            {
+              "token": " because",
+              "logprob": -4.85815954208374
+            },
+            {
+              "token": " we",
+              "logprob": -0.9728429317474365
+            },
+            {
+              "token": " love",
+              "logprob": -2.696523904800415
+            },
+            {
+              "token": " each",
+              "logprob": -2.9169578552246094
+            },
+            {
+              "token": " other",
+              "logprob": -0.04007277637720108
+            },
+            {
+              "token": " so",
+              "logprob": -0.7158480882644653
+            },
+            {
+              "token": " much",
+              "logprob": -0.16573378443717957
+            },
+            {
+              "token": " that",
+              "logprob": -3.334845542907715
+            },
+            {
+              "token": " we",
+              "logprob": -0.29476356506347656
+            },
+            {
+              "token": " feel",
+              "logprob": -5.249946594238281
+            },
+            {
+              "token": " like",
+              "logprob": -1.5456438064575195
+            },
+            {
+              "token": " family",
+              "logprob": -1.6200895309448242
+            },
+            {
+              "token": " already",
+              "logprob": -4.814788341522217
+            },
+            {
+              "token": " :)",
+              "logprob": -4.995418071746826
+            },
+            {
+              "token": " Our",
+              "logprob": -5.237899303436279
+            },
+            {
+              "token": " ",
+              "logprob": -4.7084197998046875
+            },
+            {
+              "token": "4",
+              "logprob": -2.5243124961853027
+            },
+            {
+              "token": " year",
+              "logprob": -2.4955146312713623
+            },
+            {
+              "token": " old",
+              "logprob": -1.0339784622192383
+            },
+            {
+              "token": " niece",
+              "logprob": -4.913360595703125
+            },
+            {
+              "token": " has",
+              "logprob": -4.422216415405273
+            },
+            {
+              "token": " started",
+              "logprob": -4.697125434875488
+            },
+            {
+              "token": " calling",
+              "logprob": -2.0257186889648438
+            },
+            {
+              "token": " her",
+              "logprob": -2.1107053756713867
+            },
+            {
+              "token": " ‘",
+              "logprob": -4.858065605163574
+            },
+            {
+              "token": "James",
+              "logprob": -4.469089508056641
+            },
+            {
+              "token": "’",
+              "logprob": -0.8265638947486877
+            },
+            {
+              "token": " because",
+              "logprob": -1.967918872833252
+            },
+            {
+              "token": " of",
+              "logprob": -2.0148377418518066
+            },
+            {
+              "token": " how",
+              "logprob": -1.5830137729644775
+            },
+            {
+              "token": " similar",
+              "logprob": -3.0539889335632324
+            },
+            {
+              "token": " we",
+              "logprob": -1.5957914590835571
+            },
+            {
+              "token": " are",
+              "logprob": -0.9821943044662476
+            },
+            {
+              "token": " in",
+              "logprob": -1.7623279094696045
+            },
+            {
+              "token": " both",
+              "logprob": -4.456440448760986
+            },
+            {
+              "token": " personality",
+              "logprob": -2.1360461711883545
+            },
+            {
+              "token": " and",
+              "logprob": -0.14330187439918518
+            },
+            {
+              "token": " interests",
+              "logprob": -4.166316032409668
+            },
+            {
+              "token": ".",
+              "logprob": -0.7938095331192017
+            },
+            {
+              "token": " James",
+              "logprob": -3.8731980323791504
+            },
+            {
+              "token": " was",
+              "logprob": -3.334016799926758
+            },
+            {
+              "token": " a",
+              "logprob": -2.7840354442596436
+            },
+            {
+              "token": " bit",
+              "logprob": -1.9715522527694702
+            },
+            {
+              "token": " self",
+              "logprob": -5.170768737792969
+            },
+            {
+              "token": "-conscious",
+              "logprob": -0.4269644320011139
+            },
+            {
+              "token": " of",
+              "logprob": -2.3550610542297363
+            },
+            {
+              "token": " her",
+              "logprob": -1.7547188997268677
+            },
+            {
+              "token": " lack",
+              "logprob": -4.980567455291748
+            },
+            {
+              "token": " of",
+              "logprob": -0.01104031503200531
+            },
+            {
+              "token": " experience",
+              "logprob": -2.545037031173706
+            },
+            {
+              "token": ",",
+              "logprob": -1.446988821029663
+            },
+            {
+              "token": " “",
+              "logprob": -3.446286201477051
+            },
+            {
+              "token": "but",
+              "logprob": -4.079963684082031
+            },
+            {
+              "token": " this",
+              "logprob": -3.824336051940918
+            },
+            {
+              "token": " is",
+              "logprob": -0.6879352331161499
+            },
+            {
+              "token": " a",
+              "logprob": -1.8734421730041504
+            },
+            {
+              "token": " special",
+              "logprob": -4.147164821624756
+            },
+            {
+              "token": " place",
+              "logprob": -2.864593505859375
+            },
+            {
+              "token": " for",
+              "logprob": -1.6953339576721191
+            },
+            {
+              "token": " me",
+              "logprob": -2.1275501251220703
+            },
+            {
+              "token": ",”",
+              "logprob": -1.97403883934021
+            },
+            {
+              "token": " he",
+              "logprob": -3.5699589252471924
+            },
+            {
+              "token": " thought",
+              "logprob": -1.7795352935791016
+            },
+            {
+              "token": ".",
+              "logprob": -1.0293389558792114
+            },
+            {
+              "token": " “",
+              "logprob": -2.538261890411377
+            },
+            {
+              "token": "I",
+              "logprob": -1.360599160194397
+            },
+            {
+              "token": "’m",
+              "logprob": -1.664466142654419
+            },
+            {
+              "token": " here",
+              "logprob": -3.6643128395080566
+            },
+            {
+              "token": " to",
+              "logprob": -0.8594030141830444
+            },
+            {
+              "token": " meet",
+              "logprob": -3.2925944328308105
+            },
+            {
+              "token": " people",
+              "logprob": -3.8318963050842285
+            },
+            {
+              "token": " who",
+              "logprob": -2.2300033569335938
+            },
+            {
+              "token": " look",
+              "logprob": -4.773714542388916
+            },
+            {
+              "token": " like",
+              "logprob": -1.1033066511154175
+            },
+            {
+              "token": " me",
+              "logprob": -0.34068724513053894
+            },
+            {
+              "token": "”",
+              "logprob": -4.7005839347839355
+            },
+            {
+              "token": " We",
+              "logprob": -3.076242208480835
+            },
+            {
+              "token": " both",
+              "logprob": -2.4401299953460693
+            },
+            {
+              "token": " enjoyed",
+              "logprob": -4.998315811157227
+            },
+            {
+              "token": " the",
+              "logprob": -1.0194816589355469
+            },
+            {
+              "token": " outdoors",
+              "logprob": -4.365977764129639
+            },
+            {
+              "token": "y",
+              "logprob": -3.869913101196289
+            },
+            {
+              "token": " way",
+              "logprob": -4.7063822746276855
+            },
+            {
+              "token": " with",
+              "logprob": -5.376845836639404
+            },
+            {
+              "token": " all",
+              "logprob": -3.20906662940979
+            },
+            {
+              "token": " of",
+              "logprob": -1.113473653793335
+            },
+            {
+              "token": " our",
+              "logprob": -0.8058165907859802
+            },
+            {
+              "token": " friends",
+              "logprob": -1.9169713258743286
+            },
+            {
+              "token": " there",
+              "logprob": -5.038275718688965
+            },
+            {
+              "token": " to",
+              "logprob": -2.2070913314819336
+            },
+            {
+              "token": " join",
+              "logprob": -3.8508646488189697
+            },
+            {
+              "token": "!",
+              "logprob": -3.7674505710601807
+            },
+            {
+              "token": " When",
+              "logprob": -4.696467399597168
+            },
+            {
+              "token": " they",
+              "logprob": -3.66845440864563
+            },
+            {
+              "token": " finally",
+              "logprob": -3.3144631385803223
+            },
+            {
+              "token": " met",
+              "logprob": -1.1975739002227783
+            },
+            {
+              "token": " we",
+              "logprob": -4.018349647521973
+            },
+            {
+              "token": " all",
+              "logprob": -2.6635756492614746
+            },
+            {
+              "token": " laughed",
+              "logprob": -3.11440372467041
+            },
+            {
+              "token": " and",
+              "logprob": -1.536278486251831
+            },
+            {
+              "token": " gigg",
+              "logprob": -3.324190139770508
+            },
+            {
+              "token": "led",
+              "logprob": -0.0012331745820119977
+            },
+            {
+              "token": " and",
+              "logprob": -2.1873021125793457
+            },
+            {
+              "token": " then",
+              "logprob": -3.5567872524261475
+            },
+            {
+              "token": " said",
+              "logprob": -3.6289987564086914
+            },
+            {
+              "token": ",",
+              "logprob": -0.5265388488769531
+            },
+            {
+              "token": " “",
+              "logprob": -0.08544152975082397
+            },
+            {
+              "token": "James",
+              "logprob": -3.291794538497925
+            },
+            {
+              "token": " and",
+              "logprob": -2.3139636516571045
+            },
+            {
+              "token": " Grace",
+              "logprob": -0.08658066391944885
+            },
+            {
+              "token": ",",
+              "logprob": -1.2269294261932373
+            },
+            {
+              "token": " we",
+              "logprob": -1.6078567504882812
+            },
+            {
+              "token": "’ve",
+              "logprob": -3.488851547241211
+            },
+            {
+              "token": " always",
+              "logprob": -3.985276222229004
+            },
+            {
+              "token": " wanted",
+              "logprob": -3.2927162647247314
+            },
+            {
+              "token": " to",
+              "logprob": -0.07770079374313354
+            },
+            {
+              "token": " meet",
+              "logprob": -1.1672385931015015
+            },
+            {
+              "token": " one",
+              "logprob": -3.8218698501586914
+            },
+            {
+              "token": " another",
+              "logprob": -0.19119232892990112
+            },
+            {
+              "token": "!”",
+              "logprob": -1.6491591930389404
+            },
+            {
+              "token": " So",
+              "logprob": -5.144496440887451
+            },
+            {
+              "token": " today",
+              "logprob": -4.781984329223633
+            },
+            {
+              "token": " it",
+              "logprob": -5.227078437805176
+            },
+            {
+              "token": "’s",
+              "logprob": -1.208817481994629
+            },
+            {
+              "token": " a",
+              "logprob": -1.9851722717285156
+            },
+            {
+              "token": " two",
+              "logprob": -4.666162014007568
+            },
+            {
+              "token": "fer",
+              "logprob": -3.8370096683502197
+            },
+            {
+              "token": ",",
+              "logprob": -2.354738235473633
+            },
+            {
+              "token": " because",
+              "logprob": -2.1654396057128906
+            },
+            {
+              "token": " of",
+              "logprob": -3.151200294494629
+            },
+            {
+              "token": " our",
+              "logprob": -2.3598437309265137
+            },
+            {
+              "token": " first",
+              "logprob": -4.750969409942627
+            },
+            {
+              "token": " meeting",
+              "logprob": -0.7939218282699585
+            },
+            {
+              "token": " James",
+              "logprob": -5.732389450073242
+            },
+            {
+              "token": " said",
+              "logprob": -3.634946823120117
+            },
+            {
+              "token": " that",
+              "logprob": -4.480245590209961
+            },
+            {
+              "token": " it",
+              "logprob": -2.783458948135376
+            },
+            {
+              "token": " was",
+              "logprob": -0.6533123850822449
+            },
+            {
+              "token": " just",
+              "logprob": -3.690274238586426
+            },
+            {
+              "token": " perfect",
+              "logprob": -4.9097137451171875
+            },
+            {
+              "token": " for",
+              "logprob": -2.236840009689331
+            },
+            {
+              "token": " the",
+              "logprob": -3.264310121536255
+            },
+            {
+              "token": " both",
+              "logprob": -0.7161703705787659
+            },
+            {
+              "token": " of",
+              "logprob": -0.03272126242518425
+            },
+            {
+              "token": " us",
+              "logprob": -0.06779873371124268
+            },
+            {
+              "token": " because",
+              "logprob": -2.641651153564453
+            },
+            {
+              "token": " not",
+              "logprob": -5.114013195037842
+            },
+            {
+              "token": " only",
+              "logprob": -0.0989738255739212
+            },
+            {
+              "token": " did",
+              "logprob": -1.4884041547775269
+            },
+            {
+              "token": " he",
+              "logprob": -3.6087470054626465
+            },
+            {
+              "token": " want",
+              "logprob": -2.650595188140869
+            },
+            {
+              "token": " to",
+              "logprob": -0.08395841717720032
+            },
+            {
+              "token": " help",
+              "logprob": -3.9607114791870117
+            },
+            {
+              "token": " with",
+              "logprob": -3.16725754737854
+            },
+            {
+              "token": " this",
+              "logprob": -3.9101338386535645
+            },
+            {
+              "token": " project",
+              "logprob": -1.5149646997451782
+            },
+            {
+              "token": " but",
+              "logprob": -1.162564992904663
+            },
+            {
+              "token": " he",
+              "logprob": -1.6403491497039795
+            },
+            {
+              "token": " also",
+              "logprob": -0.5521306395530701
+            },
+            {
+              "token": " really",
+              "logprob": -2.8422107696533203
+            },
+            {
+              "token": " loved",
+              "logprob": -2.2863926887512207
+            },
+            {
+              "token": " meeting",
+              "logprob": -3.00240159034729
+            },
+            {
+              "token": " up",
+              "logprob": -3.7956595420837402
+            },
+            {
+              "token": " together",
+              "logprob": -4.316308498382568
+            },
+            {
+              "token": " to",
+              "logprob": -2.7175745964050293
+            },
+            {
+              "token": " talk",
+              "logprob": -3.5219669342041016
+            },
+            {
+              "token": " about",
+              "logprob": -0.39852309226989746
+            },
+            {
+              "token": " our",
+              "logprob": -1.9888049364089966
+            },
+            {
+              "token": " personalities",
+              "logprob": -4.084789276123047
+            },
+            {
+              "token": " and",
+              "logprob": -0.8169599771499634
+            },
+            {
+              "token": " interests",
+              "logprob": -0.9684564471244812
+            },
+            {
+              "token": ".",
+              "logprob": -1.6050901412963867
+            },
+            {
+              "token": " We",
+              "logprob": -1.6650753021240234
+            },
+            {
+              "token": "’ve",
+              "logprob": -4.137927532196045
+            },
+            {
+              "token": " made",
+              "logprob": -4.915506362915039
+            },
+            {
+              "token": " this",
+              "logprob": -3.837799549102783
+            },
+            {
+              "token": " an",
+              "logprob": -4.694674491882324
+            },
+            {
+              "token": " ongoing",
+              "logprob": -1.9377408027648926
+            },
+            {
+              "token": " series",
+              "logprob": -3.463346481323242
+            },
+            {
+              "token": ",",
+              "logprob": -2.547407627105713
+            },
+            {
+              "token": " each",
+              "logprob": -5.6055450439453125
+            },
+            {
+              "token": " with",
+              "logprob": -2.401322841644287
+            },
+            {
+              "token": " their",
+              "logprob": -1.708594560623169
+            },
+            {
+              "token": " own",
+              "logprob": -0.03463483229279518
+            },
+            {
+              "token": " theme",
+              "logprob": -3.934316635131836
+            },
+            {
+              "token": " (",
+              "logprob": -4.995428085327148
+            },
+            {
+              "token": "from",
+              "logprob": -5.515776634216309
+            },
+            {
+              "token": " left",
+              "logprob": -4.1898698806762695
+            },
+            {
+              "token": "):",
+              "logprob": -4.4713850021362305
+            },
+            {
+              "token": " ",
+              "logprob": -2.1908063888549805
+            },
+            {
+              "token": "2",
+              "logprob": -3.124509572982788
+            },
+            {
+              "token": ")",
+              "logprob": -2.133312225341797
+            },
+            {
+              "token": " ",
+              "logprob": -2.814088821411133
+            },
+            {
+              "token": "1",
+              "logprob": -2.901897668838501
+            },
+            {
+              "token": ")",
+              "logprob": -0.344573050737381
+            },
+            {
+              "token": " &",
+              "logprob": -4.786864757537842
+            },
+            {
+              "token": " ",
+              "logprob": -0.1720893383026123
+            },
+            {
+              "token": "3",
+              "logprob": -0.3376162350177765
+            },
+            {
+              "token": ")\n",
+              "logprob": -3.5048117637634277
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Copper",
+          "token_data": [
+            {
+              "token": " Copper",
+              "logprob": -4.056184768676758
+            },
+            {
+              "token": " Q",
+              "logprob": -2.1641581058502197
+            },
+            {
+              "token": ":",
+              "logprob": -0.027166519314050674
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

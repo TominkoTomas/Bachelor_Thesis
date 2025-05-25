@@ -1,0 +1,899 @@
+{
+  "story": "Sam and Ryan were best friends. One day, they played inside Sam’s house. The sky was gray, and rain tapped the window. Sam sat on the couch holding a pillow. Ryan yawned and stretched his arms. Sam threw a soft pillow at Ryan, but Ryan did not catch it. The pillow hit the wall and fell. Ryan chuckled and shook his head. Sam giggled and ran to grab the pillow again. Outside, the rain kept falling. The boys decided to build a fort with blankets and chairs. They worked together, pulling sheets over the chairs. Ryan found snacks in the kitchen. He brought cookies and juice to the fort. Sam fluffed the pillow and put it on the floor. They sat inside their fort, eating and telling silly stories. The storm outside didn’t bother them. They were cozy and happy. After a while, Ryan picked up a book. Sam rested his head on the pillow and listened as Ryan read aloud. It was a perfect day for friends.",
+  "characters": [
+    {
+      "question": "What texture did the pillow Sam threw have?",
+      "character": "Sam",
+      "story": "Sam and Ryan were best friends. One day, they played inside Sam’s house. The sky was gray, and rain tapped the window. Sam sat on the couch holding a pillow. Ryan yawned and stretched his arms. Sam threw a soft pillow at Ryan, but Ryan did not catch it. The pillow hit the wall and fell. Ryan chuckled and shook his head. Sam giggled and ran to grab the pillow again. Outside, the rain kept falling. The boys decided to build a fort with blankets and chairs. They worked together, pulling sheets over the chairs. Ryan found snacks in the kitchen. He brought cookies and juice to the fort. Sam fluffed the pillow and put it on the floor. They sat inside their fort, eating and telling silly stories. The storm outside didn’t bother them. They were cozy and happy. After a while, Ryan picked up a book. Sam rested his head on the pillow and listened as Ryan read aloud. It was a perfect day for friends.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Soft.",
+          "token_data": [
+            {
+              "token": " Soft",
+              "logprob": -1.4426077604293823
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.029703140258789
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "What size was the pillow that Sam threw?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.344047784805298
+            },
+            {
+              "token": " size",
+              "logprob": -3.279813289642334
+            },
+            {
+              "token": " was",
+              "logprob": -1.7689663171768188
+            },
+            {
+              "token": " the",
+              "logprob": -0.1321348249912262
+            },
+            {
+              "token": " pillow",
+              "logprob": -0.2366059571504593
+            },
+            {
+              "token": " that",
+              "logprob": -2.427532911300659
+            },
+            {
+              "token": " Sam",
+              "logprob": -0.27703583240509033
+            },
+            {
+              "token": " threw",
+              "logprob": -0.1110551729798317
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.5190951824188232
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Which texture did Sam’s pillow have?",
+          "token_data": [
+            {
+              "token": " Which",
+              "logprob": -3.9808294773101807
+            },
+            {
+              "token": " texture",
+              "logprob": -0.6746216416358948
+            },
+            {
+              "token": " did",
+              "logprob": -0.26349854469299316
+            },
+            {
+              "token": " Sam",
+              "logprob": -1.0732369422912598
+            },
+            {
+              "token": "’s",
+              "logprob": -1.7787160873413086
+            },
+            {
+              "token": " pillow",
+              "logprob": -0.8504213094711304
+            },
+            {
+              "token": " have",
+              "logprob": -0.12782758474349976
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.452516555786133
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Sam threw a pillow.",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -2.493133783340454
+            },
+            {
+              "token": " threw",
+              "logprob": -0.4102820158004761
+            },
+            {
+              "token": " a",
+              "logprob": -0.0885731428861618
+            },
+            {
+              "token": " pillow",
+              "logprob": -2.854740858078003
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.6981191635131836
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Soft.",
+          "token_data": [
+            {
+              "token": " Soft",
+              "logprob": -1.4282572269439697
+            },
+            {
+              "token": ".",
+              "logprob": -1.4079893827438354
+            },
+            {
+              "token": " \n",
+              "logprob": -1.8356428146362305
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Soft.",
+          "token_data": [
+            {
+              "token": " Soft",
+              "logprob": -1.4282572269439697
+            },
+            {
+              "token": ".",
+              "logprob": -1.4079893827438354
+            },
+            {
+              "token": " ",
+              "logprob": -3.086113929748535
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8949170112609863
+            },
+            {
+              "token": ":",
+              "logprob": -0.02466374635696411
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The pillow that was on the floor looked soft. (Soft Pillow)",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.0039541721343994
+            },
+            {
+              "token": " pillow",
+              "logprob": -0.9224177002906799
+            },
+            {
+              "token": " that",
+              "logprob": -3.256546974182129
+            },
+            {
+              "token": " was",
+              "logprob": -2.4975733757019043
+            },
+            {
+              "token": " on",
+              "logprob": -3.1724321842193604
+            },
+            {
+              "token": " the",
+              "logprob": -0.061677929013967514
+            },
+            {
+              "token": " floor",
+              "logprob": -0.20790338516235352
+            },
+            {
+              "token": " looked",
+              "logprob": -4.298930644989014
+            },
+            {
+              "token": " soft",
+              "logprob": -2.2733912467956543
+            },
+            {
+              "token": ".",
+              "logprob": -0.7307822704315186
+            },
+            {
+              "token": " (",
+              "logprob": -4.479036808013916
+            },
+            {
+              "token": "Soft",
+              "logprob": -2.9200828075408936
+            },
+            {
+              "token": " Pillow",
+              "logprob": -2.642937183380127
+            },
+            {
+              "token": ")\n",
+              "logprob": -2.2518746852874756
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Sam threw a soft pillow.",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -2.493133783340454
+            },
+            {
+              "token": " threw",
+              "logprob": -0.4102820158004761
+            },
+            {
+              "token": " a",
+              "logprob": -0.0885731428861618
+            },
+            {
+              "token": " soft",
+              "logprob": -0.23577570915222168
+            },
+            {
+              "token": " pillow",
+              "logprob": -0.177954763174057
+            },
+            {
+              "token": ".",
+              "logprob": -1.12864351272583
+            },
+            {
+              "token": " Q",
+              "logprob": -1.7260923385620117
+            },
+            {
+              "token": ":",
+              "logprob": -0.034740302711725235
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "soft",
+          "token_data": [
+            {
+              "token": " soft",
+              "logprob": -2.040172815322876
+            },
+            {
+              "token": " Q",
+              "logprob": -1.4317381381988525
+            },
+            {
+              "token": ":",
+              "logprob": -0.017626894637942314
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "What color were the pillow and walls in Sam and Ryan's Fort?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.344047784805298
+            },
+            {
+              "token": " color",
+              "logprob": -3.235381603240967
+            },
+            {
+              "token": " were",
+              "logprob": -2.7228121757507324
+            },
+            {
+              "token": " the",
+              "logprob": -0.13590100407600403
+            },
+            {
+              "token": " pillow",
+              "logprob": -3.9303886890411377
+            },
+            {
+              "token": " and",
+              "logprob": -2.260462760925293
+            },
+            {
+              "token": " walls",
+              "logprob": -4.860008239746094
+            },
+            {
+              "token": " in",
+              "logprob": -3.137800693511963
+            },
+            {
+              "token": " Sam",
+              "logprob": -0.7490137815475464
+            },
+            {
+              "token": " and",
+              "logprob": -1.6092053651809692
+            },
+            {
+              "token": " Ryan",
+              "logprob": -0.01601722091436386
+            },
+            {
+              "token": "'s",
+              "logprob": -1.232358694076538
+            },
+            {
+              "token": " Fort",
+              "logprob": -2.9021286964416504
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.5818631649017334
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What texture did the pillow Ryan threw have?",
+      "character": "Ryan",
+      "story": "Sam and Ryan were best friends. One day, they played inside Sam’s house. The sky was gray, and rain tapped the window. Sam sat on the couch holding a pillow. Ryan yawned and stretched his arms. Sam threw a soft pillow at Ryan, but Ryan did not catch it. The pillow hit the wall and fell. Ryan chuckled and shook his head. Sam giggled and ran to grab the pillow again. Outside, the rain kept falling. The boys decided to build a fort with blankets and chairs. They worked together, pulling sheets over the chairs. Ryan found snacks in the kitchen. He brought cookies and juice to the fort. Sam fluffed the pillow and put it on the floor. They sat inside their fort, eating and telling silly stories. The storm outside didn’t bother them. They were cozy and happy. After a while, Ryan picked up a book. Sam rested his head on the pillow and listened as Ryan read aloud. It was a perfect day for friends.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Soft",
+          "token_data": [
+            {
+              "token": " Soft",
+              "logprob": -1.6609457731246948
+            },
+            {
+              "token": " Q",
+              "logprob": -1.5657861232757568
+            },
+            {
+              "token": ":",
+              "logprob": -0.018018487840890884
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The pillow Ryan threw was soft and fluffy.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.7185544967651367
+            },
+            {
+              "token": " pillow",
+              "logprob": -0.7230904698371887
+            },
+            {
+              "token": " Ryan",
+              "logprob": -1.083458423614502
+            },
+            {
+              "token": " threw",
+              "logprob": -0.05593987554311752
+            },
+            {
+              "token": " was",
+              "logprob": -1.0229681730270386
+            },
+            {
+              "token": " soft",
+              "logprob": -1.0741021633148193
+            },
+            {
+              "token": " and",
+              "logprob": -2.1104862689971924
+            },
+            {
+              "token": " fluffy",
+              "logprob": -1.0829492807388306
+            },
+            {
+              "token": ".",
+              "logprob": -0.3457435369491577
+            },
+            {
+              "token": " Q",
+              "logprob": -1.5213217735290527
+            },
+            {
+              "token": ":",
+              "logprob": -0.02778642624616623
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Sam’s pillow had a different texture than Ryan’s.",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -3.041489601135254
+            },
+            {
+              "token": "’s",
+              "logprob": -2.666983127593994
+            },
+            {
+              "token": " pillow",
+              "logprob": -0.9186350703239441
+            },
+            {
+              "token": " had",
+              "logprob": -1.5986132621765137
+            },
+            {
+              "token": " a",
+              "logprob": -0.44667384028434753
+            },
+            {
+              "token": " different",
+              "logprob": -4.055834770202637
+            },
+            {
+              "token": " texture",
+              "logprob": -0.08769141882658005
+            },
+            {
+              "token": " than",
+              "logprob": -0.8310955762863159
+            },
+            {
+              "token": " Ryan",
+              "logprob": -0.2630908489227295
+            },
+            {
+              "token": "’s",
+              "logprob": -0.011861272156238556
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.7911155223846436
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The answer to this question is an image with the same format.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.7185544967651367
+            },
+            {
+              "token": " answer",
+              "logprob": -2.7858803272247314
+            },
+            {
+              "token": " to",
+              "logprob": -1.6756365299224854
+            },
+            {
+              "token": " this",
+              "logprob": -0.18135195970535278
+            },
+            {
+              "token": " question",
+              "logprob": -0.12050778418779373
+            },
+            {
+              "token": " is",
+              "logprob": -0.6576078534126282
+            },
+            {
+              "token": " an",
+              "logprob": -4.000397682189941
+            },
+            {
+              "token": " image",
+              "logprob": -3.953517436981201
+            },
+            {
+              "token": " with",
+              "logprob": -3.9597604274749756
+            },
+            {
+              "token": " the",
+              "logprob": -1.8312246799468994
+            },
+            {
+              "token": " same",
+              "logprob": -4.2476806640625
+            },
+            {
+              "token": " format",
+              "logprob": -5.093585014343262
+            },
+            {
+              "token": ".",
+              "logprob": -1.762277603149414
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.534938335418701
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "It was soft.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.5210676193237305
+            },
+            {
+              "token": " was",
+              "logprob": -0.3888312578201294
+            },
+            {
+              "token": " soft",
+              "logprob": -1.6683446168899536
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.294900417327881
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "What is its color?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.2848968505859375
+            },
+            {
+              "token": " is",
+              "logprob": -3.324882984161377
+            },
+            {
+              "token": " its",
+              "logprob": -2.657931089401245
+            },
+            {
+              "token": " color",
+              "logprob": -2.260890483856201
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.790379762649536
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A. Soft B. Fuzzy C. Torn D: None of them matter the most!",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.3974218368530273
+            },
+            {
+              "token": ".",
+              "logprob": -2.551955223083496
+            },
+            {
+              "token": " Soft",
+              "logprob": -1.4295051097869873
+            },
+            {
+              "token": " B",
+              "logprob": -1.1468816995620728
+            },
+            {
+              "token": ".",
+              "logprob": -0.08818553388118744
+            },
+            {
+              "token": " F",
+              "logprob": -4.07378625869751
+            },
+            {
+              "token": "uzzy",
+              "logprob": -0.05455681309103966
+            },
+            {
+              "token": " C",
+              "logprob": -0.10146539658308029
+            },
+            {
+              "token": ".",
+              "logprob": -0.01855422370135784
+            },
+            {
+              "token": " T",
+              "logprob": -4.3263468742370605
+            },
+            {
+              "token": "orn",
+              "logprob": -2.401693820953369
+            },
+            {
+              "token": " D",
+              "logprob": -0.7048929929733276
+            },
+            {
+              "token": ":",
+              "logprob": -3.15263295173645
+            },
+            {
+              "token": " None",
+              "logprob": -0.6033627986907959
+            },
+            {
+              "token": " of",
+              "logprob": -0.42895323038101196
+            },
+            {
+              "token": " them",
+              "logprob": -1.466220736503601
+            },
+            {
+              "token": " matter",
+              "logprob": -4.5346198081970215
+            },
+            {
+              "token": " the",
+              "logprob": -4.60986328125
+            },
+            {
+              "token": " most",
+              "logprob": -1.0969595909118652
+            },
+            {
+              "token": "!",
+              "logprob": -4.008462905883789
+            },
+            {
+              "token": " Q",
+              "logprob": -2.3414053916931152
+            },
+            {
+              "token": ":",
+              "logprob": -0.050224822014570236
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Which of the following best matches its sense? a) the pillow had the same texture as a marshmallow, and b) it did not have a different texture from an apple or banana. B",
+          "token_data": [
+            {
+              "token": " Which",
+              "logprob": -3.9424333572387695
+            },
+            {
+              "token": " of",
+              "logprob": -2.39174747467041
+            },
+            {
+              "token": " the",
+              "logprob": -0.07888004928827286
+            },
+            {
+              "token": " following",
+              "logprob": -0.041960567235946655
+            },
+            {
+              "token": " best",
+              "logprob": -2.107400894165039
+            },
+            {
+              "token": " matches",
+              "logprob": -2.6884095668792725
+            },
+            {
+              "token": " its",
+              "logprob": -3.885432243347168
+            },
+            {
+              "token": " sense",
+              "logprob": -4.360657691955566
+            },
+            {
+              "token": "?",
+              "logprob": -1.3572144508361816
+            },
+            {
+              "token": " a",
+              "logprob": -2.7586379051208496
+            },
+            {
+              "token": ")",
+              "logprob": -1.2401939630508423
+            },
+            {
+              "token": " the",
+              "logprob": -3.675825834274292
+            },
+            {
+              "token": " pillow",
+              "logprob": -1.5967283248901367
+            },
+            {
+              "token": " had",
+              "logprob": -2.7794222831726074
+            },
+            {
+              "token": " the",
+              "logprob": -2.7285046577453613
+            },
+            {
+              "token": " same",
+              "logprob": -1.6163519620895386
+            },
+            {
+              "token": " texture",
+              "logprob": -0.37622135877609253
+            },
+            {
+              "token": " as",
+              "logprob": -0.13557420670986176
+            },
+            {
+              "token": " a",
+              "logprob": -0.9631330966949463
+            },
+            {
+              "token": " marsh",
+              "logprob": -5.0597333908081055
+            },
+            {
+              "token": "mallow",
+              "logprob": -0.4050467610359192
+            },
+            {
+              "token": ",",
+              "logprob": -2.864589214324951
+            },
+            {
+              "token": " and",
+              "logprob": -2.082157611846924
+            },
+            {
+              "token": " b",
+              "logprob": -1.0226116180419922
+            },
+            {
+              "token": ")",
+              "logprob": -0.038405828177928925
+            },
+            {
+              "token": " it",
+              "logprob": -2.3401429653167725
+            },
+            {
+              "token": " did",
+              "logprob": -3.0928168296813965
+            },
+            {
+              "token": " not",
+              "logprob": -0.05874692648649216
+            },
+            {
+              "token": " have",
+              "logprob": -0.1735278218984604
+            },
+            {
+              "token": " a",
+              "logprob": -1.565973162651062
+            },
+            {
+              "token": " different",
+              "logprob": -2.5132336616516113
+            },
+            {
+              "token": " texture",
+              "logprob": -0.07311759144067764
+            },
+            {
+              "token": " from",
+              "logprob": -1.5375906229019165
+            },
+            {
+              "token": " an",
+              "logprob": -4.803104400634766
+            },
+            {
+              "token": " apple",
+              "logprob": -1.944412112236023
+            },
+            {
+              "token": " or",
+              "logprob": -2.952772617340088
+            },
+            {
+              "token": " banana",
+              "logprob": -3.4583628177642822
+            },
+            {
+              "token": ".",
+              "logprob": -0.5542183518409729
+            },
+            {
+              "token": " B",
+              "logprob": -3.025651693344116
+            },
+            {
+              "token": "Q",
+              "logprob": -3.0904483795166016
+            },
+            {
+              "token": ":",
+              "logprob": -0.18640442192554474
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "soft",
+          "token_data": [
+            {
+              "token": " soft",
+              "logprob": -1.981535792350769
+            },
+            {
+              "token": "\n",
+              "logprob": -1.8266839981079102
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "soft, fluffing",
+          "token_data": [
+            {
+              "token": " soft",
+              "logprob": -1.981535792350769
+            },
+            {
+              "token": ",",
+              "logprob": -3.7463083267211914
+            },
+            {
+              "token": " fl",
+              "logprob": -3.9532675743103027
+            },
+            {
+              "token": "uff",
+              "logprob": -0.8029066324234009
+            },
+            {
+              "token": "ing",
+              "logprob": -2.1124911308288574
+            },
+            {
+              "token": "\n\n\n",
+              "logprob": -4.946133136749268
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

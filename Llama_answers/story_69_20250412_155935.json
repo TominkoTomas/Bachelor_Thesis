@@ -1,0 +1,1351 @@
+{
+  "story": "Lucas and Ella were best friends who loved to play outside. One summer night, they decided to have a picnic in the backyard. Ella brought sandwiches, and Lucas brought his art supplies. While Ella ate, Lucas painted a glowing moon on a big piece of paper. Ella laughed and said it looked magical. Lucas smiled and kept painting stars around it. The sky was dark, but the moon in his painting shone bright. Ella told stories about adventures they could have under a real glowing moon. Lucas listened and added more colors to his art. They both agreed it was the best picnic ever. When it was time to go inside, Lucas gave the painting to Ella. She hung it on her wall so she could always remember their fun night. The next day, they planned another picnic, but this time, Ella wanted to paint too. Lucas promised to teach her how to make a glowing moon just like his. They couldn’t wait to create more memories together.",
+  "characters": [
+    {
+      "question": "What feature did the moon Lucas painted have?",
+      "character": "Lucas",
+      "story": "Lucas and Ella were best friends who loved to play outside. One summer night, they decided to have a picnic in the backyard. Ella brought sandwiches, and Lucas brought his art supplies. While Ella ate, Lucas painted a glowing moon on a big piece of paper. Ella laughed and said it looked magical. Lucas smiled and kept painting stars around it. The sky was dark, but the moon in his painting shone bright. Ella told stories about adventures they could have under a real glowing moon. Lucas listened and added more colors to his art. They both agreed it was the best picnic ever. When it was time to go inside, Lucas gave the painting to Ella. She hung it on her wall so she could always remember their fun night. The next day, they planned another picnic, but this time, Ella wanted to paint too. Lucas promised to teach her how to make a glowing moon just like his. They couldn’t wait to create more memories together.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "It was the fact that it looked like a glowing moon outside.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.8820648193359375
+            },
+            {
+              "token": " was",
+              "logprob": -1.2996994256973267
+            },
+            {
+              "token": " the",
+              "logprob": -2.7431693077087402
+            },
+            {
+              "token": " fact",
+              "logprob": -2.9020729064941406
+            },
+            {
+              "token": " that",
+              "logprob": -0.2830894887447357
+            },
+            {
+              "token": " it",
+              "logprob": -1.1088476181030273
+            },
+            {
+              "token": " looked",
+              "logprob": -2.6331117153167725
+            },
+            {
+              "token": " like",
+              "logprob": -2.742746591567993
+            },
+            {
+              "token": " a",
+              "logprob": -0.6397823691368103
+            },
+            {
+              "token": " glowing",
+              "logprob": -1.2226910591125488
+            },
+            {
+              "token": " moon",
+              "logprob": -0.21675464510917664
+            },
+            {
+              "token": " outside",
+              "logprob": -3.7948575019836426
+            },
+            {
+              "token": ".",
+              "logprob": -0.6924715638160706
+            },
+            {
+              "token": " \n",
+              "logprob": -1.5005946159362793
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Lucas and Ella loved to look up into the sky as they created glowing mooms together.",
+          "token_data": [
+            {
+              "token": " Lucas",
+              "logprob": -3.4085726737976074
+            },
+            {
+              "token": " and",
+              "logprob": -1.672312617301941
+            },
+            {
+              "token": " Ella",
+              "logprob": -0.04809857904911041
+            },
+            {
+              "token": " loved",
+              "logprob": -3.2354140281677246
+            },
+            {
+              "token": " to",
+              "logprob": -0.3958834111690521
+            },
+            {
+              "token": " look",
+              "logprob": -3.2471163272857666
+            },
+            {
+              "token": " up",
+              "logprob": -1.13835871219635
+            },
+            {
+              "token": " into",
+              "logprob": -3.197335958480835
+            },
+            {
+              "token": " the",
+              "logprob": -0.07504084706306458
+            },
+            {
+              "token": " sky",
+              "logprob": -0.6464062929153442
+            },
+            {
+              "token": " as",
+              "logprob": -4.638405799865723
+            },
+            {
+              "token": " they",
+              "logprob": -0.4143257439136505
+            },
+            {
+              "token": " created",
+              "logprob": -3.21820068359375
+            },
+            {
+              "token": " glowing",
+              "logprob": -3.3802976608276367
+            },
+            {
+              "token": " m",
+              "logprob": -4.202558517456055
+            },
+            {
+              "token": "oom",
+              "logprob": -3.3805296421051025
+            },
+            {
+              "token": "s",
+              "logprob": -0.1299673467874527
+            },
+            {
+              "token": " together",
+              "logprob": -1.9655734300613403
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.012505054473877
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A feature of the moon in your painting did not shine bright.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.427433490753174
+            },
+            {
+              "token": " A",
+              "logprob": -2.6810426712036133
+            },
+            {
+              "token": " feature",
+              "logprob": -3.4997661113739014
+            },
+            {
+              "token": " of",
+              "logprob": -1.859431505203247
+            },
+            {
+              "token": " the",
+              "logprob": -0.6099562644958496
+            },
+            {
+              "token": " moon",
+              "logprob": -0.33133935928344727
+            },
+            {
+              "token": " in",
+              "logprob": -3.030085563659668
+            },
+            {
+              "token": " your",
+              "logprob": -3.8137261867523193
+            },
+            {
+              "token": " painting",
+              "logprob": -0.7063341736793518
+            },
+            {
+              "token": " did",
+              "logprob": -3.612032890319824
+            },
+            {
+              "token": " not",
+              "logprob": -0.400705486536026
+            },
+            {
+              "token": " shine",
+              "logprob": -2.3787989616394043
+            },
+            {
+              "token": " bright",
+              "logprob": -0.9615699648857117
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.4341988563537598
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It made the moon look real.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.8932548761367798
+            },
+            {
+              "token": " made",
+              "logprob": -3.8353731632232666
+            },
+            {
+              "token": " the",
+              "logprob": -0.8501862287521362
+            },
+            {
+              "token": " moon",
+              "logprob": -1.4620330333709717
+            },
+            {
+              "token": " look",
+              "logprob": -2.1443405151367188
+            },
+            {
+              "token": " real",
+              "logprob": -3.445266008377075
+            },
+            {
+              "token": ".",
+              "logprob": -0.981471061706543
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.8889240026474
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Lucas added more color to create a magic that appeared real.",
+          "token_data": [
+            {
+              "token": " Lucas",
+              "logprob": -3.4085726737976074
+            },
+            {
+              "token": " added",
+              "logprob": -2.730745315551758
+            },
+            {
+              "token": " more",
+              "logprob": -0.8307567834854126
+            },
+            {
+              "token": " color",
+              "logprob": -2.812924385070801
+            },
+            {
+              "token": " to",
+              "logprob": -0.44689083099365234
+            },
+            {
+              "token": " create",
+              "logprob": -3.8510985374450684
+            },
+            {
+              "token": " a",
+              "logprob": -0.5601367950439453
+            },
+            {
+              "token": " magic",
+              "logprob": -3.9772024154663086
+            },
+            {
+              "token": " that",
+              "logprob": -3.843533992767334
+            },
+            {
+              "token": " appeared",
+              "logprob": -5.0912275314331055
+            },
+            {
+              "token": " real",
+              "logprob": -2.932798385620117
+            },
+            {
+              "token": ".",
+              "logprob": -0.7908293008804321
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.5782597064971924
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "a glow of light",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.585509777069092
+            },
+            {
+              "token": " glow",
+              "logprob": -1.7800381183624268
+            },
+            {
+              "token": " of",
+              "logprob": -3.208970069885254
+            },
+            {
+              "token": " light",
+              "logprob": -0.41993963718414307
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.1507019996643066
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Lucas had the moon shine bright so it wasn’t necessary for others to tell him how he was a magical movie.",
+          "token_data": [
+            {
+              "token": " Lucas",
+              "logprob": -3.4085726737976074
+            },
+            {
+              "token": " had",
+              "logprob": -3.7698755264282227
+            },
+            {
+              "token": " the",
+              "logprob": -2.020273208618164
+            },
+            {
+              "token": " moon",
+              "logprob": -1.3326555490493774
+            },
+            {
+              "token": " shine",
+              "logprob": -1.8620645999908447
+            },
+            {
+              "token": " bright",
+              "logprob": -0.2999914884567261
+            },
+            {
+              "token": " so",
+              "logprob": -2.387956142425537
+            },
+            {
+              "token": " it",
+              "logprob": -1.944385290145874
+            },
+            {
+              "token": " wasn",
+              "logprob": -3.9750614166259766
+            },
+            {
+              "token": "’t",
+              "logprob": -1.2342944145202637
+            },
+            {
+              "token": " necessary",
+              "logprob": -3.3608391284942627
+            },
+            {
+              "token": " for",
+              "logprob": -2.5761497020721436
+            },
+            {
+              "token": " others",
+              "logprob": -4.700791835784912
+            },
+            {
+              "token": " to",
+              "logprob": -0.041571494191884995
+            },
+            {
+              "token": " tell",
+              "logprob": -4.0770087242126465
+            },
+            {
+              "token": " him",
+              "logprob": -1.3489699363708496
+            },
+            {
+              "token": " how",
+              "logprob": -3.2568917274475098
+            },
+            {
+              "token": " he",
+              "logprob": -2.4520697593688965
+            },
+            {
+              "token": " was",
+              "logprob": -2.0506725311279297
+            },
+            {
+              "token": " a",
+              "logprob": -3.491716146469116
+            },
+            {
+              "token": " magical",
+              "logprob": -2.8327107429504395
+            },
+            {
+              "token": " movie",
+              "logprob": -5.0466179847717285
+            },
+            {
+              "token": ".",
+              "logprob": -0.7860614657402039
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.8417690992355347
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "it shone brightly.",
+          "token_data": [
+            {
+              "token": " it",
+              "logprob": -4.253279209136963
+            },
+            {
+              "token": " sh",
+              "logprob": -1.3316473960876465
+            },
+            {
+              "token": "one",
+              "logprob": -0.45827874541282654
+            },
+            {
+              "token": " brightly",
+              "logprob": -3.1090610027313232
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.4256985187530518
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The moon was bright and glowed.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.615045189857483
+            },
+            {
+              "token": " moon",
+              "logprob": -1.3493428230285645
+            },
+            {
+              "token": " was",
+              "logprob": -2.075908660888672
+            },
+            {
+              "token": " bright",
+              "logprob": -3.431309223175049
+            },
+            {
+              "token": " and",
+              "logprob": -1.4949313402175903
+            },
+            {
+              "token": " gl",
+              "logprob": -3.252800226211548
+            },
+            {
+              "token": "owed",
+              "logprob": -0.00565109308809042
+            },
+            {
+              "token": ".",
+              "logprob": -1.3540316820144653
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -4.029143333435059
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Lucas was telling the story about a magical adventure when his glowing moon shone bright.",
+          "token_data": [
+            {
+              "token": " Lucas",
+              "logprob": -3.4085726737976074
+            },
+            {
+              "token": " was",
+              "logprob": -4.114771842956543
+            },
+            {
+              "token": " telling",
+              "logprob": -4.155136585235596
+            },
+            {
+              "token": " the",
+              "logprob": -3.0586273670196533
+            },
+            {
+              "token": " story",
+              "logprob": -0.3233805000782013
+            },
+            {
+              "token": " about",
+              "logprob": -1.1548383235931396
+            },
+            {
+              "token": " a",
+              "logprob": -2.4813199043273926
+            },
+            {
+              "token": " magical",
+              "logprob": -2.9676265716552734
+            },
+            {
+              "token": " adventure",
+              "logprob": -2.71508526802063
+            },
+            {
+              "token": " when",
+              "logprob": -3.9280033111572266
+            },
+            {
+              "token": " his",
+              "logprob": -3.314924955368042
+            },
+            {
+              "token": " glowing",
+              "logprob": -3.6892623901367188
+            },
+            {
+              "token": " moon",
+              "logprob": -0.30623355507850647
+            },
+            {
+              "token": " sh",
+              "logprob": -2.149864673614502
+            },
+            {
+              "token": "one",
+              "logprob": -0.618837296962738
+            },
+            {
+              "token": " bright",
+              "logprob": -0.3881217837333679
+            },
+            {
+              "token": ".",
+              "logprob": -0.5396337509155273
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What feature did the moon Ella painted have?",
+      "character": "Ella",
+      "story": "Lucas and Ella were best friends who loved to play outside. One summer night, they decided to have a picnic in the backyard. Ella brought sandwiches, and Lucas brought his art supplies. While Ella ate, Lucas painted a glowing moon on a big piece of paper. Ella laughed and said it looked magical. Lucas smiled and kept painting stars around it. The sky was dark, but the moon in his painting shone bright. Ella told stories about adventures they could have under a real glowing moon. Lucas listened and added more colors to his art. They both agreed it was the best picnic ever. When it was time to go inside, Lucas gave the painting to Ella. She hung it on her wall so she could always remember their fun night. The next day, they planned another picnic, but this time, Ella wanted to paint too. Lucas promised to teach her how to make a glowing moon just like his. They couldn’t wait to create more memories together.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "the ability to illuminate.",
+          "token_data": [
+            {
+              "token": " the",
+              "logprob": -3.748973846435547
+            },
+            {
+              "token": " ability",
+              "logprob": -3.4889721870422363
+            },
+            {
+              "token": " to",
+              "logprob": -0.033328745514154434
+            },
+            {
+              "token": " illuminate",
+              "logprob": -4.449229717254639
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.978372573852539
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "a glow of light.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.8495805263519287
+            },
+            {
+              "token": " glow",
+              "logprob": -2.0747385025024414
+            },
+            {
+              "token": " of",
+              "logprob": -3.335446834564209
+            },
+            {
+              "token": " light",
+              "logprob": -0.6151643395423889
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.7947769165039062
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "It did not look the same as real life.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.9491889476776123
+            },
+            {
+              "token": " did",
+              "logprob": -3.8947811126708984
+            },
+            {
+              "token": " not",
+              "logprob": -0.06406158208847046
+            },
+            {
+              "token": " look",
+              "logprob": -3.344550132751465
+            },
+            {
+              "token": " the",
+              "logprob": -3.6436610221862793
+            },
+            {
+              "token": " same",
+              "logprob": -0.1397581845521927
+            },
+            {
+              "token": " as",
+              "logprob": -0.5737934112548828
+            },
+            {
+              "token": " real",
+              "logprob": -4.434025764465332
+            },
+            {
+              "token": " life",
+              "logprob": -1.5177279710769653
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.4093422889709473
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The feature did not change the design of this story, but the text would change how you feel about it. How does that help your feeling of how this design was important?",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.4507367610931396
+            },
+            {
+              "token": " feature",
+              "logprob": -2.016575336456299
+            },
+            {
+              "token": " did",
+              "logprob": -2.1693484783172607
+            },
+            {
+              "token": " not",
+              "logprob": -0.07509426772594452
+            },
+            {
+              "token": " change",
+              "logprob": -3.003898859024048
+            },
+            {
+              "token": " the",
+              "logprob": -0.6563050746917725
+            },
+            {
+              "token": " design",
+              "logprob": -4.053927421569824
+            },
+            {
+              "token": " of",
+              "logprob": -0.5779208540916443
+            },
+            {
+              "token": " this",
+              "logprob": -4.036457061767578
+            },
+            {
+              "token": " story",
+              "logprob": -1.6260145902633667
+            },
+            {
+              "token": ",",
+              "logprob": -1.9043231010437012
+            },
+            {
+              "token": " but",
+              "logprob": -0.6283086538314819
+            },
+            {
+              "token": " the",
+              "logprob": -2.1603047847747803
+            },
+            {
+              "token": " text",
+              "logprob": -5.383323669433594
+            },
+            {
+              "token": " would",
+              "logprob": -4.509451866149902
+            },
+            {
+              "token": " change",
+              "logprob": -2.0860838890075684
+            },
+            {
+              "token": " how",
+              "logprob": -3.7333054542541504
+            },
+            {
+              "token": " you",
+              "logprob": -0.7902916073799133
+            },
+            {
+              "token": " feel",
+              "logprob": -4.319705009460449
+            },
+            {
+              "token": " about",
+              "logprob": -0.4414290487766266
+            },
+            {
+              "token": " it",
+              "logprob": -1.845917820930481
+            },
+            {
+              "token": ".",
+              "logprob": -0.5321016311645508
+            },
+            {
+              "token": " How",
+              "logprob": -4.914798736572266
+            },
+            {
+              "token": " does",
+              "logprob": -2.107875347137451
+            },
+            {
+              "token": " that",
+              "logprob": -2.845942735671997
+            },
+            {
+              "token": " help",
+              "logprob": -4.029717445373535
+            },
+            {
+              "token": " your",
+              "logprob": -3.743246555328369
+            },
+            {
+              "token": " feeling",
+              "logprob": -3.3735594749450684
+            },
+            {
+              "token": " of",
+              "logprob": -2.715622901916504
+            },
+            {
+              "token": " how",
+              "logprob": -3.467259168624878
+            },
+            {
+              "token": " this",
+              "logprob": -2.4384005069732666
+            },
+            {
+              "token": " design",
+              "logprob": -3.1983916759490967
+            },
+            {
+              "token": " was",
+              "logprob": -3.1921041011810303
+            },
+            {
+              "token": " important",
+              "logprob": -3.5217106342315674
+            },
+            {
+              "token": "?",
+              "logprob": -0.9472675323486328
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.221442699432373
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "It was the one in our story who shone so brightly.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.9491889476776123
+            },
+            {
+              "token": " was",
+              "logprob": -1.2447900772094727
+            },
+            {
+              "token": " the",
+              "logprob": -2.4460225105285645
+            },
+            {
+              "token": " one",
+              "logprob": -4.645161151885986
+            },
+            {
+              "token": " in",
+              "logprob": -3.6813645362854004
+            },
+            {
+              "token": " our",
+              "logprob": -4.148576259613037
+            },
+            {
+              "token": " story",
+              "logprob": -1.5082138776779175
+            },
+            {
+              "token": " who",
+              "logprob": -3.8615288734436035
+            },
+            {
+              "token": " sh",
+              "logprob": -2.678553581237793
+            },
+            {
+              "token": "one",
+              "logprob": -0.6731809973716736
+            },
+            {
+              "token": " so",
+              "logprob": -3.2063474655151367
+            },
+            {
+              "token": " brightly",
+              "logprob": -1.1971218585968018
+            },
+            {
+              "token": ".",
+              "logprob": -1.6450382471084595
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.8834346532821655
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The moon Ella painted is glowing in color.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.330383062362671
+            },
+            {
+              "token": " The",
+              "logprob": -1.5692349672317505
+            },
+            {
+              "token": " moon",
+              "logprob": -1.1183662414550781
+            },
+            {
+              "token": " Ella",
+              "logprob": -1.0117982625961304
+            },
+            {
+              "token": " painted",
+              "logprob": -0.11736174672842026
+            },
+            {
+              "token": " is",
+              "logprob": -3.752363681793213
+            },
+            {
+              "token": " glowing",
+              "logprob": -2.239089012145996
+            },
+            {
+              "token": " in",
+              "logprob": -3.708446979522705
+            },
+            {
+              "token": " color",
+              "logprob": -2.9146697521209717
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.9638304710388184
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It glowed in the dark.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.9491889476776123
+            },
+            {
+              "token": " gl",
+              "logprob": -2.1855287551879883
+            },
+            {
+              "token": "owed",
+              "logprob": -0.03339353948831558
+            },
+            {
+              "token": " in",
+              "logprob": -1.8861385583877563
+            },
+            {
+              "token": " the",
+              "logprob": -0.07533895969390869
+            },
+            {
+              "token": " dark",
+              "logprob": -0.44584715366363525
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.2264914512634277
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "What feature did the moon have? (The first feature is automatically included in this prompt)",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.330383062362671
+            },
+            {
+              "token": " What",
+              "logprob": -3.5870447158813477
+            },
+            {
+              "token": " feature",
+              "logprob": -0.3482431471347809
+            },
+            {
+              "token": " did",
+              "logprob": -0.08740712702274323
+            },
+            {
+              "token": " the",
+              "logprob": -0.10102272778749466
+            },
+            {
+              "token": " moon",
+              "logprob": -0.14095290005207062
+            },
+            {
+              "token": " have",
+              "logprob": -2.557962656021118
+            },
+            {
+              "token": "?",
+              "logprob": -0.5235982537269592
+            },
+            {
+              "token": " (",
+              "logprob": -3.532564878463745
+            },
+            {
+              "token": "The",
+              "logprob": -2.6791419982910156
+            },
+            {
+              "token": " first",
+              "logprob": -4.7741923332214355
+            },
+            {
+              "token": " feature",
+              "logprob": -1.0832185745239258
+            },
+            {
+              "token": " is",
+              "logprob": -2.074475049972534
+            },
+            {
+              "token": " automatically",
+              "logprob": -4.2287983894348145
+            },
+            {
+              "token": " included",
+              "logprob": -4.223669052124023
+            },
+            {
+              "token": " in",
+              "logprob": -1.205790638923645
+            },
+            {
+              "token": " this",
+              "logprob": -2.4437527656555176
+            },
+            {
+              "token": " prompt",
+              "logprob": -2.535597801208496
+            },
+            {
+              "token": ")\n",
+              "logprob": -2.465068817138672
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "A real, shining, glowing moon! It looked magical. Lucas told Ella to hang the picture so it would be a constant reminder of the picnic they had. He promised to teach her how to make one just like it in case he had painted over that great feeling too many times to count.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.5644376277923584
+            },
+            {
+              "token": " real",
+              "logprob": -2.3281326293945312
+            },
+            {
+              "token": ",",
+              "logprob": -2.372426748275757
+            },
+            {
+              "token": " shining",
+              "logprob": -3.4322118759155273
+            },
+            {
+              "token": ",",
+              "logprob": -2.2035915851593018
+            },
+            {
+              "token": " glowing",
+              "logprob": -0.9101449251174927
+            },
+            {
+              "token": " moon",
+              "logprob": -0.22557847201824188
+            },
+            {
+              "token": "!",
+              "logprob": -3.172685146331787
+            },
+            {
+              "token": " It",
+              "logprob": -4.17172908782959
+            },
+            {
+              "token": " looked",
+              "logprob": -1.8988399505615234
+            },
+            {
+              "token": " magical",
+              "logprob": -0.3620772957801819
+            },
+            {
+              "token": ".",
+              "logprob": -0.7985131144523621
+            },
+            {
+              "token": " Lucas",
+              "logprob": -1.5698635578155518
+            },
+            {
+              "token": " told",
+              "logprob": -3.1331286430358887
+            },
+            {
+              "token": " Ella",
+              "logprob": -2.9086670875549316
+            },
+            {
+              "token": " to",
+              "logprob": -2.959998607635498
+            },
+            {
+              "token": " hang",
+              "logprob": -1.0667673349380493
+            },
+            {
+              "token": " the",
+              "logprob": -1.9756731986999512
+            },
+            {
+              "token": " picture",
+              "logprob": -1.4648964405059814
+            },
+            {
+              "token": " so",
+              "logprob": -2.13987398147583
+            },
+            {
+              "token": " it",
+              "logprob": -2.690495014190674
+            },
+            {
+              "token": " would",
+              "logprob": -0.9999653697013855
+            },
+            {
+              "token": " be",
+              "logprob": -1.8682116270065308
+            },
+            {
+              "token": " a",
+              "logprob": -0.8261514902114868
+            },
+            {
+              "token": " constant",
+              "logprob": -3.6633987426757812
+            },
+            {
+              "token": " reminder",
+              "logprob": -0.06526441127061844
+            },
+            {
+              "token": " of",
+              "logprob": -0.23280476033687592
+            },
+            {
+              "token": " the",
+              "logprob": -2.2052266597747803
+            },
+            {
+              "token": " picnic",
+              "logprob": -1.7160446643829346
+            },
+            {
+              "token": " they",
+              "logprob": -1.5703685283660889
+            },
+            {
+              "token": " had",
+              "logprob": -0.5099951028823853
+            },
+            {
+              "token": ".",
+              "logprob": -1.0175163745880127
+            },
+            {
+              "token": " He",
+              "logprob": -4.014477729797363
+            },
+            {
+              "token": " promised",
+              "logprob": -2.1670081615448
+            },
+            {
+              "token": " to",
+              "logprob": -0.6721577048301697
+            },
+            {
+              "token": " teach",
+              "logprob": -0.47832149267196655
+            },
+            {
+              "token": " her",
+              "logprob": -0.12963734567165375
+            },
+            {
+              "token": " how",
+              "logprob": -0.1059456467628479
+            },
+            {
+              "token": " to",
+              "logprob": -0.017468640580773354
+            },
+            {
+              "token": " make",
+              "logprob": -0.2840861976146698
+            },
+            {
+              "token": " one",
+              "logprob": -3.005354166030884
+            },
+            {
+              "token": " just",
+              "logprob": -1.2431341409683228
+            },
+            {
+              "token": " like",
+              "logprob": -0.01161397248506546
+            },
+            {
+              "token": " it",
+              "logprob": -2.039778470993042
+            },
+            {
+              "token": " in",
+              "logprob": -4.358419418334961
+            },
+            {
+              "token": " case",
+              "logprob": -3.8039371967315674
+            },
+            {
+              "token": " he",
+              "logprob": -1.7659226655960083
+            },
+            {
+              "token": " had",
+              "logprob": -2.449634552001953
+            },
+            {
+              "token": " painted",
+              "logprob": -5.487609386444092
+            },
+            {
+              "token": " over",
+              "logprob": -5.170539855957031
+            },
+            {
+              "token": " that",
+              "logprob": -4.752805709838867
+            },
+            {
+              "token": " great",
+              "logprob": -4.897076606750488
+            },
+            {
+              "token": " feeling",
+              "logprob": -2.2541913986206055
+            },
+            {
+              "token": " too",
+              "logprob": -4.919189453125
+            },
+            {
+              "token": " many",
+              "logprob": -3.9703426361083984
+            },
+            {
+              "token": " times",
+              "logprob": -0.03277652710676193
+            },
+            {
+              "token": " to",
+              "logprob": -1.8379878997802734
+            },
+            {
+              "token": " count",
+              "logprob": -0.16805125772953033
+            },
+            {
+              "token": ".\n\n\n",
+              "logprob": -4.731303691864014
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "What feature did the moon Ella painted have?",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.330383062362671
+            },
+            {
+              "token": " What",
+              "logprob": -3.5870447158813477
+            },
+            {
+              "token": " feature",
+              "logprob": -0.3482431471347809
+            },
+            {
+              "token": " did",
+              "logprob": -0.08740712702274323
+            },
+            {
+              "token": " the",
+              "logprob": -0.10102272778749466
+            },
+            {
+              "token": " moon",
+              "logprob": -0.14095290005207062
+            },
+            {
+              "token": " Ella",
+              "logprob": -0.5351660847663879
+            },
+            {
+              "token": " painted",
+              "logprob": -0.1377507597208023
+            },
+            {
+              "token": " have",
+              "logprob": -0.0980352908372879
+            },
+            {
+              "token": "?\n",
+              "logprob": -1.613470196723938
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

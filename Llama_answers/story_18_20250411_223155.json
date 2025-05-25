@@ -1,0 +1,751 @@
+{
+  "story": "Sam and Harper were best friends. They loved to draw and write stories together. One day, they sat at their small wooden table to work on a new story. Sam grabbed a pencil from the box, but it was broken. The tip was dull, and the wood was cracked. Sam wrote with a broken pencil, making the words look wobbly. Harper laughed and said, \"Your letters are dancing!\" Sam frowned but kept writing. Harper picked a fresh pencil and started drawing a big, green dragon. Sam watched Harper’s drawing and forgot about the broken pencil. They worked quietly until the sun went down. Later, they showed their story and drawing to their mom. She smiled and said, \"Great job!\" Sam and Harper high-fived, happy with their work. The next day, Sam made sure to check the pencils before starting. No more broken ones! They continued their adventures with new stories and drawings, always having fun together.",
+  "characters": [
+    {
+      "question": "What tool did Sam use?",
+      "character": "Sam",
+      "story": "Sam and Harper were best friends. They loved to draw and write stories together. One day, they sat at their small wooden table to work on a new story. Sam grabbed a pencil from the box, but it was broken. The tip was dull, and the wood was cracked. Sam wrote with a broken pencil, making the words look wobbly. Harper laughed and said, \"Your letters are dancing!\" Sam frowned but kept writing. Harper picked a fresh pencil and started drawing a big, green dragon. Sam watched Harper’s drawing and forgot about the broken pencil. They worked quietly until the sun went down. Later, they showed their story and drawing to their mom. She smiled and said, \"Great job!\" Sam and Harper high-fived, happy with their work. The next day, Sam made sure to check the pencils before starting. No more broken ones! They continued their adventures with new stories and drawings, always having fun together.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A broken pencil",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.3912293910980225
+            },
+            {
+              "token": " broken",
+              "logprob": -1.6370913982391357
+            },
+            {
+              "token": " pencil",
+              "logprob": -0.050408124923706055
+            },
+            {
+              "token": " Q",
+              "logprob": -2.8575644493103027
+            },
+            {
+              "token": ":",
+              "logprob": -0.04267578199505806
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "He grabbed a pencil from the box.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -3.474383592605591
+            },
+            {
+              "token": " grabbed",
+              "logprob": -2.1112661361694336
+            },
+            {
+              "token": " a",
+              "logprob": -0.12463761121034622
+            },
+            {
+              "token": " pencil",
+              "logprob": -0.02644151821732521
+            },
+            {
+              "token": " from",
+              "logprob": -0.178519144654274
+            },
+            {
+              "token": " the",
+              "logprob": -0.15231330692768097
+            },
+            {
+              "token": " box",
+              "logprob": -0.05336567014455795
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.871668815612793
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "a pencil and a table",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.035537004470825
+            },
+            {
+              "token": " pencil",
+              "logprob": -0.29696643352508545
+            },
+            {
+              "token": " and",
+              "logprob": -3.1243388652801514
+            },
+            {
+              "token": " a",
+              "logprob": -0.4461899995803833
+            },
+            {
+              "token": " table",
+              "logprob": -4.301265239715576
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.0201010704040527
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "He used a broken pencil.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -3.474383592605591
+            },
+            {
+              "token": " used",
+              "logprob": -0.48079586029052734
+            },
+            {
+              "token": " a",
+              "logprob": -0.27549102902412415
+            },
+            {
+              "token": " broken",
+              "logprob": -1.1550979614257812
+            },
+            {
+              "token": " pencil",
+              "logprob": -0.03748857602477074
+            },
+            {
+              "token": ".",
+              "logprob": -0.7002357244491577
+            },
+            {
+              "token": " Q",
+              "logprob": -1.213526964187622
+            },
+            {
+              "token": ":",
+              "logprob": -0.025327743962407112
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "pencil",
+          "token_data": [
+            {
+              "token": " pencil",
+              "logprob": -1.9736244678497314
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.668278932571411
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A broken pencil",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.4210693836212158
+            },
+            {
+              "token": " broken",
+              "logprob": -1.645277500152588
+            },
+            {
+              "token": " pencil",
+              "logprob": -0.05348716303706169
+            },
+            {
+              "token": " Q",
+              "logprob": -2.8527114391326904
+            },
+            {
+              "token": ":",
+              "logprob": -0.041976798325777054
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "None, in this activity Sam and Harper worked together.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -4.341219902038574
+            },
+            {
+              "token": ",",
+              "logprob": -3.4011588096618652
+            },
+            {
+              "token": " in",
+              "logprob": -4.210750579833984
+            },
+            {
+              "token": " this",
+              "logprob": -0.3437115550041199
+            },
+            {
+              "token": " activity",
+              "logprob": -3.9960787296295166
+            },
+            {
+              "token": " Sam",
+              "logprob": -1.6362719535827637
+            },
+            {
+              "token": " and",
+              "logprob": -3.132246494293213
+            },
+            {
+              "token": " Harper",
+              "logprob": -0.03183712437748909
+            },
+            {
+              "token": " worked",
+              "logprob": -2.528703451156616
+            },
+            {
+              "token": " together",
+              "logprob": -0.6452742218971252
+            },
+            {
+              "token": ".",
+              "logprob": -1.7467567920684814
+            },
+            {
+              "token": " Q",
+              "logprob": -2.4363062381744385
+            },
+            {
+              "token": ":",
+              "logprob": -0.019042188301682472
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Sam used a broken pencil.",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -3.8665382862091064
+            },
+            {
+              "token": " used",
+              "logprob": -0.5716476440429688
+            },
+            {
+              "token": " a",
+              "logprob": -0.17671258747577667
+            },
+            {
+              "token": " broken",
+              "logprob": -1.3368693590164185
+            },
+            {
+              "token": " pencil",
+              "logprob": -0.02964823506772518
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.698610305786133
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The tool was a broken pencil.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.436269998550415
+            },
+            {
+              "token": " tool",
+              "logprob": -3.8181557655334473
+            },
+            {
+              "token": " was",
+              "logprob": -2.5245370864868164
+            },
+            {
+              "token": " a",
+              "logprob": -0.2864343523979187
+            },
+            {
+              "token": " broken",
+              "logprob": -2.205240488052368
+            },
+            {
+              "token": " pencil",
+              "logprob": -0.03669610247015953
+            },
+            {
+              "token": ".",
+              "logprob": -0.4074923098087311
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.1886000633239746
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "He grabbed a pencil from the box, but it was broken. The tip was dull, and the wood was cracked.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -3.474383592605591
+            },
+            {
+              "token": " grabbed",
+              "logprob": -2.1112661361694336
+            },
+            {
+              "token": " a",
+              "logprob": -0.12463761121034622
+            },
+            {
+              "token": " pencil",
+              "logprob": -0.02644151821732521
+            },
+            {
+              "token": " from",
+              "logprob": -0.178519144654274
+            },
+            {
+              "token": " the",
+              "logprob": -0.15231330692768097
+            },
+            {
+              "token": " box",
+              "logprob": -0.05336567014455795
+            },
+            {
+              "token": ",",
+              "logprob": -0.8896692991256714
+            },
+            {
+              "token": " but",
+              "logprob": -0.05390562489628792
+            },
+            {
+              "token": " it",
+              "logprob": -0.024593612179160118
+            },
+            {
+              "token": " was",
+              "logprob": -0.009266228415071964
+            },
+            {
+              "token": " broken",
+              "logprob": -0.03305555507540703
+            },
+            {
+              "token": ".",
+              "logprob": -0.1913175731897354
+            },
+            {
+              "token": " The",
+              "logprob": -0.16836124658584595
+            },
+            {
+              "token": " tip",
+              "logprob": -0.01452138926833868
+            },
+            {
+              "token": " was",
+              "logprob": -0.00743988249450922
+            },
+            {
+              "token": " dull",
+              "logprob": -0.014484734274446964
+            },
+            {
+              "token": ",",
+              "logprob": -0.08913901448249817
+            },
+            {
+              "token": " and",
+              "logprob": -0.0077213398180902
+            },
+            {
+              "token": " the",
+              "logprob": -0.011448993347585201
+            },
+            {
+              "token": " wood",
+              "logprob": -0.002894975710660219
+            },
+            {
+              "token": " was",
+              "logprob": -0.011102093383669853
+            },
+            {
+              "token": " cracked",
+              "logprob": -0.008280114270746708
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.9259488582611084
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What tool did Harper use?",
+      "character": "Harper",
+      "story": "Sam and Harper were best friends. They loved to draw and write stories together. One day, they sat at their small wooden table to work on a new story. Sam grabbed a pencil from the box, but it was broken. The tip was dull, and the wood was cracked. Sam wrote with a broken pencil, making the words look wobbly. Harper laughed and said, \"Your letters are dancing!\" Sam frowned but kept writing. Harper picked a fresh pencil and started drawing a big, green dragon. Sam watched Harper’s drawing and forgot about the broken pencil. They worked quietly until the sun went down. Later, they showed their story and drawing to their mom. She smiled and said, \"Great job!\" Sam and Harper high-fived, happy with their work. The next day, Sam made sure to check the pencils before starting. No more broken ones! They continued their adventures with new stories and drawings, always having fun together.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Harper used the other end of his pencil to draw with.",
+          "token_data": [
+            {
+              "token": " Harper",
+              "logprob": -1.9672545194625854
+            },
+            {
+              "token": " used",
+              "logprob": -0.48894965648651123
+            },
+            {
+              "token": " the",
+              "logprob": -2.967022180557251
+            },
+            {
+              "token": " other",
+              "logprob": -4.342408657073975
+            },
+            {
+              "token": " end",
+              "logprob": -2.06886625289917
+            },
+            {
+              "token": " of",
+              "logprob": -0.13891789317131042
+            },
+            {
+              "token": " his",
+              "logprob": -2.6523799896240234
+            },
+            {
+              "token": " pencil",
+              "logprob": -0.19061152637004852
+            },
+            {
+              "token": " to",
+              "logprob": -0.8153728246688843
+            },
+            {
+              "token": " draw",
+              "logprob": -1.3295750617980957
+            },
+            {
+              "token": " with",
+              "logprob": -3.8002395629882812
+            },
+            {
+              "token": ".",
+              "logprob": -0.5541534423828125
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "She used her hands.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -3.207735538482666
+            },
+            {
+              "token": " used",
+              "logprob": -0.7552785873413086
+            },
+            {
+              "token": " her",
+              "logprob": -1.554079294204712
+            },
+            {
+              "token": " hands",
+              "logprob": -2.146224021911621
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.7036190032958984
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.9764418601989746
+            },
+            {
+              "token": ":",
+              "logprob": -0.10278178751468658
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Harper used her drawing of the green dragon.",
+          "token_data": [
+            {
+              "token": " Harper",
+              "logprob": -1.9319816827774048
+            },
+            {
+              "token": " used",
+              "logprob": -0.48632264137268066
+            },
+            {
+              "token": " her",
+              "logprob": -2.4205257892608643
+            },
+            {
+              "token": " drawing",
+              "logprob": -4.1355133056640625
+            },
+            {
+              "token": " of",
+              "logprob": -4.65264892578125
+            },
+            {
+              "token": " the",
+              "logprob": -1.3622714281082153
+            },
+            {
+              "token": " green",
+              "logprob": -1.632101058959961
+            },
+            {
+              "token": " dragon",
+              "logprob": -0.030254922807216644
+            },
+            {
+              "token": ".",
+              "logprob": -0.9964247941970825
+            },
+            {
+              "token": " \n",
+              "logprob": -2.3824689388275146
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The box",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.1498608589172363
+            },
+            {
+              "token": " box",
+              "logprob": -4.928461074829102
+            },
+            {
+              "token": " ",
+              "logprob": -4.644400596618652
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0116653442382812
+            },
+            {
+              "token": ":",
+              "logprob": -0.036567848175764084
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A new pencil.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.3260151147842407
+            },
+            {
+              "token": " new",
+              "logprob": -3.1225128173828125
+            },
+            {
+              "token": " pencil",
+              "logprob": -0.3599250912666321
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.5962629318237305
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Harper grabbed a pencil from the box to start her work on the new story.",
+          "token_data": [
+            {
+              "token": " Harper",
+              "logprob": -1.9319816827774048
+            },
+            {
+              "token": " grabbed",
+              "logprob": -3.163614511489868
+            },
+            {
+              "token": " a",
+              "logprob": -0.14074227213859558
+            },
+            {
+              "token": " pencil",
+              "logprob": -0.4005001485347748
+            },
+            {
+              "token": " from",
+              "logprob": -0.6715154051780701
+            },
+            {
+              "token": " the",
+              "logprob": -0.16803300380706787
+            },
+            {
+              "token": " box",
+              "logprob": -0.11678371578454971
+            },
+            {
+              "token": " to",
+              "logprob": -2.83929181098938
+            },
+            {
+              "token": " start",
+              "logprob": -2.876873731613159
+            },
+            {
+              "token": " her",
+              "logprob": -2.694822311401367
+            },
+            {
+              "token": " work",
+              "logprob": -3.112579822540283
+            },
+            {
+              "token": " on",
+              "logprob": -3.1237881183624268
+            },
+            {
+              "token": " the",
+              "logprob": -1.2643818855285645
+            },
+            {
+              "token": " new",
+              "logprob": -2.3054771423339844
+            },
+            {
+              "token": " story",
+              "logprob": -0.1005847230553627
+            },
+            {
+              "token": ".",
+              "logprob": -0.27600350975990295
+            },
+            {
+              "token": " Q",
+              "logprob": -1.2808804512023926
+            },
+            {
+              "token": ":",
+              "logprob": -0.016943464055657387
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A pencil.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.3260151147842407
+            },
+            {
+              "token": " pencil",
+              "logprob": -0.7397155165672302
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.853172779083252
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "a fresh pencil",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.6108603477478027
+            },
+            {
+              "token": " fresh",
+              "logprob": -3.052600622177124
+            },
+            {
+              "token": " pencil",
+              "logprob": -0.03251218795776367
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.1711323261260986
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "He used a pencil.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -3.8360819816589355
+            },
+            {
+              "token": " used",
+              "logprob": -0.7713022828102112
+            },
+            {
+              "token": " a",
+              "logprob": -0.320879191160202
+            },
+            {
+              "token": " pencil",
+              "logprob": -0.9262568950653076
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.7501907348632812
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

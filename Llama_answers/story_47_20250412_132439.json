@@ -1,0 +1,1171 @@
+{
+  "story": "Scarlett and Alex were best friends who loved adventures. One day, they decided to explore the old treehouse in the woods. The treehouse was dusty and full of mystery. Scarlett found a small box under a pile of leaves. Inside the box, there was a map and a pencil. Scarlett wrote on a crumpled paper, \"Let’s follow this map to find the treasure!\" Alex nodded eagerly. They followed the map through the woods, crossing a tiny stream and climbing a small hill. At the end of the path, they found a wooden chest hidden under some rocks. Inside the chest, there were shiny stones and a handful of old coins. Scarlett and Alex cheered. They decided to share the treasure and keep exploring together. The sun began to set, so they headed home, laughing and planning their next adventure. They knew more fun awaited them.",
+  "characters": [
+    {
+      "question": "What condition was the paper Scarlett used?",
+      "character": "Scarlett",
+      "story": "Scarlett and Alex were best friends who loved adventures. One day, they decided to explore the old treehouse in the woods. The treehouse was dusty and full of mystery. Scarlett found a small box under a pile of leaves. Inside the box, there was a map and a pencil. Scarlett wrote on a crumpled paper, \"Let’s follow this map to find the treasure!\" Alex nodded eagerly. They followed the map through the woods, crossing a tiny stream and climbing a small hill. At the end of the path, they found a wooden chest hidden under some rocks. Inside the chest, there were shiny stones and a handful of old coins. Scarlett and Alex cheered. They decided to share the treasure and keep exploring together. The sun began to set, so they headed home, laughing and planning their next adventure. They knew more fun awaited them.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "What did Scarlett do?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.2931251525878906
+            },
+            {
+              "token": " did",
+              "logprob": -3.051671028137207
+            },
+            {
+              "token": " Scarlett",
+              "logprob": -0.4883783459663391
+            },
+            {
+              "token": " do",
+              "logprob": -3.6345419883728027
+            },
+            {
+              "token": "?\n",
+              "logprob": -3.7596943378448486
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Paper Condition.",
+          "token_data": [
+            {
+              "token": " Paper",
+              "logprob": -3.8129382133483887
+            },
+            {
+              "token": " Condition",
+              "logprob": -3.496065616607666
+            },
+            {
+              "token": ".",
+              "logprob": -3.1859078407287598
+            },
+            {
+              "token": " Q",
+              "logprob": -2.3693885803222656
+            },
+            {
+              "token": ":",
+              "logprob": -0.02697090245783329
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "What condition did Scarlett use?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.2708544731140137
+            },
+            {
+              "token": " condition",
+              "logprob": -0.6572017669677734
+            },
+            {
+              "token": " did",
+              "logprob": -2.576021671295166
+            },
+            {
+              "token": " Scarlett",
+              "logprob": -0.8026325106620789
+            },
+            {
+              "token": " use",
+              "logprob": -0.41522711515426636
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.789872169494629
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The paper was wrinkly. It looked as if the sun was about to melt it!",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.5187840461730957
+            },
+            {
+              "token": " paper",
+              "logprob": -0.20160667598247528
+            },
+            {
+              "token": " was",
+              "logprob": -0.7987851500511169
+            },
+            {
+              "token": " wrink",
+              "logprob": -3.2418808937072754
+            },
+            {
+              "token": "ly",
+              "logprob": -1.418250560760498
+            },
+            {
+              "token": ".",
+              "logprob": -1.0329618453979492
+            },
+            {
+              "token": " It",
+              "logprob": -3.229510545730591
+            },
+            {
+              "token": " looked",
+              "logprob": -2.7205514907836914
+            },
+            {
+              "token": " as",
+              "logprob": -1.576548457145691
+            },
+            {
+              "token": " if",
+              "logprob": -0.3918834328651428
+            },
+            {
+              "token": " the",
+              "logprob": -1.8697750568389893
+            },
+            {
+              "token": " sun",
+              "logprob": -3.750309467315674
+            },
+            {
+              "token": " was",
+              "logprob": -1.005767583847046
+            },
+            {
+              "token": " about",
+              "logprob": -1.6653211116790771
+            },
+            {
+              "token": " to",
+              "logprob": -0.0034306738525629044
+            },
+            {
+              "token": " melt",
+              "logprob": -3.730210542678833
+            },
+            {
+              "token": " it",
+              "logprob": -0.3407871723175049
+            },
+            {
+              "token": "!",
+              "logprob": -3.1459131240844727
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -4.306229591369629
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Paper was used because the condition for story context is \"What happened?\" You have a problem with one sentence that will affect your overall score.",
+          "token_data": [
+            {
+              "token": " Paper",
+              "logprob": -3.8129382133483887
+            },
+            {
+              "token": " was",
+              "logprob": -2.2252039909362793
+            },
+            {
+              "token": " used",
+              "logprob": -1.510498285293579
+            },
+            {
+              "token": " because",
+              "logprob": -1.9976181983947754
+            },
+            {
+              "token": " the",
+              "logprob": -2.0506277084350586
+            },
+            {
+              "token": " condition",
+              "logprob": -3.700444221496582
+            },
+            {
+              "token": " for",
+              "logprob": -4.141952037811279
+            },
+            {
+              "token": " story",
+              "logprob": -4.507831573486328
+            },
+            {
+              "token": " context",
+              "logprob": -1.130374789237976
+            },
+            {
+              "token": " is",
+              "logprob": -0.7219288349151611
+            },
+            {
+              "token": " \"",
+              "logprob": -2.8052432537078857
+            },
+            {
+              "token": "What",
+              "logprob": -4.833455562591553
+            },
+            {
+              "token": " happened",
+              "logprob": -2.8891384601593018
+            },
+            {
+              "token": "?\"",
+              "logprob": -1.2741658687591553
+            },
+            {
+              "token": " You",
+              "logprob": -5.241133213043213
+            },
+            {
+              "token": " have",
+              "logprob": -2.810572624206543
+            },
+            {
+              "token": " a",
+              "logprob": -2.370772361755371
+            },
+            {
+              "token": " problem",
+              "logprob": -4.419913291931152
+            },
+            {
+              "token": " with",
+              "logprob": -1.2853355407714844
+            },
+            {
+              "token": " one",
+              "logprob": -3.791275978088379
+            },
+            {
+              "token": " sentence",
+              "logprob": -1.5152372121810913
+            },
+            {
+              "token": " that",
+              "logprob": -3.900261402130127
+            },
+            {
+              "token": " will",
+              "logprob": -3.8857836723327637
+            },
+            {
+              "token": " affect",
+              "logprob": -3.971400260925293
+            },
+            {
+              "token": " your",
+              "logprob": -1.3599879741668701
+            },
+            {
+              "token": " overall",
+              "logprob": -2.8714253902435303
+            },
+            {
+              "token": " score",
+              "logprob": -1.1148881912231445
+            },
+            {
+              "token": ".",
+              "logprob": -0.5620425343513489
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Paper with the weather.",
+          "token_data": [
+            {
+              "token": " Paper",
+              "logprob": -3.8129382133483887
+            },
+            {
+              "token": " with",
+              "logprob": -4.4360222816467285
+            },
+            {
+              "token": " the",
+              "logprob": -2.3419196605682373
+            },
+            {
+              "token": " weather",
+              "logprob": -4.817541122436523
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.590015411376953
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A: It was a bit tattered and the edges were all frayed. It was a little crumpled and the pages looked well used.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.7555651664733887
+            },
+            {
+              "token": ":",
+              "logprob": -2.713625907897949
+            },
+            {
+              "token": " It",
+              "logprob": -2.5995917320251465
+            },
+            {
+              "token": " was",
+              "logprob": -0.21938712894916534
+            },
+            {
+              "token": " a",
+              "logprob": -1.4731853008270264
+            },
+            {
+              "token": " bit",
+              "logprob": -3.841578960418701
+            },
+            {
+              "token": " t",
+              "logprob": -4.079442501068115
+            },
+            {
+              "token": "attered",
+              "logprob": -0.06953354179859161
+            },
+            {
+              "token": " and",
+              "logprob": -1.3426192998886108
+            },
+            {
+              "token": " the",
+              "logprob": -4.5839385986328125
+            },
+            {
+              "token": " edges",
+              "logprob": -1.502342939376831
+            },
+            {
+              "token": " were",
+              "logprob": -0.5501211881637573
+            },
+            {
+              "token": " all",
+              "logprob": -3.494722843170166
+            },
+            {
+              "token": " fr",
+              "logprob": -2.273531913757324
+            },
+            {
+              "token": "ayed",
+              "logprob": -0.02943110652267933
+            },
+            {
+              "token": ".",
+              "logprob": -0.451170414686203
+            },
+            {
+              "token": " It",
+              "logprob": -2.017350196838379
+            },
+            {
+              "token": " was",
+              "logprob": -0.6482976675033569
+            },
+            {
+              "token": " a",
+              "logprob": -1.4803931713104248
+            },
+            {
+              "token": " little",
+              "logprob": -1.927361249923706
+            },
+            {
+              "token": " cr",
+              "logprob": -1.7768619060516357
+            },
+            {
+              "token": "um",
+              "logprob": -0.11373009532690048
+            },
+            {
+              "token": "pled",
+              "logprob": -0.006672246381640434
+            },
+            {
+              "token": " and",
+              "logprob": -0.5588605999946594
+            },
+            {
+              "token": " the",
+              "logprob": -0.5114244818687439
+            },
+            {
+              "token": " pages",
+              "logprob": -2.4469523429870605
+            },
+            {
+              "token": " looked",
+              "logprob": -4.088574409484863
+            },
+            {
+              "token": " well",
+              "logprob": -4.050355911254883
+            },
+            {
+              "token": " used",
+              "logprob": -1.2745085954666138
+            },
+            {
+              "token": ".",
+              "logprob": -0.2085970640182495
+            },
+            {
+              "token": " ",
+              "logprob": -3.935938835144043
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A: The paper Scarlett wrote a note on.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.305159091949463
+            },
+            {
+              "token": " A",
+              "logprob": -3.241176128387451
+            },
+            {
+              "token": ":",
+              "logprob": -2.021925687789917
+            },
+            {
+              "token": " The",
+              "logprob": -1.5357292890548706
+            },
+            {
+              "token": " paper",
+              "logprob": -0.30225566029548645
+            },
+            {
+              "token": " Scarlett",
+              "logprob": -2.256453037261963
+            },
+            {
+              "token": " wrote",
+              "logprob": -3.0553953647613525
+            },
+            {
+              "token": " a",
+              "logprob": -3.333991050720215
+            },
+            {
+              "token": " note",
+              "logprob": -1.8895092010498047
+            },
+            {
+              "token": " on",
+              "logprob": -0.1725803017616272
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.563103437423706
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.472093105316162
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "It was wet, as the map and pencil.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.53773832321167
+            },
+            {
+              "token": " was",
+              "logprob": -0.26643481850624084
+            },
+            {
+              "token": " wet",
+              "logprob": -2.3694186210632324
+            },
+            {
+              "token": ",",
+              "logprob": -2.7739555835723877
+            },
+            {
+              "token": " as",
+              "logprob": -3.2086658477783203
+            },
+            {
+              "token": " the",
+              "logprob": -1.9056954383850098
+            },
+            {
+              "token": " map",
+              "logprob": -3.9272170066833496
+            },
+            {
+              "token": " and",
+              "logprob": -2.9710769653320312
+            },
+            {
+              "token": " pencil",
+              "logprob": -1.4033721685409546
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.7938122749328613
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What condition was the paper Alex used?",
+      "character": "Alex",
+      "story": "Scarlett and Alex were best friends who loved adventures. One day, they decided to explore the old treehouse in the woods. The treehouse was dusty and full of mystery. Scarlett found a small box under a pile of leaves. Inside the box, there was a map and a pencil. Scarlett wrote on a crumpled paper, \"Let’s follow this map to find the treasure!\" Alex nodded eagerly. They followed the map through the woods, crossing a tiny stream and climbing a small hill. At the end of the path, they found a wooden chest hidden under some rocks. Inside the chest, there were shiny stones and a handful of old coins. Scarlett and Alex cheered. They decided to share the treasure and keep exploring together. The sun began to set, so they headed home, laughing and planning their next adventure. They knew more fun awaited them.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "What did Alex decide?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.168044090270996
+            },
+            {
+              "token": " did",
+              "logprob": -3.183039426803589
+            },
+            {
+              "token": " Alex",
+              "logprob": -2.7940518856048584
+            },
+            {
+              "token": " decide",
+              "logprob": -4.0096611976623535
+            },
+            {
+              "token": "?",
+              "logprob": -1.6047022342681885
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.381840944290161
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "What condition did they write? 1 paper was a great place for the map to keep track of your current adventures. 2 The paper the were using is an important part of you and Alex’s history together. 3 The crumbled papers show they have some experience on these kinds of adventures!",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.20644211769104
+            },
+            {
+              "token": " condition",
+              "logprob": -0.6289966106414795
+            },
+            {
+              "token": " did",
+              "logprob": -2.5922486782073975
+            },
+            {
+              "token": " they",
+              "logprob": -3.479032039642334
+            },
+            {
+              "token": " write",
+              "logprob": -3.3609752655029297
+            },
+            {
+              "token": "?",
+              "logprob": -1.3454265594482422
+            },
+            {
+              "token": " ",
+              "logprob": -3.0783305168151855
+            },
+            {
+              "token": "1",
+              "logprob": -4.093235969543457
+            },
+            {
+              "token": " paper",
+              "logprob": -4.375951290130615
+            },
+            {
+              "token": " was",
+              "logprob": -3.312930107116699
+            },
+            {
+              "token": " a",
+              "logprob": -3.5146942138671875
+            },
+            {
+              "token": " great",
+              "logprob": -4.578538417816162
+            },
+            {
+              "token": " place",
+              "logprob": -3.2995705604553223
+            },
+            {
+              "token": " for",
+              "logprob": -1.8055914640426636
+            },
+            {
+              "token": " the",
+              "logprob": -2.0438027381896973
+            },
+            {
+              "token": " map",
+              "logprob": -2.855384111404419
+            },
+            {
+              "token": " to",
+              "logprob": -2.475937843322754
+            },
+            {
+              "token": " keep",
+              "logprob": -4.382073879241943
+            },
+            {
+              "token": " track",
+              "logprob": -2.0509419441223145
+            },
+            {
+              "token": " of",
+              "logprob": -0.4050352871417999
+            },
+            {
+              "token": " your",
+              "logprob": -4.402495384216309
+            },
+            {
+              "token": " current",
+              "logprob": -4.079464912414551
+            },
+            {
+              "token": " adventures",
+              "logprob": -2.749077081680298
+            },
+            {
+              "token": ".",
+              "logprob": -0.48565226793289185
+            },
+            {
+              "token": " ",
+              "logprob": -1.1359658241271973
+            },
+            {
+              "token": "2",
+              "logprob": -0.30881163477897644
+            },
+            {
+              "token": " The",
+              "logprob": -2.9185409545898438
+            },
+            {
+              "token": " paper",
+              "logprob": -0.6816515326499939
+            },
+            {
+              "token": " the",
+              "logprob": -3.4449446201324463
+            },
+            {
+              "token": " were",
+              "logprob": -3.662231922149658
+            },
+            {
+              "token": " using",
+              "logprob": -2.3434479236602783
+            },
+            {
+              "token": " is",
+              "logprob": -4.110097885131836
+            },
+            {
+              "token": " an",
+              "logprob": -4.2394609451293945
+            },
+            {
+              "token": " important",
+              "logprob": -2.090198516845703
+            },
+            {
+              "token": " part",
+              "logprob": -1.2925889492034912
+            },
+            {
+              "token": " of",
+              "logprob": -0.0947897732257843
+            },
+            {
+              "token": " you",
+              "logprob": -4.782182693481445
+            },
+            {
+              "token": " and",
+              "logprob": -1.3832168579101562
+            },
+            {
+              "token": " Alex",
+              "logprob": -3.206151008605957
+            },
+            {
+              "token": "’s",
+              "logprob": -1.492716908454895
+            },
+            {
+              "token": " history",
+              "logprob": -4.5839996337890625
+            },
+            {
+              "token": " together",
+              "logprob": -1.501984715461731
+            },
+            {
+              "token": ".",
+              "logprob": -0.1796560138463974
+            },
+            {
+              "token": " ",
+              "logprob": -0.28909382224082947
+            },
+            {
+              "token": "3",
+              "logprob": -0.044673021882772446
+            },
+            {
+              "token": " The",
+              "logprob": -1.0484583377838135
+            },
+            {
+              "token": " cr",
+              "logprob": -4.2957048416137695
+            },
+            {
+              "token": "umbled",
+              "logprob": -2.608189582824707
+            },
+            {
+              "token": " papers",
+              "logprob": -2.803844690322876
+            },
+            {
+              "token": " show",
+              "logprob": -4.798239707946777
+            },
+            {
+              "token": " they",
+              "logprob": -3.305098056793213
+            },
+            {
+              "token": " have",
+              "logprob": -2.1715211868286133
+            },
+            {
+              "token": " some",
+              "logprob": -4.308207035064697
+            },
+            {
+              "token": " experience",
+              "logprob": -5.465975761413574
+            },
+            {
+              "token": " on",
+              "logprob": -3.8395113945007324
+            },
+            {
+              "token": " these",
+              "logprob": -3.843125820159912
+            },
+            {
+              "token": " kinds",
+              "logprob": -2.528690814971924
+            },
+            {
+              "token": " of",
+              "logprob": -0.0636974573135376
+            },
+            {
+              "token": " adventures",
+              "logprob": -0.6399657726287842
+            },
+            {
+              "token": "!",
+              "logprob": -3.892256498336792
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.638978958129883
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Let's and Alex.",
+          "token_data": [
+            {
+              "token": " Let",
+              "logprob": -3.5828754901885986
+            },
+            {
+              "token": "'s",
+              "logprob": -0.7084563970565796
+            },
+            {
+              "token": " and",
+              "logprob": -3.2933311462402344
+            },
+            {
+              "token": " Alex",
+              "logprob": -1.115927815437317
+            },
+            {
+              "token": ".",
+              "logprob": -1.9598724842071533
+            },
+            {
+              "token": " \n",
+              "logprob": -1.5330976247787476
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.381840944290161
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "One condition of the paper used is to get wet.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -4.468117713928223
+            },
+            {
+              "token": " condition",
+              "logprob": -2.7607882022857666
+            },
+            {
+              "token": " of",
+              "logprob": -2.8961076736450195
+            },
+            {
+              "token": " the",
+              "logprob": -0.728663444519043
+            },
+            {
+              "token": " paper",
+              "logprob": -0.12911856174468994
+            },
+            {
+              "token": " used",
+              "logprob": -2.989563226699829
+            },
+            {
+              "token": " is",
+              "logprob": -2.6438136100769043
+            },
+            {
+              "token": " to",
+              "logprob": -2.7387657165527344
+            },
+            {
+              "token": " get",
+              "logprob": -3.760770797729492
+            },
+            {
+              "token": " wet",
+              "logprob": -3.2779438495635986
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.021313428878784
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Alex was getting wet by the water in the woods.",
+          "token_data": [
+            {
+              "token": " Alex",
+              "logprob": -4.466917991638184
+            },
+            {
+              "token": " was",
+              "logprob": -1.799143671989441
+            },
+            {
+              "token": " getting",
+              "logprob": -4.713315010070801
+            },
+            {
+              "token": " wet",
+              "logprob": -3.9301462173461914
+            },
+            {
+              "token": " by",
+              "logprob": -4.07219123840332
+            },
+            {
+              "token": " the",
+              "logprob": -0.8850155472755432
+            },
+            {
+              "token": " water",
+              "logprob": -2.3498892784118652
+            },
+            {
+              "token": " in",
+              "logprob": -3.3138279914855957
+            },
+            {
+              "token": " the",
+              "logprob": -0.21490591764450073
+            },
+            {
+              "token": " woods",
+              "logprob": -3.3998146057128906
+            },
+            {
+              "token": ".",
+              "logprob": -0.5047240257263184
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.9203494787216187
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A paper with crumpled notes.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.5532848834991455
+            },
+            {
+              "token": " paper",
+              "logprob": -3.155421733856201
+            },
+            {
+              "token": " with",
+              "logprob": -2.650212287902832
+            },
+            {
+              "token": " cr",
+              "logprob": -2.424630641937256
+            },
+            {
+              "token": "um",
+              "logprob": -0.45426368713378906
+            },
+            {
+              "token": "pled",
+              "logprob": -0.08496247977018356
+            },
+            {
+              "token": " notes",
+              "logprob": -4.190433979034424
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.4021942615509033
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The paper was used in the event of an adventure, but the adventure didn't stop. The adventure continued on an another path.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.6129248142242432
+            },
+            {
+              "token": " paper",
+              "logprob": -0.1941613405942917
+            },
+            {
+              "token": " was",
+              "logprob": -0.6030661463737488
+            },
+            {
+              "token": " used",
+              "logprob": -2.162818193435669
+            },
+            {
+              "token": " in",
+              "logprob": -3.024651050567627
+            },
+            {
+              "token": " the",
+              "logprob": -1.4416708946228027
+            },
+            {
+              "token": " event",
+              "logprob": -4.325480937957764
+            },
+            {
+              "token": " of",
+              "logprob": -0.7215076088905334
+            },
+            {
+              "token": " an",
+              "logprob": -2.5184779167175293
+            },
+            {
+              "token": " adventure",
+              "logprob": -2.7992334365844727
+            },
+            {
+              "token": ",",
+              "logprob": -3.2207605838775635
+            },
+            {
+              "token": " but",
+              "logprob": -3.3831868171691895
+            },
+            {
+              "token": " the",
+              "logprob": -1.993498682975769
+            },
+            {
+              "token": " adventure",
+              "logprob": -1.6481983661651611
+            },
+            {
+              "token": " didn",
+              "logprob": -3.435410499572754
+            },
+            {
+              "token": "'t",
+              "logprob": -0.22381366789340973
+            },
+            {
+              "token": " stop",
+              "logprob": -3.2101120948791504
+            },
+            {
+              "token": ".",
+              "logprob": -1.6638997793197632
+            },
+            {
+              "token": " The",
+              "logprob": -1.8254693746566772
+            },
+            {
+              "token": " adventure",
+              "logprob": -1.3129868507385254
+            },
+            {
+              "token": " continued",
+              "logprob": -0.8705818057060242
+            },
+            {
+              "token": " on",
+              "logprob": -3.4920578002929688
+            },
+            {
+              "token": " an",
+              "logprob": -3.222468852996826
+            },
+            {
+              "token": " another",
+              "logprob": -5.15100622177124
+            },
+            {
+              "token": " path",
+              "logprob": -3.532038688659668
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.8179702758789062
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "A crumpled paper.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.5532848834991455
+            },
+            {
+              "token": " cr",
+              "logprob": -0.6614984273910522
+            },
+            {
+              "token": "um",
+              "logprob": -0.07485990971326828
+            },
+            {
+              "token": "pled",
+              "logprob": -0.03221822902560234
+            },
+            {
+              "token": " paper",
+              "logprob": -0.12200018018484116
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.459588050842285
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

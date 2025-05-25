@@ -1,0 +1,1255 @@
+{
+  "story": "Mason and Harper were best friends who loved to go camping. One weekend, they packed their bags and walked deep into the woods. They set up their tent near a shallow river. Harper collected sticks to make a fire while Mason unpacked the food. Mason sharpened a dull knife to cut vegetables for dinner. The knife was old and needed a lot of work, but Mason was patient. Harper laughed when she saw him concentrating so hard. \"You look serious,\" she said. Mason smiled and kept sharpening. Night came, and they ate their meal by the fire. The stars shone bright above them. Harper told funny stories, and Mason added jokes. They stayed awake for hours, happy and cozy in the woods. The next morning, they packed up and hiked back home, already planning their next adventure. The trip was simple, but it was perfect because they were together.",
+  "characters": [
+    {
+      "question": "What condition was the knife before Mason sharpened it?",
+      "character": "Mason",
+      "story": "Mason and Harper were best friends who loved to go camping. One weekend, they packed their bags and walked deep into the woods. They set up their tent near a shallow river. Harper collected sticks to make a fire while Mason unpacked the food. Mason sharpened a dull knife to cut vegetables for dinner. The knife was old and needed a lot of work, but Mason was patient. Harper laughed when she saw him concentrating so hard. \"You look serious,\" she said. Mason smiled and kept sharpening. Night came, and they ate their meal by the fire. The stars shone bright above them. Harper told funny stories, and Mason added jokes. They stayed awake for hours, happy and cozy in the woods. The next morning, they packed up and hiked back home, already planning their next adventure. The trip was simple, but it was perfect because they were together.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Mason needed a lot of work, but he was patient and got to enjoy the food.",
+          "token_data": [
+            {
+              "token": " Mason",
+              "logprob": -2.6789591312408447
+            },
+            {
+              "token": " needed",
+              "logprob": -3.981886625289917
+            },
+            {
+              "token": " a",
+              "logprob": -0.8372600078582764
+            },
+            {
+              "token": " lot",
+              "logprob": -0.04716039448976517
+            },
+            {
+              "token": " of",
+              "logprob": -0.026668580248951912
+            },
+            {
+              "token": " work",
+              "logprob": -0.08200479298830032
+            },
+            {
+              "token": ",",
+              "logprob": -2.94472074508667
+            },
+            {
+              "token": " but",
+              "logprob": -0.4361061155796051
+            },
+            {
+              "token": " he",
+              "logprob": -0.22210723161697388
+            },
+            {
+              "token": " was",
+              "logprob": -0.1195145696401596
+            },
+            {
+              "token": " patient",
+              "logprob": -0.031597718596458435
+            },
+            {
+              "token": " and",
+              "logprob": -2.4449830055236816
+            },
+            {
+              "token": " got",
+              "logprob": -4.40824556350708
+            },
+            {
+              "token": " to",
+              "logprob": -1.7727446556091309
+            },
+            {
+              "token": " enjoy",
+              "logprob": -3.344146490097046
+            },
+            {
+              "token": " the",
+              "logprob": -0.6054795980453491
+            },
+            {
+              "token": " food",
+              "logprob": -4.516262054443359
+            },
+            {
+              "token": ".",
+              "logprob": -0.5751557350158691
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9441572427749634
+            },
+            {
+              "token": ":",
+              "logprob": -0.014839033596217632
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The knife was dull, which required him to put in a lot of work.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -0.7126602530479431
+            },
+            {
+              "token": " knife",
+              "logprob": -0.1750975102186203
+            },
+            {
+              "token": " was",
+              "logprob": -0.25438764691352844
+            },
+            {
+              "token": " dull",
+              "logprob": -0.2723526954650879
+            },
+            {
+              "token": ",",
+              "logprob": -2.661201000213623
+            },
+            {
+              "token": " which",
+              "logprob": -3.1267683506011963
+            },
+            {
+              "token": " required",
+              "logprob": -2.8152737617492676
+            },
+            {
+              "token": " him",
+              "logprob": -3.1777777671813965
+            },
+            {
+              "token": " to",
+              "logprob": -0.03853108733892441
+            },
+            {
+              "token": " put",
+              "logprob": -1.7544280290603638
+            },
+            {
+              "token": " in",
+              "logprob": -1.5563364028930664
+            },
+            {
+              "token": " a",
+              "logprob": -0.4427969753742218
+            },
+            {
+              "token": " lot",
+              "logprob": -0.021190082654356956
+            },
+            {
+              "token": " of",
+              "logprob": -0.028045641258358955
+            },
+            {
+              "token": " work",
+              "logprob": -0.327798068523407
+            },
+            {
+              "token": ".",
+              "logprob": -0.7900745272636414
+            },
+            {
+              "token": " ",
+              "logprob": -2.6862950325012207
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "It needed to be very sharp and more precise.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.0830321311950684
+            },
+            {
+              "token": " needed",
+              "logprob": -2.239777088165283
+            },
+            {
+              "token": " to",
+              "logprob": -2.7440264225006104
+            },
+            {
+              "token": " be",
+              "logprob": -0.17360496520996094
+            },
+            {
+              "token": " very",
+              "logprob": -3.1156258583068848
+            },
+            {
+              "token": " sharp",
+              "logprob": -0.2496374249458313
+            },
+            {
+              "token": " and",
+              "logprob": -3.6890103816986084
+            },
+            {
+              "token": " more",
+              "logprob": -5.077272415161133
+            },
+            {
+              "token": " precise",
+              "logprob": -3.280582904815674
+            },
+            {
+              "token": ".",
+              "logprob": -0.7512936592102051
+            },
+            {
+              "token": " \n",
+              "logprob": -2.1676859855651855
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It was dull, but now the blade was very sharp.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.0830321311950684
+            },
+            {
+              "token": " was",
+              "logprob": -0.24003838002681732
+            },
+            {
+              "token": " dull",
+              "logprob": -0.3304753005504608
+            },
+            {
+              "token": ",",
+              "logprob": -2.6735405921936035
+            },
+            {
+              "token": " but",
+              "logprob": -2.1157243251800537
+            },
+            {
+              "token": " now",
+              "logprob": -3.3356070518493652
+            },
+            {
+              "token": " the",
+              "logprob": -2.3225865364074707
+            },
+            {
+              "token": " blade",
+              "logprob": -2.0439488887786865
+            },
+            {
+              "token": " was",
+              "logprob": -1.5455093383789062
+            },
+            {
+              "token": " very",
+              "logprob": -3.7321434020996094
+            },
+            {
+              "token": " sharp",
+              "logprob": -0.0779934749007225
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.289055824279785
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "It was dull and needed a lot of work.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.0830321311950684
+            },
+            {
+              "token": " was",
+              "logprob": -0.24003838002681732
+            },
+            {
+              "token": " dull",
+              "logprob": -0.3304753005504608
+            },
+            {
+              "token": " and",
+              "logprob": -2.030531406402588
+            },
+            {
+              "token": " needed",
+              "logprob": -0.5826842784881592
+            },
+            {
+              "token": " a",
+              "logprob": -0.24267180263996124
+            },
+            {
+              "token": " lot",
+              "logprob": -0.017134256660938263
+            },
+            {
+              "token": " of",
+              "logprob": -0.013662870042026043
+            },
+            {
+              "token": " work",
+              "logprob": -0.0864468440413475
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.046323299407959
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Mason needed to sharpen the knife to make it new.",
+          "token_data": [
+            {
+              "token": " Mason",
+              "logprob": -2.7440361976623535
+            },
+            {
+              "token": " needed",
+              "logprob": -3.9515318870544434
+            },
+            {
+              "token": " to",
+              "logprob": -0.7658032774925232
+            },
+            {
+              "token": " sharpen",
+              "logprob": -0.30521321296691895
+            },
+            {
+              "token": " the",
+              "logprob": -0.5634402632713318
+            },
+            {
+              "token": " knife",
+              "logprob": -0.3415659964084625
+            },
+            {
+              "token": " to",
+              "logprob": -2.424971580505371
+            },
+            {
+              "token": " make",
+              "logprob": -1.2448068857192993
+            },
+            {
+              "token": " it",
+              "logprob": -0.2322385460138321
+            },
+            {
+              "token": " new",
+              "logprob": -3.8074543476104736
+            },
+            {
+              "token": ".",
+              "logprob": -0.9092147946357727
+            },
+            {
+              "token": " \n",
+              "logprob": -2.5346250534057617
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The knife was dull and needed a lot of work.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -0.7126602530479431
+            },
+            {
+              "token": " knife",
+              "logprob": -0.1750975102186203
+            },
+            {
+              "token": " was",
+              "logprob": -0.25438764691352844
+            },
+            {
+              "token": " dull",
+              "logprob": -0.2723526954650879
+            },
+            {
+              "token": " and",
+              "logprob": -1.4992481470108032
+            },
+            {
+              "token": " needed",
+              "logprob": -0.5218219757080078
+            },
+            {
+              "token": " a",
+              "logprob": -0.3771493434906006
+            },
+            {
+              "token": " lot",
+              "logprob": -0.024548599496483803
+            },
+            {
+              "token": " of",
+              "logprob": -0.014384034089744091
+            },
+            {
+              "token": " work",
+              "logprob": -0.13368038833141327
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.1790192127227783
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Mason's knife was dull before he started to sharpen. He sharpened the knife so often until he broke the sharp blades in front of him. This was why he used to enjoy sharpening a knife.",
+          "token_data": [
+            {
+              "token": " Mason",
+              "logprob": -2.7440361976623535
+            },
+            {
+              "token": "'s",
+              "logprob": -1.6046689748764038
+            },
+            {
+              "token": " knife",
+              "logprob": -0.22057181596755981
+            },
+            {
+              "token": " was",
+              "logprob": -0.47868865728378296
+            },
+            {
+              "token": " dull",
+              "logprob": -0.334099143743515
+            },
+            {
+              "token": " before",
+              "logprob": -1.4798575639724731
+            },
+            {
+              "token": " he",
+              "logprob": -0.46446943283081055
+            },
+            {
+              "token": " started",
+              "logprob": -3.073366403579712
+            },
+            {
+              "token": " to",
+              "logprob": -1.158005714416504
+            },
+            {
+              "token": " sharpen",
+              "logprob": -0.0913182720541954
+            },
+            {
+              "token": ".",
+              "logprob": -2.99360728263855
+            },
+            {
+              "token": " He",
+              "logprob": -1.9712777137756348
+            },
+            {
+              "token": " sharpen",
+              "logprob": -2.039586067199707
+            },
+            {
+              "token": "ed",
+              "logprob": -0.003851497545838356
+            },
+            {
+              "token": " the",
+              "logprob": -1.8374905586242676
+            },
+            {
+              "token": " knife",
+              "logprob": -0.6080416440963745
+            },
+            {
+              "token": " so",
+              "logprob": -2.8844265937805176
+            },
+            {
+              "token": " often",
+              "logprob": -3.1057510375976562
+            },
+            {
+              "token": " until",
+              "logprob": -3.6908130645751953
+            },
+            {
+              "token": " he",
+              "logprob": -1.1103729009628296
+            },
+            {
+              "token": " broke",
+              "logprob": -4.29367733001709
+            },
+            {
+              "token": " the",
+              "logprob": -1.1437112092971802
+            },
+            {
+              "token": " sharp",
+              "logprob": -4.659195423126221
+            },
+            {
+              "token": " blades",
+              "logprob": -4.016497611999512
+            },
+            {
+              "token": " in",
+              "logprob": -3.860443115234375
+            },
+            {
+              "token": " front",
+              "logprob": -4.849332332611084
+            },
+            {
+              "token": " of",
+              "logprob": -0.1330919861793518
+            },
+            {
+              "token": " him",
+              "logprob": -1.2606911659240723
+            },
+            {
+              "token": ".",
+              "logprob": -0.3185330629348755
+            },
+            {
+              "token": " This",
+              "logprob": -4.0688934326171875
+            },
+            {
+              "token": " was",
+              "logprob": -1.7703275680541992
+            },
+            {
+              "token": " why",
+              "logprob": -3.861001491546631
+            },
+            {
+              "token": " he",
+              "logprob": -0.49041396379470825
+            },
+            {
+              "token": " used",
+              "logprob": -4.434393882751465
+            },
+            {
+              "token": " to",
+              "logprob": -3.0649445056915283
+            },
+            {
+              "token": " enjoy",
+              "logprob": -4.218716621398926
+            },
+            {
+              "token": " sharpen",
+              "logprob": -2.512747049331665
+            },
+            {
+              "token": "ing",
+              "logprob": -0.012291280552744865
+            },
+            {
+              "token": " a",
+              "logprob": -3.7381036281585693
+            },
+            {
+              "token": " knife",
+              "logprob": -1.559956431388855
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.589887857437134
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The knife needed to be sharp before Mason sharpened it.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -0.7126602530479431
+            },
+            {
+              "token": " knife",
+              "logprob": -0.1750975102186203
+            },
+            {
+              "token": " needed",
+              "logprob": -2.67134165763855
+            },
+            {
+              "token": " to",
+              "logprob": -2.5147924423217773
+            },
+            {
+              "token": " be",
+              "logprob": -0.25184640288352966
+            },
+            {
+              "token": " sharp",
+              "logprob": -3.3804872035980225
+            },
+            {
+              "token": " before",
+              "logprob": -3.072974681854248
+            },
+            {
+              "token": " Mason",
+              "logprob": -0.6379156112670898
+            },
+            {
+              "token": " sharpen",
+              "logprob": -0.1575600802898407
+            },
+            {
+              "token": "ed",
+              "logprob": -0.004077930003404617
+            },
+            {
+              "token": " it",
+              "logprob": -0.06636939942836761
+            },
+            {
+              "token": ".",
+              "logprob": -0.24758008122444153
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.1094541549682617
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The knife was very dull.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -0.7126602530479431
+            },
+            {
+              "token": " knife",
+              "logprob": -0.1750975102186203
+            },
+            {
+              "token": " was",
+              "logprob": -0.25438764691352844
+            },
+            {
+              "token": " very",
+              "logprob": -2.9738545417785645
+            },
+            {
+              "token": " dull",
+              "logprob": -0.0927484780550003
+            },
+            {
+              "token": ".",
+              "logprob": -0.9463061094284058
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7186134457588196
+            },
+            {
+              "token": ":",
+              "logprob": -0.0188243817538023
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What condition was the knife before Harper sharpened it?",
+      "character": "Harper",
+      "story": "Mason and Harper were best friends who loved to go camping. One weekend, they packed their bags and walked deep into the woods. They set up their tent near a shallow river. Harper collected sticks to make a fire while Mason unpacked the food. Mason sharpened a dull knife to cut vegetables for dinner. The knife was old and needed a lot of work, but Mason was patient. Harper laughed when she saw him concentrating so hard. \"You look serious,\" she said. Mason smiled and kept sharpening. Night came, and they ate their meal by the fire. The stars shone bright above them. Harper told funny stories, and Mason added jokes. They stayed awake for hours, happy and cozy in the woods. The next morning, they packed up and hiked back home, already planning their next adventure. The trip was simple, but it was perfect because they were together.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "1. What condition was it? Was the knife dull before she sharpened it?",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.703416109085083
+            },
+            {
+              "token": "1",
+              "logprob": -3.474062442779541
+            },
+            {
+              "token": ".",
+              "logprob": -0.9457449316978455
+            },
+            {
+              "token": " What",
+              "logprob": -4.098927021026611
+            },
+            {
+              "token": " condition",
+              "logprob": -1.177040696144104
+            },
+            {
+              "token": " was",
+              "logprob": -0.17625866830348969
+            },
+            {
+              "token": " it",
+              "logprob": -2.8899359703063965
+            },
+            {
+              "token": "?",
+              "logprob": -1.9584580659866333
+            },
+            {
+              "token": " Was",
+              "logprob": -4.23347282409668
+            },
+            {
+              "token": " the",
+              "logprob": -2.6599838733673096
+            },
+            {
+              "token": " knife",
+              "logprob": -0.20527493953704834
+            },
+            {
+              "token": " dull",
+              "logprob": -1.0046863555908203
+            },
+            {
+              "token": " before",
+              "logprob": -1.5274457931518555
+            },
+            {
+              "token": " she",
+              "logprob": -2.918675661087036
+            },
+            {
+              "token": " sharpen",
+              "logprob": -0.13139940798282623
+            },
+            {
+              "token": "ed",
+              "logprob": -0.00650076474994421
+            },
+            {
+              "token": " it",
+              "logprob": -0.11756101250648499
+            },
+            {
+              "token": "?\n",
+              "logprob": -4.001204490661621
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "the knife was dull.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.723597764968872
+            },
+            {
+              "token": " the",
+              "logprob": -3.6092429161071777
+            },
+            {
+              "token": " knife",
+              "logprob": -0.5219441652297974
+            },
+            {
+              "token": " was",
+              "logprob": -0.3142808675765991
+            },
+            {
+              "token": " dull",
+              "logprob": -0.3775565028190613
+            },
+            {
+              "token": ".",
+              "logprob": -1.4006603956222534
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7141852974891663
+            },
+            {
+              "token": ":",
+              "logprob": -0.0226904284209013
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The knife was very sharp.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -0.8297102451324463
+            },
+            {
+              "token": " knife",
+              "logprob": -0.19292086362838745
+            },
+            {
+              "token": " was",
+              "logprob": -0.2759411931037903
+            },
+            {
+              "token": " very",
+              "logprob": -3.092907667160034
+            },
+            {
+              "token": " sharp",
+              "logprob": -3.0161495208740234
+            },
+            {
+              "token": ".",
+              "logprob": -0.8686885833740234
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7861710786819458
+            },
+            {
+              "token": ":",
+              "logprob": -0.01820322498679161
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The knife needed a lot of work.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -0.8297102451324463
+            },
+            {
+              "token": " knife",
+              "logprob": -0.19292086362838745
+            },
+            {
+              "token": " needed",
+              "logprob": -2.857680559158325
+            },
+            {
+              "token": " a",
+              "logprob": -0.27297303080558777
+            },
+            {
+              "token": " lot",
+              "logprob": -0.020615236833691597
+            },
+            {
+              "token": " of",
+              "logprob": -0.02027372643351555
+            },
+            {
+              "token": " work",
+              "logprob": -0.07037298381328583
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.1649057865142822
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "the knife was old, and Harper sharpened it to make it new and improved.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.723597764968872
+            },
+            {
+              "token": " the",
+              "logprob": -3.6092429161071777
+            },
+            {
+              "token": " knife",
+              "logprob": -0.5219441652297974
+            },
+            {
+              "token": " was",
+              "logprob": -0.3142808675765991
+            },
+            {
+              "token": " old",
+              "logprob": -3.3491828441619873
+            },
+            {
+              "token": ",",
+              "logprob": -3.048346757888794
+            },
+            {
+              "token": " and",
+              "logprob": -1.6253478527069092
+            },
+            {
+              "token": " Harper",
+              "logprob": -3.5720767974853516
+            },
+            {
+              "token": " sharpen",
+              "logprob": -1.7813109159469604
+            },
+            {
+              "token": "ed",
+              "logprob": -0.004918855614960194
+            },
+            {
+              "token": " it",
+              "logprob": -0.15968498587608337
+            },
+            {
+              "token": " to",
+              "logprob": -3.248793601989746
+            },
+            {
+              "token": " make",
+              "logprob": -1.059714436531067
+            },
+            {
+              "token": " it",
+              "logprob": -0.319843053817749
+            },
+            {
+              "token": " new",
+              "logprob": -2.58609676361084
+            },
+            {
+              "token": " and",
+              "logprob": -2.5574758052825928
+            },
+            {
+              "token": " improved",
+              "logprob": -2.6170859336853027
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.3743486404418945
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The knife was dull and needed a lot of work.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -0.8297102451324463
+            },
+            {
+              "token": " knife",
+              "logprob": -0.19292086362838745
+            },
+            {
+              "token": " was",
+              "logprob": -0.2759411931037903
+            },
+            {
+              "token": " dull",
+              "logprob": -0.28180575370788574
+            },
+            {
+              "token": " and",
+              "logprob": -1.6151328086853027
+            },
+            {
+              "token": " needed",
+              "logprob": -0.6091037392616272
+            },
+            {
+              "token": " a",
+              "logprob": -0.4086410403251648
+            },
+            {
+              "token": " lot",
+              "logprob": -0.0268629789352417
+            },
+            {
+              "token": " of",
+              "logprob": -0.017423072829842567
+            },
+            {
+              "token": " work",
+              "logprob": -0.14600595831871033
+            },
+            {
+              "token": ".",
+              "logprob": -0.41688457131385803
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6097555160522461
+            },
+            {
+              "token": ":",
+              "logprob": -0.018477456644177437
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It was dull because he wasn’t in the mood.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.723597764968872
+            },
+            {
+              "token": " It",
+              "logprob": -2.033120632171631
+            },
+            {
+              "token": " was",
+              "logprob": -0.2498643696308136
+            },
+            {
+              "token": " dull",
+              "logprob": -0.3801180124282837
+            },
+            {
+              "token": " because",
+              "logprob": -3.419793128967285
+            },
+            {
+              "token": " he",
+              "logprob": -1.5458767414093018
+            },
+            {
+              "token": " wasn",
+              "logprob": -3.6871860027313232
+            },
+            {
+              "token": "’t",
+              "logprob": -2.626455068588257
+            },
+            {
+              "token": " in",
+              "logprob": -4.400594711303711
+            },
+            {
+              "token": " the",
+              "logprob": -0.6051705479621887
+            },
+            {
+              "token": " mood",
+              "logprob": -1.0035524368286133
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.2448596954345703
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Mason sharpened the dull knife.",
+          "token_data": [
+            {
+              "token": " Mason",
+              "logprob": -3.1308586597442627
+            },
+            {
+              "token": " sharpen",
+              "logprob": -1.3397009372711182
+            },
+            {
+              "token": "ed",
+              "logprob": -0.013250390999019146
+            },
+            {
+              "token": " the",
+              "logprob": -0.8586252331733704
+            },
+            {
+              "token": " dull",
+              "logprob": -1.1827776432037354
+            },
+            {
+              "token": " knife",
+              "logprob": -0.052648451179265976
+            },
+            {
+              "token": ".",
+              "logprob": -1.4771358966827393
+            },
+            {
+              "token": " Q",
+              "logprob": -0.5661787390708923
+            },
+            {
+              "token": ":",
+              "logprob": -0.016987180337309837
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Mason sharpened it to dull and the condition was he needed a lot of work.",
+          "token_data": [
+            {
+              "token": " Mason",
+              "logprob": -3.1308586597442627
+            },
+            {
+              "token": " sharpen",
+              "logprob": -1.3397009372711182
+            },
+            {
+              "token": "ed",
+              "logprob": -0.013250390999019146
+            },
+            {
+              "token": " it",
+              "logprob": -1.2061097621917725
+            },
+            {
+              "token": " to",
+              "logprob": -3.2966349124908447
+            },
+            {
+              "token": " dull",
+              "logprob": -4.075038433074951
+            },
+            {
+              "token": " and",
+              "logprob": -3.651683807373047
+            },
+            {
+              "token": " the",
+              "logprob": -3.671570301055908
+            },
+            {
+              "token": " condition",
+              "logprob": -3.4394123554229736
+            },
+            {
+              "token": " was",
+              "logprob": -0.9730676412582397
+            },
+            {
+              "token": " he",
+              "logprob": -4.266695499420166
+            },
+            {
+              "token": " needed",
+              "logprob": -2.336050271987915
+            },
+            {
+              "token": " a",
+              "logprob": -0.27336981892585754
+            },
+            {
+              "token": " lot",
+              "logprob": -0.013985841535031796
+            },
+            {
+              "token": " of",
+              "logprob": -0.030838700011372566
+            },
+            {
+              "token": " work",
+              "logprob": -0.05659593641757965
+            },
+            {
+              "token": ".",
+              "logprob": -0.6722545027732849
+            },
+            {
+              "token": " \n",
+              "logprob": -2.4859983921051025
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The knife was dull and had some rust on its blade.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -0.8297102451324463
+            },
+            {
+              "token": " knife",
+              "logprob": -0.19292086362838745
+            },
+            {
+              "token": " was",
+              "logprob": -0.2759411931037903
+            },
+            {
+              "token": " dull",
+              "logprob": -0.28180575370788574
+            },
+            {
+              "token": " and",
+              "logprob": -1.6151328086853027
+            },
+            {
+              "token": " had",
+              "logprob": -3.522975444793701
+            },
+            {
+              "token": " some",
+              "logprob": -3.1813015937805176
+            },
+            {
+              "token": " rust",
+              "logprob": -1.29097580909729
+            },
+            {
+              "token": " on",
+              "logprob": -0.9736605882644653
+            },
+            {
+              "token": " its",
+              "logprob": -3.1272222995758057
+            },
+            {
+              "token": " blade",
+              "logprob": -1.1063947677612305
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.2403295040130615
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

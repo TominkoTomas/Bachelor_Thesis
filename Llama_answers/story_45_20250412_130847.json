@@ -1,0 +1,1183 @@
+{
+  "story": "Harper and Alexander were best friends who loved to do things together. One day, Harper wanted to paint a wall in their clubhouse. Alexander was busy building a wooden shelf, so Harper worked alone. Harper painted a dotted wall with bright colors, making big and small dots everywhere. Alexander admired the shelf he made but didn’t say much about the wall. Later, their friends came over and loved the dotted wall. They thought it was fun and creative. Harper felt proud and smiled. Alexander showed them his shelf, and everyone liked that too. The clubhouse looked better with both the dotted wall and the new shelf. Harper and Alexander high-fived, happy with their work. They spent the rest of the day playing games inside their newly decorated clubhouse. It was a good day for both of them.",
+  "characters": [
+    {
+      "question": "What pattern was on the wall Harper painted?",
+      "character": "Harper",
+      "story": "Harper and Alexander were best friends who loved to do things together. One day, Harper wanted to paint a wall in their clubhouse. Alexander was busy building a wooden shelf, so Harper worked alone. Harper painted a dotted wall with bright colors, making big and small dots everywhere. Alexander admired the shelf he made but didn’t say much about the wall. Later, their friends came over and loved the dotted wall. They thought it was fun and creative. Harper felt proud and smiled. Alexander showed them his shelf, and everyone liked that too. The clubhouse looked better with both the dotted wall and the new shelf. Harper and Alexander high-fived, happy with their work. They spent the rest of the day playing games inside their newly decorated clubhouse. It was a good day for both of them.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A dotted pattern with bright colors.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.7751235961914062
+            },
+            {
+              "token": " dotted",
+              "logprob": -0.20437316596508026
+            },
+            {
+              "token": " pattern",
+              "logprob": -2.7987141609191895
+            },
+            {
+              "token": " with",
+              "logprob": -3.153315544128418
+            },
+            {
+              "token": " bright",
+              "logprob": -0.8958359956741333
+            },
+            {
+              "token": " colors",
+              "logprob": -0.1934065967798233
+            },
+            {
+              "token": ".",
+              "logprob": -0.9357265830039978
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.8413987159729004
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "6. How did Harper's friends admire the pattern he made on the wall? B: 7. What did Alexander show with a new shelf in his home?",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.271841049194336
+            },
+            {
+              "token": "6",
+              "logprob": -5.156970024108887
+            },
+            {
+              "token": ".",
+              "logprob": -1.1662757396697998
+            },
+            {
+              "token": " How",
+              "logprob": -3.8698806762695312
+            },
+            {
+              "token": " did",
+              "logprob": -2.028574228286743
+            },
+            {
+              "token": " Harper",
+              "logprob": -0.5928561091423035
+            },
+            {
+              "token": "'s",
+              "logprob": -3.351137638092041
+            },
+            {
+              "token": " friends",
+              "logprob": -2.3619894981384277
+            },
+            {
+              "token": " admire",
+              "logprob": -3.4105095863342285
+            },
+            {
+              "token": " the",
+              "logprob": -0.7234193086624146
+            },
+            {
+              "token": " pattern",
+              "logprob": -3.188938617706299
+            },
+            {
+              "token": " he",
+              "logprob": -2.7703661918640137
+            },
+            {
+              "token": " made",
+              "logprob": -1.8486480712890625
+            },
+            {
+              "token": " on",
+              "logprob": -1.95387601852417
+            },
+            {
+              "token": " the",
+              "logprob": -0.05590346083045006
+            },
+            {
+              "token": " wall",
+              "logprob": -0.03322277590632439
+            },
+            {
+              "token": "?",
+              "logprob": -0.09872546046972275
+            },
+            {
+              "token": " B",
+              "logprob": -2.9597110748291016
+            },
+            {
+              "token": ":",
+              "logprob": -0.036763668060302734
+            },
+            {
+              "token": " ",
+              "logprob": -0.18590810894966125
+            },
+            {
+              "token": "7",
+              "logprob": -0.3808535039424896
+            },
+            {
+              "token": ".",
+              "logprob": -0.03872939199209213
+            },
+            {
+              "token": " What",
+              "logprob": -1.3292816877365112
+            },
+            {
+              "token": " did",
+              "logprob": -0.30755728483200073
+            },
+            {
+              "token": " Alexander",
+              "logprob": -1.728525161743164
+            },
+            {
+              "token": " show",
+              "logprob": -2.5122437477111816
+            },
+            {
+              "token": " with",
+              "logprob": -3.935859203338623
+            },
+            {
+              "token": " a",
+              "logprob": -3.210606098175049
+            },
+            {
+              "token": " new",
+              "logprob": -1.619596242904663
+            },
+            {
+              "token": " shelf",
+              "logprob": -0.32541269063949585
+            },
+            {
+              "token": " in",
+              "logprob": -3.4439358711242676
+            },
+            {
+              "token": " his",
+              "logprob": -2.927872896194458
+            },
+            {
+              "token": " home",
+              "logprob": -3.548090696334839
+            },
+            {
+              "token": "?\n",
+              "logprob": -3.828676700592041
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Answer with one whole sentence. .",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.9328746795654297
+            },
+            {
+              "token": " with",
+              "logprob": -2.5326998233795166
+            },
+            {
+              "token": " one",
+              "logprob": -1.0895447731018066
+            },
+            {
+              "token": " whole",
+              "logprob": -0.44948652386665344
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.16165649890899658
+            },
+            {
+              "token": ".",
+              "logprob": -0.6645969152450562
+            },
+            {
+              "token": " ",
+              "logprob": -3.846907138824463
+            },
+            {
+              "token": ".\n\n\n",
+              "logprob": -3.178633689880371
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "This picture shows how you can tell a story context is being used, using the pattern that is on the wall.",
+          "token_data": [
+            {
+              "token": " This",
+              "logprob": -4.38408088684082
+            },
+            {
+              "token": " picture",
+              "logprob": -4.2697434425354
+            },
+            {
+              "token": " shows",
+              "logprob": -0.6099755167961121
+            },
+            {
+              "token": " how",
+              "logprob": -3.693613052368164
+            },
+            {
+              "token": " you",
+              "logprob": -3.3809263706207275
+            },
+            {
+              "token": " can",
+              "logprob": -0.4998495578765869
+            },
+            {
+              "token": " tell",
+              "logprob": -3.0075526237487793
+            },
+            {
+              "token": " a",
+              "logprob": -2.453091621398926
+            },
+            {
+              "token": " story",
+              "logprob": -1.8140097856521606
+            },
+            {
+              "token": " context",
+              "logprob": -3.942802667617798
+            },
+            {
+              "token": " is",
+              "logprob": -2.5217318534851074
+            },
+            {
+              "token": " being",
+              "logprob": -2.6657509803771973
+            },
+            {
+              "token": " used",
+              "logprob": -0.46906688809394836
+            },
+            {
+              "token": ",",
+              "logprob": -3.5140135288238525
+            },
+            {
+              "token": " using",
+              "logprob": -4.122838020324707
+            },
+            {
+              "token": " the",
+              "logprob": -1.468525767326355
+            },
+            {
+              "token": " pattern",
+              "logprob": -2.6925771236419678
+            },
+            {
+              "token": " that",
+              "logprob": -3.82238507270813
+            },
+            {
+              "token": " is",
+              "logprob": -1.2498962879180908
+            },
+            {
+              "token": " on",
+              "logprob": -0.9455945491790771
+            },
+            {
+              "token": " the",
+              "logprob": -0.0995541363954544
+            },
+            {
+              "token": " wall",
+              "logprob": -0.21826305985450745
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.380424976348877
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Dots of all sizes.",
+          "token_data": [
+            {
+              "token": " D",
+              "logprob": -2.3126869201660156
+            },
+            {
+              "token": "ots",
+              "logprob": -2.023012161254883
+            },
+            {
+              "token": " of",
+              "logprob": -2.695375919342041
+            },
+            {
+              "token": " all",
+              "logprob": -0.6954160332679749
+            },
+            {
+              "token": " sizes",
+              "logprob": -0.3412506878376007
+            },
+            {
+              "token": ".",
+              "logprob": -1.0965540409088135
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -4.08425235748291
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Big, bright, and beautiful patterns",
+          "token_data": [
+            {
+              "token": " Big",
+              "logprob": -3.8379297256469727
+            },
+            {
+              "token": ",",
+              "logprob": -2.999485731124878
+            },
+            {
+              "token": " bright",
+              "logprob": -1.4500268697738647
+            },
+            {
+              "token": ",",
+              "logprob": -1.0883793830871582
+            },
+            {
+              "token": " and",
+              "logprob": -0.6991442441940308
+            },
+            {
+              "token": " beautiful",
+              "logprob": -2.578209638595581
+            },
+            {
+              "token": " patterns",
+              "logprob": -2.9793267250061035
+            },
+            {
+              "token": "\n",
+              "logprob": -3.6734886169433594
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "What color and texture does your body have?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.371291160583496
+            },
+            {
+              "token": " color",
+              "logprob": -3.3565330505371094
+            },
+            {
+              "token": " and",
+              "logprob": -3.469273328781128
+            },
+            {
+              "token": " texture",
+              "logprob": -3.6946067810058594
+            },
+            {
+              "token": " does",
+              "logprob": -3.5688400268554688
+            },
+            {
+              "token": " your",
+              "logprob": -3.017685890197754
+            },
+            {
+              "token": " body",
+              "logprob": -4.933778762817383
+            },
+            {
+              "token": " have",
+              "logprob": -0.571517288684845
+            },
+            {
+              "token": "?",
+              "logprob": -0.2700306177139282
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.9778112173080444
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "a dotted wall with big and small dots everywhere.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -4.2330732345581055
+            },
+            {
+              "token": " dotted",
+              "logprob": -0.3602094352245331
+            },
+            {
+              "token": " wall",
+              "logprob": -0.2673817574977875
+            },
+            {
+              "token": " with",
+              "logprob": -1.9219472408294678
+            },
+            {
+              "token": " big",
+              "logprob": -2.7948966026306152
+            },
+            {
+              "token": " and",
+              "logprob": -0.2558387517929077
+            },
+            {
+              "token": " small",
+              "logprob": -0.07675696909427643
+            },
+            {
+              "token": " dots",
+              "logprob": -0.32331201434135437
+            },
+            {
+              "token": " everywhere",
+              "logprob": -0.7285650968551636
+            },
+            {
+              "token": ".\n",
+              "logprob": -1.904289960861206
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Answer: 1 big dotted wall, many small dots.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.9328746795654297
+            },
+            {
+              "token": ":",
+              "logprob": -1.7187483310699463
+            },
+            {
+              "token": " ",
+              "logprob": -3.220792531967163
+            },
+            {
+              "token": "1",
+              "logprob": -1.3905744552612305
+            },
+            {
+              "token": " big",
+              "logprob": -3.9447436332702637
+            },
+            {
+              "token": " dotted",
+              "logprob": -2.7390966415405273
+            },
+            {
+              "token": " wall",
+              "logprob": -0.9219656586647034
+            },
+            {
+              "token": ",",
+              "logprob": -3.3543663024902344
+            },
+            {
+              "token": " many",
+              "logprob": -4.034829616546631
+            },
+            {
+              "token": " small",
+              "logprob": -1.0981659889221191
+            },
+            {
+              "token": " dots",
+              "logprob": -1.301762580871582
+            },
+            {
+              "token": ".",
+              "logprob": -1.534562587738037
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "A dotted wall, as you can tell by the word dotted. In a short sentence, what was Alexander thinking? What was he saying? A: Alexander is admiring the shelf he made, as it looked more important and better than anything he made in the future. He is also very happy about how bright their work looks to other kids.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.824284553527832
+            },
+            {
+              "token": " dotted",
+              "logprob": -0.20284169912338257
+            },
+            {
+              "token": " wall",
+              "logprob": -0.3220794200897217
+            },
+            {
+              "token": ",",
+              "logprob": -3.7787814140319824
+            },
+            {
+              "token": " as",
+              "logprob": -3.159416675567627
+            },
+            {
+              "token": " you",
+              "logprob": -1.6534212827682495
+            },
+            {
+              "token": " can",
+              "logprob": -0.2652856409549713
+            },
+            {
+              "token": " tell",
+              "logprob": -2.9400248527526855
+            },
+            {
+              "token": " by",
+              "logprob": -0.7453083992004395
+            },
+            {
+              "token": " the",
+              "logprob": -0.2797417938709259
+            },
+            {
+              "token": " word",
+              "logprob": -3.9628350734710693
+            },
+            {
+              "token": " dotted",
+              "logprob": -1.4275156259536743
+            },
+            {
+              "token": ".",
+              "logprob": -0.9005958437919617
+            },
+            {
+              "token": " In",
+              "logprob": -4.787717819213867
+            },
+            {
+              "token": " a",
+              "logprob": -3.0537874698638916
+            },
+            {
+              "token": " short",
+              "logprob": -4.899879455566406
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.951286792755127
+            },
+            {
+              "token": ",",
+              "logprob": -0.3528400659561157
+            },
+            {
+              "token": " what",
+              "logprob": -2.8535237312316895
+            },
+            {
+              "token": " was",
+              "logprob": -2.794342279434204
+            },
+            {
+              "token": " Alexander",
+              "logprob": -3.964972972869873
+            },
+            {
+              "token": " thinking",
+              "logprob": -3.1461710929870605
+            },
+            {
+              "token": "?",
+              "logprob": -1.1395790576934814
+            },
+            {
+              "token": " What",
+              "logprob": -4.071331024169922
+            },
+            {
+              "token": " was",
+              "logprob": -1.857395052909851
+            },
+            {
+              "token": " he",
+              "logprob": -1.2146928310394287
+            },
+            {
+              "token": " saying",
+              "logprob": -3.2558791637420654
+            },
+            {
+              "token": "?",
+              "logprob": -0.5419080257415771
+            },
+            {
+              "token": " A",
+              "logprob": -1.070801854133606
+            },
+            {
+              "token": ":",
+              "logprob": -0.019889557734131813
+            },
+            {
+              "token": " Alexander",
+              "logprob": -1.3536264896392822
+            },
+            {
+              "token": " is",
+              "logprob": -4.624637603759766
+            },
+            {
+              "token": " adm",
+              "logprob": -3.9004292488098145
+            },
+            {
+              "token": "iring",
+              "logprob": -0.0007969539728946984
+            },
+            {
+              "token": " the",
+              "logprob": -0.777370035648346
+            },
+            {
+              "token": " shelf",
+              "logprob": -1.5755246877670288
+            },
+            {
+              "token": " he",
+              "logprob": -0.26996636390686035
+            },
+            {
+              "token": " made",
+              "logprob": -0.3625602126121521
+            },
+            {
+              "token": ",",
+              "logprob": -1.4238834381103516
+            },
+            {
+              "token": " as",
+              "logprob": -2.664503574371338
+            },
+            {
+              "token": " it",
+              "logprob": -3.744022846221924
+            },
+            {
+              "token": " looked",
+              "logprob": -4.448678970336914
+            },
+            {
+              "token": " more",
+              "logprob": -2.8716506958007812
+            },
+            {
+              "token": " important",
+              "logprob": -4.227082252502441
+            },
+            {
+              "token": " and",
+              "logprob": -3.1398489475250244
+            },
+            {
+              "token": " better",
+              "logprob": -1.7499377727508545
+            },
+            {
+              "token": " than",
+              "logprob": -0.25368744134902954
+            },
+            {
+              "token": " anything",
+              "logprob": -4.529204845428467
+            },
+            {
+              "token": " he",
+              "logprob": -1.8957910537719727
+            },
+            {
+              "token": " made",
+              "logprob": -1.7646980285644531
+            },
+            {
+              "token": " in",
+              "logprob": -2.66579532623291
+            },
+            {
+              "token": " the",
+              "logprob": -0.1592135727405548
+            },
+            {
+              "token": " future",
+              "logprob": -2.425466775894165
+            },
+            {
+              "token": ".",
+              "logprob": -0.11987797170877457
+            },
+            {
+              "token": " He",
+              "logprob": -1.2015838623046875
+            },
+            {
+              "token": " is",
+              "logprob": -1.8226377964019775
+            },
+            {
+              "token": " also",
+              "logprob": -3.1939260959625244
+            },
+            {
+              "token": " very",
+              "logprob": -4.397533416748047
+            },
+            {
+              "token": " happy",
+              "logprob": -1.0216269493103027
+            },
+            {
+              "token": " about",
+              "logprob": -2.2804412841796875
+            },
+            {
+              "token": " how",
+              "logprob": -1.9692561626434326
+            },
+            {
+              "token": " bright",
+              "logprob": -5.235299587249756
+            },
+            {
+              "token": " their",
+              "logprob": -4.381659507751465
+            },
+            {
+              "token": " work",
+              "logprob": -2.1334779262542725
+            },
+            {
+              "token": " looks",
+              "logprob": -0.6901851892471313
+            },
+            {
+              "token": " to",
+              "logprob": -3.1415369510650635
+            },
+            {
+              "token": " other",
+              "logprob": -2.7695913314819336
+            },
+            {
+              "token": " kids",
+              "logprob": -2.7179367542266846
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.3916282653808594
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What pattern was on the wall Alexander painted?",
+      "character": "Alexander",
+      "story": "Harper and Alexander were best friends who loved to do things together. One day, Harper wanted to paint a wall in their clubhouse. Alexander was busy building a wooden shelf, so Harper worked alone. Harper painted a dotted wall with bright colors, making big and small dots everywhere. Alexander admired the shelf he made but didn’t say much about the wall. Later, their friends came over and loved the dotted wall. They thought it was fun and creative. Harper felt proud and smiled. Alexander showed them his shelf, and everyone liked that too. The clubhouse looked better with both the dotted wall and the new shelf. Harper and Alexander high-fived, happy with their work. They spent the rest of the day playing games inside their newly decorated clubhouse. It was a good day for both of them.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A dotted pattern.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.7151598930358887
+            },
+            {
+              "token": " dotted",
+              "logprob": -0.45815470814704895
+            },
+            {
+              "token": " pattern",
+              "logprob": -3.0544116497039795
+            },
+            {
+              "token": ".",
+              "logprob": -0.9998071193695068
+            },
+            {
+              "token": " \n",
+              "logprob": -2.1560683250427246
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The pattern on the wall was dots.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.531219720840454
+            },
+            {
+              "token": " pattern",
+              "logprob": -0.5133957266807556
+            },
+            {
+              "token": " on",
+              "logprob": -1.615233063697815
+            },
+            {
+              "token": " the",
+              "logprob": -0.14486049115657806
+            },
+            {
+              "token": " wall",
+              "logprob": -0.05925162881612778
+            },
+            {
+              "token": " was",
+              "logprob": -0.6146469116210938
+            },
+            {
+              "token": " dots",
+              "logprob": -2.986360549926758
+            },
+            {
+              "token": ".",
+              "logprob": -0.6991668343544006
+            },
+            {
+              "token": " Q",
+              "logprob": -1.4872584342956543
+            },
+            {
+              "token": ":",
+              "logprob": -0.014729209244251251
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A dotted wall with bright colors.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.7015135288238525
+            },
+            {
+              "token": " dotted",
+              "logprob": -0.45675867795944214
+            },
+            {
+              "token": " wall",
+              "logprob": -0.4056192636489868
+            },
+            {
+              "token": " with",
+              "logprob": -1.459407091140747
+            },
+            {
+              "token": " bright",
+              "logprob": -0.4813171625137329
+            },
+            {
+              "token": " colors",
+              "logprob": -0.11859798431396484
+            },
+            {
+              "token": ".",
+              "logprob": -1.6453704833984375
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.96156907081604
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "There is a pattern of what they were all looking. A dotted wall and the shelf Alexander painted were in the club house.",
+          "token_data": [
+            {
+              "token": " There",
+              "logprob": -4.16929817199707
+            },
+            {
+              "token": " is",
+              "logprob": -1.6123642921447754
+            },
+            {
+              "token": " a",
+              "logprob": -2.24485182762146
+            },
+            {
+              "token": " pattern",
+              "logprob": -1.1351416110992432
+            },
+            {
+              "token": " of",
+              "logprob": -0.8233553767204285
+            },
+            {
+              "token": " what",
+              "logprob": -4.451789855957031
+            },
+            {
+              "token": " they",
+              "logprob": -4.751409530639648
+            },
+            {
+              "token": " were",
+              "logprob": -4.134624004364014
+            },
+            {
+              "token": " all",
+              "logprob": -4.374970436096191
+            },
+            {
+              "token": " looking",
+              "logprob": -2.962188243865967
+            },
+            {
+              "token": ".",
+              "logprob": -3.2069880962371826
+            },
+            {
+              "token": " A",
+              "logprob": -4.326040267944336
+            },
+            {
+              "token": " dotted",
+              "logprob": -2.7111496925354004
+            },
+            {
+              "token": " wall",
+              "logprob": -0.2705502212047577
+            },
+            {
+              "token": " and",
+              "logprob": -1.2294731140136719
+            },
+            {
+              "token": " the",
+              "logprob": -3.7511494159698486
+            },
+            {
+              "token": " shelf",
+              "logprob": -1.2440091371536255
+            },
+            {
+              "token": " Alexander",
+              "logprob": -1.8992780447006226
+            },
+            {
+              "token": " painted",
+              "logprob": -3.071998119354248
+            },
+            {
+              "token": " were",
+              "logprob": -3.4662926197052
+            },
+            {
+              "token": " in",
+              "logprob": -3.4771199226379395
+            },
+            {
+              "token": " the",
+              "logprob": -0.5295963883399963
+            },
+            {
+              "token": " club",
+              "logprob": -3.6773529052734375
+            },
+            {
+              "token": " house",
+              "logprob": -0.38666921854019165
+            },
+            {
+              "token": ".",
+              "logprob": -0.4876982569694519
+            },
+            {
+              "token": " Q",
+              "logprob": -2.049163579940796
+            },
+            {
+              "token": ":",
+              "logprob": -0.03820699825882912
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Dots.",
+          "token_data": [
+            {
+              "token": " D",
+              "logprob": -3.519427537918091
+            },
+            {
+              "token": "ots",
+              "logprob": -1.7758983373641968
+            },
+            {
+              "token": ".",
+              "logprob": -1.251542091369629
+            },
+            {
+              "token": " ",
+              "logprob": -2.574960470199585
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n\n",
+              "logprob": -4.392754554748535
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n\n",
+              "logprob": -4.392754554748535
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.611482858657837
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "One sentence with 2 patterns and an example sentence",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -4.474952697753906
+            },
+            {
+              "token": " sentence",
+              "logprob": -3.087911605834961
+            },
+            {
+              "token": " with",
+              "logprob": -4.096678733825684
+            },
+            {
+              "token": " ",
+              "logprob": -3.493117332458496
+            },
+            {
+              "token": "2",
+              "logprob": -1.1880929470062256
+            },
+            {
+              "token": " patterns",
+              "logprob": -4.321737289428711
+            },
+            {
+              "token": " and",
+              "logprob": -3.424211025238037
+            },
+            {
+              "token": " an",
+              "logprob": -4.3226847648620605
+            },
+            {
+              "token": " example",
+              "logprob": -1.2702516317367554
+            },
+            {
+              "token": " sentence",
+              "logprob": -2.8995003700256348
+            },
+            {
+              "token": "\n",
+              "logprob": -3.2553327083587646
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "A dotted wall",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.7015135288238525
+            },
+            {
+              "token": " dotted",
+              "logprob": -0.45675867795944214
+            },
+            {
+              "token": " wall",
+              "logprob": -0.4056192636489868
+            },
+            {
+              "token": "\n",
+              "logprob": -2.695868730545044
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

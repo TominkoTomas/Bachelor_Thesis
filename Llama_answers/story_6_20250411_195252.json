@@ -1,0 +1,691 @@
+{
+  "story": "Scarlett and Ethan were best friends who loved going on adventures. One sunny day, they decided to explore the big forest near their town. Scarlett packed a small bag with snacks, including a yellow apple she found at home. Ethan brought a map and a flashlight, just in case. As they walked through the forest, they talked about their favorite games and laughed at silly jokes. Scarlett ate a yellow apple while Ethan pointed at a bird flying high above them. Suddenly, they heard a rustling sound in the bushes. Ethan grabbed Scarlett’s hand, and they both stood very still. A small rabbit hopped out, looked at them, and then ran away. They laughed with relief and continued their walk. By the time they reached the end of the forest, the sun was starting to set. They promised to come back another day and walked home together, happy and tired.",
+  "characters": [
+    {
+      "question": "What fruit did Scarlett eat?",
+      "character": "Scarlett",
+      "story": "Scarlett and Ethan were best friends who loved going on adventures. One sunny day, they decided to explore the big forest near their town. Scarlett packed a small bag with snacks, including a yellow apple she found at home. Ethan brought a map and a flashlight, just in case. As they walked through the forest, they talked about their favorite games and laughed at silly jokes. Scarlett ate a yellow apple while Ethan pointed at a bird flying high above them. Suddenly, they heard a rustling sound in the bushes. Ethan grabbed Scarlett’s hand, and they both stood very still. A small rabbit hopped out, looked at them, and then ran away. They laughed with relief and continued their walk. By the time they reached the end of the forest, the sun was starting to set. They promised to come back another day and walked home together, happy and tired.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A yellow apple.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.8510425090789795
+            },
+            {
+              "token": " yellow",
+              "logprob": -0.2922152876853943
+            },
+            {
+              "token": " apple",
+              "logprob": -0.029498819261789322
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.213343381881714
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The answer is: \"The answer to this question is an apple.\".",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.35890793800354
+            },
+            {
+              "token": " answer",
+              "logprob": -2.047691822052002
+            },
+            {
+              "token": " is",
+              "logprob": -0.8290306925773621
+            },
+            {
+              "token": ":",
+              "logprob": -2.553358316421509
+            },
+            {
+              "token": " \"",
+              "logprob": -3.96315336227417
+            },
+            {
+              "token": "The",
+              "logprob": -3.1243796348571777
+            },
+            {
+              "token": " answer",
+              "logprob": -1.11317777633667
+            },
+            {
+              "token": " to",
+              "logprob": -3.3124892711639404
+            },
+            {
+              "token": " this",
+              "logprob": -0.43660736083984375
+            },
+            {
+              "token": " question",
+              "logprob": -0.2253134697675705
+            },
+            {
+              "token": " is",
+              "logprob": -0.0918826013803482
+            },
+            {
+              "token": " an",
+              "logprob": -3.3242945671081543
+            },
+            {
+              "token": " apple",
+              "logprob": -0.2383153736591339
+            },
+            {
+              "token": ".\".",
+              "logprob": -4.315661907196045
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Scarlett ate a yellow apple while Ethan pointed at a bird flying high above them. Suddenly, they heard a rustling sound in the bushes. E T H A L",
+          "token_data": [
+            {
+              "token": " Scarlett",
+              "logprob": -0.7468769550323486
+            },
+            {
+              "token": " ate",
+              "logprob": -0.15793433785438538
+            },
+            {
+              "token": " a",
+              "logprob": -0.17967234551906586
+            },
+            {
+              "token": " yellow",
+              "logprob": -0.22767286002635956
+            },
+            {
+              "token": " apple",
+              "logprob": -0.031632255762815475
+            },
+            {
+              "token": " while",
+              "logprob": -1.5973918437957764
+            },
+            {
+              "token": " Ethan",
+              "logprob": -0.034310974180698395
+            },
+            {
+              "token": " pointed",
+              "logprob": -0.13399091362953186
+            },
+            {
+              "token": " at",
+              "logprob": -0.041734661906957626
+            },
+            {
+              "token": " a",
+              "logprob": -0.013848412781953812
+            },
+            {
+              "token": " bird",
+              "logprob": -0.137126624584198
+            },
+            {
+              "token": " flying",
+              "logprob": -0.22981783747673035
+            },
+            {
+              "token": " high",
+              "logprob": -0.01862478069961071
+            },
+            {
+              "token": " above",
+              "logprob": -0.0211090836673975
+            },
+            {
+              "token": " them",
+              "logprob": -0.004932615906000137
+            },
+            {
+              "token": ".",
+              "logprob": -0.27591603994369507
+            },
+            {
+              "token": " Suddenly",
+              "logprob": -1.7989760637283325
+            },
+            {
+              "token": ",",
+              "logprob": -0.008536751382052898
+            },
+            {
+              "token": " they",
+              "logprob": -0.017727619037032127
+            },
+            {
+              "token": " heard",
+              "logprob": -0.0033852909691631794
+            },
+            {
+              "token": " a",
+              "logprob": -0.004733665846288204
+            },
+            {
+              "token": " rust",
+              "logprob": -0.003288102336227894
+            },
+            {
+              "token": "ling",
+              "logprob": -0.0028763136360794306
+            },
+            {
+              "token": " sound",
+              "logprob": -0.002010706812143326
+            },
+            {
+              "token": " in",
+              "logprob": -0.01018198486417532
+            },
+            {
+              "token": " the",
+              "logprob": -0.0012817509705200791
+            },
+            {
+              "token": " bushes",
+              "logprob": -0.001978465588763356
+            },
+            {
+              "token": ".",
+              "logprob": -0.02283049374818802
+            },
+            {
+              "token": " E",
+              "logprob": -3.6439754962921143
+            },
+            {
+              "token": " T",
+              "logprob": -4.733407974243164
+            },
+            {
+              "token": " H",
+              "logprob": -0.1951487511396408
+            },
+            {
+              "token": " A",
+              "logprob": -0.4427603781223297
+            },
+            {
+              "token": " L",
+              "logprob": -2.8889217376708984
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "a yellow apple",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.4509384632110596
+            },
+            {
+              "token": " yellow",
+              "logprob": -0.37940680980682373
+            },
+            {
+              "token": " apple",
+              "logprob": -0.039406921714544296
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.8217673301696777
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "A yellow apple.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.833604097366333
+            },
+            {
+              "token": " yellow",
+              "logprob": -0.29969534277915955
+            },
+            {
+              "token": " apple",
+              "logprob": -0.027685200795531273
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.2134389877319336
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The answer to this question is \"apple\".",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.35890793800354
+            },
+            {
+              "token": " answer",
+              "logprob": -2.047691822052002
+            },
+            {
+              "token": " to",
+              "logprob": -1.4410569667816162
+            },
+            {
+              "token": " this",
+              "logprob": -0.18198734521865845
+            },
+            {
+              "token": " question",
+              "logprob": -0.10118456184864044
+            },
+            {
+              "token": " is",
+              "logprob": -0.3093249797821045
+            },
+            {
+              "token": " \"",
+              "logprob": -3.5719375610351562
+            },
+            {
+              "token": "apple",
+              "logprob": -2.2802634239196777
+            },
+            {
+              "token": "\".",
+              "logprob": -1.1087062358856201
+            },
+            {
+              "token": " \n",
+              "logprob": -1.416751503944397
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "a yellow apple",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.4509384632110596
+            },
+            {
+              "token": " yellow",
+              "logprob": -0.37940680980682373
+            },
+            {
+              "token": " apple",
+              "logprob": -0.039406921714544296
+            },
+            {
+              "token": " ",
+              "logprob": -3.9913182258605957
+            },
+            {
+              "token": " Q",
+              "logprob": -1.1350624561309814
+            },
+            {
+              "token": ":",
+              "logprob": -0.034451957792043686
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Scarlett ate a yellow apple, just in case.",
+          "token_data": [
+            {
+              "token": " Scarlett",
+              "logprob": -0.7468769550323486
+            },
+            {
+              "token": " ate",
+              "logprob": -0.15793433785438538
+            },
+            {
+              "token": " a",
+              "logprob": -0.17967234551906586
+            },
+            {
+              "token": " yellow",
+              "logprob": -0.22767286002635956
+            },
+            {
+              "token": " apple",
+              "logprob": -0.031632255762815475
+            },
+            {
+              "token": ",",
+              "logprob": -3.496626615524292
+            },
+            {
+              "token": " just",
+              "logprob": -2.7251832485198975
+            },
+            {
+              "token": " in",
+              "logprob": -0.1721729338169098
+            },
+            {
+              "token": " case",
+              "logprob": -0.015165617689490318
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.2830216884613037
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Scarlett ate an apple.",
+          "token_data": [
+            {
+              "token": " Scarlett",
+              "logprob": -0.7468769550323486
+            },
+            {
+              "token": " ate",
+              "logprob": -0.15793433785438538
+            },
+            {
+              "token": " an",
+              "logprob": -2.0598316192626953
+            },
+            {
+              "token": " apple",
+              "logprob": -0.15298296511173248
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.8898799419403076
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "A yellow apple",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.833604097366333
+            },
+            {
+              "token": " yellow",
+              "logprob": -0.29969534277915955
+            },
+            {
+              "token": " apple",
+              "logprob": -0.027685200795531273
+            },
+            {
+              "token": "\n",
+              "logprob": -2.546929359436035
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What fruit did Ethan eat?",
+      "character": "Ethan",
+      "story": "Scarlett and Ethan were best friends who loved going on adventures. One sunny day, they decided to explore the big forest near their town. Scarlett packed a small bag with snacks, including a yellow apple she found at home. Ethan brought a map and a flashlight, just in case. As they walked through the forest, they talked about their favorite games and laughed at silly jokes. Scarlett ate a yellow apple while Ethan pointed at a bird flying high above them. Suddenly, they heard a rustling sound in the bushes. Ethan grabbed Scarlett’s hand, and they both stood very still. A small rabbit hopped out, looked at them, and then ran away. They laughed with relief and continued their walk. By the time they reached the end of the forest, the sun was starting to set. They promised to come back another day and walked home together, happy and tired.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "yellow apple",
+          "token_data": [
+            {
+              "token": " yellow",
+              "logprob": -3.997039794921875
+            },
+            {
+              "token": " apple",
+              "logprob": -0.1902933418750763
+            },
+            {
+              "token": " Q",
+              "logprob": -2.0455269813537598
+            },
+            {
+              "token": ":",
+              "logprob": -0.02228235825896263
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "a yellow apple.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -4.272243499755859
+            },
+            {
+              "token": " yellow",
+              "logprob": -1.6977014541625977
+            },
+            {
+              "token": " apple",
+              "logprob": -0.04006269574165344
+            },
+            {
+              "token": ".",
+              "logprob": -1.335755705833435
+            },
+            {
+              "token": " Q",
+              "logprob": -1.2234909534454346
+            },
+            {
+              "token": ":",
+              "logprob": -0.0181110929697752
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "yellow apple",
+          "token_data": [
+            {
+              "token": " yellow",
+              "logprob": -3.9852046966552734
+            },
+            {
+              "token": " apple",
+              "logprob": -0.19849564135074615
+            },
+            {
+              "token": " Q",
+              "logprob": -2.0365777015686035
+            },
+            {
+              "token": ":",
+              "logprob": -0.022281192243099213
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Apple",
+          "token_data": [
+            {
+              "token": " Apple",
+              "logprob": -4.019078254699707
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.9583754539489746
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "An orange.",
+          "token_data": [
+            {
+              "token": " An",
+              "logprob": -2.4777984619140625
+            },
+            {
+              "token": " orange",
+              "logprob": -1.9911119937896729
+            },
+            {
+              "token": ".",
+              "logprob": -0.652961254119873
+            },
+            {
+              "token": " Q",
+              "logprob": -1.1818033456802368
+            },
+            {
+              "token": ":",
+              "logprob": -0.013480703346431255
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "An apple, he found.",
+          "token_data": [
+            {
+              "token": " An",
+              "logprob": -2.4777984619140625
+            },
+            {
+              "token": " apple",
+              "logprob": -0.23008370399475098
+            },
+            {
+              "token": ",",
+              "logprob": -3.471698045730591
+            },
+            {
+              "token": " he",
+              "logprob": -4.057586669921875
+            },
+            {
+              "token": " found",
+              "logprob": -3.268519401550293
+            },
+            {
+              "token": ".",
+              "logprob": -2.7817304134368896
+            },
+            {
+              "token": " Q",
+              "logprob": -1.088482141494751
+            },
+            {
+              "token": ":",
+              "logprob": -0.01670749858021736
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Ethan ate a banana.",
+          "token_data": [
+            {
+              "token": " Ethan",
+              "logprob": -1.300851821899414
+            },
+            {
+              "token": " ate",
+              "logprob": -0.2876085042953491
+            },
+            {
+              "token": " a",
+              "logprob": -0.3323042690753937
+            },
+            {
+              "token": " banana",
+              "logprob": -2.791090488433838
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.4309492111206055
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A cherry.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.2990589141845703
+            },
+            {
+              "token": " cherry",
+              "logprob": -3.9952151775360107
+            },
+            {
+              "token": ".",
+              "logprob": -0.6550277471542358
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.0681962966918945
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "yellow apple",
+          "token_data": [
+            {
+              "token": " yellow",
+              "logprob": -3.9852046966552734
+            },
+            {
+              "token": " apple",
+              "logprob": -0.19849564135074615
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.724189281463623
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "yellow apple",
+          "token_data": [
+            {
+              "token": " yellow",
+              "logprob": -3.9852046966552734
+            },
+            {
+              "token": " apple",
+              "logprob": -0.19849564135074615
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.4373345375061035
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,959 @@
+{
+  "story": "Jordan and Ryan were best friends. One day, they went to a party. Jordan wore a polka-dot dress because it was her favorite. Ryan liked her dress but didn’t say anything. The party was fun. They played games and ate cake. Ryan won a prize for guessing the most candies in a jar. Jordan clapped for him. After the party, they walked home together. The sky was dark, and the stars were bright. Jordan pointed at the moon. Ryan told a joke, and they both laughed. When they reached Jordan’s house, she said goodbye. Ryan waved and kept walking to his house. It was a good day. They promised to meet again soon. Jordan went inside, still wearing her polka-dot dress. Ryan thought about the fun they had. He couldn’t wait for their next adventure.",
+  "characters": [
+    {
+      "question": "What pattern was on Jordan's dress?",
+      "character": "Jordan",
+      "story": "Jordan and Ryan were best friends. One day, they went to a party. Jordan wore a polka-dot dress because it was her favorite. Ryan liked her dress but didn’t say anything. The party was fun. They played games and ate cake. Ryan won a prize for guessing the most candies in a jar. Jordan clapped for him. After the party, they walked home together. The sky was dark, and the stars were bright. Jordan pointed at the moon. Ryan told a joke, and they both laughed. When they reached Jordan’s house, she said goodbye. Ryan waved and kept walking to his house. It was a good day. They promised to meet again soon. Jordan went inside, still wearing her polka-dot dress. Ryan thought about the fun they had. He couldn’t wait for their next adventure.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.7237472534179688
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Polka-dot",
+          "token_data": [
+            {
+              "token": " Pol",
+              "logprob": -1.5243674516677856
+            },
+            {
+              "token": "ka",
+              "logprob": -0.026134969666600227
+            },
+            {
+              "token": "-dot",
+              "logprob": -1.0607788562774658
+            },
+            {
+              "token": " ",
+              "logprob": -4.074211120605469
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6657713651657104
+            },
+            {
+              "token": ":",
+              "logprob": -0.019000547006726265
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Answer: A. Polka-...",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.121740341186523
+            },
+            {
+              "token": ":",
+              "logprob": -1.5232210159301758
+            },
+            {
+              "token": " A",
+              "logprob": -1.7507054805755615
+            },
+            {
+              "token": ".",
+              "logprob": -2.5634679794311523
+            },
+            {
+              "token": " Pol",
+              "logprob": -1.5786772966384888
+            },
+            {
+              "token": "ka",
+              "logprob": -0.012451059184968472
+            },
+            {
+              "token": "-",
+              "logprob": -3.109990119934082
+            },
+            {
+              "token": "...\n\n",
+              "logprob": -4.171784400939941
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Answer in one sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.121740341186523
+            },
+            {
+              "token": " in",
+              "logprob": -3.4023971557617188
+            },
+            {
+              "token": " one",
+              "logprob": -0.43676096200942993
+            },
+            {
+              "token": " sentence",
+              "logprob": -1.0843311548233032
+            },
+            {
+              "token": ".",
+              "logprob": -0.5377755761146545
+            },
+            {
+              "token": " \n",
+              "logprob": -0.9804335832595825
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Polka-dot.",
+          "token_data": [
+            {
+              "token": " Pol",
+              "logprob": -1.5243674516677856
+            },
+            {
+              "token": "ka",
+              "logprob": -0.026134969666600227
+            },
+            {
+              "token": "-dot",
+              "logprob": -1.0607788562774658
+            },
+            {
+              "token": ".",
+              "logprob": -1.530440092086792
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8528792858123779
+            },
+            {
+              "token": ":",
+              "logprob": -0.01742764189839363
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The dress had a pattern called polka-dot.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.951693534851074
+            },
+            {
+              "token": " dress",
+              "logprob": -2.608794689178467
+            },
+            {
+              "token": " had",
+              "logprob": -1.0152244567871094
+            },
+            {
+              "token": " a",
+              "logprob": -0.2738712430000305
+            },
+            {
+              "token": " pattern",
+              "logprob": -1.1810970306396484
+            },
+            {
+              "token": " called",
+              "logprob": -2.54229998588562
+            },
+            {
+              "token": " pol",
+              "logprob": -1.614877700805664
+            },
+            {
+              "token": "ka",
+              "logprob": -0.025003531947731972
+            },
+            {
+              "token": "-dot",
+              "logprob": -0.9092723727226257
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.0446152687072754
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A: One big spot B: Five small spots C: Four little spots D: Four large spots",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.6798678636550903
+            },
+            {
+              "token": ":",
+              "logprob": -2.9442667961120605
+            },
+            {
+              "token": " One",
+              "logprob": -4.09249210357666
+            },
+            {
+              "token": " big",
+              "logprob": -4.666893005371094
+            },
+            {
+              "token": " spot",
+              "logprob": -3.8451733589172363
+            },
+            {
+              "token": " B",
+              "logprob": -3.8763694763183594
+            },
+            {
+              "token": ":",
+              "logprob": -0.018523328006267548
+            },
+            {
+              "token": " Five",
+              "logprob": -4.994281768798828
+            },
+            {
+              "token": " small",
+              "logprob": -1.3843938112258911
+            },
+            {
+              "token": " spots",
+              "logprob": -0.1602293848991394
+            },
+            {
+              "token": " C",
+              "logprob": -0.8264890909194946
+            },
+            {
+              "token": ":",
+              "logprob": -0.013005198910832405
+            },
+            {
+              "token": " Four",
+              "logprob": -4.42558479309082
+            },
+            {
+              "token": " little",
+              "logprob": -2.889443874359131
+            },
+            {
+              "token": " spots",
+              "logprob": -0.6263855695724487
+            },
+            {
+              "token": " D",
+              "logprob": -1.090847134590149
+            },
+            {
+              "token": ":",
+              "logprob": -0.012713217176496983
+            },
+            {
+              "token": " Four",
+              "logprob": -2.8239359855651855
+            },
+            {
+              "token": " large",
+              "logprob": -2.3799948692321777
+            },
+            {
+              "token": " spots",
+              "logprob": -0.07197943329811096
+            },
+            {
+              "token": "\n",
+              "logprob": -2.469766139984131
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Polka Dot!",
+          "token_data": [
+            {
+              "token": " Pol",
+              "logprob": -1.5243674516677856
+            },
+            {
+              "token": "ka",
+              "logprob": -0.026134969666600227
+            },
+            {
+              "token": " Dot",
+              "logprob": -3.0191900730133057
+            },
+            {
+              "token": "!",
+              "logprob": -4.484118461608887
+            },
+            {
+              "token": " Q",
+              "logprob": -1.040122389793396
+            },
+            {
+              "token": ":",
+              "logprob": -0.029522081837058067
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "a polka-dot.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -4.0547895431518555
+            },
+            {
+              "token": " pol",
+              "logprob": -0.43492749333381653
+            },
+            {
+              "token": "ka",
+              "logprob": -0.009480100125074387
+            },
+            {
+              "token": "-dot",
+              "logprob": -0.7142889499664307
+            },
+            {
+              "token": ".",
+              "logprob": -1.4972233772277832
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9326891303062439
+            },
+            {
+              "token": ":",
+              "logprob": -0.02358839474618435
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The dress she wore to the party.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.951693534851074
+            },
+            {
+              "token": " dress",
+              "logprob": -2.608794689178467
+            },
+            {
+              "token": " she",
+              "logprob": -3.642740249633789
+            },
+            {
+              "token": " wore",
+              "logprob": -0.8638243675231934
+            },
+            {
+              "token": " to",
+              "logprob": -1.396660327911377
+            },
+            {
+              "token": " the",
+              "logprob": -0.08334210515022278
+            },
+            {
+              "token": " party",
+              "logprob": -0.06775762140750885
+            },
+            {
+              "token": ".",
+              "logprob": -2.118838310241699
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0818500518798828
+            },
+            {
+              "token": ":",
+              "logprob": -0.018489744514226913
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What pattern was on Ryan's dress?",
+      "character": "Ryan",
+      "story": "Jordan and Ryan were best friends. One day, they went to a party. Jordan wore a polka-dot dress because it was her favorite. Ryan liked her dress but didn’t say anything. The party was fun. They played games and ate cake. Ryan won a prize for guessing the most candies in a jar. Jordan clapped for him. After the party, they walked home together. The sky was dark, and the stars were bright. Jordan pointed at the moon. Ryan told a joke, and they both laughed. When they reached Jordan’s house, she said goodbye. Ryan waved and kept walking to his house. It was a good day. They promised to meet again soon. Jordan went inside, still wearing her polka-dot dress. Ryan thought about the fun they had. He couldn’t wait for their next adventure.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Polka-dot B: None of them. C: Spots D: Stripes E: Flowers",
+          "token_data": [
+            {
+              "token": " Pol",
+              "logprob": -1.9694441556930542
+            },
+            {
+              "token": "ka",
+              "logprob": -0.024602102115750313
+            },
+            {
+              "token": "-dot",
+              "logprob": -1.014561414718628
+            },
+            {
+              "token": " B",
+              "logprob": -3.508105754852295
+            },
+            {
+              "token": ":",
+              "logprob": -0.023768840357661247
+            },
+            {
+              "token": " None",
+              "logprob": -3.856175661087036
+            },
+            {
+              "token": " of",
+              "logprob": -0.4632043242454529
+            },
+            {
+              "token": " them",
+              "logprob": -1.5288281440734863
+            },
+            {
+              "token": ".",
+              "logprob": -0.6963869333267212
+            },
+            {
+              "token": " C",
+              "logprob": -0.7349481582641602
+            },
+            {
+              "token": ":",
+              "logprob": -0.015476837754249573
+            },
+            {
+              "token": " Sp",
+              "logprob": -4.320841312408447
+            },
+            {
+              "token": "ots",
+              "logprob": -0.130572110414505
+            },
+            {
+              "token": " D",
+              "logprob": -1.6613671779632568
+            },
+            {
+              "token": ":",
+              "logprob": -0.016494225710630417
+            },
+            {
+              "token": " Str",
+              "logprob": -2.1912386417388916
+            },
+            {
+              "token": "ipes",
+              "logprob": -0.09442374855279922
+            },
+            {
+              "token": " E",
+              "logprob": -1.4181691408157349
+            },
+            {
+              "token": ":",
+              "logprob": -0.0620168000459671
+            },
+            {
+              "token": " Flowers",
+              "logprob": -3.948425769805908
+            },
+            {
+              "token": "\n",
+              "logprob": -1.6703341007232666
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.490447998046875
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A polka dot",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.979460597038269
+            },
+            {
+              "token": " pol",
+              "logprob": -1.4620808362960815
+            },
+            {
+              "token": "ka",
+              "logprob": -0.00814852025359869
+            },
+            {
+              "token": " dot",
+              "logprob": -1.6148455142974854
+            },
+            {
+              "token": "\n",
+              "logprob": -3.7508115768432617
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "What color was the dress? (You could use this to check if their dresses were exactly alike, or similar)",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.3162364959716797
+            },
+            {
+              "token": " color",
+              "logprob": -1.8783191442489624
+            },
+            {
+              "token": " was",
+              "logprob": -0.6475644707679749
+            },
+            {
+              "token": " the",
+              "logprob": -1.280267357826233
+            },
+            {
+              "token": " dress",
+              "logprob": -0.42616161704063416
+            },
+            {
+              "token": "?",
+              "logprob": -0.2576179802417755
+            },
+            {
+              "token": " (",
+              "logprob": -3.2272229194641113
+            },
+            {
+              "token": "You",
+              "logprob": -4.843809127807617
+            },
+            {
+              "token": " could",
+              "logprob": -4.281103134155273
+            },
+            {
+              "token": " use",
+              "logprob": -2.068781852722168
+            },
+            {
+              "token": " this",
+              "logprob": -3.5198512077331543
+            },
+            {
+              "token": " to",
+              "logprob": -2.174889326095581
+            },
+            {
+              "token": " check",
+              "logprob": -4.6778459548950195
+            },
+            {
+              "token": " if",
+              "logprob": -2.0725831985473633
+            },
+            {
+              "token": " their",
+              "logprob": -3.8384623527526855
+            },
+            {
+              "token": " dresses",
+              "logprob": -3.9925718307495117
+            },
+            {
+              "token": " were",
+              "logprob": -1.0325864553451538
+            },
+            {
+              "token": " exactly",
+              "logprob": -4.683995246887207
+            },
+            {
+              "token": " alike",
+              "logprob": -3.154050350189209
+            },
+            {
+              "token": ",",
+              "logprob": -3.133624792098999
+            },
+            {
+              "token": " or",
+              "logprob": -1.7355339527130127
+            },
+            {
+              "token": " similar",
+              "logprob": -4.987735748291016
+            },
+            {
+              "token": ")",
+              "logprob": -1.6705042123794556
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.8794867992401123
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "What color was Jordan's dress? A:",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.3162364959716797
+            },
+            {
+              "token": " color",
+              "logprob": -1.8783191442489624
+            },
+            {
+              "token": " was",
+              "logprob": -0.6475644707679749
+            },
+            {
+              "token": " Jordan",
+              "logprob": -1.9495140314102173
+            },
+            {
+              "token": "'s",
+              "logprob": -0.10358744114637375
+            },
+            {
+              "token": " dress",
+              "logprob": -0.06857429444789886
+            },
+            {
+              "token": "?",
+              "logprob": -0.1611882597208023
+            },
+            {
+              "token": " A",
+              "logprob": -0.8462316393852234
+            },
+            {
+              "token": ":",
+              "logprob": -0.028953980654478073
+            },
+            {
+              "token": " \n",
+              "logprob": -3.9193294048309326
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A joke",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.979460597038269
+            },
+            {
+              "token": " joke",
+              "logprob": -3.8373003005981445
+            },
+            {
+              "token": "\n",
+              "logprob": -3.274916172027588
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.490447998046875
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "What pattern was on Jordan's dress?",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.9207468032836914
+            },
+            {
+              "token": " What",
+              "logprob": -3.3631529808044434
+            },
+            {
+              "token": " pattern",
+              "logprob": -0.4076560139656067
+            },
+            {
+              "token": " was",
+              "logprob": -0.12595108151435852
+            },
+            {
+              "token": " on",
+              "logprob": -0.0482926107943058
+            },
+            {
+              "token": " Jordan",
+              "logprob": -1.2810895442962646
+            },
+            {
+              "token": "'s",
+              "logprob": -0.04489951580762863
+            },
+            {
+              "token": " dress",
+              "logprob": -0.022894693538546562
+            },
+            {
+              "token": "?",
+              "logprob": -0.18387141823768616
+            },
+            {
+              "token": " \n",
+              "logprob": -2.343639850616455
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The pattern on Ryan’s dress was candies, but how did this happen? It seemed to me like my candy had an eye and a nose. But you don’t know me. You can't even know who I am.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.033339500427246
+            },
+            {
+              "token": " pattern",
+              "logprob": -0.31569111347198486
+            },
+            {
+              "token": " on",
+              "logprob": -0.8841520547866821
+            },
+            {
+              "token": " Ryan",
+              "logprob": -0.327570378780365
+            },
+            {
+              "token": "’s",
+              "logprob": -2.761704921722412
+            },
+            {
+              "token": " dress",
+              "logprob": -0.020908072590827942
+            },
+            {
+              "token": " was",
+              "logprob": -0.14965252578258514
+            },
+            {
+              "token": " candies",
+              "logprob": -3.2487950325012207
+            },
+            {
+              "token": ",",
+              "logprob": -3.4320595264434814
+            },
+            {
+              "token": " but",
+              "logprob": -2.539876937866211
+            },
+            {
+              "token": " how",
+              "logprob": -4.863987922668457
+            },
+            {
+              "token": " did",
+              "logprob": -2.6060006618499756
+            },
+            {
+              "token": " this",
+              "logprob": -2.7249155044555664
+            },
+            {
+              "token": " happen",
+              "logprob": -3.740205764770508
+            },
+            {
+              "token": "?",
+              "logprob": -0.19524456560611725
+            },
+            {
+              "token": " It",
+              "logprob": -2.9286601543426514
+            },
+            {
+              "token": " seemed",
+              "logprob": -4.345942974090576
+            },
+            {
+              "token": " to",
+              "logprob": -1.936742901802063
+            },
+            {
+              "token": " me",
+              "logprob": -2.0091309547424316
+            },
+            {
+              "token": " like",
+              "logprob": -1.901147484779358
+            },
+            {
+              "token": " my",
+              "logprob": -4.574961185455322
+            },
+            {
+              "token": " candy",
+              "logprob": -5.637324333190918
+            },
+            {
+              "token": " had",
+              "logprob": -3.586160182952881
+            },
+            {
+              "token": " an",
+              "logprob": -3.0465493202209473
+            },
+            {
+              "token": " eye",
+              "logprob": -4.1950907707214355
+            },
+            {
+              "token": " and",
+              "logprob": -2.846069574356079
+            },
+            {
+              "token": " a",
+              "logprob": -0.5673604011535645
+            },
+            {
+              "token": " nose",
+              "logprob": -0.5597187280654907
+            },
+            {
+              "token": ".",
+              "logprob": -0.7851017713546753
+            },
+            {
+              "token": " But",
+              "logprob": -3.263814926147461
+            },
+            {
+              "token": " you",
+              "logprob": -4.117348670959473
+            },
+            {
+              "token": " don",
+              "logprob": -2.905357599258423
+            },
+            {
+              "token": "’t",
+              "logprob": -0.42961251735687256
+            },
+            {
+              "token": " know",
+              "logprob": -2.291557788848877
+            },
+            {
+              "token": " me",
+              "logprob": -2.376612663269043
+            },
+            {
+              "token": ".",
+              "logprob": -1.9583714008331299
+            },
+            {
+              "token": " You",
+              "logprob": -1.284382700920105
+            },
+            {
+              "token": " can",
+              "logprob": -2.8678557872772217
+            },
+            {
+              "token": "'t",
+              "logprob": -2.629427194595337
+            },
+            {
+              "token": " even",
+              "logprob": -2.682844638824463
+            },
+            {
+              "token": " know",
+              "logprob": -2.6912026405334473
+            },
+            {
+              "token": " who",
+              "logprob": -4.081202983856201
+            },
+            {
+              "token": " I",
+              "logprob": -0.5256001949310303
+            },
+            {
+              "token": " am",
+              "logprob": -0.11642991751432419
+            },
+            {
+              "token": ".",
+              "logprob": -0.4732487201690674
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "polka-dot",
+          "token_data": [
+            {
+              "token": " pol",
+              "logprob": -4.211597442626953
+            },
+            {
+              "token": "ka",
+              "logprob": -0.010359680280089378
+            },
+            {
+              "token": "-dot",
+              "logprob": -1.0037897825241089
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.397347927093506
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

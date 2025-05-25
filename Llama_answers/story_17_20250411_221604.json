@@ -1,0 +1,1331 @@
+{
+  "story": "Ryan and Jamie went to the lake one sunny day. Ryan brought his fishing rod, and Jamie brought a book to read. Ryan sat by the water and cast his line. He waited quietly, hoping to catch something. Jamie sat under a tree, flipping through the pages. After a while, Ryan felt a tug on his line. He pulled it up carefully. Ryan caught a small fish. He smiled and showed it to Jamie, who looked up from the book and said, \"Nice catch!\" Ryan put the fish back in the water and waved as it swam away. Jamie went back to reading, and Ryan cast his line again. They spent the rest of the afternoon enjoying the peace by the lake. When the sun started to set, they packed up and walked home together, talking about their day. It was a simple and happy time for both of them.",
+  "characters": [
+    {
+      "question": "What size was the fish Ryan caught?",
+      "character": "Ryan",
+      "story": "Ryan and Jamie went to the lake one sunny day. Ryan brought his fishing rod, and Jamie brought a book to read. Ryan sat by the water and cast his line. He waited quietly, hoping to catch something. Jamie sat under a tree, flipping through the pages. After a while, Ryan felt a tug on his line. He pulled it up carefully. Ryan caught a small fish. He smiled and showed it to Jamie, who looked up from the book and said, \"Nice catch!\" Ryan put the fish back in the water and waved as it swam away. Jamie went back to reading, and Ryan cast his line again. They spent the rest of the afternoon enjoying the peace by the lake. When the sun started to set, they packed up and walked home together, talking about their day. It was a simple and happy time for both of them.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "What size was the fish that Ryan caught?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.181497097015381
+            },
+            {
+              "token": " size",
+              "logprob": -0.14693018794059753
+            },
+            {
+              "token": " was",
+              "logprob": -0.7486351728439331
+            },
+            {
+              "token": " the",
+              "logprob": -0.05428766831755638
+            },
+            {
+              "token": " fish",
+              "logprob": -0.027843818068504333
+            },
+            {
+              "token": " that",
+              "logprob": -2.6784980297088623
+            },
+            {
+              "token": " Ryan",
+              "logprob": -0.08866490423679352
+            },
+            {
+              "token": " caught",
+              "logprob": -0.03275876119732857
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.5474066734313965
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "It was only two inches long.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.8994598388671875
+            },
+            {
+              "token": " was",
+              "logprob": -0.20491865277290344
+            },
+            {
+              "token": " only",
+              "logprob": -3.7559690475463867
+            },
+            {
+              "token": " two",
+              "logprob": -3.6906864643096924
+            },
+            {
+              "token": " inches",
+              "logprob": -0.1545252650976181
+            },
+            {
+              "token": " long",
+              "logprob": -0.5123305320739746
+            },
+            {
+              "token": ".",
+              "logprob": -0.41717782616615295
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -4.428153991699219
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "small 2.  B: big size",
+          "token_data": [
+            {
+              "token": " small",
+              "logprob": -3.4485044479370117
+            },
+            {
+              "token": " ",
+              "logprob": -3.2570104598999023
+            },
+            {
+              "token": "2",
+              "logprob": -3.21755051612854
+            },
+            {
+              "token": ".",
+              "logprob": -0.5208759307861328
+            },
+            {
+              "token": " ",
+              "logprob": -2.487133741378784
+            },
+            {
+              "token": " B",
+              "logprob": -3.987955093383789
+            },
+            {
+              "token": ":",
+              "logprob": -0.0750618651509285
+            },
+            {
+              "token": " big",
+              "logprob": -2.532308578491211
+            },
+            {
+              "token": " size",
+              "logprob": -4.8142852783203125
+            },
+            {
+              "token": "\n",
+              "logprob": -3.937164306640625
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Two inches long.",
+          "token_data": [
+            {
+              "token": " Two",
+              "logprob": -4.7004899978637695
+            },
+            {
+              "token": " inches",
+              "logprob": -0.9916409254074097
+            },
+            {
+              "token": " long",
+              "logprob": -2.3642358779907227
+            },
+            {
+              "token": ".",
+              "logprob": -0.5492981672286987
+            },
+            {
+              "token": " ",
+              "logprob": -3.0251193046569824
+            },
+            {
+              "token": " Q",
+              "logprob": -1.8327900171279907
+            },
+            {
+              "token": ":",
+              "logprob": -0.034083105623722076
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "A 3\" fish.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.500812530517578
+            },
+            {
+              "token": " ",
+              "logprob": -2.73771333694458
+            },
+            {
+              "token": "3",
+              "logprob": -2.3003478050231934
+            },
+            {
+              "token": "\"",
+              "logprob": -3.837775230407715
+            },
+            {
+              "token": " fish",
+              "logprob": -0.9365387558937073
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.510098695755005
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "One of our species had the right of its own to enjoy.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -3.3778867721557617
+            },
+            {
+              "token": " of",
+              "logprob": -3.7831435203552246
+            },
+            {
+              "token": " our",
+              "logprob": -2.9882218837738037
+            },
+            {
+              "token": " species",
+              "logprob": -5.357440948486328
+            },
+            {
+              "token": " had",
+              "logprob": -4.528748989105225
+            },
+            {
+              "token": " the",
+              "logprob": -2.937239170074463
+            },
+            {
+              "token": " right",
+              "logprob": -4.476913928985596
+            },
+            {
+              "token": " of",
+              "logprob": -2.952676296234131
+            },
+            {
+              "token": " its",
+              "logprob": -4.298048973083496
+            },
+            {
+              "token": " own",
+              "logprob": -0.3236141502857208
+            },
+            {
+              "token": " to",
+              "logprob": -1.7743847370147705
+            },
+            {
+              "token": " enjoy",
+              "logprob": -5.030843734741211
+            },
+            {
+              "token": ".",
+              "logprob": -2.6491899490356445
+            },
+            {
+              "token": " \n",
+              "logprob": -1.207336664199829
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Small - ANSWER TEXT MUST BE AT THE TOP OF THE PAGE.",
+          "token_data": [
+            {
+              "token": " Small",
+              "logprob": -1.9893971681594849
+            },
+            {
+              "token": " -",
+              "logprob": -4.303988456726074
+            },
+            {
+              "token": " ANSW",
+              "logprob": -5.071194648742676
+            },
+            {
+              "token": "ER",
+              "logprob": -0.0023499513044953346
+            },
+            {
+              "token": " TEXT",
+              "logprob": -3.3601298332214355
+            },
+            {
+              "token": " MUST",
+              "logprob": -4.331899166107178
+            },
+            {
+              "token": " BE",
+              "logprob": -0.40984249114990234
+            },
+            {
+              "token": " AT",
+              "logprob": -2.2296624183654785
+            },
+            {
+              "token": " THE",
+              "logprob": -3.1076180934906006
+            },
+            {
+              "token": " TOP",
+              "logprob": -1.6565427780151367
+            },
+            {
+              "token": " OF",
+              "logprob": -0.23763008415699005
+            },
+            {
+              "token": " THE",
+              "logprob": -0.6389933228492737
+            },
+            {
+              "token": " PAGE",
+              "logprob": -0.29858312010765076
+            },
+            {
+              "token": ".",
+              "logprob": -1.5658555030822754
+            },
+            {
+              "token": " Q",
+              "logprob": -3.2270114421844482
+            },
+            {
+              "token": ":",
+              "logprob": -0.04947981610894203
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Size 0 (1 word)",
+          "token_data": [
+            {
+              "token": " Size",
+              "logprob": -3.7590866088867188
+            },
+            {
+              "token": " ",
+              "logprob": -0.9470444917678833
+            },
+            {
+              "token": "0",
+              "logprob": -2.844071388244629
+            },
+            {
+              "token": " (",
+              "logprob": -2.712294101715088
+            },
+            {
+              "token": "1",
+              "logprob": -4.312288761138916
+            },
+            {
+              "token": " word",
+              "logprob": -2.051821231842041
+            },
+            {
+              "token": ")",
+              "logprob": -1.1956560611724854
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "medium",
+          "token_data": [
+            {
+              "token": " medium",
+              "logprob": -4.263126373291016
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.637207508087158
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "small fish.",
+          "token_data": [
+            {
+              "token": " small",
+              "logprob": -3.4485044479370117
+            },
+            {
+              "token": " fish",
+              "logprob": -3.6615819931030273
+            },
+            {
+              "token": ".",
+              "logprob": -1.7581793069839478
+            },
+            {
+              "token": " Q",
+              "logprob": -1.4027433395385742
+            },
+            {
+              "token": ":",
+              "logprob": -0.030490601435303688
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What size was the fish Jamie caught?",
+      "character": "Jamie",
+      "story": "Ryan and Jamie went to the lake one sunny day. Ryan brought his fishing rod, and Jamie brought a book to read. Ryan sat by the water and cast his line. He waited quietly, hoping to catch something. Jamie sat under a tree, flipping through the pages. After a while, Ryan felt a tug on his line. He pulled it up carefully. Ryan caught a small fish. He smiled and showed it to Jamie, who looked up from the book and said, \"Nice catch!\" Ryan put the fish back in the water and waved as it swam away. Jamie went back to reading, and Ryan cast his line again. They spent the rest of the afternoon enjoying the peace by the lake. When the sun started to set, they packed up and walked home together, talking about their day. It was a simple and happy time for both of them.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "One. The fish Jamie caught was about the size of his hand. What kind of fish did Ryan try to catch? A: Bass, small ones, he would have gotten a couple for dinner. Do you like eating fish? A: No! Do you want a pet alligator? A: No I want to eat an alligator for lunch and I think the people are too fast in telling my family when we got off work. Who is Ryan's dog? A: Jamie.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -3.400946617126465
+            },
+            {
+              "token": ".",
+              "logprob": -1.163081169128418
+            },
+            {
+              "token": " The",
+              "logprob": -4.159026145935059
+            },
+            {
+              "token": " fish",
+              "logprob": -0.7083555459976196
+            },
+            {
+              "token": " Jamie",
+              "logprob": -2.6587672233581543
+            },
+            {
+              "token": " caught",
+              "logprob": -0.04736927151679993
+            },
+            {
+              "token": " was",
+              "logprob": -0.33778801560401917
+            },
+            {
+              "token": " about",
+              "logprob": -2.892475128173828
+            },
+            {
+              "token": " the",
+              "logprob": -1.2631479501724243
+            },
+            {
+              "token": " size",
+              "logprob": -0.14319877326488495
+            },
+            {
+              "token": " of",
+              "logprob": -0.02066054753959179
+            },
+            {
+              "token": " his",
+              "logprob": -2.7535996437072754
+            },
+            {
+              "token": " hand",
+              "logprob": -1.4324452877044678
+            },
+            {
+              "token": ".",
+              "logprob": -0.24595020711421967
+            },
+            {
+              "token": " What",
+              "logprob": -5.017428874969482
+            },
+            {
+              "token": " kind",
+              "logprob": -3.8627216815948486
+            },
+            {
+              "token": " of",
+              "logprob": -0.028248699381947517
+            },
+            {
+              "token": " fish",
+              "logprob": -0.4985530376434326
+            },
+            {
+              "token": " did",
+              "logprob": -0.4088625907897949
+            },
+            {
+              "token": " Ryan",
+              "logprob": -0.3773632347583771
+            },
+            {
+              "token": " try",
+              "logprob": -2.3863823413848877
+            },
+            {
+              "token": " to",
+              "logprob": -0.08702123910188675
+            },
+            {
+              "token": " catch",
+              "logprob": -0.06002002954483032
+            },
+            {
+              "token": "?",
+              "logprob": -0.08114253729581833
+            },
+            {
+              "token": " A",
+              "logprob": -0.0865478590130806
+            },
+            {
+              "token": ":",
+              "logprob": -0.006490697152912617
+            },
+            {
+              "token": " Bass",
+              "logprob": -4.476161003112793
+            },
+            {
+              "token": ",",
+              "logprob": -3.2630882263183594
+            },
+            {
+              "token": " small",
+              "logprob": -5.232816696166992
+            },
+            {
+              "token": " ones",
+              "logprob": -1.894382119178772
+            },
+            {
+              "token": ",",
+              "logprob": -2.608626365661621
+            },
+            {
+              "token": " he",
+              "logprob": -3.2642478942871094
+            },
+            {
+              "token": " would",
+              "logprob": -4.224870681762695
+            },
+            {
+              "token": " have",
+              "logprob": -1.8886204957962036
+            },
+            {
+              "token": " gotten",
+              "logprob": -4.333730697631836
+            },
+            {
+              "token": " a",
+              "logprob": -1.5991301536560059
+            },
+            {
+              "token": " couple",
+              "logprob": -4.751475811004639
+            },
+            {
+              "token": " for",
+              "logprob": -3.7540860176086426
+            },
+            {
+              "token": " dinner",
+              "logprob": -2.314941644668579
+            },
+            {
+              "token": ".",
+              "logprob": -0.4433898329734802
+            },
+            {
+              "token": " Do",
+              "logprob": -5.126821994781494
+            },
+            {
+              "token": " you",
+              "logprob": -0.24631527066230774
+            },
+            {
+              "token": " like",
+              "logprob": -3.274524450302124
+            },
+            {
+              "token": " eating",
+              "logprob": -4.868252277374268
+            },
+            {
+              "token": " fish",
+              "logprob": -0.3384907841682434
+            },
+            {
+              "token": "?",
+              "logprob": -0.16740600764751434
+            },
+            {
+              "token": " A",
+              "logprob": -0.15004894137382507
+            },
+            {
+              "token": ":",
+              "logprob": -0.005773178301751614
+            },
+            {
+              "token": " No",
+              "logprob": -2.1138532161712646
+            },
+            {
+              "token": "!",
+              "logprob": -4.308983325958252
+            },
+            {
+              "token": " Do",
+              "logprob": -3.030423641204834
+            },
+            {
+              "token": " you",
+              "logprob": -0.08205268532037735
+            },
+            {
+              "token": " want",
+              "logprob": -2.745120048522949
+            },
+            {
+              "token": " a",
+              "logprob": -2.5557861328125
+            },
+            {
+              "token": " pet",
+              "logprob": -4.076815605163574
+            },
+            {
+              "token": " all",
+              "logprob": -5.1390204429626465
+            },
+            {
+              "token": "igator",
+              "logprob": -0.029291963204741478
+            },
+            {
+              "token": "?",
+              "logprob": -0.28063347935676575
+            },
+            {
+              "token": " A",
+              "logprob": -0.11880696564912796
+            },
+            {
+              "token": ":",
+              "logprob": -0.006163399200886488
+            },
+            {
+              "token": " No",
+              "logprob": -0.8122355937957764
+            },
+            {
+              "token": " I",
+              "logprob": -4.78214693069458
+            },
+            {
+              "token": " want",
+              "logprob": -1.0540096759796143
+            },
+            {
+              "token": " to",
+              "logprob": -1.7213866710662842
+            },
+            {
+              "token": " eat",
+              "logprob": -1.6969777345657349
+            },
+            {
+              "token": " an",
+              "logprob": -2.9483089447021484
+            },
+            {
+              "token": " all",
+              "logprob": -0.057398587465286255
+            },
+            {
+              "token": "igator",
+              "logprob": -0.0024530577939003706
+            },
+            {
+              "token": " for",
+              "logprob": -3.8640246391296387
+            },
+            {
+              "token": " lunch",
+              "logprob": -1.8931611776351929
+            },
+            {
+              "token": " and",
+              "logprob": -4.369876861572266
+            },
+            {
+              "token": " I",
+              "logprob": -2.807499885559082
+            },
+            {
+              "token": " think",
+              "logprob": -3.1147689819335938
+            },
+            {
+              "token": " the",
+              "logprob": -3.078380584716797
+            },
+            {
+              "token": " people",
+              "logprob": -4.233038902282715
+            },
+            {
+              "token": " are",
+              "logprob": -3.1930999755859375
+            },
+            {
+              "token": " too",
+              "logprob": -3.5190863609313965
+            },
+            {
+              "token": " fast",
+              "logprob": -4.411089897155762
+            },
+            {
+              "token": " in",
+              "logprob": -4.0280256271362305
+            },
+            {
+              "token": " telling",
+              "logprob": -5.055752277374268
+            },
+            {
+              "token": " my",
+              "logprob": -3.5036323070526123
+            },
+            {
+              "token": " family",
+              "logprob": -5.094028472900391
+            },
+            {
+              "token": " when",
+              "logprob": -5.478575229644775
+            },
+            {
+              "token": " we",
+              "logprob": -1.9649778604507446
+            },
+            {
+              "token": " got",
+              "logprob": -4.319618225097656
+            },
+            {
+              "token": " off",
+              "logprob": -4.735352516174316
+            },
+            {
+              "token": " work",
+              "logprob": -2.1659064292907715
+            },
+            {
+              "token": ".",
+              "logprob": -0.48317503929138184
+            },
+            {
+              "token": " Who",
+              "logprob": -5.003962993621826
+            },
+            {
+              "token": " is",
+              "logprob": -1.7506682872772217
+            },
+            {
+              "token": " Ryan",
+              "logprob": -1.6839041709899902
+            },
+            {
+              "token": "'s",
+              "logprob": -2.2091403007507324
+            },
+            {
+              "token": " dog",
+              "logprob": -4.912306785583496
+            },
+            {
+              "token": "?",
+              "logprob": -0.20413993299007416
+            },
+            {
+              "token": " A",
+              "logprob": -0.10350135713815689
+            },
+            {
+              "token": ":",
+              "logprob": -0.005023950710892677
+            },
+            {
+              "token": " Jamie",
+              "logprob": -4.30486536026001
+            },
+            {
+              "token": ".",
+              "logprob": -1.137237548828125
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.306361675262451
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "None",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -4.643747329711914
+            },
+            {
+              "token": "\n",
+              "logprob": -2.0892388820648193
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Medium",
+          "token_data": [
+            {
+              "token": " Medium",
+              "logprob": -3.2221202850341797
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.6938657760620117
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "small",
+          "token_data": [
+            {
+              "token": " small",
+              "logprob": -3.699763298034668
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.6815834045410156
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "B. I believe I will throw you back out again.",
+          "token_data": [
+            {
+              "token": " B",
+              "logprob": -4.931724548339844
+            },
+            {
+              "token": ".",
+              "logprob": -2.439005136489868
+            },
+            {
+              "token": " I",
+              "logprob": -4.893587112426758
+            },
+            {
+              "token": " believe",
+              "logprob": -4.274587631225586
+            },
+            {
+              "token": " I",
+              "logprob": -3.0143837928771973
+            },
+            {
+              "token": " will",
+              "logprob": -3.4744081497192383
+            },
+            {
+              "token": " throw",
+              "logprob": -4.374325275421143
+            },
+            {
+              "token": " you",
+              "logprob": -1.5451176166534424
+            },
+            {
+              "token": " back",
+              "logprob": -1.1737546920776367
+            },
+            {
+              "token": " out",
+              "logprob": -4.379111289978027
+            },
+            {
+              "token": " again",
+              "logprob": -3.3281610012054443
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.098224639892578
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "1.5 Sentences B: 1 Whole Paragraphs",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -2.2489566802978516
+            },
+            {
+              "token": "1",
+              "logprob": -1.7200497388839722
+            },
+            {
+              "token": ".",
+              "logprob": -1.4201658964157104
+            },
+            {
+              "token": "5",
+              "logprob": -1.4012444019317627
+            },
+            {
+              "token": " Sent",
+              "logprob": -3.0035791397094727
+            },
+            {
+              "token": "ences",
+              "logprob": -0.21277263760566711
+            },
+            {
+              "token": " B",
+              "logprob": -3.4531915187835693
+            },
+            {
+              "token": ":",
+              "logprob": -0.20537258684635162
+            },
+            {
+              "token": " ",
+              "logprob": -0.2061275839805603
+            },
+            {
+              "token": "1",
+              "logprob": -0.5900238156318665
+            },
+            {
+              "token": " Whole",
+              "logprob": -3.2844393253326416
+            },
+            {
+              "token": " Paragraph",
+              "logprob": -1.9550740718841553
+            },
+            {
+              "token": "s",
+              "logprob": -3.0618674755096436
+            },
+            {
+              "token": " \n",
+              "logprob": -3.024540424346924
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Size small",
+          "token_data": [
+            {
+              "token": " Size",
+              "logprob": -3.7890729904174805
+            },
+            {
+              "token": " small",
+              "logprob": -3.261237382888794
+            },
+            {
+              "token": " \n",
+              "logprob": -3.023719549179077
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "3 inches long.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -2.2489566802978516
+            },
+            {
+              "token": "3",
+              "logprob": -2.6108713150024414
+            },
+            {
+              "token": " inches",
+              "logprob": -1.2102707624435425
+            },
+            {
+              "token": " long",
+              "logprob": -2.7668168544769287
+            },
+            {
+              "token": ".",
+              "logprob": -0.8048788905143738
+            },
+            {
+              "token": " \n",
+              "logprob": -1.6011103391647339
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "How big of a fish? Size is the measure of how big a fish is. You need to know if it is a small fish or an extremely big one. What size was the fish that Ryan caught? Did you want a large size or small size of this catch? That is what I would like to know.",
+          "token_data": [
+            {
+              "token": " How",
+              "logprob": -5.013745307922363
+            },
+            {
+              "token": " big",
+              "logprob": -0.5617834329605103
+            },
+            {
+              "token": " of",
+              "logprob": -3.1420583724975586
+            },
+            {
+              "token": " a",
+              "logprob": -0.1621289849281311
+            },
+            {
+              "token": " fish",
+              "logprob": -0.023269904777407646
+            },
+            {
+              "token": "?",
+              "logprob": -2.168180465698242
+            },
+            {
+              "token": " Size",
+              "logprob": -4.2827839851379395
+            },
+            {
+              "token": " is",
+              "logprob": -3.023535966873169
+            },
+            {
+              "token": " the",
+              "logprob": -1.8781883716583252
+            },
+            {
+              "token": " measure",
+              "logprob": -3.5621302127838135
+            },
+            {
+              "token": " of",
+              "logprob": -0.22391581535339355
+            },
+            {
+              "token": " how",
+              "logprob": -0.5518117547035217
+            },
+            {
+              "token": " big",
+              "logprob": -0.3085159361362457
+            },
+            {
+              "token": " a",
+              "logprob": -1.7996577024459839
+            },
+            {
+              "token": " fish",
+              "logprob": -0.026844298467040062
+            },
+            {
+              "token": " is",
+              "logprob": -0.12886957824230194
+            },
+            {
+              "token": ".",
+              "logprob": -0.32593661546707153
+            },
+            {
+              "token": " You",
+              "logprob": -3.500519275665283
+            },
+            {
+              "token": " need",
+              "logprob": -2.667311191558838
+            },
+            {
+              "token": " to",
+              "logprob": -0.3923419117927551
+            },
+            {
+              "token": " know",
+              "logprob": -2.704245090484619
+            },
+            {
+              "token": " if",
+              "logprob": -3.7292463779449463
+            },
+            {
+              "token": " it",
+              "logprob": -1.5055652856826782
+            },
+            {
+              "token": " is",
+              "logprob": -1.100590705871582
+            },
+            {
+              "token": " a",
+              "logprob": -0.9833446741104126
+            },
+            {
+              "token": " small",
+              "logprob": -1.2909274101257324
+            },
+            {
+              "token": " fish",
+              "logprob": -0.35661107301712036
+            },
+            {
+              "token": " or",
+              "logprob": -1.7018287181854248
+            },
+            {
+              "token": " an",
+              "logprob": -5.068559169769287
+            },
+            {
+              "token": " extremely",
+              "logprob": -3.335728168487549
+            },
+            {
+              "token": " big",
+              "logprob": -0.913080096244812
+            },
+            {
+              "token": " one",
+              "logprob": -3.0876851081848145
+            },
+            {
+              "token": ".",
+              "logprob": -0.34855467081069946
+            },
+            {
+              "token": " What",
+              "logprob": -4.526978969573975
+            },
+            {
+              "token": " size",
+              "logprob": -1.1135876178741455
+            },
+            {
+              "token": " was",
+              "logprob": -1.297798752784729
+            },
+            {
+              "token": " the",
+              "logprob": -0.3694416582584381
+            },
+            {
+              "token": " fish",
+              "logprob": -0.03175559639930725
+            },
+            {
+              "token": " that",
+              "logprob": -3.2710819244384766
+            },
+            {
+              "token": " Ryan",
+              "logprob": -2.315751791000366
+            },
+            {
+              "token": " caught",
+              "logprob": -0.06921689212322235
+            },
+            {
+              "token": "?",
+              "logprob": -0.13072693347930908
+            },
+            {
+              "token": " Did",
+              "logprob": -3.9011871814727783
+            },
+            {
+              "token": " you",
+              "logprob": -1.0241303443908691
+            },
+            {
+              "token": " want",
+              "logprob": -4.069572448730469
+            },
+            {
+              "token": " a",
+              "logprob": -2.1485297679901123
+            },
+            {
+              "token": " large",
+              "logprob": -2.7829113006591797
+            },
+            {
+              "token": " size",
+              "logprob": -3.416654109954834
+            },
+            {
+              "token": " or",
+              "logprob": -1.0064008235931396
+            },
+            {
+              "token": " small",
+              "logprob": -2.450040340423584
+            },
+            {
+              "token": " size",
+              "logprob": -0.23195601999759674
+            },
+            {
+              "token": " of",
+              "logprob": -3.0937983989715576
+            },
+            {
+              "token": " this",
+              "logprob": -4.274140357971191
+            },
+            {
+              "token": " catch",
+              "logprob": -4.4150896072387695
+            },
+            {
+              "token": "?",
+              "logprob": -0.33457937836647034
+            },
+            {
+              "token": " That",
+              "logprob": -5.356229782104492
+            },
+            {
+              "token": " is",
+              "logprob": -0.8657472729682922
+            },
+            {
+              "token": " what",
+              "logprob": -2.175410032272339
+            },
+            {
+              "token": " I",
+              "logprob": -2.7982773780822754
+            },
+            {
+              "token": " would",
+              "logprob": -3.6579060554504395
+            },
+            {
+              "token": " like",
+              "logprob": -0.2137468457221985
+            },
+            {
+              "token": " to",
+              "logprob": -0.061587702482938766
+            },
+            {
+              "token": " know",
+              "logprob": -0.25150421261787415
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.987797498703003
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "It was a minnow. 1 point",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.2589378356933594
+            },
+            {
+              "token": " was",
+              "logprob": -0.35362404584884644
+            },
+            {
+              "token": " a",
+              "logprob": -0.6715212464332581
+            },
+            {
+              "token": " min",
+              "logprob": -3.3345882892608643
+            },
+            {
+              "token": "now",
+              "logprob": -0.01938786171376705
+            },
+            {
+              "token": ".",
+              "logprob": -0.6789938807487488
+            },
+            {
+              "token": " ",
+              "logprob": -2.8827619552612305
+            },
+            {
+              "token": "1",
+              "logprob": -3.6334917545318604
+            },
+            {
+              "token": " point",
+              "logprob": -1.126053810119629
+            },
+            {
+              "token": "   \n",
+              "logprob": -5.450402736663818
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,771 @@
+{
+  "story": "Zoe and Scarlett were best friends. One sunny day, they decided to go to the park. Zoe wore a new shirt, but it was itchy. As they walked, Zoe scratched his left arm. Scarlett noticed but didn’t say anything. She was busy looking at the butterflies. \"Let’s play on the swings,\" Scarlett said. Zoe agreed, but the itching didn’t stop. He scratched his arm again. Scarlett laughed and ran ahead. Zoe followed, still scratching. They played on the swings and the slide. Zoe forgot about the itch for a while. Later, they sat under a tree. \"Your shirt looks nice,\" Scarlett said. Zoe smiled but didn’t mention the itch. They ate snacks and talked about school. When it was time to go home, Zoe was happy. Even though his arm itched, he had a fun day with Scarlett. The next day, Zoe wore a different shirt. He didn’t scratch at all.",
+  "characters": [
+    {
+      "question": "Which arm did Zoe scratch?",
+      "character": "Zoe",
+      "story": "Zoe and Scarlett were best friends. One sunny day, they decided to go to the park. Zoe wore a new shirt, but it was itchy. As they walked, Zoe scratched his left arm. Scarlett noticed but didn’t say anything. She was busy looking at the butterflies. \"Let’s play on the swings,\" Scarlett said. Zoe agreed, but the itching didn’t stop. He scratched his arm again. Scarlett laughed and ran ahead. Zoe followed, still scratching. They played on the swings and the slide. Zoe forgot about the itch for a while. Later, they sat under a tree. \"Your shirt looks nice,\" Scarlett said. Zoe smiled but didn’t mention the itch. They ate snacks and talked about school. When it was time to go home, Zoe was happy. Even though his arm itched, he had a fun day with Scarlett. The next day, Zoe wore a different shirt. He didn’t scratch at all.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "His left arm. Zoe scratched on his left arm.",
+          "token_data": [
+            {
+              "token": " His",
+              "logprob": -1.3523284196853638
+            },
+            {
+              "token": " left",
+              "logprob": -0.4649103581905365
+            },
+            {
+              "token": " arm",
+              "logprob": -0.11932700872421265
+            },
+            {
+              "token": ".",
+              "logprob": -0.5476133823394775
+            },
+            {
+              "token": " Zoe",
+              "logprob": -3.6318750381469727
+            },
+            {
+              "token": " scratched",
+              "logprob": -0.3075557053089142
+            },
+            {
+              "token": " on",
+              "logprob": -2.8531463146209717
+            },
+            {
+              "token": " his",
+              "logprob": -0.42067790031433105
+            },
+            {
+              "token": " left",
+              "logprob": -0.3569358289241791
+            },
+            {
+              "token": " arm",
+              "logprob": -0.048312827944755554
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.2660908699035645
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "His right arm.",
+          "token_data": [
+            {
+              "token": " His",
+              "logprob": -1.3630880117416382
+            },
+            {
+              "token": " right",
+              "logprob": -1.5813632011413574
+            },
+            {
+              "token": " arm",
+              "logprob": -0.08099380135536194
+            },
+            {
+              "token": ".",
+              "logprob": -0.48154589533805847
+            },
+            {
+              "token": " ",
+              "logprob": -2.8383684158325195
+            },
+            {
+              "token": " Q",
+              "logprob": -1.39248788356781
+            },
+            {
+              "token": ":",
+              "logprob": -0.02104010060429573
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "His left arm.",
+          "token_data": [
+            {
+              "token": " His",
+              "logprob": -1.3630880117416382
+            },
+            {
+              "token": " left",
+              "logprob": -0.4657016098499298
+            },
+            {
+              "token": " arm",
+              "logprob": -0.11341362446546555
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.3431639671325684
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Zoe scratched both arms.",
+          "token_data": [
+            {
+              "token": " Zoe",
+              "logprob": -3.4450507164001465
+            },
+            {
+              "token": " scratched",
+              "logprob": -0.16907744109630585
+            },
+            {
+              "token": " both",
+              "logprob": -3.0505218505859375
+            },
+            {
+              "token": " arms",
+              "logprob": -0.5507439374923706
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.153801679611206
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "$$",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.9178805351257324
+            },
+            {
+              "token": " $",
+              "logprob": -5.2520952224731445
+            },
+            {
+              "token": "$\n",
+              "logprob": -4.865739822387695
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "His right arm.",
+          "token_data": [
+            {
+              "token": " His",
+              "logprob": -1.3630880117416382
+            },
+            {
+              "token": " right",
+              "logprob": -1.5813632011413574
+            },
+            {
+              "token": " arm",
+              "logprob": -0.08099380135536194
+            },
+            {
+              "token": ".",
+              "logprob": -0.48154589533805847
+            },
+            {
+              "token": " \n",
+              "logprob": -1.9692487716674805
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "He scratched his left arm.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -2.1304564476013184
+            },
+            {
+              "token": " scratched",
+              "logprob": -0.06066759303212166
+            },
+            {
+              "token": " his",
+              "logprob": -0.2622627019882202
+            },
+            {
+              "token": " left",
+              "logprob": -0.5781070590019226
+            },
+            {
+              "token": " arm",
+              "logprob": -0.03307170048356056
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.343270778656006
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Left arm B: Both arms C: Right Arm D: Neither E: Both of both",
+          "token_data": [
+            {
+              "token": " Left",
+              "logprob": -3.400203227996826
+            },
+            {
+              "token": " arm",
+              "logprob": -0.8755044937133789
+            },
+            {
+              "token": " B",
+              "logprob": -2.8013205528259277
+            },
+            {
+              "token": ":",
+              "logprob": -0.015201429836452007
+            },
+            {
+              "token": " Both",
+              "logprob": -3.083481550216675
+            },
+            {
+              "token": " arms",
+              "logprob": -0.26970797777175903
+            },
+            {
+              "token": " C",
+              "logprob": -0.23133373260498047
+            },
+            {
+              "token": ":",
+              "logprob": -0.00797965656965971
+            },
+            {
+              "token": " Right",
+              "logprob": -0.792849600315094
+            },
+            {
+              "token": " Arm",
+              "logprob": -3.6348819732666016
+            },
+            {
+              "token": " D",
+              "logprob": -1.0120463371276855
+            },
+            {
+              "token": ":",
+              "logprob": -0.01760300062596798
+            },
+            {
+              "token": " Neither",
+              "logprob": -1.852807641029358
+            },
+            {
+              "token": " E",
+              "logprob": -3.404860019683838
+            },
+            {
+              "token": ":",
+              "logprob": -0.0902375802397728
+            },
+            {
+              "token": " Both",
+              "logprob": -1.2865135669708252
+            },
+            {
+              "token": " of",
+              "logprob": -3.3910794258117676
+            },
+            {
+              "token": " both",
+              "logprob": -3.696638584136963
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.3605191707611084
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "None of the above",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.2109274864196777
+            },
+            {
+              "token": " of",
+              "logprob": -0.7622560858726501
+            },
+            {
+              "token": " the",
+              "logprob": -0.44153937697410583
+            },
+            {
+              "token": " above",
+              "logprob": -0.21956373751163483
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.122945785522461
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "his right arm.",
+          "token_data": [
+            {
+              "token": " his",
+              "logprob": -3.319775104522705
+            },
+            {
+              "token": " right",
+              "logprob": -1.901275396347046
+            },
+            {
+              "token": " arm",
+              "logprob": -0.08907327055931091
+            },
+            {
+              "token": ".",
+              "logprob": -0.705430805683136
+            },
+            {
+              "token": " Q",
+              "logprob": -1.1079461574554443
+            },
+            {
+              "token": ":",
+              "logprob": -0.013242743909358978
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Which arm did Scarlett scratch?",
+      "character": "Scarlett",
+      "story": "Zoe and Scarlett were best friends. One sunny day, they decided to go to the park. Zoe wore a new shirt, but it was itchy. As they walked, Zoe scratched his left arm. Scarlett noticed but didn’t say anything. She was busy looking at the butterflies. \"Let’s play on the swings,\" Scarlett said. Zoe agreed, but the itching didn’t stop. He scratched his arm again. Scarlett laughed and ran ahead. Zoe followed, still scratching. They played on the swings and the slide. Zoe forgot about the itch for a while. Later, they sat under a tree. \"Your shirt looks nice,\" Scarlett said. Zoe smiled but didn’t mention the itch. They ate snacks and talked about school. When it was time to go home, Zoe was happy. Even though his arm itched, he had a fun day with Scarlett. The next day, Zoe wore a different shirt. He didn’t scratch at all.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "a. (Left) the arm of his shirt did not itc B: b. Zoe's shoulder c: a. Neither d. None",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -4.486387252807617
+            },
+            {
+              "token": ".",
+              "logprob": -1.0818558931350708
+            },
+            {
+              "token": " (",
+              "logprob": -4.77336311340332
+            },
+            {
+              "token": "Left",
+              "logprob": -3.331346273422241
+            },
+            {
+              "token": ")",
+              "logprob": -0.3739333748817444
+            },
+            {
+              "token": " the",
+              "logprob": -3.985910177230835
+            },
+            {
+              "token": " arm",
+              "logprob": -2.0714797973632812
+            },
+            {
+              "token": " of",
+              "logprob": -4.609596252441406
+            },
+            {
+              "token": " his",
+              "logprob": -1.5084905624389648
+            },
+            {
+              "token": " shirt",
+              "logprob": -1.1214815378189087
+            },
+            {
+              "token": " did",
+              "logprob": -4.007705211639404
+            },
+            {
+              "token": " not",
+              "logprob": -0.7887229919433594
+            },
+            {
+              "token": " it",
+              "logprob": -0.9443062543869019
+            },
+            {
+              "token": "c",
+              "logprob": -2.260488510131836
+            },
+            {
+              "token": " B",
+              "logprob": -2.492831230163574
+            },
+            {
+              "token": ":",
+              "logprob": -0.2554638087749481
+            },
+            {
+              "token": " b",
+              "logprob": -0.9816927909851074
+            },
+            {
+              "token": ".",
+              "logprob": -0.04362309351563454
+            },
+            {
+              "token": " Zoe",
+              "logprob": -4.215521812438965
+            },
+            {
+              "token": "'s",
+              "logprob": -2.4063568115234375
+            },
+            {
+              "token": " shoulder",
+              "logprob": -4.294755458831787
+            },
+            {
+              "token": " c",
+              "logprob": -5.272988796234131
+            },
+            {
+              "token": ":",
+              "logprob": -2.837284564971924
+            },
+            {
+              "token": " a",
+              "logprob": -3.129070520401001
+            },
+            {
+              "token": ".",
+              "logprob": -0.3713790476322174
+            },
+            {
+              "token": " Neither",
+              "logprob": -4.754971504211426
+            },
+            {
+              "token": " d",
+              "logprob": -2.843763828277588
+            },
+            {
+              "token": ".",
+              "logprob": -0.16441714763641357
+            },
+            {
+              "token": " None",
+              "logprob": -2.105581045150757
+            },
+            {
+              "token": "\n",
+              "logprob": -4.1054534912109375
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Which arm did Zoe scratch? B: The itchy shirt C: None of these",
+          "token_data": [
+            {
+              "token": " Which",
+              "logprob": -4.590819358825684
+            },
+            {
+              "token": " arm",
+              "logprob": -0.13474859297275543
+            },
+            {
+              "token": " did",
+              "logprob": -0.12882180511951447
+            },
+            {
+              "token": " Zoe",
+              "logprob": -1.7978565692901611
+            },
+            {
+              "token": " scratch",
+              "logprob": -0.06632456183433533
+            },
+            {
+              "token": "?",
+              "logprob": -0.213825985789299
+            },
+            {
+              "token": " B",
+              "logprob": -1.5033739805221558
+            },
+            {
+              "token": ":",
+              "logprob": -0.021058542653918266
+            },
+            {
+              "token": " The",
+              "logprob": -4.385239124298096
+            },
+            {
+              "token": " it",
+              "logprob": -3.563359260559082
+            },
+            {
+              "token": "chy",
+              "logprob": -0.125901997089386
+            },
+            {
+              "token": " shirt",
+              "logprob": -3.7503271102905273
+            },
+            {
+              "token": " C",
+              "logprob": -4.060147285461426
+            },
+            {
+              "token": ":",
+              "logprob": -0.011895552277565002
+            },
+            {
+              "token": " None",
+              "logprob": -2.608894109725952
+            },
+            {
+              "token": " of",
+              "logprob": -0.1153402328491211
+            },
+            {
+              "token": " these",
+              "logprob": -2.343461751937866
+            },
+            {
+              "token": " \n",
+              "logprob": -3.793010950088501
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "None",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.504800796508789
+            },
+            {
+              "token": "\n",
+              "logprob": -3.3627920150756836
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "left",
+          "token_data": [
+            {
+              "token": " left",
+              "logprob": -4.26993465423584
+            },
+            {
+              "token": " Q",
+              "logprob": -2.054443836212158
+            },
+            {
+              "token": ":",
+              "logprob": -0.015880772843956947
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Which arm did Zoe scratch?",
+          "token_data": [
+            {
+              "token": " Which",
+              "logprob": -4.590819358825684
+            },
+            {
+              "token": " arm",
+              "logprob": -0.13474859297275543
+            },
+            {
+              "token": " did",
+              "logprob": -0.12882180511951447
+            },
+            {
+              "token": " Zoe",
+              "logprob": -1.7978565692901611
+            },
+            {
+              "token": " scratch",
+              "logprob": -0.06632456183433533
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.7620017528533936
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "3: He scratched on his other arm.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.056089401245117
+            },
+            {
+              "token": "3",
+              "logprob": -4.315473556518555
+            },
+            {
+              "token": ":",
+              "logprob": -4.157449722290039
+            },
+            {
+              "token": " He",
+              "logprob": -4.648820877075195
+            },
+            {
+              "token": " scratched",
+              "logprob": -0.1837857961654663
+            },
+            {
+              "token": " on",
+              "logprob": -3.111168146133423
+            },
+            {
+              "token": " his",
+              "logprob": -0.7143069505691528
+            },
+            {
+              "token": " other",
+              "logprob": -3.503753423690796
+            },
+            {
+              "token": " arm",
+              "logprob": -0.12336084991693497
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.6081461906433105
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Right arm",
+          "token_data": [
+            {
+              "token": " Right",
+              "logprob": -3.683426856994629
+            },
+            {
+              "token": " arm",
+              "logprob": -0.9920828342437744
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.9588794708251953
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Right",
+          "token_data": [
+            {
+              "token": " Right",
+              "logprob": -3.683426856994629
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.7971832752227783
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "None.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.504800796508789
+            },
+            {
+              "token": ".",
+              "logprob": -1.5604982376098633
+            },
+            {
+              "token": " Q",
+              "logprob": -1.9377944469451904
+            },
+            {
+              "token": ":",
+              "logprob": -0.01609734259545803
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "She scratched the one on her left arm.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -3.463841438293457
+            },
+            {
+              "token": " scratched",
+              "logprob": -0.43086811900138855
+            },
+            {
+              "token": " the",
+              "logprob": -2.7267374992370605
+            },
+            {
+              "token": " one",
+              "logprob": -2.3797647953033447
+            },
+            {
+              "token": " on",
+              "logprob": -0.9774411916732788
+            },
+            {
+              "token": " her",
+              "logprob": -0.7530350685119629
+            },
+            {
+              "token": " left",
+              "logprob": -0.6243321895599365
+            },
+            {
+              "token": " arm",
+              "logprob": -0.5872928500175476
+            },
+            {
+              "token": ".",
+              "logprob": -0.2954966723918915
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

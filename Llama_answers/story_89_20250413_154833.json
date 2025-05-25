@@ -1,0 +1,847 @@
+{
+  "story": "Olivia and Leo were best friends who loved going on adventures. One sunny day, they decided to ride their bikes to the park. Olivia packed a picnic, and Leo brought his favorite ball. They pedaled happily down the road, laughing and talking. Suddenly, Olivia’s bike wobbled, and she stopped. “Oh no!” she said. “My tire is flat!” Leo looked worried, but Olivia smiled. “Don’t worry, I can fix it,” she said. Olivia fixed a flat tire with the tools she always carried. Leo cheered when she was done. “You’re amazing!” he said. They continued their ride and had a great time at the park. They ate their picnic, played with the ball, and even fed the ducks. On the way home, Leo told funny stories, and Olivia laughed. It was a perfect day, all because Olivia knew how to fix a flat tire. They promised to go on another adventure soon.",
+  "characters": [
+    {
+      "question": "What part of the vehicle did Olivia repair?",
+      "character": "Olivia",
+      "story": "Olivia and Leo were best friends who loved going on adventures. One sunny day, they decided to ride their bikes to the park. Olivia packed a picnic, and Leo brought his favorite ball. They pedaled happily down the road, laughing and talking. Suddenly, Olivia’s bike wobbled, and she stopped. “Oh no!” she said. “My tire is flat!” Leo looked worried, but Olivia smiled. “Don’t worry, I can fix it,” she said. Olivia fixed a flat tire with the tools she always carried. Leo cheered when she was done. “You’re amazing!” he said. They continued their ride and had a great time at the park. They ate their picnic, played with the ball, and even fed the ducks. On the way home, Leo told funny stories, and Olivia laughed. It was a perfect day, all because Olivia knew how to fix a flat tire. They promised to go on another adventure soon.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The tire",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.410313367843628
+            },
+            {
+              "token": " tire",
+              "logprob": -1.3176586627960205
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.289151906967163
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Her tire.",
+          "token_data": [
+            {
+              "token": " Her",
+              "logprob": -2.43707013130188
+            },
+            {
+              "token": " tire",
+              "logprob": -0.7600903511047363
+            },
+            {
+              "token": ".",
+              "logprob": -0.6900793313980103
+            },
+            {
+              "token": " \n",
+              "logprob": -1.5636457204818726
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Olivia fixed a flat tire by fixing it herself. She used her tools to repair the flat. They then went home and told funny stories.",
+          "token_data": [
+            {
+              "token": " Olivia",
+              "logprob": -1.4710934162139893
+            },
+            {
+              "token": " fixed",
+              "logprob": -1.2058470249176025
+            },
+            {
+              "token": " a",
+              "logprob": -0.1836918592453003
+            },
+            {
+              "token": " flat",
+              "logprob": -0.086373470723629
+            },
+            {
+              "token": " tire",
+              "logprob": -0.020696744322776794
+            },
+            {
+              "token": " by",
+              "logprob": -3.8605151176452637
+            },
+            {
+              "token": " fixing",
+              "logprob": -3.094527244567871
+            },
+            {
+              "token": " it",
+              "logprob": -1.8653061389923096
+            },
+            {
+              "token": " herself",
+              "logprob": -2.39186692237854
+            },
+            {
+              "token": ".",
+              "logprob": -0.7620909214019775
+            },
+            {
+              "token": " She",
+              "logprob": -2.4450759887695312
+            },
+            {
+              "token": " used",
+              "logprob": -2.6111083030700684
+            },
+            {
+              "token": " her",
+              "logprob": -1.0025701522827148
+            },
+            {
+              "token": " tools",
+              "logprob": -0.5690149664878845
+            },
+            {
+              "token": " to",
+              "logprob": -0.10906875133514404
+            },
+            {
+              "token": " repair",
+              "logprob": -1.72200608253479
+            },
+            {
+              "token": " the",
+              "logprob": -1.0613973140716553
+            },
+            {
+              "token": " flat",
+              "logprob": -1.1463968753814697
+            },
+            {
+              "token": ".",
+              "logprob": -2.5483059883117676
+            },
+            {
+              "token": " They",
+              "logprob": -4.255022048950195
+            },
+            {
+              "token": " then",
+              "logprob": -3.975142002105713
+            },
+            {
+              "token": " went",
+              "logprob": -2.207679510116577
+            },
+            {
+              "token": " home",
+              "logprob": -3.4340171813964844
+            },
+            {
+              "token": " and",
+              "logprob": -0.8087587952613831
+            },
+            {
+              "token": " told",
+              "logprob": -3.740738868713379
+            },
+            {
+              "token": " funny",
+              "logprob": -1.4551324844360352
+            },
+            {
+              "token": " stories",
+              "logprob": -0.014287909492850304
+            },
+            {
+              "token": ".",
+              "logprob": -0.8431869745254517
+            },
+            {
+              "token": " \n",
+              "logprob": -2.590782642364502
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "her flat tire.",
+          "token_data": [
+            {
+              "token": " her",
+              "logprob": -4.347256660461426
+            },
+            {
+              "token": " flat",
+              "logprob": -2.0464253425598145
+            },
+            {
+              "token": " tire",
+              "logprob": -0.05516831949353218
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.371086835861206
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Olivia fixed a flat tire.",
+          "token_data": [
+            {
+              "token": " Olivia",
+              "logprob": -1.4710934162139893
+            },
+            {
+              "token": " fixed",
+              "logprob": -1.2058470249176025
+            },
+            {
+              "token": " a",
+              "logprob": -0.1836918592453003
+            },
+            {
+              "token": " flat",
+              "logprob": -0.086373470723629
+            },
+            {
+              "token": " tire",
+              "logprob": -0.020696744322776794
+            },
+            {
+              "token": ".",
+              "logprob": -0.8887573480606079
+            },
+            {
+              "token": " Q",
+              "logprob": -1.7420841455459595
+            },
+            {
+              "token": ":",
+              "logprob": -0.026759924367070198
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "What part of the vehicle did Olivia fix?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.584416627883911
+            },
+            {
+              "token": " part",
+              "logprob": -0.588660478591919
+            },
+            {
+              "token": " of",
+              "logprob": -0.061403967440128326
+            },
+            {
+              "token": " the",
+              "logprob": -0.0492628738284111
+            },
+            {
+              "token": " vehicle",
+              "logprob": -0.16382676362991333
+            },
+            {
+              "token": " did",
+              "logprob": -0.06473010778427124
+            },
+            {
+              "token": " Olivia",
+              "logprob": -0.062037304043769836
+            },
+            {
+              "token": " fix",
+              "logprob": -3.0400733947753906
+            },
+            {
+              "token": "?",
+              "logprob": -0.3055543899536133
+            },
+            {
+              "token": " \n",
+              "logprob": -2.024284839630127
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Olivia fixed a flat tire.",
+          "token_data": [
+            {
+              "token": " Olivia",
+              "logprob": -1.4710934162139893
+            },
+            {
+              "token": " fixed",
+              "logprob": -1.2058470249176025
+            },
+            {
+              "token": " a",
+              "logprob": -0.1836918592453003
+            },
+            {
+              "token": " flat",
+              "logprob": -0.086373470723629
+            },
+            {
+              "token": " tire",
+              "logprob": -0.020696744322776794
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.570931911468506
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Her bicycle.",
+          "token_data": [
+            {
+              "token": " Her",
+              "logprob": -2.43707013130188
+            },
+            {
+              "token": " bicycle",
+              "logprob": -3.3132596015930176
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.9631094932556152
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "tire.",
+          "token_data": [
+            {
+              "token": " tire",
+              "logprob": -3.2892210483551025
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.515568256378174
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Her bike.",
+          "token_data": [
+            {
+              "token": " Her",
+              "logprob": -2.43707013130188
+            },
+            {
+              "token": " bike",
+              "logprob": -2.275108814239502
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.593827962875366
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What part of the vehicle did Leo repair?",
+      "character": "Leo",
+      "story": "Olivia and Leo were best friends who loved going on adventures. One sunny day, they decided to ride their bikes to the park. Olivia packed a picnic, and Leo brought his favorite ball. They pedaled happily down the road, laughing and talking. Suddenly, Olivia’s bike wobbled, and she stopped. “Oh no!” she said. “My tire is flat!” Leo looked worried, but Olivia smiled. “Don’t worry, I can fix it,” she said. Olivia fixed a flat tire with the tools she always carried. Leo cheered when she was done. “You’re amazing!” he said. They continued their ride and had a great time at the park. They ate their picnic, played with the ball, and even fed the ducks. On the way home, Leo told funny stories, and Olivia laughed. It was a perfect day, all because Olivia knew how to fix a flat tire. They promised to go on another adventure soon.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Leo fixed his flat tire with the help from Olivia to repair a part of the vehicle.",
+          "token_data": [
+            {
+              "token": " Leo",
+              "logprob": -2.434255599975586
+            },
+            {
+              "token": " fixed",
+              "logprob": -2.7397403717041016
+            },
+            {
+              "token": " his",
+              "logprob": -2.3981776237487793
+            },
+            {
+              "token": " flat",
+              "logprob": -2.2826478481292725
+            },
+            {
+              "token": " tire",
+              "logprob": -0.0652356967329979
+            },
+            {
+              "token": " with",
+              "logprob": -2.2101516723632812
+            },
+            {
+              "token": " the",
+              "logprob": -0.5931620001792908
+            },
+            {
+              "token": " help",
+              "logprob": -3.133117914199829
+            },
+            {
+              "token": " from",
+              "logprob": -2.724195957183838
+            },
+            {
+              "token": " Olivia",
+              "logprob": -0.30223506689071655
+            },
+            {
+              "token": " to",
+              "logprob": -3.452014446258545
+            },
+            {
+              "token": " repair",
+              "logprob": -1.7971676588058472
+            },
+            {
+              "token": " a",
+              "logprob": -2.7770652770996094
+            },
+            {
+              "token": " part",
+              "logprob": -1.7558454275131226
+            },
+            {
+              "token": " of",
+              "logprob": -0.09091027081012726
+            },
+            {
+              "token": " the",
+              "logprob": -0.5433011054992676
+            },
+            {
+              "token": " vehicle",
+              "logprob": -0.07248115539550781
+            },
+            {
+              "token": ".",
+              "logprob": -0.6180370450019836
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.470150113105774
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Nothing was wrong with Leo’s repair. The bike had a flat tire.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -4.0788068771362305
+            },
+            {
+              "token": " was",
+              "logprob": -3.407728672027588
+            },
+            {
+              "token": " wrong",
+              "logprob": -1.444095253944397
+            },
+            {
+              "token": " with",
+              "logprob": -0.21067506074905396
+            },
+            {
+              "token": " Leo",
+              "logprob": -0.38523069024086
+            },
+            {
+              "token": "’s",
+              "logprob": -0.9669065475463867
+            },
+            {
+              "token": " repair",
+              "logprob": -2.428514003753662
+            },
+            {
+              "token": ".",
+              "logprob": -0.52068030834198
+            },
+            {
+              "token": " The",
+              "logprob": -2.8410940170288086
+            },
+            {
+              "token": " bike",
+              "logprob": -4.06082010269165
+            },
+            {
+              "token": " had",
+              "logprob": -2.605620861053467
+            },
+            {
+              "token": " a",
+              "logprob": -0.8200681805610657
+            },
+            {
+              "token": " flat",
+              "logprob": -0.1950075924396515
+            },
+            {
+              "token": " tire",
+              "logprob": -0.045610927045345306
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.6155009269714355
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Tire, of the bike",
+          "token_data": [
+            {
+              "token": " Tire",
+              "logprob": -4.016019821166992
+            },
+            {
+              "token": ",",
+              "logprob": -3.8205974102020264
+            },
+            {
+              "token": " of",
+              "logprob": -5.470146179199219
+            },
+            {
+              "token": " the",
+              "logprob": -2.774162769317627
+            },
+            {
+              "token": " bike",
+              "logprob": -0.8440771698951721
+            },
+            {
+              "token": "\n",
+              "logprob": -2.3060739040374756
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "In which area did Leo fix the problem?",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.459404945373535
+            },
+            {
+              "token": " In",
+              "logprob": -5.326793670654297
+            },
+            {
+              "token": " which",
+              "logprob": -3.5699148178100586
+            },
+            {
+              "token": " area",
+              "logprob": -4.080817699432373
+            },
+            {
+              "token": " did",
+              "logprob": -0.9158670902252197
+            },
+            {
+              "token": " Leo",
+              "logprob": -0.3500944674015045
+            },
+            {
+              "token": " fix",
+              "logprob": -2.6041595935821533
+            },
+            {
+              "token": " the",
+              "logprob": -0.7767086029052734
+            },
+            {
+              "token": " problem",
+              "logprob": -3.2862071990966797
+            },
+            {
+              "token": "?",
+              "logprob": -0.3952769935131073
+            },
+            {
+              "token": "  \n",
+              "logprob": -3.9859912395477295
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.691988706588745
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "His bike.",
+          "token_data": [
+            {
+              "token": " His",
+              "logprob": -4.597168922424316
+            },
+            {
+              "token": " bike",
+              "logprob": -1.92239248752594
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.325179100036621
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Answer: The bike was \"flat\".",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.289486885070801
+            },
+            {
+              "token": ":",
+              "logprob": -1.4458584785461426
+            },
+            {
+              "token": " The",
+              "logprob": -2.424783229827881
+            },
+            {
+              "token": " bike",
+              "logprob": -3.096342086791992
+            },
+            {
+              "token": " was",
+              "logprob": -3.9185917377471924
+            },
+            {
+              "token": " \"",
+              "logprob": -5.360079288482666
+            },
+            {
+              "token": "flat",
+              "logprob": -1.9244180917739868
+            },
+            {
+              "token": "\".\n",
+              "logprob": -3.771087169647217
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Leo fixed the tire with a new tire and some tools. They called their adventures.",
+          "token_data": [
+            {
+              "token": " Leo",
+              "logprob": -2.452993154525757
+            },
+            {
+              "token": " fixed",
+              "logprob": -2.7149477005004883
+            },
+            {
+              "token": " the",
+              "logprob": -1.8294317722320557
+            },
+            {
+              "token": " tire",
+              "logprob": -1.3116388320922852
+            },
+            {
+              "token": " with",
+              "logprob": -2.1923131942749023
+            },
+            {
+              "token": " a",
+              "logprob": -1.69157075881958
+            },
+            {
+              "token": " new",
+              "logprob": -3.781233549118042
+            },
+            {
+              "token": " tire",
+              "logprob": -2.3125553131103516
+            },
+            {
+              "token": " and",
+              "logprob": -2.089876890182495
+            },
+            {
+              "token": " some",
+              "logprob": -2.971412181854248
+            },
+            {
+              "token": " tools",
+              "logprob": -1.6853017807006836
+            },
+            {
+              "token": ".",
+              "logprob": -0.7750080823898315
+            },
+            {
+              "token": " They",
+              "logprob": -4.477569580078125
+            },
+            {
+              "token": " called",
+              "logprob": -4.555994033813477
+            },
+            {
+              "token": " their",
+              "logprob": -2.707364082336426
+            },
+            {
+              "token": " adventures",
+              "logprob": -4.105676651000977
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.214412212371826
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "What is one important detail about the bike that caused Olivia's tire to get flat?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.9579198360443115
+            },
+            {
+              "token": " is",
+              "logprob": -3.2286782264709473
+            },
+            {
+              "token": " one",
+              "logprob": -1.723832130432129
+            },
+            {
+              "token": " important",
+              "logprob": -3.7244837284088135
+            },
+            {
+              "token": " detail",
+              "logprob": -0.9190292358398438
+            },
+            {
+              "token": " about",
+              "logprob": -0.5354040861129761
+            },
+            {
+              "token": " the",
+              "logprob": -1.4642583131790161
+            },
+            {
+              "token": " bike",
+              "logprob": -3.642472267150879
+            },
+            {
+              "token": " that",
+              "logprob": -2.3097894191741943
+            },
+            {
+              "token": " caused",
+              "logprob": -3.7922005653381348
+            },
+            {
+              "token": " Olivia",
+              "logprob": -0.7000612020492554
+            },
+            {
+              "token": "'s",
+              "logprob": -2.035722255706787
+            },
+            {
+              "token": " tire",
+              "logprob": -1.7498383522033691
+            },
+            {
+              "token": " to",
+              "logprob": -0.020430948585271835
+            },
+            {
+              "token": " get",
+              "logprob": -3.3323044776916504
+            },
+            {
+              "token": " flat",
+              "logprob": -0.0543949268758297
+            },
+            {
+              "token": "?",
+              "logprob": -0.19084568321704865
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.3591434955596924
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The tire on his bicycle.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.0062148571014404
+            },
+            {
+              "token": " tire",
+              "logprob": -1.65192711353302
+            },
+            {
+              "token": " on",
+              "logprob": -2.204883575439453
+            },
+            {
+              "token": " his",
+              "logprob": -1.2709237337112427
+            },
+            {
+              "token": " bicycle",
+              "logprob": -2.0865118503570557
+            },
+            {
+              "token": ".",
+              "logprob": -0.8847507834434509
+            },
+            {
+              "token": " \n",
+              "logprob": -1.7797718048095703
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "story": "Zoe and Scarlett were best friends. One day, they decided to clean their clubhouse. Zoe cleaned a dusty shelf while Scarlett organized the toys. The clubhouse was small but full of fun things. Zoe wore gloves to keep her hands clean. Scarlett sang a song as she worked. The dust made Zoe sneeze, but she kept wiping the shelf. Scarlett found an old board game under the toys. \"Let's play this later!\" she said. Zoe agreed and put the last book on the now-clean shelf. The girls smiled at their tidy clubhouse. They were proud of their hard work. After cleaning, they sat down to rest. \"We did a good job,\" Zoe said. Scarlett nodded and handed her a juice box. They clinked their boxes together and laughed. The sun shone through the window, making the clean shelf sparkle. It was a perfect day for friends.",
+  "characters": [
+    {
+      "question": "What did Zoe clean?",
+      "character": "Zoe",
+      "story": "Zoe and Scarlett were best friends. One day, they decided to clean their clubhouse. Zoe cleaned a dusty shelf while Scarlett organized the toys. The clubhouse was small but full of fun things. Zoe wore gloves to keep her hands clean. Scarlett sang a song as she worked. The dust made Zoe sneeze, but she kept wiping the shelf. Scarlett found an old board game under the toys. \"Let's play this later!\" she said. Zoe agreed and put the last book on the now-clean shelf. The girls smiled at their tidy clubhouse. They were proud of their hard work. After cleaning, they sat down to rest. \"We did a good job,\" Zoe said. Scarlett nodded and handed her a juice box. They clinked their boxes together and laughed. The sun shone through the window, making the clean shelf sparkle. It was a perfect day for friends.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A dusty shelf.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.2681902647018433
+            },
+            {
+              "token": " dusty",
+              "logprob": -0.3823246657848358
+            },
+            {
+              "token": " shelf",
+              "logprob": -0.017915451899170876
+            },
+            {
+              "token": ".",
+              "logprob": -0.5730753540992737
+            },
+            {
+              "token": " Q",
+              "logprob": -1.5367858409881592
+            },
+            {
+              "token": ":",
+              "logprob": -0.014387560077011585
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "A shelf.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.2540127038955688
+            },
+            {
+              "token": " shelf",
+              "logprob": -1.5763638019561768
+            },
+            {
+              "token": ".",
+              "logprob": -0.708794116973877
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.641186237335205
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A dusty shelf.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.2540127038955688
+            },
+            {
+              "token": " dusty",
+              "logprob": -0.38248559832572937
+            },
+            {
+              "token": " shelf",
+              "logprob": -0.01769728772342205
+            },
+            {
+              "token": ".",
+              "logprob": -0.5713635087013245
+            },
+            {
+              "token": " Q",
+              "logprob": -1.5663702487945557
+            },
+            {
+              "token": ":",
+              "logprob": -0.01429872028529644
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Dust off the shelf",
+          "token_data": [
+            {
+              "token": " Dust",
+              "logprob": -3.184879779815674
+            },
+            {
+              "token": " off",
+              "logprob": -3.693063735961914
+            },
+            {
+              "token": " the",
+              "logprob": -0.681377649307251
+            },
+            {
+              "token": " shelf",
+              "logprob": -0.16483718156814575
+            },
+            {
+              "token": " \n",
+              "logprob": -3.16719388961792
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "dust .",
+          "token_data": [
+            {
+              "token": " dust",
+              "logprob": -3.5841078758239746
+            },
+            {
+              "token": " ",
+              "logprob": -4.240663528442383
+            },
+            {
+              "token": ".\n\n\n",
+              "logprob": -2.953476667404175
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A shelf.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.2540127038955688
+            },
+            {
+              "token": " shelf",
+              "logprob": -1.5763638019561768
+            },
+            {
+              "token": ".\n",
+              "logprob": -1.9778218269348145
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The dust.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.9897905588150024
+            },
+            {
+              "token": " dust",
+              "logprob": -1.372300386428833
+            },
+            {
+              "token": ".",
+              "logprob": -0.6861146688461304
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.6975504159927368
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Dust.",
+          "token_data": [
+            {
+              "token": " Dust",
+              "logprob": -3.184879779815674
+            },
+            {
+              "token": ".",
+              "logprob": -0.8823949098587036
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.9211739301681519
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "She cleaned a shelf of books.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -2.5006461143493652
+            },
+            {
+              "token": " cleaned",
+              "logprob": -0.3771333396434784
+            },
+            {
+              "token": " a",
+              "logprob": -0.23855289816856384
+            },
+            {
+              "token": " shelf",
+              "logprob": -1.8911408185958862
+            },
+            {
+              "token": " of",
+              "logprob": -2.6072683334350586
+            },
+            {
+              "token": " books",
+              "logprob": -2.392979860305786
+            },
+            {
+              "token": ".",
+              "logprob": -0.42582806944847107
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.5413533449172974
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "She dusted a shelf.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -2.5006461143493652
+            },
+            {
+              "token": " dust",
+              "logprob": -2.4785547256469727
+            },
+            {
+              "token": "ed",
+              "logprob": -0.0018378287786617875
+            },
+            {
+              "token": " a",
+              "logprob": -0.7455123066902161
+            },
+            {
+              "token": " shelf",
+              "logprob": -0.17390236258506775
+            },
+            {
+              "token": ".",
+              "logprob": -0.4076606333255768
+            },
+            {
+              "token": " Q",
+              "logprob": -1.5844541788101196
+            },
+            {
+              "token": ":",
+              "logprob": -0.013330265879631042
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What did Scarlett clean?",
+      "character": "Scarlett",
+      "story": "Zoe and Scarlett were best friends. One day, they decided to clean their clubhouse. Zoe cleaned a dusty shelf while Scarlett organized the toys. The clubhouse was small but full of fun things. Zoe wore gloves to keep her hands clean. Scarlett sang a song as she worked. The dust made Zoe sneeze, but she kept wiping the shelf. Scarlett found an old board game under the toys. \"Let's play this later!\" she said. Zoe agreed and put the last book on the now-clean shelf. The girls smiled at their tidy clubhouse. They were proud of their hard work. After cleaning, they sat down to rest. \"We did a good job,\" Zoe said. Scarlett nodded and handed her a juice box. They clinked their boxes together and laughed. The sun shone through the window, making the clean shelf sparkle. It was a perfect day for friends.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The dusty shelf.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.342652797698975
+            },
+            {
+              "token": " The",
+              "logprob": -2.1824779510498047
+            },
+            {
+              "token": " dusty",
+              "logprob": -3.7795467376708984
+            },
+            {
+              "token": " shelf",
+              "logprob": -0.02048829384148121
+            },
+            {
+              "token": ".",
+              "logprob": -0.6433449387550354
+            },
+            {
+              "token": " \n",
+              "logprob": -0.9515984058380127
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "An old board game.",
+          "token_data": [
+            {
+              "token": " An",
+              "logprob": -4.513822555541992
+            },
+            {
+              "token": " old",
+              "logprob": -0.1500682234764099
+            },
+            {
+              "token": " board",
+              "logprob": -0.08343402296304703
+            },
+            {
+              "token": " game",
+              "logprob": -0.04559862241148949
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.0103230476379395
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Scarlett sang a song while Zoe cleaned the shelves.",
+          "token_data": [
+            {
+              "token": " Scarlett",
+              "logprob": -3.4565985202789307
+            },
+            {
+              "token": " sang",
+              "logprob": -3.287825584411621
+            },
+            {
+              "token": " a",
+              "logprob": -0.5037970542907715
+            },
+            {
+              "token": " song",
+              "logprob": -0.076628677546978
+            },
+            {
+              "token": " while",
+              "logprob": -2.534574508666992
+            },
+            {
+              "token": " Zoe",
+              "logprob": -2.5464587211608887
+            },
+            {
+              "token": " cleaned",
+              "logprob": -0.2738337218761444
+            },
+            {
+              "token": " the",
+              "logprob": -2.288395643234253
+            },
+            {
+              "token": " shelves",
+              "logprob": -3.342855453491211
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.9054510593414307
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "None of the above",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -4.054647445678711
+            },
+            {
+              "token": " of",
+              "logprob": -0.6032872796058655
+            },
+            {
+              "token": " the",
+              "logprob": -0.1009247750043869
+            },
+            {
+              "token": " above",
+              "logprob": -0.14995700120925903
+            },
+            {
+              "token": "\n",
+              "logprob": -2.2951011657714844
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "An old board game",
+          "token_data": [
+            {
+              "token": " An",
+              "logprob": -4.513822555541992
+            },
+            {
+              "token": " old",
+              "logprob": -0.1500682234764099
+            },
+            {
+              "token": " board",
+              "logprob": -0.08343402296304703
+            },
+            {
+              "token": " game",
+              "logprob": -0.04559862241148949
+            },
+            {
+              "token": " Q",
+              "logprob": -3.5810647010803223
+            },
+            {
+              "token": ":",
+              "logprob": -0.015445027500391006
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "the toys and dust",
+          "token_data": [
+            {
+              "token": " the",
+              "logprob": -3.8805429935455322
+            },
+            {
+              "token": " toys",
+              "logprob": -1.852921724319458
+            },
+            {
+              "token": " and",
+              "logprob": -3.935299873352051
+            },
+            {
+              "token": " dust",
+              "logprob": -2.2907891273498535
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.3587605953216553
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.472330331802368
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.472330331802368
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Scarlett organized the toys.",
+          "token_data": [
+            {
+              "token": " Scarlett",
+              "logprob": -3.4565985202789307
+            },
+            {
+              "token": " organized",
+              "logprob": -1.7059508562088013
+            },
+            {
+              "token": " the",
+              "logprob": -0.44158297777175903
+            },
+            {
+              "token": " toys",
+              "logprob": -0.05508190393447876
+            },
+            {
+              "token": ".\n",
+              "logprob": -1.8394920825958252
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "dust",
+          "token_data": [
+            {
+              "token": " dust",
+              "logprob": -3.327150583267212
+            },
+            {
+              "token": " Q",
+              "logprob": -2.516007900238037
+            },
+            {
+              "token": ":",
+              "logprob": -0.013086621649563313
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

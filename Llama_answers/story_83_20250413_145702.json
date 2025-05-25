@@ -1,0 +1,875 @@
+{
+  "story": "Leo and Mia were best friends who loved to explore. One sunny day, they decided to search for treasures in their backyard. Mia dug near the big oak tree while Leo checked behind the old shed. Leo found an empty box lying in the dirt. He brushed off the dust and peeked inside, but there was nothing there. \"Maybe it’s a secret box!\" he said excitedly. Mia laughed and kept digging. She found a shiny rock and showed it to Leo. He put the rock in the box, and they pretended it was a magical gem. They imagined the box could fly or turn invisible. Later, they sat under the tree and made up stories about the box’s adventures. The empty box wasn’t so empty anymore because it was full of their imagination. As the sun set, Leo and Mia promised to keep searching for more treasures tomorrow. They knew the best part was having fun together, no matter what they found.",
+  "characters": [
+    {
+      "question": "What was inside the box Leo found?",
+      "character": "Leo",
+      "story": "Leo and Mia were best friends who loved to explore. One sunny day, they decided to search for treasures in their backyard. Mia dug near the big oak tree while Leo checked behind the old shed. Leo found an empty box lying in the dirt. He brushed off the dust and peeked inside, but there was nothing there. \"Maybe it’s a secret box!\" he said excitedly. Mia laughed and kept digging. She found a shiny rock and showed it to Leo. He put the rock in the box, and they pretended it was a magical gem. They imagined the box could fly or turn invisible. Later, they sat under the tree and made up stories about the box’s adventures. The empty box wasn’t so empty anymore because it was full of their imagination. As the sun set, Leo and Mia promised to keep searching for more treasures tomorrow. They knew the best part was having fun together, no matter what they found.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "a rock.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.811204433441162
+            },
+            {
+              "token": " rock",
+              "logprob": -1.4645723104476929
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.4158289432525635
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "A box with a shiny rock",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.643609642982483
+            },
+            {
+              "token": " box",
+              "logprob": -3.355767011642456
+            },
+            {
+              "token": " with",
+              "logprob": -1.7194807529449463
+            },
+            {
+              "token": " a",
+              "logprob": -1.1526291370391846
+            },
+            {
+              "token": " shiny",
+              "logprob": -3.1744625568389893
+            },
+            {
+              "token": " rock",
+              "logprob": -0.10271358489990234
+            },
+            {
+              "token": "\n",
+              "logprob": -4.046294212341309
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Nothing.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -1.557580590248108
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.1826610565185547
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Leo found a shiny rock.",
+          "token_data": [
+            {
+              "token": " Leo",
+              "logprob": -2.665078639984131
+            },
+            {
+              "token": " found",
+              "logprob": -0.2917054295539856
+            },
+            {
+              "token": " a",
+              "logprob": -1.0160956382751465
+            },
+            {
+              "token": " shiny",
+              "logprob": -1.8469761610031128
+            },
+            {
+              "token": " rock",
+              "logprob": -0.09841727465391159
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.278966188430786
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Leo found an empty box.",
+          "token_data": [
+            {
+              "token": " Leo",
+              "logprob": -2.665078639984131
+            },
+            {
+              "token": " found",
+              "logprob": -0.2917054295539856
+            },
+            {
+              "token": " an",
+              "logprob": -0.6628203392028809
+            },
+            {
+              "token": " empty",
+              "logprob": -0.039355117827653885
+            },
+            {
+              "token": " box",
+              "logprob": -0.0391201451420784
+            },
+            {
+              "token": ".",
+              "logprob": -1.3647629022598267
+            },
+            {
+              "token": " \n",
+              "logprob": -2.3557398319244385
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A magical gem.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.643609642982483
+            },
+            {
+              "token": " magical",
+              "logprob": -2.4854724407196045
+            },
+            {
+              "token": " gem",
+              "logprob": -0.1430630087852478
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.320425510406494
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "An empty box was lying in the dirt. B: Leo found an empty box lying in the dirt. C: Maybe it’s a secret box! I said excitedly.",
+          "token_data": [
+            {
+              "token": " An",
+              "logprob": -3.6784873008728027
+            },
+            {
+              "token": " empty",
+              "logprob": -0.08684408664703369
+            },
+            {
+              "token": " box",
+              "logprob": -0.0648689940571785
+            },
+            {
+              "token": " was",
+              "logprob": -3.561772108078003
+            },
+            {
+              "token": " lying",
+              "logprob": -2.413332939147949
+            },
+            {
+              "token": " in",
+              "logprob": -0.28738781809806824
+            },
+            {
+              "token": " the",
+              "logprob": -0.046821229159832
+            },
+            {
+              "token": " dirt",
+              "logprob": -0.05647427216172218
+            },
+            {
+              "token": ".",
+              "logprob": -0.28212282061576843
+            },
+            {
+              "token": " B",
+              "logprob": -3.6778616905212402
+            },
+            {
+              "token": ":",
+              "logprob": -0.032333653420209885
+            },
+            {
+              "token": " Leo",
+              "logprob": -1.2655019760131836
+            },
+            {
+              "token": " found",
+              "logprob": -0.41465023159980774
+            },
+            {
+              "token": " an",
+              "logprob": -0.24407833814620972
+            },
+            {
+              "token": " empty",
+              "logprob": -0.013308032415807247
+            },
+            {
+              "token": " box",
+              "logprob": -0.0055879103019833565
+            },
+            {
+              "token": " lying",
+              "logprob": -0.84653639793396
+            },
+            {
+              "token": " in",
+              "logprob": -0.022901684045791626
+            },
+            {
+              "token": " the",
+              "logprob": -0.009613527916371822
+            },
+            {
+              "token": " dirt",
+              "logprob": -0.007149706594645977
+            },
+            {
+              "token": ".",
+              "logprob": -0.0795556977391243
+            },
+            {
+              "token": " C",
+              "logprob": -0.5588083267211914
+            },
+            {
+              "token": ":",
+              "logprob": -0.0183772761374712
+            },
+            {
+              "token": " Maybe",
+              "logprob": -2.3118672370910645
+            },
+            {
+              "token": " it",
+              "logprob": -0.03581616282463074
+            },
+            {
+              "token": "’s",
+              "logprob": -0.12793342769145966
+            },
+            {
+              "token": " a",
+              "logprob": -0.004263478331267834
+            },
+            {
+              "token": " secret",
+              "logprob": -0.006948710884898901
+            },
+            {
+              "token": " box",
+              "logprob": -0.001850560656748712
+            },
+            {
+              "token": "!",
+              "logprob": -0.3818473517894745
+            },
+            {
+              "token": " I",
+              "logprob": -1.5332653522491455
+            },
+            {
+              "token": " said",
+              "logprob": -0.16782741248607635
+            },
+            {
+              "token": " excited",
+              "logprob": -0.03749948740005493
+            },
+            {
+              "token": "ly",
+              "logprob": -0.011732387356460094
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.505848407745361
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A box was full of their imagination.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.643609642982483
+            },
+            {
+              "token": " box",
+              "logprob": -3.355767011642456
+            },
+            {
+              "token": " was",
+              "logprob": -3.5506880283355713
+            },
+            {
+              "token": " full",
+              "logprob": -2.0847506523132324
+            },
+            {
+              "token": " of",
+              "logprob": -0.077866330742836
+            },
+            {
+              "token": " their",
+              "logprob": -2.168200731277466
+            },
+            {
+              "token": " imagination",
+              "logprob": -0.13835343718528748
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.591960906982422
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "There was a rock, and a toy in there.",
+          "token_data": [
+            {
+              "token": " There",
+              "logprob": -3.9326415061950684
+            },
+            {
+              "token": " was",
+              "logprob": -0.24784064292907715
+            },
+            {
+              "token": " a",
+              "logprob": -2.2095768451690674
+            },
+            {
+              "token": " rock",
+              "logprob": -0.8235036730766296
+            },
+            {
+              "token": ",",
+              "logprob": -3.993570566177368
+            },
+            {
+              "token": " and",
+              "logprob": -1.1749050617218018
+            },
+            {
+              "token": " a",
+              "logprob": -2.586329698562622
+            },
+            {
+              "token": " toy",
+              "logprob": -4.617220878601074
+            },
+            {
+              "token": " in",
+              "logprob": -2.4857749938964844
+            },
+            {
+              "token": " there",
+              "logprob": -2.028233766555786
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.9327187538146973
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "a magical gem.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.824389934539795
+            },
+            {
+              "token": " magical",
+              "logprob": -2.471376419067383
+            },
+            {
+              "token": " gem",
+              "logprob": -0.11935684084892273
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.836477518081665
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What was inside the box Mia found?",
+      "character": "Mia",
+      "story": "Leo and Mia were best friends who loved to explore. One sunny day, they decided to search for treasures in their backyard. Mia dug near the big oak tree while Leo checked behind the old shed. Leo found an empty box lying in the dirt. He brushed off the dust and peeked inside, but there was nothing there. \"Maybe it’s a secret box!\" he said excitedly. Mia laughed and kept digging. She found a shiny rock and showed it to Leo. He put the rock in the box, and they pretended it was a magical gem. They imagined the box could fly or turn invisible. Later, they sat under the tree and made up stories about the box’s adventures. The empty box wasn’t so empty anymore because it was full of their imagination. As the sun set, Leo and Mia promised to keep searching for more treasures tomorrow. They knew the best part was having fun together, no matter what they found.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Nothing.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -2.225574254989624
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.9419686794281006
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "shiny rock",
+          "token_data": [
+            {
+              "token": " shiny",
+              "logprob": -3.9546890258789062
+            },
+            {
+              "token": " rock",
+              "logprob": -0.11581813544034958
+            },
+            {
+              "token": " \n",
+              "logprob": -3.1619012355804443
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "It was an empty box.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.062715530395508
+            },
+            {
+              "token": " was",
+              "logprob": -0.3257615864276886
+            },
+            {
+              "token": " an",
+              "logprob": -2.7633936405181885
+            },
+            {
+              "token": " empty",
+              "logprob": -0.1628420650959015
+            },
+            {
+              "token": " box",
+              "logprob": -0.15233224630355835
+            },
+            {
+              "token": ".",
+              "logprob": -0.7447505593299866
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.8744348287582397
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Nothing.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -2.179165840148926
+            },
+            {
+              "token": ".",
+              "logprob": -0.7320648431777954
+            },
+            {
+              "token": " \n",
+              "logprob": -1.9664801359176636
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "She found a shiny rock and put it into the box. The empty box wasn't so empty anymore.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -3.8393869400024414
+            },
+            {
+              "token": " found",
+              "logprob": -0.11635468155145645
+            },
+            {
+              "token": " a",
+              "logprob": -0.07406020164489746
+            },
+            {
+              "token": " shiny",
+              "logprob": -0.30109065771102905
+            },
+            {
+              "token": " rock",
+              "logprob": -0.043167416006326675
+            },
+            {
+              "token": " and",
+              "logprob": -2.507509469985962
+            },
+            {
+              "token": " put",
+              "logprob": -3.0980215072631836
+            },
+            {
+              "token": " it",
+              "logprob": -0.07931038737297058
+            },
+            {
+              "token": " into",
+              "logprob": -3.02540922164917
+            },
+            {
+              "token": " the",
+              "logprob": -0.1590747982263565
+            },
+            {
+              "token": " box",
+              "logprob": -0.06634251773357391
+            },
+            {
+              "token": ".",
+              "logprob": -0.40326306223869324
+            },
+            {
+              "token": " The",
+              "logprob": -3.8226451873779297
+            },
+            {
+              "token": " empty",
+              "logprob": -2.5268421173095703
+            },
+            {
+              "token": " box",
+              "logprob": -0.008804075419902802
+            },
+            {
+              "token": " wasn",
+              "logprob": -0.18749013543128967
+            },
+            {
+              "token": "'t",
+              "logprob": -0.6701905727386475
+            },
+            {
+              "token": " so",
+              "logprob": -0.18083436787128448
+            },
+            {
+              "token": " empty",
+              "logprob": -0.005097013898193836
+            },
+            {
+              "token": " anymore",
+              "logprob": -0.22664664685726166
+            },
+            {
+              "token": ".",
+              "logprob": -2.065765142440796
+            },
+            {
+              "token": " \n",
+              "logprob": -2.2642345428466797
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The shiny rock.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.1996326446533203
+            },
+            {
+              "token": " shiny",
+              "logprob": -3.6370606422424316
+            },
+            {
+              "token": " rock",
+              "logprob": -0.05857863277196884
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.4957823753356934
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Nothing, because it was an empty box.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -2.179165840148926
+            },
+            {
+              "token": ",",
+              "logprob": -2.7712321281433105
+            },
+            {
+              "token": " because",
+              "logprob": -3.3245010375976562
+            },
+            {
+              "token": " it",
+              "logprob": -1.5923914909362793
+            },
+            {
+              "token": " was",
+              "logprob": -0.27297142148017883
+            },
+            {
+              "token": " an",
+              "logprob": -2.0639195442199707
+            },
+            {
+              "token": " empty",
+              "logprob": -0.19986803829669952
+            },
+            {
+              "token": " box",
+              "logprob": -0.0882677212357521
+            },
+            {
+              "token": ".",
+              "logprob": -0.35657936334609985
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.94935142993927
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Mia found a shiny rock in the dirt. They put it in a box for fun and pretended it was magic. Later, Leo and Mia made up stories about what might have happened.",
+          "token_data": [
+            {
+              "token": " Mia",
+              "logprob": -3.6473684310913086
+            },
+            {
+              "token": " found",
+              "logprob": -0.23795142769813538
+            },
+            {
+              "token": " a",
+              "logprob": -0.11039172857999802
+            },
+            {
+              "token": " shiny",
+              "logprob": -0.3896418511867523
+            },
+            {
+              "token": " rock",
+              "logprob": -0.04075775295495987
+            },
+            {
+              "token": " in",
+              "logprob": -2.2721505165100098
+            },
+            {
+              "token": " the",
+              "logprob": -0.44205230474472046
+            },
+            {
+              "token": " dirt",
+              "logprob": -0.9154924750328064
+            },
+            {
+              "token": ".",
+              "logprob": -0.368793785572052
+            },
+            {
+              "token": " They",
+              "logprob": -3.9744722843170166
+            },
+            {
+              "token": " put",
+              "logprob": -1.358393907546997
+            },
+            {
+              "token": " it",
+              "logprob": -1.0259017944335938
+            },
+            {
+              "token": " in",
+              "logprob": -0.07758474349975586
+            },
+            {
+              "token": " a",
+              "logprob": -2.4822442531585693
+            },
+            {
+              "token": " box",
+              "logprob": -0.18546269834041595
+            },
+            {
+              "token": " for",
+              "logprob": -3.9128470420837402
+            },
+            {
+              "token": " fun",
+              "logprob": -1.7380712032318115
+            },
+            {
+              "token": " and",
+              "logprob": -2.090420961380005
+            },
+            {
+              "token": " pretended",
+              "logprob": -1.1508069038391113
+            },
+            {
+              "token": " it",
+              "logprob": -0.2243129312992096
+            },
+            {
+              "token": " was",
+              "logprob": -0.05169607698917389
+            },
+            {
+              "token": " magic",
+              "logprob": -3.610872507095337
+            },
+            {
+              "token": ".",
+              "logprob": -0.4614293575286865
+            },
+            {
+              "token": " Later",
+              "logprob": -3.4015023708343506
+            },
+            {
+              "token": ",",
+              "logprob": -0.1995239108800888
+            },
+            {
+              "token": " Leo",
+              "logprob": -2.854504108428955
+            },
+            {
+              "token": " and",
+              "logprob": -0.20851567387580872
+            },
+            {
+              "token": " Mia",
+              "logprob": -0.004625692032277584
+            },
+            {
+              "token": " made",
+              "logprob": -2.0542831420898438
+            },
+            {
+              "token": " up",
+              "logprob": -0.08957194536924362
+            },
+            {
+              "token": " stories",
+              "logprob": -0.14068447053432465
+            },
+            {
+              "token": " about",
+              "logprob": -0.3298129737377167
+            },
+            {
+              "token": " what",
+              "logprob": -3.185532569885254
+            },
+            {
+              "token": " might",
+              "logprob": -3.8767147064208984
+            },
+            {
+              "token": " have",
+              "logprob": -0.7565888166427612
+            },
+            {
+              "token": " happened",
+              "logprob": -0.4108889400959015
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.9343838691711426
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "She found a shiny rock.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.028517723083496
+            },
+            {
+              "token": " She",
+              "logprob": -4.111874103546143
+            },
+            {
+              "token": " found",
+              "logprob": -0.1607459932565689
+            },
+            {
+              "token": " a",
+              "logprob": -0.07913989573717117
+            },
+            {
+              "token": " shiny",
+              "logprob": -0.21537716686725616
+            },
+            {
+              "token": " rock",
+              "logprob": -0.04221876338124275
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.979830026626587
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.034580230712891
+            },
+            {
+              "token": ":",
+              "logprob": -0.13671289384365082
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

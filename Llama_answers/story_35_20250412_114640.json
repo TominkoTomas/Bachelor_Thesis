@@ -1,0 +1,431 @@
+{
+  "story": "Sophia and Grace were best friends. They loved to play together after school. One day, they were in Sophia’s kitchen making snacks. Sophia was getting a glass cup to pour some juice. She was not careful. Sophia dropped a glass cup. It broke into many pieces on the floor. Grace gasped but did not say anything. Sophia sighed and said, “I’ll clean it up.” She got a broom and swept the pieces away. Grace reminded her to be careful with the sharp glass. After cleaning, they went back to making snacks. They laughed and talked about their day. Grace told a funny story about her dog. Sophia giggled and almost spilled her juice. They promised to be more careful next time. The girls enjoyed their time together, even with the little accident. They finished their snacks and went outside to play. The sun was shining, and they had a great day.",
+  "characters": [
+    {
+      "question": "What item did Sophia drop?",
+      "character": "Sophia",
+      "story": "Sophia and Grace were best friends. They loved to play together after school. One day, they were in Sophia’s kitchen making snacks. Sophia was getting a glass cup to pour some juice. She was not careful. Sophia dropped a glass cup. It broke into many pieces on the floor. Grace gasped but did not say anything. Sophia sighed and said, “I’ll clean it up.” She got a broom and swept the pieces away. Grace reminded her to be careful with the sharp glass. After cleaning, they went back to making snacks. They laughed and talked about their day. Grace told a funny story about her dog. Sophia giggled and almost spilled her juice. They promised to be more careful next time. The girls enjoyed their time together, even with the little accident. They finished their snacks and went outside to play. The sun was shining, and they had a great day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Nothing.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -4.154903888702393
+            },
+            {
+              "token": ".",
+              "logprob": -0.5912743210792542
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.9735175371170044
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "glass.",
+          "token_data": [
+            {
+              "token": " glass",
+              "logprob": -2.459420919418335
+            },
+            {
+              "token": ".",
+              "logprob": -3.19748854637146
+            },
+            {
+              "token": " \n",
+              "logprob": -1.4159564971923828
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "a glass cup",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.0627715587615967
+            },
+            {
+              "token": " glass",
+              "logprob": -0.19163207709789276
+            },
+            {
+              "token": " cup",
+              "logprob": -0.04169361665844917
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.045815944671631
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The glass cup.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.0016353130340576
+            },
+            {
+              "token": " glass",
+              "logprob": -0.47198593616485596
+            },
+            {
+              "token": " cup",
+              "logprob": -0.1417883038520813
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.8055167198181152
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "glass cup",
+          "token_data": [
+            {
+              "token": " glass",
+              "logprob": -2.459420919418335
+            },
+            {
+              "token": " cup",
+              "logprob": -0.31534937024116516
+            },
+            {
+              "token": " Q",
+              "logprob": -1.932268738746643
+            },
+            {
+              "token": ":",
+              "logprob": -0.011999563314020634
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "a glass cup.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.0627715587615967
+            },
+            {
+              "token": " glass",
+              "logprob": -0.19163207709789276
+            },
+            {
+              "token": " cup",
+              "logprob": -0.04169361665844917
+            },
+            {
+              "token": ".",
+              "logprob": -1.1104837656021118
+            },
+            {
+              "token": " \n",
+              "logprob": -1.4207971096038818
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "cup.",
+          "token_data": [
+            {
+              "token": " cup",
+              "logprob": -3.8040778636932373
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.552339792251587
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Glass.",
+          "token_data": [
+            {
+              "token": " Glass",
+              "logprob": -2.3171603679656982
+            },
+            {
+              "token": ".",
+              "logprob": -2.5896294116973877
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.986148476600647
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "A: Glass",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.220109939575195
+            },
+            {
+              "token": " A",
+              "logprob": -2.3722662925720215
+            },
+            {
+              "token": ":",
+              "logprob": -1.9836398363113403
+            },
+            {
+              "token": " Glass",
+              "logprob": -1.9002950191497803
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.783540725708008
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Cup",
+          "token_data": [
+            {
+              "token": " Cup",
+              "logprob": -4.193787574768066
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.157710552215576
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What item did Grace drop?",
+      "character": "Grace",
+      "story": "Sophia and Grace were best friends. They loved to play together after school. One day, they were in Sophia’s kitchen making snacks. Sophia was getting a glass cup to pour some juice. She was not careful. Sophia dropped a glass cup. It broke into many pieces on the floor. Grace gasped but did not say anything. Sophia sighed and said, “I’ll clean it up.” She got a broom and swept the pieces away. Grace reminded her to be careful with the sharp glass. After cleaning, they went back to making snacks. They laughed and talked about their day. Grace told a funny story about her dog. Sophia giggled and almost spilled her juice. They promised to be more careful next time. The girls enjoyed their time together, even with the little accident. They finished their snacks and went outside to play. The sun was shining, and they had a great day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Glass.",
+          "token_data": [
+            {
+              "token": " Glass",
+              "logprob": -2.6989314556121826
+            },
+            {
+              "token": ".",
+              "logprob": -2.3679604530334473
+            },
+            {
+              "token": " Q",
+              "logprob": -1.170732021331787
+            },
+            {
+              "token": ":",
+              "logprob": -0.01315992046147585
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "0.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.483334064483643
+            },
+            {
+              "token": "0",
+              "logprob": -3.9458508491516113
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -5.127329349517822
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Answer using one whole sentance.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.1198039054870605
+            },
+            {
+              "token": " using",
+              "logprob": -0.2644495666027069
+            },
+            {
+              "token": " one",
+              "logprob": -0.1541798710823059
+            },
+            {
+              "token": " whole",
+              "logprob": -0.0821303203701973
+            },
+            {
+              "token": " sent",
+              "logprob": -1.8318827152252197
+            },
+            {
+              "token": "ance",
+              "logprob": -0.3492451310157776
+            },
+            {
+              "token": ".",
+              "logprob": -0.17246372997760773
+            },
+            {
+              "token": " \n\n",
+              "logprob": -0.8424656391143799
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Glass cup",
+          "token_data": [
+            {
+              "token": " Glass",
+              "logprob": -2.6809964179992676
+            },
+            {
+              "token": " cup",
+              "logprob": -0.866886556148529
+            },
+            {
+              "token": " \n",
+              "logprob": -2.6135306358337402
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.7303032875061035
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "glass",
+          "token_data": [
+            {
+              "token": " glass",
+              "logprob": -3.1323132514953613
+            },
+            {
+              "token": "\n",
+              "logprob": -3.3267087936401367
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The glass cup.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.7687277793884277
+            },
+            {
+              "token": " glass",
+              "logprob": -0.7690949440002441
+            },
+            {
+              "token": " cup",
+              "logprob": -0.412076473236084
+            },
+            {
+              "token": ".",
+              "logprob": -0.6956952214241028
+            },
+            {
+              "token": " \n",
+              "logprob": -1.5995396375656128
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Nothing.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -3.513427257537842
+            },
+            {
+              "token": ".",
+              "logprob": -0.6035676002502441
+            },
+            {
+              "token": " Q",
+              "logprob": -1.7895156145095825
+            },
+            {
+              "token": ":",
+              "logprob": -0.018239513039588928
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n\n",
+              "logprob": -4.714054584503174
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "She dropped her broken glasses.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -4.749526500701904
+            },
+            {
+              "token": " dropped",
+              "logprob": -0.07356082648038864
+            },
+            {
+              "token": " her",
+              "logprob": -2.657047986984253
+            },
+            {
+              "token": " broken",
+              "logprob": -3.0853967666625977
+            },
+            {
+              "token": " glasses",
+              "logprob": -2.272686004638672
+            },
+            {
+              "token": ".",
+              "logprob": -0.4878719449043274
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.6937861442565918
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

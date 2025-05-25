@@ -1,0 +1,2147 @@
+{
+  "story": "Sophia and Liam were friends who loved exploring. One day, they went to an old library. Sophia found a quiet room in the back. It had a big red chair and a dusty lamp. She called Liam to see it, but he was busy looking at a book about dinosaurs. Sophia sat in the chair and pretended to be a queen. Liam finally came over and laughed. \"You look funny,\" he said. Sophia smiled and said, \"This is my throne room!\" Liam shook his head and went back to his book. Sophia stayed in the quiet room, imagining adventures. She found an old map under the chair. It showed a treasure hidden in the library. Excited, she ran to tell Liam. Together, they followed the map. They searched behind shelves and under tables. In the end, the treasure was just a box of old cookies. Liam ate one and made a face. \"Yuck!\" he said. Sophia laughed but kept the map as a memory. They left the library, happy with their mini adventure.",
+  "characters": [
+    {
+      "question": "What was the noise level in the room Sophia found?",
+      "character": "Sophia",
+      "story": "Sophia and Liam were friends who loved exploring. One day, they went to an old library. Sophia found a quiet room in the back. It had a big red chair and a dusty lamp. She called Liam to see it, but he was busy looking at a book about dinosaurs. Sophia sat in the chair and pretended to be a queen. Liam finally came over and laughed. \"You look funny,\" he said. Sophia smiled and said, \"This is my throne room!\" Liam shook his head and went back to his book. Sophia stayed in the quiet room, imagining adventures. She found an old map under the chair. It showed a treasure hidden in the library. Excited, she ran to tell Liam. Together, they followed the map. They searched behind shelves and under tables. In the end, the treasure was just a box of old cookies. Liam ate one and made a face. \"Yuck!\" he said. Sophia laughed but kept the map as a memory. They left the library, happy with their mini adventure.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The room was noisy because they had to leave it early. I did my homework at school today because the teachers told me that we should work hard in life.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.412266492843628
+            },
+            {
+              "token": " room",
+              "logprob": -1.3506155014038086
+            },
+            {
+              "token": " was",
+              "logprob": -0.6404427886009216
+            },
+            {
+              "token": " noisy",
+              "logprob": -2.9585561752319336
+            },
+            {
+              "token": " because",
+              "logprob": -1.5045323371887207
+            },
+            {
+              "token": " they",
+              "logprob": -3.6091957092285156
+            },
+            {
+              "token": " had",
+              "logprob": -1.5091443061828613
+            },
+            {
+              "token": " to",
+              "logprob": -3.1595139503479004
+            },
+            {
+              "token": " leave",
+              "logprob": -4.9440460205078125
+            },
+            {
+              "token": " it",
+              "logprob": -2.053165912628174
+            },
+            {
+              "token": " early",
+              "logprob": -3.8466272354125977
+            },
+            {
+              "token": ".",
+              "logprob": -0.8757432103157043
+            },
+            {
+              "token": " I",
+              "logprob": -4.603705883026123
+            },
+            {
+              "token": " did",
+              "logprob": -5.151762008666992
+            },
+            {
+              "token": " my",
+              "logprob": -2.79119873046875
+            },
+            {
+              "token": " homework",
+              "logprob": -2.7656664848327637
+            },
+            {
+              "token": " at",
+              "logprob": -4.183396339416504
+            },
+            {
+              "token": " school",
+              "logprob": -2.8907980918884277
+            },
+            {
+              "token": " today",
+              "logprob": -4.589858531951904
+            },
+            {
+              "token": " because",
+              "logprob": -2.5116758346557617
+            },
+            {
+              "token": " the",
+              "logprob": -3.200178384780884
+            },
+            {
+              "token": " teachers",
+              "logprob": -4.196866512298584
+            },
+            {
+              "token": " told",
+              "logprob": -3.9598731994628906
+            },
+            {
+              "token": " me",
+              "logprob": -0.4049294590950012
+            },
+            {
+              "token": " that",
+              "logprob": -1.9020706415176392
+            },
+            {
+              "token": " we",
+              "logprob": -2.31962251663208
+            },
+            {
+              "token": " should",
+              "logprob": -2.291062831878662
+            },
+            {
+              "token": " work",
+              "logprob": -3.6213276386260986
+            },
+            {
+              "token": " hard",
+              "logprob": -2.5137429237365723
+            },
+            {
+              "token": " in",
+              "logprob": -2.738217830657959
+            },
+            {
+              "token": " life",
+              "logprob": -4.688670635223389
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.9359347820281982
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "It was pretty low! What do you think she did in her quiet room? A: She had a nice, relaxing time! What do you think about the noise level and hiding spots? A: It's better than 40% of your grade to know the correct noise level. Think carefully to the next question!",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.6659061908721924
+            },
+            {
+              "token": " was",
+              "logprob": -0.3506799042224884
+            },
+            {
+              "token": " pretty",
+              "logprob": -3.342041254043579
+            },
+            {
+              "token": " low",
+              "logprob": -1.7773411273956299
+            },
+            {
+              "token": "!",
+              "logprob": -3.452359199523926
+            },
+            {
+              "token": " What",
+              "logprob": -4.637135982513428
+            },
+            {
+              "token": " do",
+              "logprob": -2.169048309326172
+            },
+            {
+              "token": " you",
+              "logprob": -0.046913597732782364
+            },
+            {
+              "token": " think",
+              "logprob": -0.21501323580741882
+            },
+            {
+              "token": " she",
+              "logprob": -2.597900152206421
+            },
+            {
+              "token": " did",
+              "logprob": -2.9871551990509033
+            },
+            {
+              "token": " in",
+              "logprob": -2.248716354370117
+            },
+            {
+              "token": " her",
+              "logprob": -3.003056764602661
+            },
+            {
+              "token": " quiet",
+              "logprob": -2.9336647987365723
+            },
+            {
+              "token": " room",
+              "logprob": -0.04519922658801079
+            },
+            {
+              "token": "?",
+              "logprob": -0.16119343042373657
+            },
+            {
+              "token": " A",
+              "logprob": -0.32590559124946594
+            },
+            {
+              "token": ":",
+              "logprob": -0.009018284268677235
+            },
+            {
+              "token": " She",
+              "logprob": -0.3097167909145355
+            },
+            {
+              "token": " had",
+              "logprob": -4.162199020385742
+            },
+            {
+              "token": " a",
+              "logprob": -0.7652860283851624
+            },
+            {
+              "token": " nice",
+              "logprob": -4.024576187133789
+            },
+            {
+              "token": ",",
+              "logprob": -2.699148178100586
+            },
+            {
+              "token": " relaxing",
+              "logprob": -3.3095149993896484
+            },
+            {
+              "token": " time",
+              "logprob": -0.511505126953125
+            },
+            {
+              "token": "!",
+              "logprob": -2.025477647781372
+            },
+            {
+              "token": " What",
+              "logprob": -1.6229455471038818
+            },
+            {
+              "token": " do",
+              "logprob": -1.2840701341629028
+            },
+            {
+              "token": " you",
+              "logprob": -0.03688235953450203
+            },
+            {
+              "token": " think",
+              "logprob": -0.04238845407962799
+            },
+            {
+              "token": " about",
+              "logprob": -3.126859664916992
+            },
+            {
+              "token": " the",
+              "logprob": -1.0052611827850342
+            },
+            {
+              "token": " noise",
+              "logprob": -1.8747775554656982
+            },
+            {
+              "token": " level",
+              "logprob": -0.24541787803173065
+            },
+            {
+              "token": " and",
+              "logprob": -3.7701563835144043
+            },
+            {
+              "token": " hiding",
+              "logprob": -4.492763996124268
+            },
+            {
+              "token": " spots",
+              "logprob": -4.171080589294434
+            },
+            {
+              "token": "?",
+              "logprob": -1.0178536176681519
+            },
+            {
+              "token": " A",
+              "logprob": -0.08715999871492386
+            },
+            {
+              "token": ":",
+              "logprob": -0.005160345695912838
+            },
+            {
+              "token": " It",
+              "logprob": -1.6137913465499878
+            },
+            {
+              "token": "'s",
+              "logprob": -1.874576210975647
+            },
+            {
+              "token": " better",
+              "logprob": -3.6735892295837402
+            },
+            {
+              "token": " than",
+              "logprob": -3.1505136489868164
+            },
+            {
+              "token": " ",
+              "logprob": -5.0598955154418945
+            },
+            {
+              "token": "40",
+              "logprob": -4.175604820251465
+            },
+            {
+              "token": "%",
+              "logprob": -2.6464881896972656
+            },
+            {
+              "token": " of",
+              "logprob": -1.1354339122772217
+            },
+            {
+              "token": " your",
+              "logprob": -4.090816974639893
+            },
+            {
+              "token": " grade",
+              "logprob": -4.636035919189453
+            },
+            {
+              "token": " to",
+              "logprob": -3.6339845657348633
+            },
+            {
+              "token": " know",
+              "logprob": -4.3404741287231445
+            },
+            {
+              "token": " the",
+              "logprob": -1.5269315242767334
+            },
+            {
+              "token": " correct",
+              "logprob": -3.0865015983581543
+            },
+            {
+              "token": " noise",
+              "logprob": -1.2239471673965454
+            },
+            {
+              "token": " level",
+              "logprob": -0.17054004967212677
+            },
+            {
+              "token": ".",
+              "logprob": -1.40865957736969
+            },
+            {
+              "token": " Think",
+              "logprob": -5.299919605255127
+            },
+            {
+              "token": " carefully",
+              "logprob": -3.1739227771759033
+            },
+            {
+              "token": " to",
+              "logprob": -3.3555502891540527
+            },
+            {
+              "token": " the",
+              "logprob": -2.117027759552002
+            },
+            {
+              "token": " next",
+              "logprob": -2.087520122528076
+            },
+            {
+              "token": " question",
+              "logprob": -1.005509614944458
+            },
+            {
+              "token": "!",
+              "logprob": -2.6311888694763184
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -4.188681602478027
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "It was a whisper.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.6659061908721924
+            },
+            {
+              "token": " was",
+              "logprob": -0.3506799042224884
+            },
+            {
+              "token": " a",
+              "logprob": -1.483588457107544
+            },
+            {
+              "token": " whisper",
+              "logprob": -4.661334991455078
+            },
+            {
+              "token": ".",
+              "logprob": -0.7453111410140991
+            },
+            {
+              "token": " ",
+              "logprob": -2.6326546669006348
+            },
+            {
+              "token": " Q",
+              "logprob": -1.5397676229476929
+            },
+            {
+              "token": ":",
+              "logprob": -0.030131855979561806
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The room was quite, except for some rustling noises. I'm not sure how to describe that rustling but it didn't really bother her. That noise wouldn't ever really be something that you'd want to call the noise of a loudness. Or maybe something we should talk about would be best for your mom is like best friend with no name but i mean just don't even think about what we're talking about what you're thinking is and then there's like a whole lot of little ones like my dog's so noisy but I mean she's in a little room by herself and her just talking to us really makes no noise and we talk to you really make the other little people like that didn't they didn't know why did it don't it's hard to say and that was a big one.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.40120530128479
+            },
+            {
+              "token": " room",
+              "logprob": -1.3315091133117676
+            },
+            {
+              "token": " was",
+              "logprob": -0.6364417672157288
+            },
+            {
+              "token": " quite",
+              "logprob": -3.6534054279327393
+            },
+            {
+              "token": ",",
+              "logprob": -2.6034207344055176
+            },
+            {
+              "token": " except",
+              "logprob": -3.919405460357666
+            },
+            {
+              "token": " for",
+              "logprob": -0.22431884706020355
+            },
+            {
+              "token": " some",
+              "logprob": -2.8563711643218994
+            },
+            {
+              "token": " rust",
+              "logprob": -2.5171561241149902
+            },
+            {
+              "token": "ling",
+              "logprob": -0.0668821930885315
+            },
+            {
+              "token": " noises",
+              "logprob": -2.275219440460205
+            },
+            {
+              "token": ".",
+              "logprob": -0.6101486682891846
+            },
+            {
+              "token": " I",
+              "logprob": -4.154688835144043
+            },
+            {
+              "token": "'m",
+              "logprob": -3.4032702445983887
+            },
+            {
+              "token": " not",
+              "logprob": -1.9687304496765137
+            },
+            {
+              "token": " sure",
+              "logprob": -0.18274599313735962
+            },
+            {
+              "token": " how",
+              "logprob": -3.4759178161621094
+            },
+            {
+              "token": " to",
+              "logprob": -2.248485565185547
+            },
+            {
+              "token": " describe",
+              "logprob": -0.9557243585586548
+            },
+            {
+              "token": " that",
+              "logprob": -2.3325767517089844
+            },
+            {
+              "token": " rust",
+              "logprob": -2.713130474090576
+            },
+            {
+              "token": "ling",
+              "logprob": -0.17460811138153076
+            },
+            {
+              "token": " but",
+              "logprob": -4.236827850341797
+            },
+            {
+              "token": " it",
+              "logprob": -1.2754433155059814
+            },
+            {
+              "token": " didn",
+              "logprob": -3.9582109451293945
+            },
+            {
+              "token": "'t",
+              "logprob": -0.005129866302013397
+            },
+            {
+              "token": " really",
+              "logprob": -3.6468632221221924
+            },
+            {
+              "token": " bother",
+              "logprob": -0.8933320045471191
+            },
+            {
+              "token": " her",
+              "logprob": -2.182285785675049
+            },
+            {
+              "token": ".",
+              "logprob": -0.3915547728538513
+            },
+            {
+              "token": " That",
+              "logprob": -4.925482273101807
+            },
+            {
+              "token": " noise",
+              "logprob": -3.6566638946533203
+            },
+            {
+              "token": " wouldn",
+              "logprob": -4.886457920074463
+            },
+            {
+              "token": "'t",
+              "logprob": -0.003640454960986972
+            },
+            {
+              "token": " ever",
+              "logprob": -4.6879472732543945
+            },
+            {
+              "token": " really",
+              "logprob": -2.7719192504882812
+            },
+            {
+              "token": " be",
+              "logprob": -2.1026880741119385
+            },
+            {
+              "token": " something",
+              "logprob": -3.5216002464294434
+            },
+            {
+              "token": " that",
+              "logprob": -1.6629233360290527
+            },
+            {
+              "token": " you",
+              "logprob": -1.9833368062973022
+            },
+            {
+              "token": "'d",
+              "logprob": -1.397106409072876
+            },
+            {
+              "token": " want",
+              "logprob": -1.3089981079101562
+            },
+            {
+              "token": " to",
+              "logprob": -0.13863667845726013
+            },
+            {
+              "token": " call",
+              "logprob": -5.206054210662842
+            },
+            {
+              "token": " the",
+              "logprob": -3.0692901611328125
+            },
+            {
+              "token": " noise",
+              "logprob": -1.4898654222488403
+            },
+            {
+              "token": " of",
+              "logprob": -2.508364677429199
+            },
+            {
+              "token": " a",
+              "logprob": -1.0921489000320435
+            },
+            {
+              "token": " loud",
+              "logprob": -4.366952419281006
+            },
+            {
+              "token": "ness",
+              "logprob": -3.902519702911377
+            },
+            {
+              "token": ".",
+              "logprob": -0.8894023895263672
+            },
+            {
+              "token": " Or",
+              "logprob": -4.469454288482666
+            },
+            {
+              "token": " maybe",
+              "logprob": -2.8682804107666016
+            },
+            {
+              "token": " something",
+              "logprob": -3.680447578430176
+            },
+            {
+              "token": " we",
+              "logprob": -5.4482197761535645
+            },
+            {
+              "token": " should",
+              "logprob": -3.9029488563537598
+            },
+            {
+              "token": " talk",
+              "logprob": -4.8777031898498535
+            },
+            {
+              "token": " about",
+              "logprob": -0.08563730865716934
+            },
+            {
+              "token": " would",
+              "logprob": -4.71148157119751
+            },
+            {
+              "token": " be",
+              "logprob": -0.2965773940086365
+            },
+            {
+              "token": " best",
+              "logprob": -5.366663932800293
+            },
+            {
+              "token": " for",
+              "logprob": -2.9019956588745117
+            },
+            {
+              "token": " your",
+              "logprob": -4.900402069091797
+            },
+            {
+              "token": " mom",
+              "logprob": -4.5813117027282715
+            },
+            {
+              "token": " is",
+              "logprob": -5.170125961303711
+            },
+            {
+              "token": " like",
+              "logprob": -5.266526222229004
+            },
+            {
+              "token": " best",
+              "logprob": -4.4228057861328125
+            },
+            {
+              "token": " friend",
+              "logprob": -3.4073755741119385
+            },
+            {
+              "token": " with",
+              "logprob": -5.112493515014648
+            },
+            {
+              "token": " no",
+              "logprob": -4.048028945922852
+            },
+            {
+              "token": " name",
+              "logprob": -4.977633953094482
+            },
+            {
+              "token": " but",
+              "logprob": -4.271923065185547
+            },
+            {
+              "token": " i",
+              "logprob": -5.049525260925293
+            },
+            {
+              "token": " mean",
+              "logprob": -3.0947999954223633
+            },
+            {
+              "token": " just",
+              "logprob": -4.44325065612793
+            },
+            {
+              "token": " don",
+              "logprob": -5.00942325592041
+            },
+            {
+              "token": "'t",
+              "logprob": -0.034605011343955994
+            },
+            {
+              "token": " even",
+              "logprob": -2.8803772926330566
+            },
+            {
+              "token": " think",
+              "logprob": -1.9714725017547607
+            },
+            {
+              "token": " about",
+              "logprob": -0.17597806453704834
+            },
+            {
+              "token": " what",
+              "logprob": -3.494795799255371
+            },
+            {
+              "token": " we",
+              "logprob": -2.803025245666504
+            },
+            {
+              "token": "'re",
+              "logprob": -1.3671667575836182
+            },
+            {
+              "token": " talking",
+              "logprob": -1.3388361930847168
+            },
+            {
+              "token": " about",
+              "logprob": -0.043084751814603806
+            },
+            {
+              "token": " what",
+              "logprob": -3.7207767963409424
+            },
+            {
+              "token": " you",
+              "logprob": -1.8465149402618408
+            },
+            {
+              "token": "'re",
+              "logprob": -0.6987667679786682
+            },
+            {
+              "token": " thinking",
+              "logprob": -1.2541685104370117
+            },
+            {
+              "token": " is",
+              "logprob": -3.630133628845215
+            },
+            {
+              "token": " and",
+              "logprob": -5.509153366088867
+            },
+            {
+              "token": " then",
+              "logprob": -2.9109766483306885
+            },
+            {
+              "token": " there",
+              "logprob": -4.404110908508301
+            },
+            {
+              "token": "'s",
+              "logprob": -0.6044312119483948
+            },
+            {
+              "token": " like",
+              "logprob": -2.7957024574279785
+            },
+            {
+              "token": " a",
+              "logprob": -1.335313320159912
+            },
+            {
+              "token": " whole",
+              "logprob": -3.102957010269165
+            },
+            {
+              "token": " lot",
+              "logprob": -1.6945477724075317
+            },
+            {
+              "token": " of",
+              "logprob": -0.14844125509262085
+            },
+            {
+              "token": " little",
+              "logprob": -4.803752899169922
+            },
+            {
+              "token": " ones",
+              "logprob": -4.406320571899414
+            },
+            {
+              "token": " like",
+              "logprob": -3.377880096435547
+            },
+            {
+              "token": " my",
+              "logprob": -5.405324459075928
+            },
+            {
+              "token": " dog",
+              "logprob": -4.789686679840088
+            },
+            {
+              "token": "'s",
+              "logprob": -2.5313642024993896
+            },
+            {
+              "token": " so",
+              "logprob": -4.739658355712891
+            },
+            {
+              "token": " noisy",
+              "logprob": -4.657185077667236
+            },
+            {
+              "token": " but",
+              "logprob": -2.866443634033203
+            },
+            {
+              "token": " I",
+              "logprob": -2.463070869445801
+            },
+            {
+              "token": " mean",
+              "logprob": -1.9865833520889282
+            },
+            {
+              "token": " she",
+              "logprob": -3.6591744422912598
+            },
+            {
+              "token": "'s",
+              "logprob": -0.6329565048217773
+            },
+            {
+              "token": " in",
+              "logprob": -5.2440571784973145
+            },
+            {
+              "token": " a",
+              "logprob": -1.4835588932037354
+            },
+            {
+              "token": " little",
+              "logprob": -2.895778179168701
+            },
+            {
+              "token": " room",
+              "logprob": -1.0293357372283936
+            },
+            {
+              "token": " by",
+              "logprob": -3.1561148166656494
+            },
+            {
+              "token": " herself",
+              "logprob": -0.3741512596607208
+            },
+            {
+              "token": " and",
+              "logprob": -1.1925756931304932
+            },
+            {
+              "token": " her",
+              "logprob": -4.571721076965332
+            },
+            {
+              "token": " just",
+              "logprob": -4.52407693862915
+            },
+            {
+              "token": " talking",
+              "logprob": -3.3021481037139893
+            },
+            {
+              "token": " to",
+              "logprob": -0.860980212688446
+            },
+            {
+              "token": " us",
+              "logprob": -4.543452739715576
+            },
+            {
+              "token": " really",
+              "logprob": -4.459814071655273
+            },
+            {
+              "token": " makes",
+              "logprob": -5.293261528015137
+            },
+            {
+              "token": " no",
+              "logprob": -3.270296573638916
+            },
+            {
+              "token": " noise",
+              "logprob": -2.078343629837036
+            },
+            {
+              "token": " and",
+              "logprob": -2.40460205078125
+            },
+            {
+              "token": " we",
+              "logprob": -3.030733108520508
+            },
+            {
+              "token": " talk",
+              "logprob": -4.248041152954102
+            },
+            {
+              "token": " to",
+              "logprob": -2.187617301940918
+            },
+            {
+              "token": " you",
+              "logprob": -2.368821620941162
+            },
+            {
+              "token": " really",
+              "logprob": -2.765995979309082
+            },
+            {
+              "token": " make",
+              "logprob": -2.3670873641967773
+            },
+            {
+              "token": " the",
+              "logprob": -4.067625522613525
+            },
+            {
+              "token": " other",
+              "logprob": -4.8319926261901855
+            },
+            {
+              "token": " little",
+              "logprob": -2.2624950408935547
+            },
+            {
+              "token": " people",
+              "logprob": -3.070511817932129
+            },
+            {
+              "token": " like",
+              "logprob": -3.064523935317993
+            },
+            {
+              "token": " that",
+              "logprob": -3.627131938934326
+            },
+            {
+              "token": " didn",
+              "logprob": -5.767606258392334
+            },
+            {
+              "token": "'t",
+              "logprob": -0.003560158656910062
+            },
+            {
+              "token": " they",
+              "logprob": -5.432892322540283
+            },
+            {
+              "token": " didn",
+              "logprob": -1.604461669921875
+            },
+            {
+              "token": "'t",
+              "logprob": -0.0019279002444818616
+            },
+            {
+              "token": " know",
+              "logprob": -3.614077568054199
+            },
+            {
+              "token": " why",
+              "logprob": -4.727065086364746
+            },
+            {
+              "token": " did",
+              "logprob": -4.982091426849365
+            },
+            {
+              "token": " it",
+              "logprob": -2.9249114990234375
+            },
+            {
+              "token": " don",
+              "logprob": -5.220327377319336
+            },
+            {
+              "token": "'t",
+              "logprob": -0.007709747180342674
+            },
+            {
+              "token": " it",
+              "logprob": -3.6837689876556396
+            },
+            {
+              "token": "'s",
+              "logprob": -2.748838424682617
+            },
+            {
+              "token": " hard",
+              "logprob": -4.859614849090576
+            },
+            {
+              "token": " to",
+              "logprob": -0.5581881999969482
+            },
+            {
+              "token": " say",
+              "logprob": -2.2890329360961914
+            },
+            {
+              "token": " and",
+              "logprob": -3.631477117538452
+            },
+            {
+              "token": " that",
+              "logprob": -3.299182415008545
+            },
+            {
+              "token": " was",
+              "logprob": -3.2197775840759277
+            },
+            {
+              "token": " a",
+              "logprob": -1.8079192638397217
+            },
+            {
+              "token": " big",
+              "logprob": -3.3779220581054688
+            },
+            {
+              "token": " one",
+              "logprob": -3.433980703353882
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.783229827880859
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "15-17",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -1.6763269901275635
+            },
+            {
+              "token": "15",
+              "logprob": -4.039096832275391
+            },
+            {
+              "token": "-",
+              "logprob": -3.7375290393829346
+            },
+            {
+              "token": "17",
+              "logprob": -3.0426430702209473
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.804582118988037
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A noise of 50 dB was recorded.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -4.306695938110352
+            },
+            {
+              "token": " noise",
+              "logprob": -2.8992385864257812
+            },
+            {
+              "token": " of",
+              "logprob": -3.059025526046753
+            },
+            {
+              "token": " ",
+              "logprob": -1.0894811153411865
+            },
+            {
+              "token": "50",
+              "logprob": -3.3489315509796143
+            },
+            {
+              "token": " dB",
+              "logprob": -2.6562280654907227
+            },
+            {
+              "token": " was",
+              "logprob": -1.8210530281066895
+            },
+            {
+              "token": " recorded",
+              "logprob": -3.5670924186706543
+            },
+            {
+              "token": ".",
+              "logprob": -1.1194435358047485
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.258411407470703
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "15 B: 10 C: 30",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -1.6763269901275635
+            },
+            {
+              "token": "15",
+              "logprob": -4.039096832275391
+            },
+            {
+              "token": " B",
+              "logprob": -4.217113494873047
+            },
+            {
+              "token": ":",
+              "logprob": -0.024330943822860718
+            },
+            {
+              "token": " ",
+              "logprob": -0.04354309290647507
+            },
+            {
+              "token": "10",
+              "logprob": -2.251704692840576
+            },
+            {
+              "token": " C",
+              "logprob": -0.07858883589506149
+            },
+            {
+              "token": ":",
+              "logprob": -0.008842714130878448
+            },
+            {
+              "token": " ",
+              "logprob": -0.051536671817302704
+            },
+            {
+              "token": "30",
+              "logprob": -2.7782607078552246
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.8691482543945312
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A quiet room",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -4.306695938110352
+            },
+            {
+              "token": " quiet",
+              "logprob": -4.275747299194336
+            },
+            {
+              "token": " room",
+              "logprob": -0.15814146399497986
+            },
+            {
+              "token": "\n",
+              "logprob": -4.000080585479736
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "A few decibels.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -4.306695938110352
+            },
+            {
+              "token": " few",
+              "logprob": -3.6222190856933594
+            },
+            {
+              "token": " dec",
+              "logprob": -1.7658560276031494
+            },
+            {
+              "token": "ib",
+              "logprob": -0.057446081191301346
+            },
+            {
+              "token": "els",
+              "logprob": -0.0010895751183852553
+            },
+            {
+              "token": ".",
+              "logprob": -0.8569215536117554
+            },
+            {
+              "token": " ",
+              "logprob": -2.948632001876831
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "There wasn’t any sound, she was just pretending to be a queen.",
+          "token_data": [
+            {
+              "token": " There",
+              "logprob": -4.449158668518066
+            },
+            {
+              "token": " wasn",
+              "logprob": -3.399351119995117
+            },
+            {
+              "token": "’t",
+              "logprob": -2.1514759063720703
+            },
+            {
+              "token": " any",
+              "logprob": -0.6086869835853577
+            },
+            {
+              "token": " sound",
+              "logprob": -3.015226364135742
+            },
+            {
+              "token": ",",
+              "logprob": -2.4403748512268066
+            },
+            {
+              "token": " she",
+              "logprob": -3.7524774074554443
+            },
+            {
+              "token": " was",
+              "logprob": -1.3332018852233887
+            },
+            {
+              "token": " just",
+              "logprob": -0.6028001308441162
+            },
+            {
+              "token": " pretending",
+              "logprob": -2.92128586769104
+            },
+            {
+              "token": " to",
+              "logprob": -0.4691416323184967
+            },
+            {
+              "token": " be",
+              "logprob": -0.03660554438829422
+            },
+            {
+              "token": " a",
+              "logprob": -0.08799614012241364
+            },
+            {
+              "token": " queen",
+              "logprob": -0.09765683859586716
+            },
+            {
+              "token": ".",
+              "logprob": -0.4137645959854126
+            },
+            {
+              "token": " Q",
+              "logprob": -1.4721850156784058
+            },
+            {
+              "token": ":",
+              "logprob": -0.023564407601952553
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What was the noise level in the room Liam found?",
+      "character": "Liam",
+      "story": "Sophia and Liam were friends who loved exploring. One day, they went to an old library. Sophia found a quiet room in the back. It had a big red chair and a dusty lamp. She called Liam to see it, but he was busy looking at a book about dinosaurs. Sophia sat in the chair and pretended to be a queen. Liam finally came over and laughed. \"You look funny,\" he said. Sophia smiled and said, \"This is my throne room!\" Liam shook his head and went back to his book. Sophia stayed in the quiet room, imagining adventures. She found an old map under the chair. It showed a treasure hidden in the library. Excited, she ran to tell Liam. Together, they followed the map. They searched behind shelves and under tables. In the end, the treasure was just a box of old cookies. Liam ate one and made a face. \"Yuck!\" he said. Sophia laughed but kept the map as a memory. They left the library, happy with their mini adventure.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "B, F or E",
+          "token_data": [
+            {
+              "token": " B",
+              "logprob": -4.413462162017822
+            },
+            {
+              "token": ",",
+              "logprob": -3.6151654720306396
+            },
+            {
+              "token": " F",
+              "logprob": -3.361597776412964
+            },
+            {
+              "token": " or",
+              "logprob": -3.9021730422973633
+            },
+            {
+              "token": " E",
+              "logprob": -2.8190999031066895
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.8793749809265137
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "\"Cooo\" was the sound. The red chair is called a throne in Spanish, as are red chairs in other countries. However, these rooms aren't necessarily the same because of how you describe it.  -",
+          "token_data": [
+            {
+              "token": " \"",
+              "logprob": -4.772873878479004
+            },
+            {
+              "token": "C",
+              "logprob": -4.630563735961914
+            },
+            {
+              "token": "ooo",
+              "logprob": -4.336727142333984
+            },
+            {
+              "token": "\"",
+              "logprob": -3.5597829818725586
+            },
+            {
+              "token": " was",
+              "logprob": -1.817495584487915
+            },
+            {
+              "token": " the",
+              "logprob": -0.4108477830886841
+            },
+            {
+              "token": " sound",
+              "logprob": -2.761727809906006
+            },
+            {
+              "token": ".",
+              "logprob": -1.9409732818603516
+            },
+            {
+              "token": " The",
+              "logprob": -3.2160353660583496
+            },
+            {
+              "token": " red",
+              "logprob": -3.7574257850646973
+            },
+            {
+              "token": " chair",
+              "logprob": -0.5357851386070251
+            },
+            {
+              "token": " is",
+              "logprob": -3.982696294784546
+            },
+            {
+              "token": " called",
+              "logprob": -3.5811638832092285
+            },
+            {
+              "token": " a",
+              "logprob": -1.1683801412582397
+            },
+            {
+              "token": " throne",
+              "logprob": -1.409183144569397
+            },
+            {
+              "token": " in",
+              "logprob": -3.5900187492370605
+            },
+            {
+              "token": " Spanish",
+              "logprob": -4.981319427490234
+            },
+            {
+              "token": ",",
+              "logprob": -1.3606817722320557
+            },
+            {
+              "token": " as",
+              "logprob": -3.7473206520080566
+            },
+            {
+              "token": " are",
+              "logprob": -2.652090549468994
+            },
+            {
+              "token": " red",
+              "logprob": -2.9554524421691895
+            },
+            {
+              "token": " chairs",
+              "logprob": -0.5538857579231262
+            },
+            {
+              "token": " in",
+              "logprob": -0.4481162428855896
+            },
+            {
+              "token": " other",
+              "logprob": -1.1130759716033936
+            },
+            {
+              "token": " countries",
+              "logprob": -0.9145203828811646
+            },
+            {
+              "token": ".",
+              "logprob": -0.21633589267730713
+            },
+            {
+              "token": " However",
+              "logprob": -3.7776520252227783
+            },
+            {
+              "token": ",",
+              "logprob": -0.024844467639923096
+            },
+            {
+              "token": " these",
+              "logprob": -3.7852096557617188
+            },
+            {
+              "token": " rooms",
+              "logprob": -5.0113372802734375
+            },
+            {
+              "token": " aren",
+              "logprob": -4.320960998535156
+            },
+            {
+              "token": "'t",
+              "logprob": -0.08355485647916794
+            },
+            {
+              "token": " necessarily",
+              "logprob": -4.4542059898376465
+            },
+            {
+              "token": " the",
+              "logprob": -1.5218952894210815
+            },
+            {
+              "token": " same",
+              "logprob": -0.13920801877975464
+            },
+            {
+              "token": " because",
+              "logprob": -5.164468288421631
+            },
+            {
+              "token": " of",
+              "logprob": -2.4407331943511963
+            },
+            {
+              "token": " how",
+              "logprob": -3.3140339851379395
+            },
+            {
+              "token": " you",
+              "logprob": -2.6255531311035156
+            },
+            {
+              "token": " describe",
+              "logprob": -4.407289505004883
+            },
+            {
+              "token": " it",
+              "logprob": -2.4588804244995117
+            },
+            {
+              "token": ".",
+              "logprob": -0.35728487372398376
+            },
+            {
+              "token": " ",
+              "logprob": -4.008111000061035
+            },
+            {
+              "token": " -",
+              "logprob": -3.717038154602051
+            },
+            {
+              "token": " \n",
+              "logprob": -3.9655067920684814
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "0, which means no sound (this was a whisper)",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -1.7865045070648193
+            },
+            {
+              "token": "0",
+              "logprob": -1.8790862560272217
+            },
+            {
+              "token": ",",
+              "logprob": -4.094964027404785
+            },
+            {
+              "token": " which",
+              "logprob": -4.038643836975098
+            },
+            {
+              "token": " means",
+              "logprob": -1.1475560665130615
+            },
+            {
+              "token": " no",
+              "logprob": -2.7756834030151367
+            },
+            {
+              "token": " sound",
+              "logprob": -2.146179676055908
+            },
+            {
+              "token": " (",
+              "logprob": -3.9378318786621094
+            },
+            {
+              "token": "this",
+              "logprob": -5.01931619644165
+            },
+            {
+              "token": " was",
+              "logprob": -2.981600046157837
+            },
+            {
+              "token": " a",
+              "logprob": -1.3021844625473022
+            },
+            {
+              "token": " whisper",
+              "logprob": -4.58480167388916
+            },
+            {
+              "token": ")",
+              "logprob": -1.6573171615600586
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It was quiet.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.7526462078094482
+            },
+            {
+              "token": " was",
+              "logprob": -0.28554269671440125
+            },
+            {
+              "token": " quiet",
+              "logprob": -3.6586599349975586
+            },
+            {
+              "token": ".",
+              "logprob": -0.7829776406288147
+            },
+            {
+              "token": " \n",
+              "logprob": -2.162230968475342
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The noise level was 3. Answer the question.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.4685494899749756
+            },
+            {
+              "token": " noise",
+              "logprob": -0.696254551410675
+            },
+            {
+              "token": " level",
+              "logprob": -0.14574456214904785
+            },
+            {
+              "token": " was",
+              "logprob": -0.859139621257782
+            },
+            {
+              "token": " ",
+              "logprob": -2.469634532928467
+            },
+            {
+              "token": "3",
+              "logprob": -2.4539377689361572
+            },
+            {
+              "token": ".",
+              "logprob": -0.7941616177558899
+            },
+            {
+              "token": " Answer",
+              "logprob": -4.977029323577881
+            },
+            {
+              "token": " the",
+              "logprob": -3.224905014038086
+            },
+            {
+              "token": " question",
+              "logprob": -0.7469456195831299
+            },
+            {
+              "token": ".",
+              "logprob": -2.056415319442749
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.9026379585266113
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "How many people in total is this going to affect the story. (A lot, he is the biggest character) He did not care about him so much that it mattered.",
+          "token_data": [
+            {
+              "token": " How",
+              "logprob": -4.622684478759766
+            },
+            {
+              "token": " many",
+              "logprob": -1.3232905864715576
+            },
+            {
+              "token": " people",
+              "logprob": -4.019687175750732
+            },
+            {
+              "token": " in",
+              "logprob": -3.629788875579834
+            },
+            {
+              "token": " total",
+              "logprob": -2.947202444076538
+            },
+            {
+              "token": " is",
+              "logprob": -4.812898635864258
+            },
+            {
+              "token": " this",
+              "logprob": -3.2802557945251465
+            },
+            {
+              "token": " going",
+              "logprob": -3.9269604682922363
+            },
+            {
+              "token": " to",
+              "logprob": -0.04495057463645935
+            },
+            {
+              "token": " affect",
+              "logprob": -0.767802357673645
+            },
+            {
+              "token": " the",
+              "logprob": -3.3197481632232666
+            },
+            {
+              "token": " story",
+              "logprob": -4.291635036468506
+            },
+            {
+              "token": ".",
+              "logprob": -2.492011547088623
+            },
+            {
+              "token": " (",
+              "logprob": -3.632600784301758
+            },
+            {
+              "token": "A",
+              "logprob": -4.0008392333984375
+            },
+            {
+              "token": " lot",
+              "logprob": -3.008669376373291
+            },
+            {
+              "token": ",",
+              "logprob": -3.0377907752990723
+            },
+            {
+              "token": " he",
+              "logprob": -4.9550580978393555
+            },
+            {
+              "token": " is",
+              "logprob": -2.653715133666992
+            },
+            {
+              "token": " the",
+              "logprob": -2.6180315017700195
+            },
+            {
+              "token": " biggest",
+              "logprob": -3.9792346954345703
+            },
+            {
+              "token": " character",
+              "logprob": -2.926300287246704
+            },
+            {
+              "token": ")",
+              "logprob": -2.0633909702301025
+            },
+            {
+              "token": " He",
+              "logprob": -4.6196441650390625
+            },
+            {
+              "token": " did",
+              "logprob": -4.680216312408447
+            },
+            {
+              "token": " not",
+              "logprob": -0.8146976828575134
+            },
+            {
+              "token": " care",
+              "logprob": -4.4335036277771
+            },
+            {
+              "token": " about",
+              "logprob": -1.7380424737930298
+            },
+            {
+              "token": " him",
+              "logprob": -4.871044158935547
+            },
+            {
+              "token": " so",
+              "logprob": -4.713220119476318
+            },
+            {
+              "token": " much",
+              "logprob": -1.8637478351593018
+            },
+            {
+              "token": " that",
+              "logprob": -2.8204853534698486
+            },
+            {
+              "token": " it",
+              "logprob": -2.529510259628296
+            },
+            {
+              "token": " mattered",
+              "logprob": -3.803391456604004
+            },
+            {
+              "token": ".",
+              "logprob": -1.0270395278930664
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -4.502398490905762
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "loud",
+          "token_data": [
+            {
+              "token": " loud",
+              "logprob": -4.413627624511719
+            },
+            {
+              "token": " ",
+              "logprob": -3.4610912799835205
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0359879732131958
+            },
+            {
+              "token": ":",
+              "logprob": -0.027471594512462616
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "There was one, \"Ding!...\" it said. It was loud, but he ignored it.",
+          "token_data": [
+            {
+              "token": " There",
+              "logprob": -4.667093276977539
+            },
+            {
+              "token": " was",
+              "logprob": -0.48732423782348633
+            },
+            {
+              "token": " one",
+              "logprob": -3.5624337196350098
+            },
+            {
+              "token": ",",
+              "logprob": -3.6772611141204834
+            },
+            {
+              "token": " \"",
+              "logprob": -3.6140494346618652
+            },
+            {
+              "token": "D",
+              "logprob": -3.8792991638183594
+            },
+            {
+              "token": "ing",
+              "logprob": -0.3421812355518341
+            },
+            {
+              "token": "!",
+              "logprob": -3.0297646522521973
+            },
+            {
+              "token": "...\"",
+              "logprob": -3.460481643676758
+            },
+            {
+              "token": " it",
+              "logprob": -4.365566253662109
+            },
+            {
+              "token": " said",
+              "logprob": -3.0501341819763184
+            },
+            {
+              "token": ".",
+              "logprob": -0.39494964480400085
+            },
+            {
+              "token": " It",
+              "logprob": -3.8529627323150635
+            },
+            {
+              "token": " was",
+              "logprob": -0.6636316776275635
+            },
+            {
+              "token": " loud",
+              "logprob": -2.9726452827453613
+            },
+            {
+              "token": ",",
+              "logprob": -1.5819376707077026
+            },
+            {
+              "token": " but",
+              "logprob": -0.7877303957939148
+            },
+            {
+              "token": " he",
+              "logprob": -2.969242572784424
+            },
+            {
+              "token": " ignored",
+              "logprob": -2.818816661834717
+            },
+            {
+              "token": " it",
+              "logprob": -0.09918393194675446
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.0123023986816406
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It was so loud! We were talking, and it sounded like someone was moving their furniture.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.7526462078094482
+            },
+            {
+              "token": " was",
+              "logprob": -0.28554269671440125
+            },
+            {
+              "token": " so",
+              "logprob": -3.76889705657959
+            },
+            {
+              "token": " loud",
+              "logprob": -0.7697544097900391
+            },
+            {
+              "token": "!",
+              "logprob": -2.7727103233337402
+            },
+            {
+              "token": " We",
+              "logprob": -2.4995832443237305
+            },
+            {
+              "token": " were",
+              "logprob": -2.264174461364746
+            },
+            {
+              "token": " talking",
+              "logprob": -4.017385005950928
+            },
+            {
+              "token": ",",
+              "logprob": -2.370245933532715
+            },
+            {
+              "token": " and",
+              "logprob": -1.488569974899292
+            },
+            {
+              "token": " it",
+              "logprob": -2.405031681060791
+            },
+            {
+              "token": " sounded",
+              "logprob": -1.660609483718872
+            },
+            {
+              "token": " like",
+              "logprob": -0.16991020739078522
+            },
+            {
+              "token": " someone",
+              "logprob": -2.3965072631835938
+            },
+            {
+              "token": " was",
+              "logprob": -0.46906325221061707
+            },
+            {
+              "token": " moving",
+              "logprob": -4.921679973602295
+            },
+            {
+              "token": " their",
+              "logprob": -2.5067315101623535
+            },
+            {
+              "token": " furniture",
+              "logprob": -0.47215038537979126
+            },
+            {
+              "token": ".",
+              "logprob": -0.7984890937805176
+            },
+            {
+              "token": " Q",
+              "logprob": -1.703522801399231
+            },
+            {
+              "token": ":",
+              "logprob": -0.022205526009202003
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "It was pretty low. He called Sophia and asked her to check it out.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.7526462078094482
+            },
+            {
+              "token": " was",
+              "logprob": -0.28554269671440125
+            },
+            {
+              "token": " pretty",
+              "logprob": -3.356515884399414
+            },
+            {
+              "token": " low",
+              "logprob": -1.9589811563491821
+            },
+            {
+              "token": ".",
+              "logprob": -0.6077956557273865
+            },
+            {
+              "token": " He",
+              "logprob": -1.9371001720428467
+            },
+            {
+              "token": " called",
+              "logprob": -3.876166820526123
+            },
+            {
+              "token": " Sophia",
+              "logprob": -1.0067944526672363
+            },
+            {
+              "token": " and",
+              "logprob": -2.4636287689208984
+            },
+            {
+              "token": " asked",
+              "logprob": -3.692903518676758
+            },
+            {
+              "token": " her",
+              "logprob": -0.9288801550865173
+            },
+            {
+              "token": " to",
+              "logprob": -0.27817603945732117
+            },
+            {
+              "token": " check",
+              "logprob": -2.083055257797241
+            },
+            {
+              "token": " it",
+              "logprob": -0.6155643463134766
+            },
+            {
+              "token": " out",
+              "logprob": -0.039865460246801376
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.3689169883728027
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

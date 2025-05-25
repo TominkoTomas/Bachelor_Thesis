@@ -1,0 +1,763 @@
+{
+  "story": "Wyatt and Oliver were best friends. One day, Oliver came over to Wyatt’s house to play. When Oliver walked in, he saw toys and clothes all over the floor. \"Wow, your room is really messy,\" Oliver said. Wyatt felt embarrassed. \"I know,\" he said. \"I’ll clean it up.\" Oliver sat on the bed and watched as Wyatt got to work. Wyatt picked up the toys and put them in a box. He folded the clothes and placed them in the drawer. Wyatt cleaned a messy room until everything was neat and tidy. Oliver smiled. \"Now it looks great!\" he said. Wyatt felt proud of his work. The two friends then decided to go outside to play. They ran to the park and had fun on the swings. It was a good day for Wyatt and Oliver. They laughed and played until the sun went down. When it was time to go home, Oliver waved goodbye. \"See you tomorrow!\" he said. Wyatt waved back, happy to have such a good friend.",
+  "characters": [
+    {
+      "question": "What did Wyatt tidy up?",
+      "character": "Wyatt",
+      "story": "Wyatt and Oliver were best friends. One day, Oliver came over to Wyatt’s house to play. When Oliver walked in, he saw toys and clothes all over the floor. \"Wow, your room is really messy,\" Oliver said. Wyatt felt embarrassed. \"I know,\" he said. \"I’ll clean it up.\" Oliver sat on the bed and watched as Wyatt got to work. Wyatt picked up the toys and put them in a box. He folded the clothes and placed them in the drawer. Wyatt cleaned a messy room until everything was neat and tidy. Oliver smiled. \"Now it looks great!\" he said. Wyatt felt proud of his work. The two friends then decided to go outside to play. They ran to the park and had fun on the swings. It was a good day for Wyatt and Oliver. They laughed and played until the sun went down. When it was time to go home, Oliver waved goodbye. \"See you tomorrow!\" he said. Wyatt waved back, happy to have such a good friend.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "What did Wyatt tidy up?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.142148733139038
+            },
+            {
+              "token": " did",
+              "logprob": -0.2385064959526062
+            },
+            {
+              "token": " Wyatt",
+              "logprob": -0.9577406644821167
+            },
+            {
+              "token": " tidy",
+              "logprob": -0.06663955003023148
+            },
+            {
+              "token": " up",
+              "logprob": -0.004475576803088188
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -2.936476707458496
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Toys.",
+          "token_data": [
+            {
+              "token": " Toys",
+              "logprob": -3.4929988384246826
+            },
+            {
+              "token": ".",
+              "logprob": -3.120198965072632
+            },
+            {
+              "token": " Q",
+              "logprob": -0.440904438495636
+            },
+            {
+              "token": ":",
+              "logprob": -0.008009222336113453
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The toys, the clothes and the room.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.5360190868377686
+            },
+            {
+              "token": " toys",
+              "logprob": -0.9796035289764404
+            },
+            {
+              "token": ",",
+              "logprob": -2.8878517150878906
+            },
+            {
+              "token": " the",
+              "logprob": -2.9471700191497803
+            },
+            {
+              "token": " clothes",
+              "logprob": -0.17211955785751343
+            },
+            {
+              "token": " and",
+              "logprob": -1.0202914476394653
+            },
+            {
+              "token": " the",
+              "logprob": -0.5016536712646484
+            },
+            {
+              "token": " room",
+              "logprob": -1.7010917663574219
+            },
+            {
+              "token": ".",
+              "logprob": -0.48568952083587646
+            },
+            {
+              "token": " Q",
+              "logprob": -0.5501288771629333
+            },
+            {
+              "token": ":",
+              "logprob": -0.014317640103399754
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "A mess",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.5400302410125732
+            },
+            {
+              "token": " mess",
+              "logprob": -2.4435601234436035
+            },
+            {
+              "token": " Q",
+              "logprob": -2.515484571456909
+            },
+            {
+              "token": ":",
+              "logprob": -0.01419095043092966
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Toys and Clothes",
+          "token_data": [
+            {
+              "token": " To",
+              "logprob": -4.4999189376831055
+            },
+            {
+              "token": "ys",
+              "logprob": -0.2120666354894638
+            },
+            {
+              "token": " and",
+              "logprob": -0.31910020112991333
+            },
+            {
+              "token": " Clothes",
+              "logprob": -2.3072166442871094
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.167531967163086
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The toys and the clothes.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.5360190868377686
+            },
+            {
+              "token": " toys",
+              "logprob": -0.9796035289764404
+            },
+            {
+              "token": " and",
+              "logprob": -0.28893667459487915
+            },
+            {
+              "token": " the",
+              "logprob": -3.0079519748687744
+            },
+            {
+              "token": " clothes",
+              "logprob": -0.08987969905138016
+            },
+            {
+              "token": ".",
+              "logprob": -0.5462225675582886
+            },
+            {
+              "token": " Q",
+              "logprob": -0.4598563611507416
+            },
+            {
+              "token": ":",
+              "logprob": -0.015167380683124065
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "What did Oliver think of when he thought of the messy room? A: What happened to Oliver’s smile? (A) B: What were Oliver and Wyatt doing outside at first?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.13354754447937
+            },
+            {
+              "token": " did",
+              "logprob": -0.2637495696544647
+            },
+            {
+              "token": " Oliver",
+              "logprob": -0.8778973817825317
+            },
+            {
+              "token": " think",
+              "logprob": -3.00447416305542
+            },
+            {
+              "token": " of",
+              "logprob": -1.3761873245239258
+            },
+            {
+              "token": " when",
+              "logprob": -2.796602725982666
+            },
+            {
+              "token": " he",
+              "logprob": -0.21078486740589142
+            },
+            {
+              "token": " thought",
+              "logprob": -3.801386594772339
+            },
+            {
+              "token": " of",
+              "logprob": -0.5088676810264587
+            },
+            {
+              "token": " the",
+              "logprob": -1.7090058326721191
+            },
+            {
+              "token": " messy",
+              "logprob": -2.8447515964508057
+            },
+            {
+              "token": " room",
+              "logprob": -0.06493735313415527
+            },
+            {
+              "token": "?",
+              "logprob": -0.23773452639579773
+            },
+            {
+              "token": " A",
+              "logprob": -1.2387597560882568
+            },
+            {
+              "token": ":",
+              "logprob": -0.024078208953142166
+            },
+            {
+              "token": " What",
+              "logprob": -0.43534421920776367
+            },
+            {
+              "token": " happened",
+              "logprob": -3.8325984477996826
+            },
+            {
+              "token": " to",
+              "logprob": -1.76254403591156
+            },
+            {
+              "token": " Oliver",
+              "logprob": -0.8322956562042236
+            },
+            {
+              "token": "’s",
+              "logprob": -1.6035232543945312
+            },
+            {
+              "token": " smile",
+              "logprob": -3.3177902698516846
+            },
+            {
+              "token": "?",
+              "logprob": -0.14161023497581482
+            },
+            {
+              "token": " (",
+              "logprob": -4.156847953796387
+            },
+            {
+              "token": "A",
+              "logprob": -2.324815511703491
+            },
+            {
+              "token": ")",
+              "logprob": -1.237143635749817
+            },
+            {
+              "token": " B",
+              "logprob": -3.536064386367798
+            },
+            {
+              "token": ":",
+              "logprob": -0.8920687437057495
+            },
+            {
+              "token": " What",
+              "logprob": -0.39485469460487366
+            },
+            {
+              "token": " were",
+              "logprob": -4.464457988739014
+            },
+            {
+              "token": " Oliver",
+              "logprob": -1.403883934020996
+            },
+            {
+              "token": " and",
+              "logprob": -0.6240394115447998
+            },
+            {
+              "token": " Wyatt",
+              "logprob": -0.12669534981250763
+            },
+            {
+              "token": " doing",
+              "logprob": -0.7824931144714355
+            },
+            {
+              "token": " outside",
+              "logprob": -2.5598692893981934
+            },
+            {
+              "token": " at",
+              "logprob": -4.524257183074951
+            },
+            {
+              "token": " first",
+              "logprob": -4.201162338256836
+            },
+            {
+              "token": "?",
+              "logprob": -0.06468004733324051
+            },
+            {
+              "token": " Q",
+              "logprob": -3.7012274265289307
+            },
+            {
+              "token": ":",
+              "logprob": -0.034541212022304535
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Clothes and toys.",
+          "token_data": [
+            {
+              "token": " Clothes",
+              "logprob": -2.3981292247772217
+            },
+            {
+              "token": " and",
+              "logprob": -0.5689653158187866
+            },
+            {
+              "token": " toys",
+              "logprob": -0.2756289541721344
+            },
+            {
+              "token": ".",
+              "logprob": -0.902495265007019
+            },
+            {
+              "token": " Q",
+              "logprob": -0.34207600355148315
+            },
+            {
+              "token": ":",
+              "logprob": -0.01340707391500473
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Toys, Clothes & his room",
+          "token_data": [
+            {
+              "token": " To",
+              "logprob": -4.4999189376831055
+            },
+            {
+              "token": "ys",
+              "logprob": -0.2120666354894638
+            },
+            {
+              "token": ",",
+              "logprob": -2.4738452434539795
+            },
+            {
+              "token": " Clothes",
+              "logprob": -1.4679474830627441
+            },
+            {
+              "token": " &",
+              "logprob": -3.754000663757324
+            },
+            {
+              "token": " his",
+              "logprob": -4.597448348999023
+            },
+            {
+              "token": " room",
+              "logprob": -1.1305726766586304
+            },
+            {
+              "token": " Q",
+              "logprob": -1.8855366706848145
+            },
+            {
+              "token": ":",
+              "logprob": -0.02497493103146553
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Toys and clothes",
+          "token_data": [
+            {
+              "token": " Toys",
+              "logprob": -3.4929988384246826
+            },
+            {
+              "token": " and",
+              "logprob": -0.28644347190856934
+            },
+            {
+              "token": " clothes",
+              "logprob": -0.14377009868621826
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.297502040863037
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What did Oliver tidy up?",
+      "character": "Oliver",
+      "story": "Wyatt and Oliver were best friends. One day, Oliver came over to Wyatt’s house to play. When Oliver walked in, he saw toys and clothes all over the floor. \"Wow, your room is really messy,\" Oliver said. Wyatt felt embarrassed. \"I know,\" he said. \"I’ll clean it up.\" Oliver sat on the bed and watched as Wyatt got to work. Wyatt picked up the toys and put them in a box. He folded the clothes and placed them in the drawer. Wyatt cleaned a messy room until everything was neat and tidy. Oliver smiled. \"Now it looks great!\" he said. Wyatt felt proud of his work. The two friends then decided to go outside to play. They ran to the park and had fun on the swings. It was a good day for Wyatt and Oliver. They laughed and played until the sun went down. When it was time to go home, Oliver waved goodbye. \"See you tomorrow!\" he said. Wyatt waved back, happy to have such a good friend.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "His room",
+          "token_data": [
+            {
+              "token": " His",
+              "logprob": -3.4903342723846436
+            },
+            {
+              "token": " room",
+              "logprob": -0.7896719574928284
+            },
+            {
+              "token": " Q",
+              "logprob": -2.0384960174560547
+            },
+            {
+              "token": ":",
+              "logprob": -0.015233715996146202
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.3637073040008545
+            },
+            {
+              "token": ":",
+              "logprob": -0.2159424126148224
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Clothes, a toy and the messy room",
+          "token_data": [
+            {
+              "token": " Clothes",
+              "logprob": -1.918196439743042
+            },
+            {
+              "token": ",",
+              "logprob": -3.122218370437622
+            },
+            {
+              "token": " a",
+              "logprob": -3.9345459938049316
+            },
+            {
+              "token": " toy",
+              "logprob": -2.9556031227111816
+            },
+            {
+              "token": " and",
+              "logprob": -1.1418709754943848
+            },
+            {
+              "token": " the",
+              "logprob": -1.479496955871582
+            },
+            {
+              "token": " messy",
+              "logprob": -2.6686582565307617
+            },
+            {
+              "token": " room",
+              "logprob": -0.2649896442890167
+            },
+            {
+              "token": " Q",
+              "logprob": -1.853366494178772
+            },
+            {
+              "token": ":",
+              "logprob": -0.020368341356515884
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "His bed.",
+          "token_data": [
+            {
+              "token": " His",
+              "logprob": -3.5393941402435303
+            },
+            {
+              "token": " bed",
+              "logprob": -2.9827537536621094
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.231487274169922
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "His room B: Wyatt's room C: Oliver's room",
+          "token_data": [
+            {
+              "token": " His",
+              "logprob": -3.5393941402435303
+            },
+            {
+              "token": " room",
+              "logprob": -0.7863246202468872
+            },
+            {
+              "token": " B",
+              "logprob": -3.83949613571167
+            },
+            {
+              "token": ":",
+              "logprob": -0.008133621886372566
+            },
+            {
+              "token": " Wyatt",
+              "logprob": -2.9602952003479004
+            },
+            {
+              "token": "'s",
+              "logprob": -0.5469058752059937
+            },
+            {
+              "token": " room",
+              "logprob": -0.09662691503763199
+            },
+            {
+              "token": " C",
+              "logprob": -0.22741830348968506
+            },
+            {
+              "token": ":",
+              "logprob": -0.00863083079457283
+            },
+            {
+              "token": " Oliver",
+              "logprob": -0.28648895025253296
+            },
+            {
+              "token": "'s",
+              "logprob": -0.059755053371191025
+            },
+            {
+              "token": " room",
+              "logprob": -0.07756268978118896
+            },
+            {
+              "token": " \n",
+              "logprob": -3.7150416374206543
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Toys, clothes.",
+          "token_data": [
+            {
+              "token": " Toys",
+              "logprob": -3.0144736766815186
+            },
+            {
+              "token": ",",
+              "logprob": -2.9530539512634277
+            },
+            {
+              "token": " clothes",
+              "logprob": -0.39965730905532837
+            },
+            {
+              "token": ".",
+              "logprob": -2.0133302211761475
+            },
+            {
+              "token": " Q",
+              "logprob": -0.35954269766807556
+            },
+            {
+              "token": ":",
+              "logprob": -0.010043087415397167
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "clothes",
+          "token_data": [
+            {
+              "token": " clothes",
+              "logprob": -3.5701491832733154
+            },
+            {
+              "token": " Q",
+              "logprob": -1.871086597442627
+            },
+            {
+              "token": ":",
+              "logprob": -0.008619368076324463
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "What did Oliver tidy up?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -1.9862468242645264
+            },
+            {
+              "token": " did",
+              "logprob": -0.24338176846504211
+            },
+            {
+              "token": " Oliver",
+              "logprob": -0.08708690851926804
+            },
+            {
+              "token": " tidy",
+              "logprob": -0.08111296594142914
+            },
+            {
+              "token": " up",
+              "logprob": -0.004461098462343216
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.285672664642334
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Toys and clothes",
+          "token_data": [
+            {
+              "token": " Toys",
+              "logprob": -3.0144736766815186
+            },
+            {
+              "token": " and",
+              "logprob": -0.23372982442378998
+            },
+            {
+              "token": " clothes",
+              "logprob": -0.13052043318748474
+            },
+            {
+              "token": "\n",
+              "logprob": -2.591723680496216
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Oliver tidied up the room.",
+          "token_data": [
+            {
+              "token": " Oliver",
+              "logprob": -2.305647611618042
+            },
+            {
+              "token": " tid",
+              "logprob": -0.29827964305877686
+            },
+            {
+              "token": "ied",
+              "logprob": -0.010745992884039879
+            },
+            {
+              "token": " up",
+              "logprob": -0.11876938492059708
+            },
+            {
+              "token": " the",
+              "logprob": -1.349219799041748
+            },
+            {
+              "token": " room",
+              "logprob": -2.1429121494293213
+            },
+            {
+              "token": ".",
+              "logprob": -0.5739433169364929
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6517497897148132
+            },
+            {
+              "token": ":",
+              "logprob": -0.014827288687229156
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

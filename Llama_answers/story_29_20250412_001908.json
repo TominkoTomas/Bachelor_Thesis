@@ -1,0 +1,1127 @@
+{
+  "story": "Amelia and Jamie were best friends who loved animals. One day, they went to the pet store to look at the puppies. The store had many puppies of different colors and sizes. Amelia was very excited. She looked at all the puppies carefully. Jamie liked the big dogs, but Amelia loved the small ones. After a long time, Amelia chose a spotted puppy. It was small and had soft fur. Jamie smiled but didn’t say much about the puppy. Amelia was happy and held the puppy gently. They left the store together, with Amelia carrying her new friend. Jamie walked beside her, talking about other things. When they got home, Amelia gave the puppy a name and played with it. Jamie watched but didn’t join in. The puppy licked Amelia’s hand, and she laughed. It was a good day for Amelia and her spotted puppy. Jamie was happy to see Amelia so joyful.",
+  "characters": [
+    {
+      "question": "What pattern did Amelia's puppy have?",
+      "character": "Amelia",
+      "story": "Amelia and Jamie were best friends who loved animals. One day, they went to the pet store to look at the puppies. The store had many puppies of different colors and sizes. Amelia was very excited. She looked at all the puppies carefully. Jamie liked the big dogs, but Amelia loved the small ones. After a long time, Amelia chose a spotted puppy. It was small and had soft fur. Jamie smiled but didn’t say much about the puppy. Amelia was happy and held the puppy gently. They left the store together, with Amelia carrying her new friend. Jamie walked beside her, talking about other things. When they got home, Amelia gave the puppy a name and played with it. Jamie watched but didn’t join in. The puppy licked Amelia’s hand, and she laughed. It was a good day for Amelia and her spotted puppy. Jamie was happy to see Amelia so joyful.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "What color pattern did Amelia's puppy have?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.944030284881592
+            },
+            {
+              "token": " color",
+              "logprob": -2.1702680587768555
+            },
+            {
+              "token": " pattern",
+              "logprob": -2.722078323364258
+            },
+            {
+              "token": " did",
+              "logprob": -0.21946324408054352
+            },
+            {
+              "token": " Amelia",
+              "logprob": -0.19793744385242462
+            },
+            {
+              "token": "'s",
+              "logprob": -0.18690462410449982
+            },
+            {
+              "token": " puppy",
+              "logprob": -0.05683889612555504
+            },
+            {
+              "token": " have",
+              "logprob": -0.02587944269180298
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.279027223587036
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The spotted pattern.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.1795096397399902
+            },
+            {
+              "token": " spotted",
+              "logprob": -2.4966301918029785
+            },
+            {
+              "token": " pattern",
+              "logprob": -2.228677988052368
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.0304718017578125
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Answer: Amelia's Puppy Spotted B: Yes",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.035823345184326
+            },
+            {
+              "token": ":",
+              "logprob": -2.0030815601348877
+            },
+            {
+              "token": " Amelia",
+              "logprob": -2.583693027496338
+            },
+            {
+              "token": "'s",
+              "logprob": -1.070865273475647
+            },
+            {
+              "token": " Puppy",
+              "logprob": -2.7045087814331055
+            },
+            {
+              "token": " Sp",
+              "logprob": -4.318515777587891
+            },
+            {
+              "token": "otted",
+              "logprob": -0.04036271572113037
+            },
+            {
+              "token": " B",
+              "logprob": -4.25631856918335
+            },
+            {
+              "token": ":",
+              "logprob": -0.28042730689048767
+            },
+            {
+              "token": " Yes",
+              "logprob": -5.316838264465332
+            },
+            {
+              "token": "\n\n",
+              "logprob": -4.103733539581299
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.135125637054443
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Amelia's puppy has a spot pattern. Amelia is looking at the puppies carefully and choosing one, while Jamie likes the big dogs and picks one that is bigger.",
+          "token_data": [
+            {
+              "token": " Amelia",
+              "logprob": -1.935219407081604
+            },
+            {
+              "token": "'s",
+              "logprob": -0.8378369808197021
+            },
+            {
+              "token": " puppy",
+              "logprob": -0.08446215838193893
+            },
+            {
+              "token": " has",
+              "logprob": -3.0800509452819824
+            },
+            {
+              "token": " a",
+              "logprob": -0.7400115132331848
+            },
+            {
+              "token": " spot",
+              "logprob": -3.266160011291504
+            },
+            {
+              "token": " pattern",
+              "logprob": -0.29103565216064453
+            },
+            {
+              "token": ".",
+              "logprob": -0.4843308925628662
+            },
+            {
+              "token": " Amelia",
+              "logprob": -2.1570749282836914
+            },
+            {
+              "token": " is",
+              "logprob": -3.7769179344177246
+            },
+            {
+              "token": " looking",
+              "logprob": -3.543797254562378
+            },
+            {
+              "token": " at",
+              "logprob": -0.474731981754303
+            },
+            {
+              "token": " the",
+              "logprob": -0.9954524040222168
+            },
+            {
+              "token": " puppies",
+              "logprob": -1.0080070495605469
+            },
+            {
+              "token": " carefully",
+              "logprob": -3.0486364364624023
+            },
+            {
+              "token": " and",
+              "logprob": -2.3830816745758057
+            },
+            {
+              "token": " choosing",
+              "logprob": -2.6041674613952637
+            },
+            {
+              "token": " one",
+              "logprob": -1.0456619262695312
+            },
+            {
+              "token": ",",
+              "logprob": -4.540735721588135
+            },
+            {
+              "token": " while",
+              "logprob": -4.135824680328369
+            },
+            {
+              "token": " Jamie",
+              "logprob": -0.210279643535614
+            },
+            {
+              "token": " likes",
+              "logprob": -2.730830669403076
+            },
+            {
+              "token": " the",
+              "logprob": -0.1498287320137024
+            },
+            {
+              "token": " big",
+              "logprob": -0.16331903636455536
+            },
+            {
+              "token": " dogs",
+              "logprob": -0.040920600295066833
+            },
+            {
+              "token": " and",
+              "logprob": -2.5821943283081055
+            },
+            {
+              "token": " picks",
+              "logprob": -3.1694164276123047
+            },
+            {
+              "token": " one",
+              "logprob": -1.6863285303115845
+            },
+            {
+              "token": " that",
+              "logprob": -4.011436939239502
+            },
+            {
+              "token": " is",
+              "logprob": -1.2579929828643799
+            },
+            {
+              "token": " bigger",
+              "logprob": -2.303927421569824
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.8878228664398193
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Small spots",
+          "token_data": [
+            {
+              "token": " Small",
+              "logprob": -4.8460211753845215
+            },
+            {
+              "token": " spots",
+              "logprob": -3.9786343574523926
+            },
+            {
+              "token": "\n",
+              "logprob": -2.5171401500701904
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.035823345184326
+            },
+            {
+              "token": " using",
+              "logprob": -0.6261703968048096
+            },
+            {
+              "token": " one",
+              "logprob": -0.24396972358226776
+            },
+            {
+              "token": " whole",
+              "logprob": -0.07549893110990524
+            },
+            {
+              "token": " sent",
+              "logprob": -1.1523873805999756
+            },
+            {
+              "token": "ence",
+              "logprob": -2.287264823913574
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.659675121307373
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "All dogs have black and brown eyes. P: Which other dog had the same name as her puppy? A: No dog.",
+          "token_data": [
+            {
+              "token": " All",
+              "logprob": -4.631893634796143
+            },
+            {
+              "token": " dogs",
+              "logprob": -2.0811655521392822
+            },
+            {
+              "token": " have",
+              "logprob": -0.7354844212532043
+            },
+            {
+              "token": " black",
+              "logprob": -3.0567219257354736
+            },
+            {
+              "token": " and",
+              "logprob": -1.0455703735351562
+            },
+            {
+              "token": " brown",
+              "logprob": -1.7720553874969482
+            },
+            {
+              "token": " eyes",
+              "logprob": -3.935415267944336
+            },
+            {
+              "token": ".",
+              "logprob": -0.6905701756477356
+            },
+            {
+              "token": " P",
+              "logprob": -4.098593235015869
+            },
+            {
+              "token": ":",
+              "logprob": -1.020228624343872
+            },
+            {
+              "token": " Which",
+              "logprob": -3.1052908897399902
+            },
+            {
+              "token": " other",
+              "logprob": -4.267140865325928
+            },
+            {
+              "token": " dog",
+              "logprob": -1.9542142152786255
+            },
+            {
+              "token": " had",
+              "logprob": -3.1135170459747314
+            },
+            {
+              "token": " the",
+              "logprob": -2.39455509185791
+            },
+            {
+              "token": " same",
+              "logprob": -0.43935656547546387
+            },
+            {
+              "token": " name",
+              "logprob": -3.7508444786071777
+            },
+            {
+              "token": " as",
+              "logprob": -0.6104483008384705
+            },
+            {
+              "token": " her",
+              "logprob": -3.1947450637817383
+            },
+            {
+              "token": " puppy",
+              "logprob": -0.8847291469573975
+            },
+            {
+              "token": "?",
+              "logprob": -0.06773611903190613
+            },
+            {
+              "token": " A",
+              "logprob": -0.12974509596824646
+            },
+            {
+              "token": ":",
+              "logprob": -0.009122832678258419
+            },
+            {
+              "token": " No",
+              "logprob": -3.7711687088012695
+            },
+            {
+              "token": " dog",
+              "logprob": -2.0048792362213135
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.364023208618164
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "A black spotted puppy.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.9772133827209473
+            },
+            {
+              "token": " A",
+              "logprob": -3.3184919357299805
+            },
+            {
+              "token": " black",
+              "logprob": -3.956157684326172
+            },
+            {
+              "token": " spotted",
+              "logprob": -3.2412309646606445
+            },
+            {
+              "token": " puppy",
+              "logprob": -0.4489815831184387
+            },
+            {
+              "token": ".",
+              "logprob": -0.9507622122764587
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.592684745788574
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The puppy had spots.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.1795096397399902
+            },
+            {
+              "token": " puppy",
+              "logprob": -0.5638908743858337
+            },
+            {
+              "token": " had",
+              "logprob": -0.6870608329772949
+            },
+            {
+              "token": " spots",
+              "logprob": -2.7712862491607666
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.120331287384033
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What pattern did Jamie's puppy have?",
+      "character": "Jamie",
+      "story": "Amelia and Jamie were best friends who loved animals. One day, they went to the pet store to look at the puppies. The store had many puppies of different colors and sizes. Amelia was very excited. She looked at all the puppies carefully. Jamie liked the big dogs, but Amelia loved the small ones. After a long time, Amelia chose a spotted puppy. It was small and had soft fur. Jamie smiled but didn’t say much about the puppy. Amelia was happy and held the puppy gently. They left the store together, with Amelia carrying her new friend. Jamie walked beside her, talking about other things. When they got home, Amelia gave the puppy a name and played with it. Jamie watched but didn’t join in. The puppy licked Amelia’s hand, and she laughed. It was a good day for Amelia and her spotted puppy. Jamie was happy to see Amelia so joyful.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Spotty",
+          "token_data": [
+            {
+              "token": " Sp",
+              "logprob": -3.2384040355682373
+            },
+            {
+              "token": "otty",
+              "logprob": -2.614797592163086
+            },
+            {
+              "token": "\n",
+              "logprob": -1.9428677558898926
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "A pattern like the one on his sleeve.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.3995890617370605
+            },
+            {
+              "token": " pattern",
+              "logprob": -2.463268756866455
+            },
+            {
+              "token": " like",
+              "logprob": -3.990330696105957
+            },
+            {
+              "token": " the",
+              "logprob": -2.055601119995117
+            },
+            {
+              "token": " one",
+              "logprob": -1.0451265573501587
+            },
+            {
+              "token": " on",
+              "logprob": -1.1944559812545776
+            },
+            {
+              "token": " his",
+              "logprob": -2.7877726554870605
+            },
+            {
+              "token": " sleeve",
+              "logprob": -4.217505931854248
+            },
+            {
+              "token": ".\n",
+              "logprob": -1.6015011072158813
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Which puppy did Jamie buy? (2 marks)",
+          "token_data": [
+            {
+              "token": " Which",
+              "logprob": -4.713326930999756
+            },
+            {
+              "token": " puppy",
+              "logprob": -2.7905771732330322
+            },
+            {
+              "token": " did",
+              "logprob": -0.9400344491004944
+            },
+            {
+              "token": " Jamie",
+              "logprob": -1.3179477453231812
+            },
+            {
+              "token": " buy",
+              "logprob": -3.713904857635498
+            },
+            {
+              "token": "?",
+              "logprob": -0.29729241132736206
+            },
+            {
+              "token": " (",
+              "logprob": -3.4183499813079834
+            },
+            {
+              "token": "2",
+              "logprob": -3.7275218963623047
+            },
+            {
+              "token": " marks",
+              "logprob": -3.6206297874450684
+            },
+            {
+              "token": ")\n",
+              "logprob": -1.8915436267852783
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Spots",
+          "token_data": [
+            {
+              "token": " Sp",
+              "logprob": -3.230123996734619
+            },
+            {
+              "token": "ots",
+              "logprob": -2.1606926918029785
+            },
+            {
+              "token": "\n",
+              "logprob": -1.8154292106628418
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "What pattern did Amelia and Jamie choose?  A: Amelia's puppy was a speckled spotted, Jamie picked out the bigger dogs.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.675210475921631
+            },
+            {
+              "token": " pattern",
+              "logprob": -0.331669420003891
+            },
+            {
+              "token": " did",
+              "logprob": -0.13488119840621948
+            },
+            {
+              "token": " Amelia",
+              "logprob": -1.6690715551376343
+            },
+            {
+              "token": " and",
+              "logprob": -2.793574810028076
+            },
+            {
+              "token": " Jamie",
+              "logprob": -0.06290243566036224
+            },
+            {
+              "token": " choose",
+              "logprob": -3.047072410583496
+            },
+            {
+              "token": "?",
+              "logprob": -1.066266417503357
+            },
+            {
+              "token": " ",
+              "logprob": -3.1784846782684326
+            },
+            {
+              "token": " A",
+              "logprob": -2.2657241821289062
+            },
+            {
+              "token": ":",
+              "logprob": -0.15594422817230225
+            },
+            {
+              "token": " Amelia",
+              "logprob": -3.287606716156006
+            },
+            {
+              "token": "'s",
+              "logprob": -3.155475616455078
+            },
+            {
+              "token": " puppy",
+              "logprob": -0.607872724533081
+            },
+            {
+              "token": " was",
+              "logprob": -1.2126728296279907
+            },
+            {
+              "token": " a",
+              "logprob": -2.1354002952575684
+            },
+            {
+              "token": " spe",
+              "logprob": -3.3747856616973877
+            },
+            {
+              "token": "ck",
+              "logprob": -0.011022630147635937
+            },
+            {
+              "token": "led",
+              "logprob": -0.0417744480073452
+            },
+            {
+              "token": " spotted",
+              "logprob": -4.029539108276367
+            },
+            {
+              "token": ",",
+              "logprob": -3.9559667110443115
+            },
+            {
+              "token": " Jamie",
+              "logprob": -2.8159258365631104
+            },
+            {
+              "token": " picked",
+              "logprob": -3.2465741634368896
+            },
+            {
+              "token": " out",
+              "logprob": -2.6886708736419678
+            },
+            {
+              "token": " the",
+              "logprob": -2.409445285797119
+            },
+            {
+              "token": " bigger",
+              "logprob": -3.9414055347442627
+            },
+            {
+              "token": " dogs",
+              "logprob": -0.4427037239074707
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.3232975006103516
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Jamie's puppy had the same pattern as Amelia's puppy. This is a good idea to have all the patterns of each pet store before we purchase one. It will give us the right information about what colors, types of puppies, etc.",
+          "token_data": [
+            {
+              "token": " Jamie",
+              "logprob": -1.7354577779769897
+            },
+            {
+              "token": "'s",
+              "logprob": -0.4620548486709595
+            },
+            {
+              "token": " puppy",
+              "logprob": -0.10859362035989761
+            },
+            {
+              "token": " had",
+              "logprob": -0.8126667141914368
+            },
+            {
+              "token": " the",
+              "logprob": -2.558838129043579
+            },
+            {
+              "token": " same",
+              "logprob": -0.2707929313182831
+            },
+            {
+              "token": " pattern",
+              "logprob": -0.3793236315250397
+            },
+            {
+              "token": " as",
+              "logprob": -0.7222388386726379
+            },
+            {
+              "token": " Amelia",
+              "logprob": -0.8781606554985046
+            },
+            {
+              "token": "'s",
+              "logprob": -0.0919184759259224
+            },
+            {
+              "token": " puppy",
+              "logprob": -0.45134472846984863
+            },
+            {
+              "token": ".",
+              "logprob": -0.4422791302204132
+            },
+            {
+              "token": " This",
+              "logprob": -4.05450439453125
+            },
+            {
+              "token": " is",
+              "logprob": -1.413553237915039
+            },
+            {
+              "token": " a",
+              "logprob": -1.5865020751953125
+            },
+            {
+              "token": " good",
+              "logprob": -1.7102715969085693
+            },
+            {
+              "token": " idea",
+              "logprob": -3.2684435844421387
+            },
+            {
+              "token": " to",
+              "logprob": -1.3029861450195312
+            },
+            {
+              "token": " have",
+              "logprob": -2.280503749847412
+            },
+            {
+              "token": " all",
+              "logprob": -4.382282733917236
+            },
+            {
+              "token": " the",
+              "logprob": -1.4481608867645264
+            },
+            {
+              "token": " patterns",
+              "logprob": -2.947258472442627
+            },
+            {
+              "token": " of",
+              "logprob": -1.7407240867614746
+            },
+            {
+              "token": " each",
+              "logprob": -4.933902263641357
+            },
+            {
+              "token": " pet",
+              "logprob": -3.4744937419891357
+            },
+            {
+              "token": " store",
+              "logprob": -4.235739231109619
+            },
+            {
+              "token": " before",
+              "logprob": -4.886947154998779
+            },
+            {
+              "token": " we",
+              "logprob": -2.862880229949951
+            },
+            {
+              "token": " purchase",
+              "logprob": -4.636195182800293
+            },
+            {
+              "token": " one",
+              "logprob": -1.998113989830017
+            },
+            {
+              "token": ".",
+              "logprob": -0.660103440284729
+            },
+            {
+              "token": " It",
+              "logprob": -2.948413848876953
+            },
+            {
+              "token": " will",
+              "logprob": -3.3800342082977295
+            },
+            {
+              "token": " give",
+              "logprob": -3.4462532997131348
+            },
+            {
+              "token": " us",
+              "logprob": -0.7725613117218018
+            },
+            {
+              "token": " the",
+              "logprob": -2.140612840652466
+            },
+            {
+              "token": " right",
+              "logprob": -3.599464178085327
+            },
+            {
+              "token": " information",
+              "logprob": -4.762341499328613
+            },
+            {
+              "token": " about",
+              "logprob": -2.394289255142212
+            },
+            {
+              "token": " what",
+              "logprob": -1.9540860652923584
+            },
+            {
+              "token": " colors",
+              "logprob": -4.205914497375488
+            },
+            {
+              "token": ",",
+              "logprob": -2.8121161460876465
+            },
+            {
+              "token": " types",
+              "logprob": -3.722062110900879
+            },
+            {
+              "token": " of",
+              "logprob": -1.585268497467041
+            },
+            {
+              "token": " puppies",
+              "logprob": -3.568213701248169
+            },
+            {
+              "token": ",",
+              "logprob": -0.5439128875732422
+            },
+            {
+              "token": " etc",
+              "logprob": -2.73209285736084
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.504889965057373
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "What pattern did Amelia and Jamie pick out to adopt for a friend?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.675210475921631
+            },
+            {
+              "token": " pattern",
+              "logprob": -0.331669420003891
+            },
+            {
+              "token": " did",
+              "logprob": -0.13488119840621948
+            },
+            {
+              "token": " Amelia",
+              "logprob": -1.6690715551376343
+            },
+            {
+              "token": " and",
+              "logprob": -2.793574810028076
+            },
+            {
+              "token": " Jamie",
+              "logprob": -0.06290243566036224
+            },
+            {
+              "token": " pick",
+              "logprob": -2.5979909896850586
+            },
+            {
+              "token": " out",
+              "logprob": -0.9066226482391357
+            },
+            {
+              "token": " to",
+              "logprob": -3.53501296043396
+            },
+            {
+              "token": " adopt",
+              "logprob": -3.1533126831054688
+            },
+            {
+              "token": " for",
+              "logprob": -3.1333518028259277
+            },
+            {
+              "token": " a",
+              "logprob": -3.300300121307373
+            },
+            {
+              "token": " friend",
+              "logprob": -3.710618734359741
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.451906204223633
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.1645989418029785
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "A red and black spot.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.3995890617370605
+            },
+            {
+              "token": " red",
+              "logprob": -4.564375400543213
+            },
+            {
+              "token": " and",
+              "logprob": -1.3831008672714233
+            },
+            {
+              "token": " black",
+              "logprob": -1.0878173112869263
+            },
+            {
+              "token": " spot",
+              "logprob": -3.1106419563293457
+            },
+            {
+              "token": ".",
+              "logprob": -1.632232666015625
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.8170398473739624
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Jamie had no pattern at all. He did not see the puppies he thought about.",
+          "token_data": [
+            {
+              "token": " Jamie",
+              "logprob": -1.7354577779769897
+            },
+            {
+              "token": " had",
+              "logprob": -3.1996569633483887
+            },
+            {
+              "token": " no",
+              "logprob": -3.0081629753112793
+            },
+            {
+              "token": " pattern",
+              "logprob": -1.0161080360412598
+            },
+            {
+              "token": " at",
+              "logprob": -3.5669820308685303
+            },
+            {
+              "token": " all",
+              "logprob": -0.06352932751178741
+            },
+            {
+              "token": ".",
+              "logprob": -0.41944342851638794
+            },
+            {
+              "token": " He",
+              "logprob": -1.8511197566986084
+            },
+            {
+              "token": " did",
+              "logprob": -3.186673641204834
+            },
+            {
+              "token": " not",
+              "logprob": -0.18370544910430908
+            },
+            {
+              "token": " see",
+              "logprob": -4.013816833496094
+            },
+            {
+              "token": " the",
+              "logprob": -1.5932248830795288
+            },
+            {
+              "token": " puppies",
+              "logprob": -2.4158987998962402
+            },
+            {
+              "token": " he",
+              "logprob": -4.701138019561768
+            },
+            {
+              "token": " thought",
+              "logprob": -3.790992259979248
+            },
+            {
+              "token": " about",
+              "logprob": -2.330085277557373
+            },
+            {
+              "token": ".",
+              "logprob": -0.972846269607544
+            },
+            {
+              "token": " Q",
+              "logprob": -2.378357172012329
+            },
+            {
+              "token": ":",
+              "logprob": -0.014664951711893082
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

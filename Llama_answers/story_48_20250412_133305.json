@@ -1,0 +1,959 @@
+{
+  "story": "Amelia and Leo were best friends who loved playing by the river. One sunny day, they decided to have a skipping contest to see who could make rocks bounce the most on the water. Amelia picked up a smooth, flat stone and smiled. \"Watch this!\" she said. Amelia threw a smooth rock, and it skipped three times before sinking. Leo cheered for her, then grabbed his own rock. He threw it, but it only skipped twice. Amelia laughed and said, \"I won!\" Leo pretended to pout but then grinned. \"Next time, I’ll beat you,\" he said. They kept playing until the sun began to set, taking turns throwing rocks and laughing. As they walked home, Amelia and Leo promised to come back the next day for round two. They didn’t care who won—they just loved having fun together by the river. The smooth rocks and the skipping game made their afternoon perfect.",
+  "characters": [
+    {
+      "question": "What texture did the rock Amelia threw have?",
+      "character": "Amelia",
+      "story": "Amelia and Leo were best friends who loved playing by the river. One sunny day, they decided to have a skipping contest to see who could make rocks bounce the most on the water. Amelia picked up a smooth, flat stone and smiled. \"Watch this!\" she said. Amelia threw a smooth rock, and it skipped three times before sinking. Leo cheered for her, then grabbed his own rock. He threw it, but it only skipped twice. Amelia laughed and said, \"I won!\" Leo pretended to pout but then grinned. \"Next time, I’ll beat you,\" he said. They kept playing until the sun began to set, taking turns throwing rocks and laughing. As they walked home, Amelia and Leo promised to come back the next day for round two. They didn’t care who won—they just loved having fun together by the river. The smooth rocks and the skipping game made their afternoon perfect.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Describe what she meant by \"smooth.\" The flat part of the stone you need to touch the water surface in order to make the most rock skips.",
+          "token_data": [
+            {
+              "token": " Describe",
+              "logprob": -5.048125267028809
+            },
+            {
+              "token": " what",
+              "logprob": -2.7126832008361816
+            },
+            {
+              "token": " she",
+              "logprob": -3.6524531841278076
+            },
+            {
+              "token": " meant",
+              "logprob": -3.0615642070770264
+            },
+            {
+              "token": " by",
+              "logprob": -1.1331285238265991
+            },
+            {
+              "token": " \"",
+              "logprob": -1.5870355367660522
+            },
+            {
+              "token": "smooth",
+              "logprob": -1.886551856994629
+            },
+            {
+              "token": ".\"",
+              "logprob": -3.5253288745880127
+            },
+            {
+              "token": " The",
+              "logprob": -3.728032112121582
+            },
+            {
+              "token": " flat",
+              "logprob": -3.8936586380004883
+            },
+            {
+              "token": " part",
+              "logprob": -3.1074302196502686
+            },
+            {
+              "token": " of",
+              "logprob": -0.2241312563419342
+            },
+            {
+              "token": " the",
+              "logprob": -0.38184696435928345
+            },
+            {
+              "token": " stone",
+              "logprob": -1.8650263547897339
+            },
+            {
+              "token": " you",
+              "logprob": -4.309240818023682
+            },
+            {
+              "token": " need",
+              "logprob": -4.130113124847412
+            },
+            {
+              "token": " to",
+              "logprob": -0.10068679600954056
+            },
+            {
+              "token": " touch",
+              "logprob": -4.41317892074585
+            },
+            {
+              "token": " the",
+              "logprob": -1.884484052658081
+            },
+            {
+              "token": " water",
+              "logprob": -0.6281224489212036
+            },
+            {
+              "token": " surface",
+              "logprob": -3.276864767074585
+            },
+            {
+              "token": " in",
+              "logprob": -3.7315261363983154
+            },
+            {
+              "token": " order",
+              "logprob": -0.3272533714771271
+            },
+            {
+              "token": " to",
+              "logprob": -0.1848553717136383
+            },
+            {
+              "token": " make",
+              "logprob": -1.9803887605667114
+            },
+            {
+              "token": " the",
+              "logprob": -1.8618414402008057
+            },
+            {
+              "token": " most",
+              "logprob": -3.5516605377197266
+            },
+            {
+              "token": " rock",
+              "logprob": -2.5564255714416504
+            },
+            {
+              "token": " skips",
+              "logprob": -3.3787190914154053
+            },
+            {
+              "token": ".",
+              "logprob": -0.5708185434341431
+            },
+            {
+              "token": " ",
+              "logprob": -4.419306755065918
+            },
+            {
+              "token": " Q",
+              "logprob": -2.5934665203094482
+            },
+            {
+              "token": ":",
+              "logprob": -0.054989613592624664
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Smooth (A) Rock.",
+          "token_data": [
+            {
+              "token": " Smooth",
+              "logprob": -2.375608205795288
+            },
+            {
+              "token": " (",
+              "logprob": -4.102337837219238
+            },
+            {
+              "token": "A",
+              "logprob": -4.022886276245117
+            },
+            {
+              "token": ")",
+              "logprob": -1.561903953552246
+            },
+            {
+              "token": " Rock",
+              "logprob": -4.430788040161133
+            },
+            {
+              "token": ".",
+              "logprob": -2.863900899887085
+            },
+            {
+              "token": "  \n",
+              "logprob": -3.741121768951416
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "flat",
+          "token_data": [
+            {
+              "token": " flat",
+              "logprob": -4.96925163269043
+            },
+            {
+              "token": " Q",
+              "logprob": -2.883122682571411
+            },
+            {
+              "token": ":",
+              "logprob": -0.02079155668616295
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Smooth rock with smooth, flat edges.",
+          "token_data": [
+            {
+              "token": " Smooth",
+              "logprob": -2.375608205795288
+            },
+            {
+              "token": " rock",
+              "logprob": -4.1084794998168945
+            },
+            {
+              "token": " with",
+              "logprob": -3.36361026763916
+            },
+            {
+              "token": " smooth",
+              "logprob": -3.7033820152282715
+            },
+            {
+              "token": ",",
+              "logprob": -1.779429316520691
+            },
+            {
+              "token": " flat",
+              "logprob": -0.1255737990140915
+            },
+            {
+              "token": " edges",
+              "logprob": -2.2010092735290527
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.426079511642456
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "None B: Rough C: Smooth D: Smooth but smooth in different parts of the surface.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.764116048812866
+            },
+            {
+              "token": " B",
+              "logprob": -3.875509262084961
+            },
+            {
+              "token": ":",
+              "logprob": -0.016956238076090813
+            },
+            {
+              "token": " Rough",
+              "logprob": -1.962662696838379
+            },
+            {
+              "token": " C",
+              "logprob": -0.23924344778060913
+            },
+            {
+              "token": ":",
+              "logprob": -0.0068742441944777966
+            },
+            {
+              "token": " Smooth",
+              "logprob": -0.32347723841667175
+            },
+            {
+              "token": " D",
+              "logprob": -1.07633638381958
+            },
+            {
+              "token": ":",
+              "logprob": -0.017888052389025688
+            },
+            {
+              "token": " Smooth",
+              "logprob": -3.013835906982422
+            },
+            {
+              "token": " but",
+              "logprob": -3.7465991973876953
+            },
+            {
+              "token": " smooth",
+              "logprob": -4.3295979499816895
+            },
+            {
+              "token": " in",
+              "logprob": -4.410900592803955
+            },
+            {
+              "token": " different",
+              "logprob": -3.6984751224517822
+            },
+            {
+              "token": " parts",
+              "logprob": -3.6206655502319336
+            },
+            {
+              "token": " of",
+              "logprob": -1.7404160499572754
+            },
+            {
+              "token": " the",
+              "logprob": -0.37253350019454956
+            },
+            {
+              "token": " surface",
+              "logprob": -2.9685275554656982
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.187049627304077
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "a small circle",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -5.161949157714844
+            },
+            {
+              "token": " small",
+              "logprob": -3.8195269107818604
+            },
+            {
+              "token": " circle",
+              "logprob": -3.500006914138794
+            },
+            {
+              "token": "\n",
+              "logprob": -2.8676669597625732
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It had the texture of a flat rock, and Amelia grinned because she had made her stone skip more than 3 times. (It only skipped two times for Leo)",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.733776807785034
+            },
+            {
+              "token": " had",
+              "logprob": -1.3174458742141724
+            },
+            {
+              "token": " the",
+              "logprob": -2.0201849937438965
+            },
+            {
+              "token": " texture",
+              "logprob": -1.0535476207733154
+            },
+            {
+              "token": " of",
+              "logprob": -0.07365495711565018
+            },
+            {
+              "token": " a",
+              "logprob": -0.6023551225662231
+            },
+            {
+              "token": " flat",
+              "logprob": -2.9986343383789062
+            },
+            {
+              "token": " rock",
+              "logprob": -2.1354377269744873
+            },
+            {
+              "token": ",",
+              "logprob": -2.529637336730957
+            },
+            {
+              "token": " and",
+              "logprob": -3.2013487815856934
+            },
+            {
+              "token": " Amelia",
+              "logprob": -3.8374791145324707
+            },
+            {
+              "token": " grinned",
+              "logprob": -4.381683349609375
+            },
+            {
+              "token": " because",
+              "logprob": -3.3943872451782227
+            },
+            {
+              "token": " she",
+              "logprob": -0.6124157905578613
+            },
+            {
+              "token": " had",
+              "logprob": -2.639392852783203
+            },
+            {
+              "token": " made",
+              "logprob": -4.107059478759766
+            },
+            {
+              "token": " her",
+              "logprob": -2.3368735313415527
+            },
+            {
+              "token": " stone",
+              "logprob": -2.310108184814453
+            },
+            {
+              "token": " skip",
+              "logprob": -0.8266541957855225
+            },
+            {
+              "token": " more",
+              "logprob": -3.586735248565674
+            },
+            {
+              "token": " than",
+              "logprob": -0.6752510070800781
+            },
+            {
+              "token": " ",
+              "logprob": -3.2516841888427734
+            },
+            {
+              "token": "3",
+              "logprob": -0.4034516215324402
+            },
+            {
+              "token": " times",
+              "logprob": -0.07824573665857315
+            },
+            {
+              "token": ".",
+              "logprob": -0.7096166610717773
+            },
+            {
+              "token": " (",
+              "logprob": -4.1575026512146
+            },
+            {
+              "token": "It",
+              "logprob": -4.521572113037109
+            },
+            {
+              "token": " only",
+              "logprob": -4.459638595581055
+            },
+            {
+              "token": " skipped",
+              "logprob": -0.7213531136512756
+            },
+            {
+              "token": " two",
+              "logprob": -2.921210765838623
+            },
+            {
+              "token": " times",
+              "logprob": -0.13335420191287994
+            },
+            {
+              "token": " for",
+              "logprob": -1.9199466705322266
+            },
+            {
+              "token": " Leo",
+              "logprob": -0.1373324990272522
+            },
+            {
+              "token": ")",
+              "logprob": -1.9466058015823364
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.111078262329102
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "flat",
+          "token_data": [
+            {
+              "token": " flat",
+              "logprob": -4.96925163269043
+            },
+            {
+              "token": " \n",
+              "logprob": -2.677259683609009
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It should be very smooth and almost as one whole sentence as long as this answer is.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.1539154052734375
+            },
+            {
+              "token": " It",
+              "logprob": -3.318667411804199
+            },
+            {
+              "token": " should",
+              "logprob": -4.009576797485352
+            },
+            {
+              "token": " be",
+              "logprob": -1.7524210214614868
+            },
+            {
+              "token": " very",
+              "logprob": -4.310441017150879
+            },
+            {
+              "token": " smooth",
+              "logprob": -0.6626096963882446
+            },
+            {
+              "token": " and",
+              "logprob": -2.212824821472168
+            },
+            {
+              "token": " almost",
+              "logprob": -4.014852523803711
+            },
+            {
+              "token": " as",
+              "logprob": -3.0753579139709473
+            },
+            {
+              "token": " one",
+              "logprob": -4.155625343322754
+            },
+            {
+              "token": " whole",
+              "logprob": -1.5292474031448364
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.764039933681488
+            },
+            {
+              "token": " as",
+              "logprob": -2.795469284057617
+            },
+            {
+              "token": " long",
+              "logprob": -3.9753243923187256
+            },
+            {
+              "token": " as",
+              "logprob": -0.1747075915336609
+            },
+            {
+              "token": " this",
+              "logprob": -3.667715311050415
+            },
+            {
+              "token": " answer",
+              "logprob": -3.139347553253174
+            },
+            {
+              "token": " is",
+              "logprob": -1.1586313247680664
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.2056846618652344
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "smooth",
+          "token_data": [
+            {
+              "token": " smooth",
+              "logprob": -2.9217336177825928
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.8416881561279297
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What texture did the rock Leo threw have?",
+      "character": "Leo",
+      "story": "Amelia and Leo were best friends who loved playing by the river. One sunny day, they decided to have a skipping contest to see who could make rocks bounce the most on the water. Amelia picked up a smooth, flat stone and smiled. \"Watch this!\" she said. Amelia threw a smooth rock, and it skipped three times before sinking. Leo cheered for her, then grabbed his own rock. He threw it, but it only skipped twice. Amelia laughed and said, \"I won!\" Leo pretended to pout but then grinned. \"Next time, I’ll beat you,\" he said. They kept playing until the sun began to set, taking turns throwing rocks and laughing. As they walked home, Amelia and Leo promised to come back the next day for round two. They didn’t care who won—they just loved having fun together by the river. The smooth rocks and the skipping game made their afternoon perfect.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Smooth or bumpy, or some other?",
+          "token_data": [
+            {
+              "token": " Smooth",
+              "logprob": -2.90964412689209
+            },
+            {
+              "token": " or",
+              "logprob": -3.9886674880981445
+            },
+            {
+              "token": " b",
+              "logprob": -1.782348871231079
+            },
+            {
+              "token": "umpy",
+              "logprob": -0.005339053459465504
+            },
+            {
+              "token": ",",
+              "logprob": -4.2573323249816895
+            },
+            {
+              "token": " or",
+              "logprob": -1.458229899406433
+            },
+            {
+              "token": " some",
+              "logprob": -3.8017091751098633
+            },
+            {
+              "token": " other",
+              "logprob": -0.4433688521385193
+            },
+            {
+              "token": "?",
+              "logprob": -3.1475329399108887
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.2305562496185303
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "smooth and round",
+          "token_data": [
+            {
+              "token": " smooth",
+              "logprob": -3.078584671020508
+            },
+            {
+              "token": " and",
+              "logprob": -3.2129876613616943
+            },
+            {
+              "token": " round",
+              "logprob": -1.9034297466278076
+            },
+            {
+              "token": "\n",
+              "logprob": -1.8884093761444092
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "One of the smooth stones.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -5.099466323852539
+            },
+            {
+              "token": " of",
+              "logprob": -2.6094284057617188
+            },
+            {
+              "token": " the",
+              "logprob": -0.2876550853252411
+            },
+            {
+              "token": " smooth",
+              "logprob": -2.1817522048950195
+            },
+            {
+              "token": " stones",
+              "logprob": -3.1949946880340576
+            },
+            {
+              "token": ".",
+              "logprob": -2.117624282836914
+            },
+            {
+              "token": "  \n",
+              "logprob": -3.7642505168914795
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "smooth, flat and shiny",
+          "token_data": [
+            {
+              "token": " smooth",
+              "logprob": -3.078584671020508
+            },
+            {
+              "token": ",",
+              "logprob": -2.5310981273651123
+            },
+            {
+              "token": " flat",
+              "logprob": -0.32718145847320557
+            },
+            {
+              "token": " and",
+              "logprob": -4.3016157150268555
+            },
+            {
+              "token": " shiny",
+              "logprob": -2.83577823638916
+            },
+            {
+              "token": " Q",
+              "logprob": -2.6402745246887207
+            },
+            {
+              "token": ":",
+              "logprob": -0.03441924601793289
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.915154457092285
+            },
+            {
+              "token": ":",
+              "logprob": -0.36437880992889404
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "How smooth? Was there a blemish? A: Imperical, or otherwise impercal?",
+          "token_data": [
+            {
+              "token": " How",
+              "logprob": -4.878844261169434
+            },
+            {
+              "token": " smooth",
+              "logprob": -2.1197447776794434
+            },
+            {
+              "token": "?",
+              "logprob": -3.4874589443206787
+            },
+            {
+              "token": " Was",
+              "logprob": -3.2720837593078613
+            },
+            {
+              "token": " there",
+              "logprob": -3.0062527656555176
+            },
+            {
+              "token": " a",
+              "logprob": -0.5360085964202881
+            },
+            {
+              "token": " b",
+              "logprob": -4.938007354736328
+            },
+            {
+              "token": "lem",
+              "logprob": -0.8027158379554749
+            },
+            {
+              "token": "ish",
+              "logprob": -0.03159205988049507
+            },
+            {
+              "token": "?",
+              "logprob": -0.968571662902832
+            },
+            {
+              "token": " A",
+              "logprob": -3.148496150970459
+            },
+            {
+              "token": ":",
+              "logprob": -0.368066668510437
+            },
+            {
+              "token": " Imper",
+              "logprob": -5.326526641845703
+            },
+            {
+              "token": "ical",
+              "logprob": -4.009521484375
+            },
+            {
+              "token": ",",
+              "logprob": -3.877837896347046
+            },
+            {
+              "token": " or",
+              "logprob": -2.47623348236084
+            },
+            {
+              "token": " otherwise",
+              "logprob": -4.089448928833008
+            },
+            {
+              "token": " imper",
+              "logprob": -3.017906665802002
+            },
+            {
+              "token": "cal",
+              "logprob": -1.5009245872497559
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -3.2693254947662354
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.613162994384766
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Answer using one whole sentance.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -2.8544397354125977
+            },
+            {
+              "token": " using",
+              "logprob": -0.824520468711853
+            },
+            {
+              "token": " one",
+              "logprob": -0.2588266134262085
+            },
+            {
+              "token": " whole",
+              "logprob": -0.2009742558002472
+            },
+            {
+              "token": " sent",
+              "logprob": -1.683505654335022
+            },
+            {
+              "token": "ance",
+              "logprob": -0.09290318191051483
+            },
+            {
+              "token": ".",
+              "logprob": -0.3540460169315338
+            },
+            {
+              "token": " \n",
+              "logprob": -0.862898588180542
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It needed a texture description to be unique.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.9160242080688477
+            },
+            {
+              "token": " needed",
+              "logprob": -4.068610191345215
+            },
+            {
+              "token": " a",
+              "logprob": -1.6812468767166138
+            },
+            {
+              "token": " texture",
+              "logprob": -2.906960964202881
+            },
+            {
+              "token": " description",
+              "logprob": -2.442228078842163
+            },
+            {
+              "token": " to",
+              "logprob": -2.4912681579589844
+            },
+            {
+              "token": " be",
+              "logprob": -1.5051772594451904
+            },
+            {
+              "token": " unique",
+              "logprob": -5.108728408813477
+            },
+            {
+              "token": ".",
+              "logprob": -0.6929348707199097
+            },
+            {
+              "token": " ",
+              "logprob": -3.5467584133148193
+            },
+            {
+              "token": " Q",
+              "logprob": -2.2557260990142822
+            },
+            {
+              "token": ":",
+              "logprob": -0.05956312641501427
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "smooth",
+          "token_data": [
+            {
+              "token": " smooth",
+              "logprob": -3.078584671020508
+            },
+            {
+              "token": " \n",
+              "logprob": -3.0599935054779053
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

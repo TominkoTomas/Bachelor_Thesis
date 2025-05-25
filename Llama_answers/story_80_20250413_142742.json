@@ -1,0 +1,883 @@
+{
+  "story": "Sophia and Liam were best friends who loved spending time by the river. One sunny day, they decided to go fishing together. Sophia brought her fishing rod, and Liam carried a picnic basket full of snacks. They sat on the rocks near the water, waiting for the fish to bite. Liam talked about his favorite games while Sophia focused on the river. Suddenly, Sophia felt a tug on her line. She stood up quickly and pulled with all her might. \"I got one!\" she shouted. Sophia caught a slippery fish that wiggled and splashed. She laughed as she held it up, proud of her catch. Liam cheered for her and handed her a towel to dry her hands. They decided to let the fish go back into the water. After that, they ate their snacks and talked about what else they could do that day. The sun shone bright, and the river sparkled. It was a perfect day for Sophia and Liam.",
+  "characters": [
+    {
+      "question": "What texture did the fish Sophia caught have?",
+      "character": "Sophia",
+      "story": "Sophia and Liam were best friends who loved spending time by the river. One sunny day, they decided to go fishing together. Sophia brought her fishing rod, and Liam carried a picnic basket full of snacks. They sat on the rocks near the water, waiting for the fish to bite. Liam talked about his favorite games while Sophia focused on the river. Suddenly, Sophia felt a tug on her line. She stood up quickly and pulled with all her might. \"I got one!\" she shouted. Sophia caught a slippery fish that wiggled and splashed. She laughed as she held it up, proud of her catch. Liam cheered for her and handed her a towel to dry her hands. They decided to let the fish go back into the water. After that, they ate their snacks and talked about what else they could do that day. The sun shone bright, and the river sparkled. It was a perfect day for Sophia and Liam.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "What texture did Sophia's fish have?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.857698917388916
+            },
+            {
+              "token": " texture",
+              "logprob": -0.294297993183136
+            },
+            {
+              "token": " did",
+              "logprob": -0.12809023261070251
+            },
+            {
+              "token": " Sophia",
+              "logprob": -1.926216959953308
+            },
+            {
+              "token": "'s",
+              "logprob": -0.8756399154663086
+            },
+            {
+              "token": " fish",
+              "logprob": -0.18840448558330536
+            },
+            {
+              "token": " have",
+              "logprob": -0.18040694296360016
+            },
+            {
+              "token": "?",
+              "logprob": -0.2138487994670868
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.024141788482666
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "slick",
+          "token_data": [
+            {
+              "token": " slick",
+              "logprob": -3.0875377655029297
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.7339630126953125
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The fish wiggled and splashed. She laughed as she held it up, proud of her catch.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.0362796783447266
+            },
+            {
+              "token": " fish",
+              "logprob": -0.37396135926246643
+            },
+            {
+              "token": " w",
+              "logprob": -3.9877724647521973
+            },
+            {
+              "token": "igg",
+              "logprob": -0.014399662613868713
+            },
+            {
+              "token": "led",
+              "logprob": -0.0033263610675930977
+            },
+            {
+              "token": " and",
+              "logprob": -0.5649994015693665
+            },
+            {
+              "token": " spl",
+              "logprob": -0.1400904804468155
+            },
+            {
+              "token": "ashed",
+              "logprob": -0.0044950395822525024
+            },
+            {
+              "token": ".",
+              "logprob": -0.8228495121002197
+            },
+            {
+              "token": " She",
+              "logprob": -2.9781360626220703
+            },
+            {
+              "token": " laughed",
+              "logprob": -0.20406673848628998
+            },
+            {
+              "token": " as",
+              "logprob": -0.2754836976528168
+            },
+            {
+              "token": " she",
+              "logprob": -0.020046371966600418
+            },
+            {
+              "token": " held",
+              "logprob": -0.07983727753162384
+            },
+            {
+              "token": " it",
+              "logprob": -0.05578949674963951
+            },
+            {
+              "token": " up",
+              "logprob": -0.01586669310927391
+            },
+            {
+              "token": ",",
+              "logprob": -0.15783995389938354
+            },
+            {
+              "token": " proud",
+              "logprob": -0.061991143971681595
+            },
+            {
+              "token": " of",
+              "logprob": -0.025865036994218826
+            },
+            {
+              "token": " her",
+              "logprob": -0.006687403656542301
+            },
+            {
+              "token": " catch",
+              "logprob": -0.013019789941608906
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.8401613235473633
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Slippery",
+          "token_data": [
+            {
+              "token": " Slip",
+              "logprob": -1.8415545225143433
+            },
+            {
+              "token": "pery",
+              "logprob": -0.1460888832807541
+            },
+            {
+              "token": "\n",
+              "logprob": -1.3579124212265015
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.517491340637207
+            },
+            {
+              "token": ":",
+              "logprob": -0.6682416796684265
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "slick.",
+          "token_data": [
+            {
+              "token": " slick",
+              "logprob": -3.0875377655029297
+            },
+            {
+              "token": ".",
+              "logprob": -2.8090267181396484
+            },
+            {
+              "token": " ",
+              "logprob": -2.911536693572998
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Slimy and slippery.",
+          "token_data": [
+            {
+              "token": " Slim",
+              "logprob": -4.577353477478027
+            },
+            {
+              "token": "y",
+              "logprob": -0.011013904586434364
+            },
+            {
+              "token": " and",
+              "logprob": -3.005744457244873
+            },
+            {
+              "token": " slippery",
+              "logprob": -1.5557608604431152
+            },
+            {
+              "token": ".",
+              "logprob": -1.0834777355194092
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.5501227378845215
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "What texture did the fish catch have?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.7877273559570312
+            },
+            {
+              "token": " texture",
+              "logprob": -0.27612751722335815
+            },
+            {
+              "token": " did",
+              "logprob": -0.12187059223651886
+            },
+            {
+              "token": " the",
+              "logprob": -0.27231037616729736
+            },
+            {
+              "token": " fish",
+              "logprob": -0.03877698630094528
+            },
+            {
+              "token": " catch",
+              "logprob": -2.871762275695801
+            },
+            {
+              "token": " have",
+              "logprob": -0.24217349290847778
+            },
+            {
+              "token": "?",
+              "logprob": -0.3166990876197815
+            },
+            {
+              "token": " \n",
+              "logprob": -2.092000961303711
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.517491340637207
+            },
+            {
+              "token": ":",
+              "logprob": -0.6682416796684265
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "slippery.",
+          "token_data": [
+            {
+              "token": " slippery",
+              "logprob": -2.5018653869628906
+            },
+            {
+              "token": ".",
+              "logprob": -2.7054920196533203
+            },
+            {
+              "token": " \n",
+              "logprob": -2.236645221710205
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What texture did the fish Liam caught have?",
+      "character": "Liam",
+      "story": "Sophia and Liam were best friends who loved spending time by the river. One sunny day, they decided to go fishing together. Sophia brought her fishing rod, and Liam carried a picnic basket full of snacks. They sat on the rocks near the water, waiting for the fish to bite. Liam talked about his favorite games while Sophia focused on the river. Suddenly, Sophia felt a tug on her line. She stood up quickly and pulled with all her might. \"I got one!\" she shouted. Sophia caught a slippery fish that wiggled and splashed. She laughed as she held it up, proud of her catch. Liam cheered for her and handed her a towel to dry her hands. They decided to let the fish go back into the water. After that, they ate their snacks and talked about what else they could do that day. The sun shone bright, and the river sparkled. It was a perfect day for Sophia and Liam.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Fish that have a scale-like texture, known as \"a fish with a furr\", and are otherwise called a fish.",
+          "token_data": [
+            {
+              "token": " Fish",
+              "logprob": -4.6057658195495605
+            },
+            {
+              "token": " that",
+              "logprob": -4.045129299163818
+            },
+            {
+              "token": " have",
+              "logprob": -1.5450369119644165
+            },
+            {
+              "token": " a",
+              "logprob": -0.728706955909729
+            },
+            {
+              "token": " scale",
+              "logprob": -3.032503366470337
+            },
+            {
+              "token": "-like",
+              "logprob": -0.6534306406974792
+            },
+            {
+              "token": " texture",
+              "logprob": -1.2335562705993652
+            },
+            {
+              "token": ",",
+              "logprob": -2.8402256965637207
+            },
+            {
+              "token": " known",
+              "logprob": -3.6101186275482178
+            },
+            {
+              "token": " as",
+              "logprob": -0.020615236833691597
+            },
+            {
+              "token": " \"",
+              "logprob": -1.5015511512756348
+            },
+            {
+              "token": "a",
+              "logprob": -3.5772206783294678
+            },
+            {
+              "token": " fish",
+              "logprob": -0.7985166311264038
+            },
+            {
+              "token": " with",
+              "logprob": -0.24446509778499603
+            },
+            {
+              "token": " a",
+              "logprob": -0.7604323625564575
+            },
+            {
+              "token": " f",
+              "logprob": -3.082773208618164
+            },
+            {
+              "token": "urr",
+              "logprob": -2.4512202739715576
+            },
+            {
+              "token": "\",",
+              "logprob": -2.77526593208313
+            },
+            {
+              "token": " and",
+              "logprob": -3.8728766441345215
+            },
+            {
+              "token": " are",
+              "logprob": -3.0698559284210205
+            },
+            {
+              "token": " otherwise",
+              "logprob": -4.80557918548584
+            },
+            {
+              "token": " called",
+              "logprob": -2.361602783203125
+            },
+            {
+              "token": " a",
+              "logprob": -2.6476473808288574
+            },
+            {
+              "token": " fish",
+              "logprob": -1.3575608730316162
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.774789333343506
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Slippery.",
+          "token_data": [
+            {
+              "token": " Slip",
+              "logprob": -2.332261323928833
+            },
+            {
+              "token": "pery",
+              "logprob": -0.19499562680721283
+            },
+            {
+              "token": ".",
+              "logprob": -2.1129746437072754
+            },
+            {
+              "token": " \n",
+              "logprob": -2.4291749000549316
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Fish that are slippery like the ones in this story are often referred to as being sludgy. (You'll have to read the text for the next question)",
+          "token_data": [
+            {
+              "token": " Fish",
+              "logprob": -4.51213264465332
+            },
+            {
+              "token": " that",
+              "logprob": -4.047929763793945
+            },
+            {
+              "token": " are",
+              "logprob": -2.0618014335632324
+            },
+            {
+              "token": " slippery",
+              "logprob": -0.8469823598861694
+            },
+            {
+              "token": " like",
+              "logprob": -2.696274757385254
+            },
+            {
+              "token": " the",
+              "logprob": -1.3503355979919434
+            },
+            {
+              "token": " ones",
+              "logprob": -2.875204563140869
+            },
+            {
+              "token": " in",
+              "logprob": -1.9898505210876465
+            },
+            {
+              "token": " this",
+              "logprob": -0.5126105546951294
+            },
+            {
+              "token": " story",
+              "logprob": -0.970406174659729
+            },
+            {
+              "token": " are",
+              "logprob": -1.2509022951126099
+            },
+            {
+              "token": " often",
+              "logprob": -3.300116539001465
+            },
+            {
+              "token": " referred",
+              "logprob": -1.4268876314163208
+            },
+            {
+              "token": " to",
+              "logprob": -0.012550069019198418
+            },
+            {
+              "token": " as",
+              "logprob": -0.07671766728162766
+            },
+            {
+              "token": " being",
+              "logprob": -2.4184536933898926
+            },
+            {
+              "token": " sl",
+              "logprob": -3.9003586769104004
+            },
+            {
+              "token": "ud",
+              "logprob": -2.930631160736084
+            },
+            {
+              "token": "gy",
+              "logprob": -0.04666616767644882
+            },
+            {
+              "token": ".",
+              "logprob": -0.5421590209007263
+            },
+            {
+              "token": " (",
+              "logprob": -4.132042407989502
+            },
+            {
+              "token": "You",
+              "logprob": -4.4262375831604
+            },
+            {
+              "token": "'ll",
+              "logprob": -3.862545967102051
+            },
+            {
+              "token": " have",
+              "logprob": -1.5497545003890991
+            },
+            {
+              "token": " to",
+              "logprob": -0.03366132825613022
+            },
+            {
+              "token": " read",
+              "logprob": -2.125257730484009
+            },
+            {
+              "token": " the",
+              "logprob": -0.7223138809204102
+            },
+            {
+              "token": " text",
+              "logprob": -2.5281176567077637
+            },
+            {
+              "token": " for",
+              "logprob": -3.5899951457977295
+            },
+            {
+              "token": " the",
+              "logprob": -1.1340811252593994
+            },
+            {
+              "token": " next",
+              "logprob": -3.221207618713379
+            },
+            {
+              "token": " question",
+              "logprob": -1.3673381805419922
+            },
+            {
+              "token": ")\n",
+              "logprob": -3.6515278816223145
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "We need more details. Maybe tell us the texture of the fish you got?",
+          "token_data": [
+            {
+              "token": " We",
+              "logprob": -5.000034332275391
+            },
+            {
+              "token": " need",
+              "logprob": -4.050292015075684
+            },
+            {
+              "token": " more",
+              "logprob": -1.1387463808059692
+            },
+            {
+              "token": " details",
+              "logprob": -0.7576034069061279
+            },
+            {
+              "token": ".",
+              "logprob": -1.7907099723815918
+            },
+            {
+              "token": " Maybe",
+              "logprob": -4.851044654846191
+            },
+            {
+              "token": " tell",
+              "logprob": -4.404359340667725
+            },
+            {
+              "token": " us",
+              "logprob": -0.2239641398191452
+            },
+            {
+              "token": " the",
+              "logprob": -2.602851390838623
+            },
+            {
+              "token": " texture",
+              "logprob": -3.3793656826019287
+            },
+            {
+              "token": " of",
+              "logprob": -0.2851276993751526
+            },
+            {
+              "token": " the",
+              "logprob": -0.2553180158138275
+            },
+            {
+              "token": " fish",
+              "logprob": -0.2753331661224365
+            },
+            {
+              "token": " you",
+              "logprob": -2.4719178676605225
+            },
+            {
+              "token": " got",
+              "logprob": -3.3380231857299805
+            },
+            {
+              "token": "?\n",
+              "logprob": -4.27786922454834
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "shiny, smooth",
+          "token_data": [
+            {
+              "token": " shiny",
+              "logprob": -4.83933162689209
+            },
+            {
+              "token": ",",
+              "logprob": -3.0905375480651855
+            },
+            {
+              "token": " smooth",
+              "logprob": -2.292618751525879
+            },
+            {
+              "token": " \n",
+              "logprob": -3.439840793609619
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The fish Liam caught did not have a specific texture. The texture was smooth.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.8554184436798096
+            },
+            {
+              "token": " fish",
+              "logprob": -0.40607503056526184
+            },
+            {
+              "token": " Liam",
+              "logprob": -1.8195326328277588
+            },
+            {
+              "token": " caught",
+              "logprob": -0.04578220471739769
+            },
+            {
+              "token": " did",
+              "logprob": -3.5770721435546875
+            },
+            {
+              "token": " not",
+              "logprob": -0.09750406444072723
+            },
+            {
+              "token": " have",
+              "logprob": -0.06030828505754471
+            },
+            {
+              "token": " a",
+              "logprob": -0.34193652868270874
+            },
+            {
+              "token": " specific",
+              "logprob": -2.9715614318847656
+            },
+            {
+              "token": " texture",
+              "logprob": -0.03512008115649223
+            },
+            {
+              "token": ".",
+              "logprob": -0.42336589097976685
+            },
+            {
+              "token": " The",
+              "logprob": -2.179635524749756
+            },
+            {
+              "token": " texture",
+              "logprob": -2.8637642860412598
+            },
+            {
+              "token": " was",
+              "logprob": -1.6090084314346313
+            },
+            {
+              "token": " smooth",
+              "logprob": -3.3382976055145264
+            },
+            {
+              "token": ".",
+              "logprob": -1.3332405090332031
+            },
+            {
+              "token": " ",
+              "logprob": -2.8776931762695312
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "wet",
+          "token_data": [
+            {
+              "token": " wet",
+              "logprob": -4.1725969314575195
+            },
+            {
+              "token": " \n",
+              "logprob": -2.7702951431274414
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "It was very wet!",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.8854992389678955
+            },
+            {
+              "token": " was",
+              "logprob": -0.9011789560317993
+            },
+            {
+              "token": " very",
+              "logprob": -3.3785531520843506
+            },
+            {
+              "token": " wet",
+              "logprob": -3.2123568058013916
+            },
+            {
+              "token": "!",
+              "logprob": -3.333277702331543
+            },
+            {
+              "token": " Q",
+              "logprob": -1.1880598068237305
+            },
+            {
+              "token": ":",
+              "logprob": -0.026623543351888657
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Slippery B: Slithy",
+          "token_data": [
+            {
+              "token": " Slip",
+              "logprob": -2.332261323928833
+            },
+            {
+              "token": "pery",
+              "logprob": -0.19499562680721283
+            },
+            {
+              "token": " B",
+              "logprob": -3.2197318077087402
+            },
+            {
+              "token": ":",
+              "logprob": -0.019220301881432533
+            },
+            {
+              "token": " Sl",
+              "logprob": -2.8456828594207764
+            },
+            {
+              "token": "ith",
+              "logprob": -1.0819847583770752
+            },
+            {
+              "token": "y",
+              "logprob": -0.36874520778656006
+            },
+            {
+              "token": " Q",
+              "logprob": -3.3100674152374268
+            },
+            {
+              "token": ":",
+              "logprob": -0.06750471144914627
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "It had a wet texture.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.8854992389678955
+            },
+            {
+              "token": " had",
+              "logprob": -1.1109625101089478
+            },
+            {
+              "token": " a",
+              "logprob": -0.1810590624809265
+            },
+            {
+              "token": " wet",
+              "logprob": -2.878868579864502
+            },
+            {
+              "token": " texture",
+              "logprob": -0.7971208095550537
+            },
+            {
+              "token": ".",
+              "logprob": -0.5924049019813538
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0854527950286865
+            },
+            {
+              "token": ":",
+              "logprob": -0.0323539674282074
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

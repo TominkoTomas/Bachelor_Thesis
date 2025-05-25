@@ -1,0 +1,991 @@
+{
+  "story": "Evelyn and Mia were best friends who loved exploring old places. One day, they found an abandoned house near the woods. \"Let’s go inside!\" Mia said excitedly. Evelyn nodded, and they pushed the rusty front door open. The house was dark and dusty, but they weren’t scared. Mia looked around for hidden treasures while Evelyn walked to the back room. There, she saw a small window covered in cobwebs. Evelyn opened a creaky window, letting sunlight flood the room. Outside, she spotted a family of deer grazing peacefully. \"Mia, come see this!\" Evelyn called. Mia ran over and gasped at the beautiful sight. They watched the deer until the sun began to set. \"We should go home now,\" Mia said. Evelyn closed the window, and they left the house, happy with their adventure. That night, they dreamed of finding more exciting places together. The end.",
+  "characters": [
+    {
+      "question": "What sound did the window Evelyn opened make?",
+      "character": "Evelyn",
+      "story": "Evelyn and Mia were best friends who loved exploring old places. One day, they found an abandoned house near the woods. \"Let’s go inside!\" Mia said excitedly. Evelyn nodded, and they pushed the rusty front door open. The house was dark and dusty, but they weren’t scared. Mia looked around for hidden treasures while Evelyn walked to the back room. There, she saw a small window covered in cobwebs. Evelyn opened a creaky window, letting sunlight flood the room. Outside, she spotted a family of deer grazing peacefully. \"Mia, come see this!\" Evelyn called. Mia ran over and gasped at the beautiful sight. They watched the deer until the sun began to set. \"We should go home now,\" Mia said. Evelyn closed the window, and they left the house, happy with their adventure. That night, they dreamed of finding more exciting places together. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Nothing at all, since this is an adjective and a gerund, you'll need both in your answer.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -4.132051467895508
+            },
+            {
+              "token": " at",
+              "logprob": -3.5903406143188477
+            },
+            {
+              "token": " all",
+              "logprob": -0.0949469804763794
+            },
+            {
+              "token": ",",
+              "logprob": -2.618316411972046
+            },
+            {
+              "token": " since",
+              "logprob": -2.8864903450012207
+            },
+            {
+              "token": " this",
+              "logprob": -3.5909316539764404
+            },
+            {
+              "token": " is",
+              "logprob": -1.3012747764587402
+            },
+            {
+              "token": " an",
+              "logprob": -2.4300031661987305
+            },
+            {
+              "token": " adjective",
+              "logprob": -4.351191520690918
+            },
+            {
+              "token": " and",
+              "logprob": -2.443363666534424
+            },
+            {
+              "token": " a",
+              "logprob": -2.261133909225464
+            },
+            {
+              "token": " ger",
+              "logprob": -1.7254221439361572
+            },
+            {
+              "token": "und",
+              "logprob": -0.05083411559462547
+            },
+            {
+              "token": ",",
+              "logprob": -1.7768281698226929
+            },
+            {
+              "token": " you",
+              "logprob": -2.278775215148926
+            },
+            {
+              "token": "'ll",
+              "logprob": -4.027143955230713
+            },
+            {
+              "token": " need",
+              "logprob": -0.6569132804870605
+            },
+            {
+              "token": " both",
+              "logprob": -2.9015915393829346
+            },
+            {
+              "token": " in",
+              "logprob": -3.0858325958251953
+            },
+            {
+              "token": " your",
+              "logprob": -1.370385766029358
+            },
+            {
+              "token": " answer",
+              "logprob": -0.5582290291786194
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.394796371459961
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "This sentence.",
+          "token_data": [
+            {
+              "token": " This",
+              "logprob": -5.031660079956055
+            },
+            {
+              "token": " sentence",
+              "logprob": -2.692275047302246
+            },
+            {
+              "token": ".",
+              "logprob": -1.4846408367156982
+            },
+            {
+              "token": " ",
+              "logprob": -3.46044659614563
+            },
+            {
+              "token": " Q",
+              "logprob": -1.73704195022583
+            },
+            {
+              "token": ":",
+              "logprob": -0.03999340906739235
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "What sound did the window Evelyn opened make?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.9559123516082764
+            },
+            {
+              "token": " sound",
+              "logprob": -0.1506064087152481
+            },
+            {
+              "token": " did",
+              "logprob": -0.14135754108428955
+            },
+            {
+              "token": " the",
+              "logprob": -0.10220614075660706
+            },
+            {
+              "token": " window",
+              "logprob": -0.1823139488697052
+            },
+            {
+              "token": " Evelyn",
+              "logprob": -0.4174656271934509
+            },
+            {
+              "token": " opened",
+              "logprob": -0.24503177404403687
+            },
+            {
+              "token": " make",
+              "logprob": -0.07307925075292587
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.0867319107055664
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "none",
+          "token_data": [
+            {
+              "token": " none",
+              "logprob": -4.305807113647461
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.889413356781006
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Answer by comparing sounds to find what they were.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.345114707946777
+            },
+            {
+              "token": " by",
+              "logprob": -3.545243740081787
+            },
+            {
+              "token": " comparing",
+              "logprob": -4.710883140563965
+            },
+            {
+              "token": " sounds",
+              "logprob": -2.9710822105407715
+            },
+            {
+              "token": " to",
+              "logprob": -1.817665457725525
+            },
+            {
+              "token": " find",
+              "logprob": -3.9505045413970947
+            },
+            {
+              "token": " what",
+              "logprob": -3.4146642684936523
+            },
+            {
+              "token": " they",
+              "logprob": -3.071354389190674
+            },
+            {
+              "token": " were",
+              "logprob": -2.2985286712646484
+            },
+            {
+              "token": ".",
+              "logprob": -1.9546529054641724
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.4296634197235107
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A. Music (they would be too excited.) B. A squeak (since they would have closed the window on a crack, a loud sound would need to make them move it again.) C. A pop (which it may not even work right.)",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.166278600692749
+            },
+            {
+              "token": ".",
+              "logprob": -3.7575721740722656
+            },
+            {
+              "token": " Music",
+              "logprob": -4.863471984863281
+            },
+            {
+              "token": " (",
+              "logprob": -4.1971893310546875
+            },
+            {
+              "token": "they",
+              "logprob": -5.227939605712891
+            },
+            {
+              "token": " would",
+              "logprob": -3.8916850090026855
+            },
+            {
+              "token": " be",
+              "logprob": -1.9929674863815308
+            },
+            {
+              "token": " too",
+              "logprob": -4.336625576019287
+            },
+            {
+              "token": " excited",
+              "logprob": -2.1368472576141357
+            },
+            {
+              "token": ".)",
+              "logprob": -3.8715128898620605
+            },
+            {
+              "token": " B",
+              "logprob": -0.23640155792236328
+            },
+            {
+              "token": ".",
+              "logprob": -0.6153586506843567
+            },
+            {
+              "token": " A",
+              "logprob": -1.6156885623931885
+            },
+            {
+              "token": " sque",
+              "logprob": -3.2379934787750244
+            },
+            {
+              "token": "ak",
+              "logprob": -0.6652257442474365
+            },
+            {
+              "token": " (",
+              "logprob": -0.5010576248168945
+            },
+            {
+              "token": "since",
+              "logprob": -5.205784797668457
+            },
+            {
+              "token": " they",
+              "logprob": -1.7179244756698608
+            },
+            {
+              "token": " would",
+              "logprob": -1.9928745031356812
+            },
+            {
+              "token": " have",
+              "logprob": -2.662838935852051
+            },
+            {
+              "token": " closed",
+              "logprob": -3.7219834327697754
+            },
+            {
+              "token": " the",
+              "logprob": -0.654830813407898
+            },
+            {
+              "token": " window",
+              "logprob": -0.19067181646823883
+            },
+            {
+              "token": " on",
+              "logprob": -4.344029903411865
+            },
+            {
+              "token": " a",
+              "logprob": -2.298757314682007
+            },
+            {
+              "token": " crack",
+              "logprob": -3.987548828125
+            },
+            {
+              "token": ",",
+              "logprob": -3.373060941696167
+            },
+            {
+              "token": " a",
+              "logprob": -2.898287534713745
+            },
+            {
+              "token": " loud",
+              "logprob": -3.5544023513793945
+            },
+            {
+              "token": " sound",
+              "logprob": -1.0043836832046509
+            },
+            {
+              "token": " would",
+              "logprob": -0.7449290752410889
+            },
+            {
+              "token": " need",
+              "logprob": -4.603196144104004
+            },
+            {
+              "token": " to",
+              "logprob": -0.11965292692184448
+            },
+            {
+              "token": " make",
+              "logprob": -2.9390294551849365
+            },
+            {
+              "token": " them",
+              "logprob": -2.6302661895751953
+            },
+            {
+              "token": " move",
+              "logprob": -3.6402671337127686
+            },
+            {
+              "token": " it",
+              "logprob": -3.33135986328125
+            },
+            {
+              "token": " again",
+              "logprob": -1.8765562772750854
+            },
+            {
+              "token": ".)",
+              "logprob": -0.8061828017234802
+            },
+            {
+              "token": " C",
+              "logprob": -0.1484820395708084
+            },
+            {
+              "token": ".",
+              "logprob": -0.11728158593177795
+            },
+            {
+              "token": " A",
+              "logprob": -0.6540127992630005
+            },
+            {
+              "token": " pop",
+              "logprob": -3.258610963821411
+            },
+            {
+              "token": " (",
+              "logprob": -0.1825239360332489
+            },
+            {
+              "token": "which",
+              "logprob": -3.7002201080322266
+            },
+            {
+              "token": " it",
+              "logprob": -3.7524912357330322
+            },
+            {
+              "token": " may",
+              "logprob": -4.658482074737549
+            },
+            {
+              "token": " not",
+              "logprob": -2.9694838523864746
+            },
+            {
+              "token": " even",
+              "logprob": -3.026092767715454
+            },
+            {
+              "token": " work",
+              "logprob": -4.0168375968933105
+            },
+            {
+              "token": " right",
+              "logprob": -4.155501842498779
+            },
+            {
+              "token": ".)\n",
+              "logprob": -4.416934013366699
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A click",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.166278600692749
+            },
+            {
+              "token": " click",
+              "logprob": -4.040687561035156
+            },
+            {
+              "token": "\n",
+              "logprob": -2.234955310821533
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "It made the sound of sunshine.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.7459561824798584
+            },
+            {
+              "token": " made",
+              "logprob": -0.48709985613822937
+            },
+            {
+              "token": " the",
+              "logprob": -2.811748504638672
+            },
+            {
+              "token": " sound",
+              "logprob": -0.446127712726593
+            },
+            {
+              "token": " of",
+              "logprob": -0.17354686558246613
+            },
+            {
+              "token": " sunshine",
+              "logprob": -4.240956783294678
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.446636199951172
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It made a sound, but the room became dark and it was time to go. It was a perfect day to explore more places in the future.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.7459561824798584
+            },
+            {
+              "token": " made",
+              "logprob": -0.48709985613822937
+            },
+            {
+              "token": " a",
+              "logprob": -0.3389090299606323
+            },
+            {
+              "token": " sound",
+              "logprob": -1.1579443216323853
+            },
+            {
+              "token": ",",
+              "logprob": -3.70257306098938
+            },
+            {
+              "token": " but",
+              "logprob": -1.358480453491211
+            },
+            {
+              "token": " the",
+              "logprob": -2.6652989387512207
+            },
+            {
+              "token": " room",
+              "logprob": -4.6495490074157715
+            },
+            {
+              "token": " became",
+              "logprob": -2.9516658782958984
+            },
+            {
+              "token": " dark",
+              "logprob": -1.5741406679153442
+            },
+            {
+              "token": " and",
+              "logprob": -1.1904007196426392
+            },
+            {
+              "token": " it",
+              "logprob": -3.457603931427002
+            },
+            {
+              "token": " was",
+              "logprob": -1.3284413814544678
+            },
+            {
+              "token": " time",
+              "logprob": -2.9550468921661377
+            },
+            {
+              "token": " to",
+              "logprob": -0.23997657001018524
+            },
+            {
+              "token": " go",
+              "logprob": -0.8014022707939148
+            },
+            {
+              "token": ".",
+              "logprob": -2.082657814025879
+            },
+            {
+              "token": " It",
+              "logprob": -3.470123767852783
+            },
+            {
+              "token": " was",
+              "logprob": -0.22946253418922424
+            },
+            {
+              "token": " a",
+              "logprob": -2.9041459560394287
+            },
+            {
+              "token": " perfect",
+              "logprob": -2.4406609535217285
+            },
+            {
+              "token": " day",
+              "logprob": -0.7998091578483582
+            },
+            {
+              "token": " to",
+              "logprob": -0.9235662221908569
+            },
+            {
+              "token": " explore",
+              "logprob": -1.131852626800537
+            },
+            {
+              "token": " more",
+              "logprob": -3.67124080657959
+            },
+            {
+              "token": " places",
+              "logprob": -1.3890455961227417
+            },
+            {
+              "token": " in",
+              "logprob": -4.152060508728027
+            },
+            {
+              "token": " the",
+              "logprob": -0.7062397003173828
+            },
+            {
+              "token": " future",
+              "logprob": -1.7161906957626343
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.5777432918548584
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.260919570922852
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What sound did the window Mia opened make?",
+      "character": "Mia",
+      "story": "Evelyn and Mia were best friends who loved exploring old places. One day, they found an abandoned house near the woods. \"Let’s go inside!\" Mia said excitedly. Evelyn nodded, and they pushed the rusty front door open. The house was dark and dusty, but they weren’t scared. Mia looked around for hidden treasures while Evelyn walked to the back room. There, she saw a small window covered in cobwebs. Evelyn opened a creaky window, letting sunlight flood the room. Outside, she spotted a family of deer grazing peacefully. \"Mia, come see this!\" Evelyn called. Mia ran over and gasped at the beautiful sight. They watched the deer until the sun began to set. \"We should go home now,\" Mia said. Evelyn closed the window, and they left the house, happy with their adventure. That night, they dreamed of finding more exciting places together. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "creaky.",
+          "token_data": [
+            {
+              "token": " c",
+              "logprob": -4.562277317047119
+            },
+            {
+              "token": "reak",
+              "logprob": -0.05989282578229904
+            },
+            {
+              "token": "y",
+              "logprob": -1.4157326221466064
+            },
+            {
+              "token": ".",
+              "logprob": -2.6818134784698486
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9686960577964783
+            },
+            {
+              "token": ":",
+              "logprob": -0.022718049585819244
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The sound it made was the sound of a creek.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.855166435241699
+            },
+            {
+              "token": " sound",
+              "logprob": -0.22954127192497253
+            },
+            {
+              "token": " it",
+              "logprob": -2.886906623840332
+            },
+            {
+              "token": " made",
+              "logprob": -0.11033429205417633
+            },
+            {
+              "token": " was",
+              "logprob": -0.20528842508792877
+            },
+            {
+              "token": " the",
+              "logprob": -1.2279083728790283
+            },
+            {
+              "token": " sound",
+              "logprob": -0.5615991353988647
+            },
+            {
+              "token": " of",
+              "logprob": -0.17096315324306488
+            },
+            {
+              "token": " a",
+              "logprob": -1.6424143314361572
+            },
+            {
+              "token": " creek",
+              "logprob": -5.559171676635742
+            },
+            {
+              "token": ".",
+              "logprob": -0.587520182132721
+            },
+            {
+              "token": " Q",
+              "logprob": -1.564355492591858
+            },
+            {
+              "token": ":",
+              "logprob": -0.024282773956656456
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Nothing.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -4.471349716186523
+            },
+            {
+              "token": ".",
+              "logprob": -0.9796626567840576
+            },
+            {
+              "token": " \n",
+              "logprob": -1.6124883890151978
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "it let the sunlight into the room.",
+          "token_data": [
+            {
+              "token": " it",
+              "logprob": -4.640773773193359
+            },
+            {
+              "token": " let",
+              "logprob": -3.120894193649292
+            },
+            {
+              "token": " the",
+              "logprob": -2.028214454650879
+            },
+            {
+              "token": " sunlight",
+              "logprob": -0.8633052110671997
+            },
+            {
+              "token": " into",
+              "logprob": -3.3542351722717285
+            },
+            {
+              "token": " the",
+              "logprob": -0.11623486876487732
+            },
+            {
+              "token": " room",
+              "logprob": -0.09247464686632156
+            },
+            {
+              "token": ".",
+              "logprob": -0.8818183541297913
+            },
+            {
+              "token": " ",
+              "logprob": -2.8143720626831055
+            },
+            {
+              "token": " Q",
+              "logprob": -1.4753460884094238
+            },
+            {
+              "token": ":",
+              "logprob": -0.04492972046136856
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The sound was a small window opening, making you happy.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.855166435241699
+            },
+            {
+              "token": " sound",
+              "logprob": -0.22954127192497253
+            },
+            {
+              "token": " was",
+              "logprob": -3.413656234741211
+            },
+            {
+              "token": " a",
+              "logprob": -1.1105176210403442
+            },
+            {
+              "token": " small",
+              "logprob": -3.783781051635742
+            },
+            {
+              "token": " window",
+              "logprob": -0.9732287526130676
+            },
+            {
+              "token": " opening",
+              "logprob": -2.259518623352051
+            },
+            {
+              "token": ",",
+              "logprob": -2.8550915718078613
+            },
+            {
+              "token": " making",
+              "logprob": -3.149359703063965
+            },
+            {
+              "token": " you",
+              "logprob": -4.2974066734313965
+            },
+            {
+              "token": " happy",
+              "logprob": -3.285649061203003
+            },
+            {
+              "token": ".",
+              "logprob": -0.7820785641670227
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.129323482513428
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A creaking window.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.2106151580810547
+            },
+            {
+              "token": " c",
+              "logprob": -4.232282638549805
+            },
+            {
+              "token": "reak",
+              "logprob": -0.019456490874290466
+            },
+            {
+              "token": "ing",
+              "logprob": -1.0090713500976562
+            },
+            {
+              "token": " window",
+              "logprob": -0.8833022713661194
+            },
+            {
+              "token": ".",
+              "logprob": -0.91965651512146
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Gasped",
+          "token_data": [
+            {
+              "token": " Gas",
+              "logprob": -5.028751373291016
+            },
+            {
+              "token": "ped",
+              "logprob": -0.10328216105699539
+            },
+            {
+              "token": " Q",
+              "logprob": -1.8304717540740967
+            },
+            {
+              "token": ":",
+              "logprob": -0.035442985594272614
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Wind.",
+          "token_data": [
+            {
+              "token": " Wind",
+              "logprob": -4.568117141723633
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.310508728027344
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Gasped.",
+          "token_data": [
+            {
+              "token": " Gas",
+              "logprob": -5.028751373291016
+            },
+            {
+              "token": "ped",
+              "logprob": -0.10328216105699539
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.27745246887207
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "3.     b: 0",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.7832889556884766
+            },
+            {
+              "token": "3",
+              "logprob": -4.139507293701172
+            },
+            {
+              "token": ".",
+              "logprob": -1.087937593460083
+            },
+            {
+              "token": "    ",
+              "logprob": -4.852407455444336
+            },
+            {
+              "token": " b",
+              "logprob": -4.125861167907715
+            },
+            {
+              "token": ":",
+              "logprob": -0.3740446865558624
+            },
+            {
+              "token": " ",
+              "logprob": -0.7041764259338379
+            },
+            {
+              "token": "0",
+              "logprob": -4.035792350769043
+            },
+            {
+              "token": "\n",
+              "logprob": -3.579040050506592
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

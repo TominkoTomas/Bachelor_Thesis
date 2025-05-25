@@ -1,0 +1,655 @@
+{
+  "story": "One sunny day, Ella and Ethan played in the backyard. Ella was digging near a big tree when she saw something shiny. She picked it up and smiled. Ella found a blue key. \"Look, Ethan!\" she said. Ethan was busy building a sandcastle and didn’t hear her. Ella wondered what the key opened. She searched around and saw an old wooden box under the tree. She tried the key, and it fit! Inside the box was a map. Ella called Ethan over to see. Ethan stopped building and ran to her. \"Wow!\" he said. The map showed a path to a hidden treasure in their garden. They followed the map and dug where the X marked the spot. They found a small chest full of colorful stones. Ella and Ethan were happy. They decided to share the treasure and keep the blue key as a special memory of their adventure.",
+  "characters": [
+    {
+      "question": "What did Ella find?",
+      "character": "Ella",
+      "story": "One sunny day, Ella and Ethan played in the backyard. Ella was digging near a big tree when she saw something shiny. She picked it up and smiled. Ella found a blue key. \"Look, Ethan!\" she said. Ethan was busy building a sandcastle and didn’t hear her. Ella wondered what the key opened. She searched around and saw an old wooden box under the tree. She tried the key, and it fit! Inside the box was a map. Ella called Ethan over to see. Ethan stopped building and ran to her. \"Wow!\" he said. The map showed a path to a hidden treasure in their garden. They followed the map and dug where the X marked the spot. They found a small chest full of colorful stones. Ella and Ethan were happy. They decided to share the treasure and keep the blue key as a special memory of their adventure.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "a box.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.457953929901123
+            },
+            {
+              "token": " box",
+              "logprob": -3.358410120010376
+            },
+            {
+              "token": ".",
+              "logprob": -1.1970887184143066
+            },
+            {
+              "token": " \n",
+              "logprob": -1.4229538440704346
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "What did Ella find?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.0951242446899414
+            },
+            {
+              "token": " did",
+              "logprob": -0.24741767346858978
+            },
+            {
+              "token": " Ella",
+              "logprob": -0.18489211797714233
+            },
+            {
+              "token": " find",
+              "logprob": -0.10708802938461304
+            },
+            {
+              "token": "?\n",
+              "logprob": -1.613701343536377
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "blue key.",
+          "token_data": [
+            {
+              "token": " blue",
+              "logprob": -2.8701372146606445
+            },
+            {
+              "token": " key",
+              "logprob": -0.125518798828125
+            },
+            {
+              "token": ".",
+              "logprob": -1.8603628873825073
+            },
+            {
+              "token": "  \n",
+              "logprob": -3.5137014389038086
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "A Blue Key",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.3555021286010742
+            },
+            {
+              "token": " Blue",
+              "logprob": -2.726498603820801
+            },
+            {
+              "token": " Key",
+              "logprob": -0.20739538967609406
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.1419100761413574
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.6534509658813477
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "What did Ella find?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.0951242446899414
+            },
+            {
+              "token": " did",
+              "logprob": -0.24741767346858978
+            },
+            {
+              "token": " Ella",
+              "logprob": -0.18489211797714233
+            },
+            {
+              "token": " find",
+              "logprob": -0.10708802938461304
+            },
+            {
+              "token": "?\n",
+              "logprob": -1.613701343536377
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "She found a blue key and inside a box.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.819136619567871
+            },
+            {
+              "token": " She",
+              "logprob": -3.349943161010742
+            },
+            {
+              "token": " found",
+              "logprob": -0.1507861465215683
+            },
+            {
+              "token": " a",
+              "logprob": -0.10288288444280624
+            },
+            {
+              "token": " blue",
+              "logprob": -0.42777854204177856
+            },
+            {
+              "token": " key",
+              "logprob": -0.028216829523444176
+            },
+            {
+              "token": " and",
+              "logprob": -3.175823211669922
+            },
+            {
+              "token": " inside",
+              "logprob": -4.159532070159912
+            },
+            {
+              "token": " a",
+              "logprob": -2.3209667205810547
+            },
+            {
+              "token": " box",
+              "logprob": -0.4590449333190918
+            },
+            {
+              "token": ".",
+              "logprob": -1.0886077880859375
+            },
+            {
+              "token": " \n",
+              "logprob": -0.9241488575935364
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "a blue key",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.453549385070801
+            },
+            {
+              "token": " blue",
+              "logprob": -0.758838415145874
+            },
+            {
+              "token": " key",
+              "logprob": -0.029181400313973427
+            },
+            {
+              "token": " Q",
+              "logprob": -3.6778881549835205
+            },
+            {
+              "token": ":",
+              "logprob": -0.01888556033372879
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.6534509658813477
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "a map",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.453549385070801
+            },
+            {
+              "token": " map",
+              "logprob": -3.2306067943573
+            },
+            {
+              "token": " Q",
+              "logprob": -2.9004435539245605
+            },
+            {
+              "token": ":",
+              "logprob": -0.01951950415968895
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What did Ethan find?",
+      "character": "Ethan",
+      "story": "One sunny day, Ella and Ethan played in the backyard. Ella was digging near a big tree when she saw something shiny. She picked it up and smiled. Ella found a blue key. \"Look, Ethan!\" she said. Ethan was busy building a sandcastle and didn’t hear her. Ella wondered what the key opened. She searched around and saw an old wooden box under the tree. She tried the key, and it fit! Inside the box was a map. Ella called Ethan over to see. Ethan stopped building and ran to her. \"Wow!\" he said. The map showed a path to a hidden treasure in their garden. They followed the map and dug where the X marked the spot. They found a small chest full of colorful stones. Ella and Ethan were happy. They decided to share the treasure and keep the blue key as a special memory of their adventure.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "He found the blue key.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -3.6946487426757812
+            },
+            {
+              "token": " found",
+              "logprob": -0.17041730880737305
+            },
+            {
+              "token": " the",
+              "logprob": -2.3645217418670654
+            },
+            {
+              "token": " blue",
+              "logprob": -0.8161152601242065
+            },
+            {
+              "token": " key",
+              "logprob": -0.0257865060120821
+            },
+            {
+              "token": ".",
+              "logprob": -0.612707793712616
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.847271680831909
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Ethan found a box.",
+          "token_data": [
+            {
+              "token": " Ethan",
+              "logprob": -1.9815354347229004
+            },
+            {
+              "token": " found",
+              "logprob": -0.3880619406700134
+            },
+            {
+              "token": " a",
+              "logprob": -0.2890363335609436
+            },
+            {
+              "token": " box",
+              "logprob": -2.8656020164489746
+            },
+            {
+              "token": ".",
+              "logprob": -1.3126667737960815
+            },
+            {
+              "token": " ",
+              "logprob": -2.8615665435791016
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8942039012908936
+            },
+            {
+              "token": ":",
+              "logprob": -0.0220202449709177
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "He found the blue key.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -3.7163243293762207
+            },
+            {
+              "token": " found",
+              "logprob": -0.17010842263698578
+            },
+            {
+              "token": " the",
+              "logprob": -2.363560676574707
+            },
+            {
+              "token": " blue",
+              "logprob": -0.8210599422454834
+            },
+            {
+              "token": " key",
+              "logprob": -0.024986790493130684
+            },
+            {
+              "token": ".",
+              "logprob": -0.6039869785308838
+            },
+            {
+              "token": " \n",
+              "logprob": -1.5428045988082886
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Blue Key B: Old Wooden Box C: Colorful Rocks",
+          "token_data": [
+            {
+              "token": " Blue",
+              "logprob": -4.382370471954346
+            },
+            {
+              "token": " Key",
+              "logprob": -1.331434965133667
+            },
+            {
+              "token": " B",
+              "logprob": -2.4660630226135254
+            },
+            {
+              "token": ":",
+              "logprob": -0.010722169652581215
+            },
+            {
+              "token": " Old",
+              "logprob": -1.6426746845245361
+            },
+            {
+              "token": " Wooden",
+              "logprob": -0.15420889854431152
+            },
+            {
+              "token": " Box",
+              "logprob": -0.04100390151143074
+            },
+            {
+              "token": " C",
+              "logprob": -0.19627292454242706
+            },
+            {
+              "token": ":",
+              "logprob": -0.012264314107596874
+            },
+            {
+              "token": " Color",
+              "logprob": -3.881453275680542
+            },
+            {
+              "token": "ful",
+              "logprob": -0.09292078763246536
+            },
+            {
+              "token": " Rocks",
+              "logprob": -3.04974365234375
+            },
+            {
+              "token": " Q",
+              "logprob": -2.4655511379241943
+            },
+            {
+              "token": ":",
+              "logprob": -0.05838917940855026
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "An X Marked The Spot",
+          "token_data": [
+            {
+              "token": " An",
+              "logprob": -4.210953235626221
+            },
+            {
+              "token": " X",
+              "logprob": -2.3246374130249023
+            },
+            {
+              "token": " Mark",
+              "logprob": -3.5804805755615234
+            },
+            {
+              "token": "ed",
+              "logprob": -0.1253998726606369
+            },
+            {
+              "token": " The",
+              "logprob": -1.6370669603347778
+            },
+            {
+              "token": " Spot",
+              "logprob": -0.011480811983346939
+            },
+            {
+              "token": "\n",
+              "logprob": -2.1500444412231445
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A box of colored rocks.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.025850772857666
+            },
+            {
+              "token": " box",
+              "logprob": -2.858466625213623
+            },
+            {
+              "token": " of",
+              "logprob": -2.246598243713379
+            },
+            {
+              "token": " colored",
+              "logprob": -5.216448783874512
+            },
+            {
+              "token": " rocks",
+              "logprob": -2.2057273387908936
+            },
+            {
+              "token": ".",
+              "logprob": -0.5589033365249634
+            },
+            {
+              "token": " ",
+              "logprob": -2.723900318145752
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8581715822219849
+            },
+            {
+              "token": ":",
+              "logprob": -0.02836863324046135
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "nothing",
+          "token_data": [
+            {
+              "token": " nothing",
+              "logprob": -3.594545841217041
+            },
+            {
+              "token": " \n",
+              "logprob": -2.6486449241638184
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A blue key and a map",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.025850772857666
+            },
+            {
+              "token": " blue",
+              "logprob": -1.9107517004013062
+            },
+            {
+              "token": " key",
+              "logprob": -0.06703393161296844
+            },
+            {
+              "token": " and",
+              "logprob": -2.6943156719207764
+            },
+            {
+              "token": " a",
+              "logprob": -0.15503636002540588
+            },
+            {
+              "token": " map",
+              "logprob": -0.14002715051174164
+            },
+            {
+              "token": " Q",
+              "logprob": -3.595334768295288
+            },
+            {
+              "token": ":",
+              "logprob": -0.02696254663169384
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Ethan found the Blue Key. He picked it up and smiled.",
+          "token_data": [
+            {
+              "token": " Ethan",
+              "logprob": -1.9815354347229004
+            },
+            {
+              "token": " found",
+              "logprob": -0.3880619406700134
+            },
+            {
+              "token": " the",
+              "logprob": -2.2978901863098145
+            },
+            {
+              "token": " Blue",
+              "logprob": -3.0252573490142822
+            },
+            {
+              "token": " Key",
+              "logprob": -0.20717890560626984
+            },
+            {
+              "token": ".",
+              "logprob": -0.7976834177970886
+            },
+            {
+              "token": " He",
+              "logprob": -3.8964812755584717
+            },
+            {
+              "token": " picked",
+              "logprob": -1.4779390096664429
+            },
+            {
+              "token": " it",
+              "logprob": -0.12783871591091156
+            },
+            {
+              "token": " up",
+              "logprob": -0.02180751971900463
+            },
+            {
+              "token": " and",
+              "logprob": -0.46022528409957886
+            },
+            {
+              "token": " smiled",
+              "logprob": -0.35941082239151
+            },
+            {
+              "token": ".",
+              "logprob": -0.21508976817131042
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.019465446472168
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "A chest full of colorful stones.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.025850772857666
+            },
+            {
+              "token": " chest",
+              "logprob": -3.6402039527893066
+            },
+            {
+              "token": " full",
+              "logprob": -1.0552880764007568
+            },
+            {
+              "token": " of",
+              "logprob": -0.008716156706213951
+            },
+            {
+              "token": " colorful",
+              "logprob": -0.37872812151908875
+            },
+            {
+              "token": " stones",
+              "logprob": -0.09016317129135132
+            },
+            {
+              "token": ".",
+              "logprob": -0.6629350781440735
+            },
+            {
+              "token": " \n",
+              "logprob": -1.5323059558868408
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

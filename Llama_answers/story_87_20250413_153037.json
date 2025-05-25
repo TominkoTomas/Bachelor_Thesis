@@ -1,0 +1,887 @@
+{
+  "story": "Jordan and Sophia were best friends. One day, they decided to draw a picture together. Jordan took a blue crayon and started drawing. \"Jordan drew a straight road,\" Sophia said, watching the crayon move. The road went from one side of the paper to the other. Sophia smiled and grabbed a green crayon. She drew trees next to the road. Jordan added a yellow sun in the corner. They worked quietly, happy to be together. When they finished, they showed their picture to their teacher. The teacher said it was very nice. Jordan and Sophia high-fived. They put the picture on the wall for everyone to see. Later, they played outside until the sun went down. It was a good day.",
+  "characters": [
+    {
+      "question": "What shape was the road Jordan drew?",
+      "character": "Jordan",
+      "story": "Jordan and Sophia were best friends. One day, they decided to draw a picture together. Jordan took a blue crayon and started drawing. \"Jordan drew a straight road,\" Sophia said, watching the crayon move. The road went from one side of the paper to the other. Sophia smiled and grabbed a green crayon. She drew trees next to the road. Jordan added a yellow sun in the corner. They worked quietly, happy to be together. When they finished, they showed their picture to their teacher. The teacher said it was very nice. Jordan and Sophia high-fived. They put the picture on the wall for everyone to see. Later, they played outside until the sun went down. It was a good day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A line.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.221308946609497
+            },
+            {
+              "token": " line",
+              "logprob": -1.9660754203796387
+            },
+            {
+              "token": ".",
+              "logprob": -0.713045597076416
+            },
+            {
+              "token": " \n",
+              "logprob": -2.335782051086426
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "A road. Jordan drew a straight road.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.1900038719177246
+            },
+            {
+              "token": " road",
+              "logprob": -2.611802339553833
+            },
+            {
+              "token": ".",
+              "logprob": -1.009345293045044
+            },
+            {
+              "token": " Jordan",
+              "logprob": -2.8485167026519775
+            },
+            {
+              "token": " drew",
+              "logprob": -0.3251987397670746
+            },
+            {
+              "token": " a",
+              "logprob": -0.10610486567020416
+            },
+            {
+              "token": " straight",
+              "logprob": -0.7277183532714844
+            },
+            {
+              "token": " road",
+              "logprob": -0.23067261278629303
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.748811721801758
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A straight line",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.1900038719177246
+            },
+            {
+              "token": " straight",
+              "logprob": -0.6442254185676575
+            },
+            {
+              "token": " line",
+              "logprob": -0.4395275413990021
+            },
+            {
+              "token": " Q",
+              "logprob": -2.8282692432403564
+            },
+            {
+              "token": ":",
+              "logprob": -0.03747686743736267
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Straight",
+          "token_data": [
+            {
+              "token": " Straight",
+              "logprob": -2.4875006675720215
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Jordan drew a line, it was not shaped. Jordan drew a road that went from one side to the other of the page. (You did it right! A point awarded.)",
+          "token_data": [
+            {
+              "token": " Jordan",
+              "logprob": -3.251587390899658
+            },
+            {
+              "token": " drew",
+              "logprob": -0.06816615164279938
+            },
+            {
+              "token": " a",
+              "logprob": -0.04408688098192215
+            },
+            {
+              "token": " line",
+              "logprob": -3.0045182704925537
+            },
+            {
+              "token": ",",
+              "logprob": -3.1337437629699707
+            },
+            {
+              "token": " it",
+              "logprob": -3.8211164474487305
+            },
+            {
+              "token": " was",
+              "logprob": -0.39021119475364685
+            },
+            {
+              "token": " not",
+              "logprob": -3.3844707012176514
+            },
+            {
+              "token": " shaped",
+              "logprob": -3.9269232749938965
+            },
+            {
+              "token": ".",
+              "logprob": -0.5289381742477417
+            },
+            {
+              "token": " Jordan",
+              "logprob": -3.131096601486206
+            },
+            {
+              "token": " drew",
+              "logprob": -0.21125127375125885
+            },
+            {
+              "token": " a",
+              "logprob": -0.09155675023794174
+            },
+            {
+              "token": " road",
+              "logprob": -1.6661255359649658
+            },
+            {
+              "token": " that",
+              "logprob": -2.301255226135254
+            },
+            {
+              "token": " went",
+              "logprob": -0.8914980292320251
+            },
+            {
+              "token": " from",
+              "logprob": -0.28257834911346436
+            },
+            {
+              "token": " one",
+              "logprob": -0.13705304265022278
+            },
+            {
+              "token": " side",
+              "logprob": -0.028581010177731514
+            },
+            {
+              "token": " to",
+              "logprob": -1.8611706495285034
+            },
+            {
+              "token": " the",
+              "logprob": -0.11549552530050278
+            },
+            {
+              "token": " other",
+              "logprob": -0.02319466322660446
+            },
+            {
+              "token": " of",
+              "logprob": -4.3355512619018555
+            },
+            {
+              "token": " the",
+              "logprob": -0.12286873161792755
+            },
+            {
+              "token": " page",
+              "logprob": -2.1596567630767822
+            },
+            {
+              "token": ".",
+              "logprob": -0.22927460074424744
+            },
+            {
+              "token": " (",
+              "logprob": -3.9757566452026367
+            },
+            {
+              "token": "You",
+              "logprob": -4.815193176269531
+            },
+            {
+              "token": " did",
+              "logprob": -4.427472114562988
+            },
+            {
+              "token": " it",
+              "logprob": -3.1223795413970947
+            },
+            {
+              "token": " right",
+              "logprob": -1.7825454473495483
+            },
+            {
+              "token": "!",
+              "logprob": -2.4879238605499268
+            },
+            {
+              "token": " A",
+              "logprob": -4.999229431152344
+            },
+            {
+              "token": " point",
+              "logprob": -4.591414928436279
+            },
+            {
+              "token": " awarded",
+              "logprob": -4.331743240356445
+            },
+            {
+              "token": ".)",
+              "logprob": -2.47603702545166
+            },
+            {
+              "token": " \n",
+              "logprob": -2.056659460067749
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A road, it had to be!",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.1900038719177246
+            },
+            {
+              "token": " road",
+              "logprob": -2.611802339553833
+            },
+            {
+              "token": ",",
+              "logprob": -3.2405388355255127
+            },
+            {
+              "token": " it",
+              "logprob": -3.0010499954223633
+            },
+            {
+              "token": " had",
+              "logprob": -2.912047863006592
+            },
+            {
+              "token": " to",
+              "logprob": -0.19768887758255005
+            },
+            {
+              "token": " be",
+              "logprob": -0.31956976652145386
+            },
+            {
+              "token": "!",
+              "logprob": -3.3498778343200684
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It was a straight line.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.8488974571228027
+            },
+            {
+              "token": " was",
+              "logprob": -0.11677396297454834
+            },
+            {
+              "token": " a",
+              "logprob": -0.09951721876859665
+            },
+            {
+              "token": " straight",
+              "logprob": -0.40109384059906006
+            },
+            {
+              "token": " line",
+              "logprob": -0.6974734663963318
+            },
+            {
+              "token": ".",
+              "logprob": -0.3511918783187866
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.250087261199951
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Straight",
+          "token_data": [
+            {
+              "token": " Straight",
+              "logprob": -2.4875006675720215
+            },
+            {
+              "token": " Q",
+              "logprob": -1.6732882261276245
+            },
+            {
+              "token": ":",
+              "logprob": -0.02685706317424774
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The road was a rectangle because of the 4 lines.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.2060141563415527
+            },
+            {
+              "token": " road",
+              "logprob": -0.274838387966156
+            },
+            {
+              "token": " was",
+              "logprob": -0.6249915361404419
+            },
+            {
+              "token": " a",
+              "logprob": -0.1741783171892166
+            },
+            {
+              "token": " rectangle",
+              "logprob": -2.418304443359375
+            },
+            {
+              "token": " because",
+              "logprob": -2.8128507137298584
+            },
+            {
+              "token": " of",
+              "logprob": -2.8115735054016113
+            },
+            {
+              "token": " the",
+              "logprob": -0.9879058599472046
+            },
+            {
+              "token": " ",
+              "logprob": -3.286952018737793
+            },
+            {
+              "token": "4",
+              "logprob": -0.3412812054157257
+            },
+            {
+              "token": " lines",
+              "logprob": -2.1511802673339844
+            },
+            {
+              "token": ".",
+              "logprob": -1.2108235359191895
+            },
+            {
+              "token": " \n",
+              "logprob": -1.5942894220352173
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Straight.",
+          "token_data": [
+            {
+              "token": " Straight",
+              "logprob": -2.4875006675720215
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.649169921875
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What shape was the road Sophia drew?",
+      "character": "Sophia",
+      "story": "Jordan and Sophia were best friends. One day, they decided to draw a picture together. Jordan took a blue crayon and started drawing. \"Jordan drew a straight road,\" Sophia said, watching the crayon move. The road went from one side of the paper to the other. Sophia smiled and grabbed a green crayon. She drew trees next to the road. Jordan added a yellow sun in the corner. They worked quietly, happy to be together. When they finished, they showed their picture to their teacher. The teacher said it was very nice. Jordan and Sophia high-fived. They put the picture on the wall for everyone to see. Later, they played outside until the sun went down. It was a good day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "a straight road",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.785317897796631
+            },
+            {
+              "token": " straight",
+              "logprob": -1.2715473175048828
+            },
+            {
+              "token": " road",
+              "logprob": -1.4622970819473267
+            },
+            {
+              "token": " Q",
+              "logprob": -2.087289571762085
+            },
+            {
+              "token": ":",
+              "logprob": -0.027737613767385483
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "5) A Straight line (the shape the picture drew).",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.176324844360352
+            },
+            {
+              "token": "5",
+              "logprob": -4.311185836791992
+            },
+            {
+              "token": ")",
+              "logprob": -2.6626157760620117
+            },
+            {
+              "token": " A",
+              "logprob": -1.432262897491455
+            },
+            {
+              "token": " Straight",
+              "logprob": -4.457969665527344
+            },
+            {
+              "token": " line",
+              "logprob": -2.959752321243286
+            },
+            {
+              "token": " (",
+              "logprob": -3.7221431732177734
+            },
+            {
+              "token": "the",
+              "logprob": -4.584476470947266
+            },
+            {
+              "token": " shape",
+              "logprob": -3.243950843811035
+            },
+            {
+              "token": " the",
+              "logprob": -3.2254526615142822
+            },
+            {
+              "token": " picture",
+              "logprob": -3.3614416122436523
+            },
+            {
+              "token": " drew",
+              "logprob": -4.113948345184326
+            },
+            {
+              "token": ").\n",
+              "logprob": -4.319698333740234
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "It was a circle. 5 Points",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.0311079025268555
+            },
+            {
+              "token": " was",
+              "logprob": -0.13316859304904938
+            },
+            {
+              "token": " a",
+              "logprob": -0.10364235937595367
+            },
+            {
+              "token": " circle",
+              "logprob": -3.536527633666992
+            },
+            {
+              "token": ".",
+              "logprob": -0.42569825053215027
+            },
+            {
+              "token": " ",
+              "logprob": -2.4974365234375
+            },
+            {
+              "token": "5",
+              "logprob": -4.080737590789795
+            },
+            {
+              "token": " Points",
+              "logprob": -1.7887020111083984
+            },
+            {
+              "token": "\n\n\n",
+              "logprob": -4.726204872131348
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "What shape was the road?  A: The straight path.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.630791664123535
+            },
+            {
+              "token": " shape",
+              "logprob": -0.5480881333351135
+            },
+            {
+              "token": " was",
+              "logprob": -0.2002895474433899
+            },
+            {
+              "token": " the",
+              "logprob": -0.06283985823392868
+            },
+            {
+              "token": " road",
+              "logprob": -0.05647280067205429
+            },
+            {
+              "token": "?",
+              "logprob": -1.5269954204559326
+            },
+            {
+              "token": " ",
+              "logprob": -3.0698955059051514
+            },
+            {
+              "token": " A",
+              "logprob": -2.8919224739074707
+            },
+            {
+              "token": ":",
+              "logprob": -0.8722578883171082
+            },
+            {
+              "token": " The",
+              "logprob": -1.9217941761016846
+            },
+            {
+              "token": " straight",
+              "logprob": -4.14566707611084
+            },
+            {
+              "token": " path",
+              "logprob": -3.9410669803619385
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.85441517829895
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "B) A line.  C) A straight road.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.176324844360352
+            },
+            {
+              "token": " B",
+              "logprob": -4.76956844329834
+            },
+            {
+              "token": ")",
+              "logprob": -3.1330182552337646
+            },
+            {
+              "token": " A",
+              "logprob": -1.1628168821334839
+            },
+            {
+              "token": " line",
+              "logprob": -2.3034563064575195
+            },
+            {
+              "token": ".",
+              "logprob": -0.7492323517799377
+            },
+            {
+              "token": " ",
+              "logprob": -2.033557891845703
+            },
+            {
+              "token": " C",
+              "logprob": -0.5412523746490479
+            },
+            {
+              "token": ")",
+              "logprob": -0.16628088057041168
+            },
+            {
+              "token": " A",
+              "logprob": -0.21102631092071533
+            },
+            {
+              "token": " straight",
+              "logprob": -3.0939745903015137
+            },
+            {
+              "token": " road",
+              "logprob": -1.002381443977356
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.132652521133423
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "straight B: bent C: irregular D: irregular but in the middle was a line.",
+          "token_data": [
+            {
+              "token": " straight",
+              "logprob": -3.499993324279785
+            },
+            {
+              "token": " B",
+              "logprob": -3.033073902130127
+            },
+            {
+              "token": ":",
+              "logprob": -0.03859933838248253
+            },
+            {
+              "token": " bent",
+              "logprob": -4.553786277770996
+            },
+            {
+              "token": " C",
+              "logprob": -0.33601948618888855
+            },
+            {
+              "token": ":",
+              "logprob": -0.013681096024811268
+            },
+            {
+              "token": " irregular",
+              "logprob": -4.76800012588501
+            },
+            {
+              "token": " D",
+              "logprob": -0.9964600801467896
+            },
+            {
+              "token": ":",
+              "logprob": -0.019473327323794365
+            },
+            {
+              "token": " irregular",
+              "logprob": -4.335901260375977
+            },
+            {
+              "token": " but",
+              "logprob": -3.8613364696502686
+            },
+            {
+              "token": " in",
+              "logprob": -3.9210562705993652
+            },
+            {
+              "token": " the",
+              "logprob": -1.697685956954956
+            },
+            {
+              "token": " middle",
+              "logprob": -2.0966339111328125
+            },
+            {
+              "token": " was",
+              "logprob": -3.1780662536621094
+            },
+            {
+              "token": " a",
+              "logprob": -0.5030404925346375
+            },
+            {
+              "token": " line",
+              "logprob": -3.5054197311401367
+            },
+            {
+              "token": ".",
+              "logprob": -1.0123231410980225
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.0493860244750977
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Straight.",
+          "token_data": [
+            {
+              "token": " Straight",
+              "logprob": -2.7762670516967773
+            },
+            {
+              "token": ".",
+              "logprob": -1.6751189231872559
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.3903284072875977
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Straight",
+          "token_data": [
+            {
+              "token": " Straight",
+              "logprob": -2.7762670516967773
+            },
+            {
+              "token": " ",
+              "logprob": -3.695617198944092
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6487134695053101
+            },
+            {
+              "token": ":",
+              "logprob": -0.04168355092406273
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Straight (1/5 mark)",
+          "token_data": [
+            {
+              "token": " Straight",
+              "logprob": -2.7762670516967773
+            },
+            {
+              "token": " (",
+              "logprob": -3.616912364959717
+            },
+            {
+              "token": "1",
+              "logprob": -3.1543054580688477
+            },
+            {
+              "token": "/",
+              "logprob": -3.5727827548980713
+            },
+            {
+              "token": "5",
+              "logprob": -3.2008378505706787
+            },
+            {
+              "token": " mark",
+              "logprob": -2.8592238426208496
+            },
+            {
+              "token": ")",
+              "logprob": -0.4672242999076843
+            },
+            {
+              "token": " Q",
+              "logprob": -1.1960062980651855
+            },
+            {
+              "token": ":",
+              "logprob": -0.03465395048260689
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "It was a road that was straight.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.0311079025268555
+            },
+            {
+              "token": " was",
+              "logprob": -0.13316859304904938
+            },
+            {
+              "token": " a",
+              "logprob": -0.10364235937595367
+            },
+            {
+              "token": " road",
+              "logprob": -2.3131256103515625
+            },
+            {
+              "token": " that",
+              "logprob": -3.4152610301971436
+            },
+            {
+              "token": " was",
+              "logprob": -1.4316332340240479
+            },
+            {
+              "token": " straight",
+              "logprob": -1.6141746044158936
+            },
+            {
+              "token": ".",
+              "logprob": -0.47899675369262695
+            },
+            {
+              "token": " Q",
+              "logprob": -1.4851328134536743
+            },
+            {
+              "token": ":",
+              "logprob": -0.021399088203907013
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

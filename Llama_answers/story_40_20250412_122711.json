@@ -1,0 +1,1239 @@
+{
+  "story": "Amelia and Nathan were walking to the park on a sunny day. Amelia loved looking at the sky, and Nathan liked picking up rocks. As they walked, Amelia spotted a flying bird. It was a big, white bird with long wings. She pointed at it and smiled. Nathan kept walking, not noticing the bird. He bent down to grab a shiny rock from the ground. Amelia watched the bird soar until it disappeared behind the trees. She wished she could fly like the bird. Nathan showed her the rock he found. Amelia told him about the bird, but he just nodded and put the rock in his pocket. They sat on a bench to eat their snacks. Amelia kept glancing at the sky, hoping to see the bird again. Nathan chewed his sandwich and fiddled with his rock. The sun began to set, and they knew it was time to go home. They walked back together, Amelia dreaming of birds and Nathan holding his new rock.",
+  "characters": [
+    {
+      "question": "What was the bird doing when Amelia saw it?",
+      "character": "Amelia",
+      "story": "Amelia and Nathan were walking to the park on a sunny day. Amelia loved looking at the sky, and Nathan liked picking up rocks. As they walked, Amelia spotted a flying bird. It was a big, white bird with long wings. She pointed at it and smiled. Nathan kept walking, not noticing the bird. He bent down to grab a shiny rock from the ground. Amelia watched the bird soar until it disappeared behind the trees. She wished she could fly like the bird. Nathan showed her the rock he found. Amelia told him about the bird, but he just nodded and put the rock in his pocket. They sat on a bench to eat their snacks. Amelia kept glancing at the sky, hoping to see the bird again. Nathan chewed his sandwich and fiddled with his rock. The sun began to set, and they knew it was time to go home. They walked back together, Amelia dreaming of birds and Nathan holding his new rock.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "It was flying, just like Amelia hopes to.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.2083336114883423
+            },
+            {
+              "token": " was",
+              "logprob": -0.13456521928310394
+            },
+            {
+              "token": " flying",
+              "logprob": -0.46902018785476685
+            },
+            {
+              "token": ",",
+              "logprob": -4.17679500579834
+            },
+            {
+              "token": " just",
+              "logprob": -4.162769794464111
+            },
+            {
+              "token": " like",
+              "logprob": -0.5124676823616028
+            },
+            {
+              "token": " Amelia",
+              "logprob": -0.7183609008789062
+            },
+            {
+              "token": " hopes",
+              "logprob": -4.395870208740234
+            },
+            {
+              "token": " to",
+              "logprob": -0.45210564136505127
+            },
+            {
+              "token": ".",
+              "logprob": -2.82671856880188
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.226767063140869
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "She smiled.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -3.2491159439086914
+            },
+            {
+              "token": " smiled",
+              "logprob": -3.3286142349243164
+            },
+            {
+              "token": ".",
+              "logprob": -1.633413553237915
+            },
+            {
+              "token": " Q",
+              "logprob": -0.5846268534660339
+            },
+            {
+              "token": ":",
+              "logprob": -0.014208582229912281
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "She saw it fly.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -3.2491159439086914
+            },
+            {
+              "token": " saw",
+              "logprob": -1.6084260940551758
+            },
+            {
+              "token": " it",
+              "logprob": -0.9582419395446777
+            },
+            {
+              "token": " fly",
+              "logprob": -2.3490517139434814
+            },
+            {
+              "token": ".",
+              "logprob": -1.5773729085922241
+            },
+            {
+              "token": " \n",
+              "logprob": -2.655701160430908
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Amelia was looking up at the sky. Nathan was bending over to grab a rock from the ground.",
+          "token_data": [
+            {
+              "token": " Amelia",
+              "logprob": -1.827194333076477
+            },
+            {
+              "token": " was",
+              "logprob": -1.8780403137207031
+            },
+            {
+              "token": " looking",
+              "logprob": -1.4084333181381226
+            },
+            {
+              "token": " up",
+              "logprob": -1.0491464138031006
+            },
+            {
+              "token": " at",
+              "logprob": -0.4340362548828125
+            },
+            {
+              "token": " the",
+              "logprob": -0.2332146018743515
+            },
+            {
+              "token": " sky",
+              "logprob": -0.3264940679073334
+            },
+            {
+              "token": ".",
+              "logprob": -0.9690937995910645
+            },
+            {
+              "token": " Nathan",
+              "logprob": -3.23051118850708
+            },
+            {
+              "token": " was",
+              "logprob": -0.188107430934906
+            },
+            {
+              "token": " bending",
+              "logprob": -3.2886815071105957
+            },
+            {
+              "token": " over",
+              "logprob": -2.8204572200775146
+            },
+            {
+              "token": " to",
+              "logprob": -0.19651301205158234
+            },
+            {
+              "token": " grab",
+              "logprob": -1.4710361957550049
+            },
+            {
+              "token": " a",
+              "logprob": -0.12187197059392929
+            },
+            {
+              "token": " rock",
+              "logprob": -1.1108379364013672
+            },
+            {
+              "token": " from",
+              "logprob": -1.7640104293823242
+            },
+            {
+              "token": " the",
+              "logprob": -0.009746463969349861
+            },
+            {
+              "token": " ground",
+              "logprob": -0.020876901224255562
+            },
+            {
+              "token": ".",
+              "logprob": -0.11556679010391235
+            },
+            {
+              "token": " Q",
+              "logprob": -1.1139556169509888
+            },
+            {
+              "token": ":",
+              "logprob": -0.015802158042788506
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The bird was soaring to find the sun's light on a sunny day.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.2499152421951294
+            },
+            {
+              "token": " bird",
+              "logprob": -0.13030676543712616
+            },
+            {
+              "token": " was",
+              "logprob": -0.17012904584407806
+            },
+            {
+              "token": " soaring",
+              "logprob": -2.2012858390808105
+            },
+            {
+              "token": " to",
+              "logprob": -3.4078383445739746
+            },
+            {
+              "token": " find",
+              "logprob": -3.482168674468994
+            },
+            {
+              "token": " the",
+              "logprob": -3.3406689167022705
+            },
+            {
+              "token": " sun",
+              "logprob": -4.4064435958862305
+            },
+            {
+              "token": "'s",
+              "logprob": -2.5827629566192627
+            },
+            {
+              "token": " light",
+              "logprob": -3.092438220977783
+            },
+            {
+              "token": " on",
+              "logprob": -3.38848876953125
+            },
+            {
+              "token": " a",
+              "logprob": -1.9753341674804688
+            },
+            {
+              "token": " sunny",
+              "logprob": -0.356218546628952
+            },
+            {
+              "token": " day",
+              "logprob": -0.11357304453849792
+            },
+            {
+              "token": ".",
+              "logprob": -0.19031494855880737
+            },
+            {
+              "token": " \n",
+              "logprob": -2.4446654319763184
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "It was a flying bird, watching.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.2011233568191528
+            },
+            {
+              "token": " was",
+              "logprob": -0.14062824845314026
+            },
+            {
+              "token": " a",
+              "logprob": -3.1380295753479004
+            },
+            {
+              "token": " flying",
+              "logprob": -2.589928150177002
+            },
+            {
+              "token": " bird",
+              "logprob": -0.3439048230648041
+            },
+            {
+              "token": ",",
+              "logprob": -2.478790283203125
+            },
+            {
+              "token": " watching",
+              "logprob": -3.394636392593384
+            },
+            {
+              "token": ".",
+              "logprob": -3.2720494270324707
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9706128835678101
+            },
+            {
+              "token": ":",
+              "logprob": -0.01602836512029171
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The bird was flying on the air.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.2499152421951294
+            },
+            {
+              "token": " bird",
+              "logprob": -0.13030676543712616
+            },
+            {
+              "token": " was",
+              "logprob": -0.17012904584407806
+            },
+            {
+              "token": " flying",
+              "logprob": -0.5000795722007751
+            },
+            {
+              "token": " on",
+              "logprob": -3.7790093421936035
+            },
+            {
+              "token": " the",
+              "logprob": -1.1066648960113525
+            },
+            {
+              "token": " air",
+              "logprob": -3.445760726928711
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.3496062755584717
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Amelia was walking when she saw the bird.",
+          "token_data": [
+            {
+              "token": " Amelia",
+              "logprob": -1.827194333076477
+            },
+            {
+              "token": " was",
+              "logprob": -1.8780403137207031
+            },
+            {
+              "token": " walking",
+              "logprob": -3.7249178886413574
+            },
+            {
+              "token": " when",
+              "logprob": -3.5748062133789062
+            },
+            {
+              "token": " she",
+              "logprob": -0.11761273443698883
+            },
+            {
+              "token": " saw",
+              "logprob": -0.8934353590011597
+            },
+            {
+              "token": " the",
+              "logprob": -0.6800548434257507
+            },
+            {
+              "token": " bird",
+              "logprob": -0.20686422288417816
+            },
+            {
+              "token": ".",
+              "logprob": -0.33772993087768555
+            },
+            {
+              "token": " Q",
+              "logprob": -2.5610101222991943
+            },
+            {
+              "token": ":",
+              "logprob": -0.020233655348420143
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It was soaring above.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.2011233568191528
+            },
+            {
+              "token": " was",
+              "logprob": -0.14062824845314026
+            },
+            {
+              "token": " soaring",
+              "logprob": -2.1822571754455566
+            },
+            {
+              "token": " above",
+              "logprob": -3.6792449951171875
+            },
+            {
+              "token": ".",
+              "logprob": -2.158942461013794
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6687726974487305
+            },
+            {
+              "token": ":",
+              "logprob": -0.012536766938865185
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "1) It was flying and looking at Amelia. 2) Amelia told Nathan about it and picked out a rock.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.9616165161132812
+            },
+            {
+              "token": "1",
+              "logprob": -3.3943514823913574
+            },
+            {
+              "token": ")",
+              "logprob": -2.291226387023926
+            },
+            {
+              "token": " It",
+              "logprob": -1.5537188053131104
+            },
+            {
+              "token": " was",
+              "logprob": -0.19415777921676636
+            },
+            {
+              "token": " flying",
+              "logprob": -0.4871843159198761
+            },
+            {
+              "token": " and",
+              "logprob": -3.586817741394043
+            },
+            {
+              "token": " looking",
+              "logprob": -2.0172533988952637
+            },
+            {
+              "token": " at",
+              "logprob": -1.169909954071045
+            },
+            {
+              "token": " Amelia",
+              "logprob": -2.2181642055511475
+            },
+            {
+              "token": ".",
+              "logprob": -0.5319077968597412
+            },
+            {
+              "token": " ",
+              "logprob": -0.38831114768981934
+            },
+            {
+              "token": "2",
+              "logprob": -0.040285538882017136
+            },
+            {
+              "token": ")",
+              "logprob": -0.061391085386276245
+            },
+            {
+              "token": " Amelia",
+              "logprob": -3.1101667881011963
+            },
+            {
+              "token": " told",
+              "logprob": -4.0849609375
+            },
+            {
+              "token": " Nathan",
+              "logprob": -0.0606352835893631
+            },
+            {
+              "token": " about",
+              "logprob": -0.41695478558540344
+            },
+            {
+              "token": " it",
+              "logprob": -0.9076032042503357
+            },
+            {
+              "token": " and",
+              "logprob": -2.555504322052002
+            },
+            {
+              "token": " picked",
+              "logprob": -4.375533103942871
+            },
+            {
+              "token": " out",
+              "logprob": -1.315514087677002
+            },
+            {
+              "token": " a",
+              "logprob": -0.2393602728843689
+            },
+            {
+              "token": " rock",
+              "logprob": -1.0809239149093628
+            },
+            {
+              "token": ".",
+              "logprob": -0.6313847899436951
+            },
+            {
+              "token": " \n",
+              "logprob": -3.1241180896759033
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What was the bird doing when Nathan saw it?",
+      "character": "Nathan",
+      "story": "Amelia and Nathan were walking to the park on a sunny day. Amelia loved looking at the sky, and Nathan liked picking up rocks. As they walked, Amelia spotted a flying bird. It was a big, white bird with long wings. She pointed at it and smiled. Nathan kept walking, not noticing the bird. He bent down to grab a shiny rock from the ground. Amelia watched the bird soar until it disappeared behind the trees. She wished she could fly like the bird. Nathan showed her the rock he found. Amelia told him about the bird, but he just nodded and put the rock in his pocket. They sat on a bench to eat their snacks. Amelia kept glancing at the sky, hoping to see the bird again. Nathan chewed his sandwich and fiddled with his rock. The sun began to set, and they knew it was time to go home. They walked back together, Amelia dreaming of birds and Nathan holding his new rock.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "It was soaring to a distance.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.048805832862854
+            },
+            {
+              "token": " was",
+              "logprob": -0.12698736786842346
+            },
+            {
+              "token": " soaring",
+              "logprob": -2.669424295425415
+            },
+            {
+              "token": " to",
+              "logprob": -3.172772169113159
+            },
+            {
+              "token": " a",
+              "logprob": -1.817155361175537
+            },
+            {
+              "token": " distance",
+              "logprob": -3.098238945007324
+            },
+            {
+              "token": ".",
+              "logprob": -0.5715787410736084
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7365096807479858
+            },
+            {
+              "token": ":",
+              "logprob": -0.01715710572898388
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "It was flying very high up in the air.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.0386326313018799
+            },
+            {
+              "token": " was",
+              "logprob": -0.12445645779371262
+            },
+            {
+              "token": " flying",
+              "logprob": -0.509117603302002
+            },
+            {
+              "token": " very",
+              "logprob": -3.4707155227661133
+            },
+            {
+              "token": " high",
+              "logprob": -0.11668793857097626
+            },
+            {
+              "token": " up",
+              "logprob": -1.6656709909439087
+            },
+            {
+              "token": " in",
+              "logprob": -0.37933722138404846
+            },
+            {
+              "token": " the",
+              "logprob": -0.016307415440678596
+            },
+            {
+              "token": " air",
+              "logprob": -2.0868256092071533
+            },
+            {
+              "token": ".",
+              "logprob": -0.3395395576953888
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9250285625457764
+            },
+            {
+              "token": ":",
+              "logprob": -0.017143046483397484
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "It was soaring high into the sky.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.0386326313018799
+            },
+            {
+              "token": " was",
+              "logprob": -0.12445645779371262
+            },
+            {
+              "token": " soaring",
+              "logprob": -2.598083972930908
+            },
+            {
+              "token": " high",
+              "logprob": -1.4904921054840088
+            },
+            {
+              "token": " into",
+              "logprob": -1.29405677318573
+            },
+            {
+              "token": " the",
+              "logprob": -0.008209295570850372
+            },
+            {
+              "token": " sky",
+              "logprob": -0.08432938158512115
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.243300199508667
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It was flying above.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.0386326313018799
+            },
+            {
+              "token": " was",
+              "logprob": -0.12445645779371262
+            },
+            {
+              "token": " flying",
+              "logprob": -0.509117603302002
+            },
+            {
+              "token": " above",
+              "logprob": -4.296483039855957
+            },
+            {
+              "token": ".",
+              "logprob": -2.117354154586792
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7755112648010254
+            },
+            {
+              "token": ":",
+              "logprob": -0.015519914217293262
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The bird was flying, so that's why Nathan didn't notice.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.020371675491333
+            },
+            {
+              "token": " bird",
+              "logprob": -0.09771586954593658
+            },
+            {
+              "token": " was",
+              "logprob": -0.15429574251174927
+            },
+            {
+              "token": " flying",
+              "logprob": -0.5366671681404114
+            },
+            {
+              "token": ",",
+              "logprob": -4.113470554351807
+            },
+            {
+              "token": " so",
+              "logprob": -4.454794883728027
+            },
+            {
+              "token": " that",
+              "logprob": -2.8120386600494385
+            },
+            {
+              "token": "'s",
+              "logprob": -1.3571045398712158
+            },
+            {
+              "token": " why",
+              "logprob": -0.2372862845659256
+            },
+            {
+              "token": " Nathan",
+              "logprob": -1.0345550775527954
+            },
+            {
+              "token": " didn",
+              "logprob": -2.5594515800476074
+            },
+            {
+              "token": "'t",
+              "logprob": -0.005187978036701679
+            },
+            {
+              "token": " notice",
+              "logprob": -0.6603828072547913
+            },
+            {
+              "token": ".",
+              "logprob": -2.7386128902435303
+            },
+            {
+              "token": " \n",
+              "logprob": -2.0566658973693848
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "It was flying above the tree tops.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.0386326313018799
+            },
+            {
+              "token": " was",
+              "logprob": -0.12445645779371262
+            },
+            {
+              "token": " flying",
+              "logprob": -0.509117603302002
+            },
+            {
+              "token": " above",
+              "logprob": -4.296483039855957
+            },
+            {
+              "token": " the",
+              "logprob": -0.533219039440155
+            },
+            {
+              "token": " tree",
+              "logprob": -2.52626633644104
+            },
+            {
+              "token": " tops",
+              "logprob": -0.2779601812362671
+            },
+            {
+              "token": ".",
+              "logprob": -0.5469240546226501
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8985835313796997
+            },
+            {
+              "token": ":",
+              "logprob": -0.018731605261564255
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The bird was soaring above. It was the shape and size of a humming bird. It seemed to be moving in all directions at the same time, so he turned to see it for more detail.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.020371675491333
+            },
+            {
+              "token": " bird",
+              "logprob": -0.09771586954593658
+            },
+            {
+              "token": " was",
+              "logprob": -0.15429574251174927
+            },
+            {
+              "token": " soaring",
+              "logprob": -2.543224573135376
+            },
+            {
+              "token": " above",
+              "logprob": -3.6310596466064453
+            },
+            {
+              "token": ".",
+              "logprob": -2.05608868598938
+            },
+            {
+              "token": " It",
+              "logprob": -3.7946813106536865
+            },
+            {
+              "token": " was",
+              "logprob": -0.3855120837688446
+            },
+            {
+              "token": " the",
+              "logprob": -3.0257198810577393
+            },
+            {
+              "token": " shape",
+              "logprob": -3.803849220275879
+            },
+            {
+              "token": " and",
+              "logprob": -2.4947080612182617
+            },
+            {
+              "token": " size",
+              "logprob": -1.2716866731643677
+            },
+            {
+              "token": " of",
+              "logprob": -0.01804986782371998
+            },
+            {
+              "token": " a",
+              "logprob": -0.30665358901023865
+            },
+            {
+              "token": " humming",
+              "logprob": -3.0435264110565186
+            },
+            {
+              "token": " bird",
+              "logprob": -1.7094730138778687
+            },
+            {
+              "token": ".",
+              "logprob": -0.2395060956478119
+            },
+            {
+              "token": " It",
+              "logprob": -1.0712262392044067
+            },
+            {
+              "token": " seemed",
+              "logprob": -4.867752552032471
+            },
+            {
+              "token": " to",
+              "logprob": -0.563422679901123
+            },
+            {
+              "token": " be",
+              "logprob": -0.3656963109970093
+            },
+            {
+              "token": " moving",
+              "logprob": -3.6027917861938477
+            },
+            {
+              "token": " in",
+              "logprob": -2.2813684940338135
+            },
+            {
+              "token": " all",
+              "logprob": -3.2036044597625732
+            },
+            {
+              "token": " directions",
+              "logprob": -0.3278214633464813
+            },
+            {
+              "token": " at",
+              "logprob": -0.5713369250297546
+            },
+            {
+              "token": " the",
+              "logprob": -0.6963090896606445
+            },
+            {
+              "token": " same",
+              "logprob": -0.005987327545881271
+            },
+            {
+              "token": " time",
+              "logprob": -0.03655831143260002
+            },
+            {
+              "token": ",",
+              "logprob": -2.9494965076446533
+            },
+            {
+              "token": " so",
+              "logprob": -4.193705081939697
+            },
+            {
+              "token": " he",
+              "logprob": -3.275404214859009
+            },
+            {
+              "token": " turned",
+              "logprob": -4.48699951171875
+            },
+            {
+              "token": " to",
+              "logprob": -1.192536473274231
+            },
+            {
+              "token": " see",
+              "logprob": -2.8194427490234375
+            },
+            {
+              "token": " it",
+              "logprob": -1.0272296667099
+            },
+            {
+              "token": " for",
+              "logprob": -4.612815856933594
+            },
+            {
+              "token": " more",
+              "logprob": -3.8989319801330566
+            },
+            {
+              "token": " detail",
+              "logprob": -2.605347156524658
+            },
+            {
+              "token": ".",
+              "logprob": -0.13848909735679626
+            },
+            {
+              "token": " ",
+              "logprob": -3.0366127490997314
+            },
+            {
+              "token": " Q",
+              "logprob": -1.411660075187683
+            },
+            {
+              "token": ":",
+              "logprob": -0.03460707888007164
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "1. It was flying high into the sky. 2. It was flying high above the ground to a new vantage point.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.9921181201934814
+            },
+            {
+              "token": "1",
+              "logprob": -3.389904499053955
+            },
+            {
+              "token": ".",
+              "logprob": -1.0501813888549805
+            },
+            {
+              "token": " It",
+              "logprob": -1.1337614059448242
+            },
+            {
+              "token": " was",
+              "logprob": -0.1463852971792221
+            },
+            {
+              "token": " flying",
+              "logprob": -0.5023350715637207
+            },
+            {
+              "token": " high",
+              "logprob": -1.7638968229293823
+            },
+            {
+              "token": " into",
+              "logprob": -2.2087223529815674
+            },
+            {
+              "token": " the",
+              "logprob": -0.011559059843420982
+            },
+            {
+              "token": " sky",
+              "logprob": -0.12068308889865875
+            },
+            {
+              "token": ".",
+              "logprob": -0.360106885433197
+            },
+            {
+              "token": " ",
+              "logprob": -0.1983838826417923
+            },
+            {
+              "token": "2",
+              "logprob": -0.027812397107481956
+            },
+            {
+              "token": ".",
+              "logprob": -0.03352634608745575
+            },
+            {
+              "token": " It",
+              "logprob": -0.08975939452648163
+            },
+            {
+              "token": " was",
+              "logprob": -0.05076431855559349
+            },
+            {
+              "token": " flying",
+              "logprob": -0.5815568566322327
+            },
+            {
+              "token": " high",
+              "logprob": -1.5656752586364746
+            },
+            {
+              "token": " above",
+              "logprob": -1.9925625324249268
+            },
+            {
+              "token": " the",
+              "logprob": -0.18336543440818787
+            },
+            {
+              "token": " ground",
+              "logprob": -1.6657507419586182
+            },
+            {
+              "token": " to",
+              "logprob": -4.21033239364624
+            },
+            {
+              "token": " a",
+              "logprob": -3.785153388977051
+            },
+            {
+              "token": " new",
+              "logprob": -3.9367480278015137
+            },
+            {
+              "token": " v",
+              "logprob": -4.57652473449707
+            },
+            {
+              "token": "antage",
+              "logprob": -0.011118007823824883
+            },
+            {
+              "token": " point",
+              "logprob": -0.1423434615135193
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.789799928665161
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It was soaring to the sky.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.0386326313018799
+            },
+            {
+              "token": " was",
+              "logprob": -0.12445645779371262
+            },
+            {
+              "token": " soaring",
+              "logprob": -2.598083972930908
+            },
+            {
+              "token": " to",
+              "logprob": -3.191328287124634
+            },
+            {
+              "token": " the",
+              "logprob": -0.825389564037323
+            },
+            {
+              "token": " sky",
+              "logprob": -0.24433383345603943
+            },
+            {
+              "token": ".",
+              "logprob": -0.5080851316452026
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.4811244010925293
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "It was flying, holding the bird on her arm.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.0386326313018799
+            },
+            {
+              "token": " was",
+              "logprob": -0.12445645779371262
+            },
+            {
+              "token": " flying",
+              "logprob": -0.509117603302002
+            },
+            {
+              "token": ",",
+              "logprob": -3.9762649536132812
+            },
+            {
+              "token": " holding",
+              "logprob": -4.707230567932129
+            },
+            {
+              "token": " the",
+              "logprob": -2.0949602127075195
+            },
+            {
+              "token": " bird",
+              "logprob": -1.988210678100586
+            },
+            {
+              "token": " on",
+              "logprob": -2.994950532913208
+            },
+            {
+              "token": " her",
+              "logprob": -2.4086973667144775
+            },
+            {
+              "token": " arm",
+              "logprob": -2.6304962635040283
+            },
+            {
+              "token": ".",
+              "logprob": -0.5078045725822449
+            },
+            {
+              "token": " Q",
+              "logprob": -1.1522835493087769
+            },
+            {
+              "token": ":",
+              "logprob": -0.01651873253285885
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

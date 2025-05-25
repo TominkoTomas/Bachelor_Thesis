@@ -1,0 +1,783 @@
+{
+  "story": "Leo and Charlotte were best friends. One sunny day, they decided to open a pet washing business. Leo loved dogs, and Charlotte liked cats. Their first customer was a man with a big, fluffy dog. The dog was dirty and needed a bath. Leo washed a fluffy dog while Charlotte played with a kitten nearby. The dog shook water everywhere, making Leo laugh. Charlotte smiled but stayed far away from the water. After the bath, the dog looked clean and happy. The man paid them and said he would come back. Leo was proud of his work. Charlotte was glad the kitten was safe from the wet dog. They packed up their supplies and went home. That night, they counted their money and planned to buy more pet shampoo. Leo and Charlotte were excited for their next adventure. They knew their business would grow because they worked well together. The end.",
+  "characters": [
+    {
+      "question": "What pet did Leo clean?",
+      "character": "Leo",
+      "story": "Leo and Charlotte were best friends. One sunny day, they decided to open a pet washing business. Leo loved dogs, and Charlotte liked cats. Their first customer was a man with a big, fluffy dog. The dog was dirty and needed a bath. Leo washed a fluffy dog while Charlotte played with a kitten nearby. The dog shook water everywhere, making Leo laugh. Charlotte smiled but stayed far away from the water. After the bath, the dog looked clean and happy. The man paid them and said he would come back. Leo was proud of his work. Charlotte was glad the kitten was safe from the wet dog. They packed up their supplies and went home. That night, they counted their money and planned to buy more pet shampoo. Leo and Charlotte were excited for their next adventure. They knew their business would grow because they worked well together. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A fluffy dog.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.4027836322784424
+            },
+            {
+              "token": " fluffy",
+              "logprob": -1.474763035774231
+            },
+            {
+              "token": " dog",
+              "logprob": -0.10850730538368225
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.69466495513916
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Answer with a noun or name of an animal.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.085901737213135
+            },
+            {
+              "token": " with",
+              "logprob": -2.7337281703948975
+            },
+            {
+              "token": " a",
+              "logprob": -1.2757048606872559
+            },
+            {
+              "token": " noun",
+              "logprob": -2.09983491897583
+            },
+            {
+              "token": " or",
+              "logprob": -2.573476791381836
+            },
+            {
+              "token": " name",
+              "logprob": -3.800354480743408
+            },
+            {
+              "token": " of",
+              "logprob": -3.071669816970825
+            },
+            {
+              "token": " an",
+              "logprob": -1.8567326068878174
+            },
+            {
+              "token": " animal",
+              "logprob": -0.6350213289260864
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.3746941089630127
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "One of the dog's.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -4.122265338897705
+            },
+            {
+              "token": " of",
+              "logprob": -2.090933322906494
+            },
+            {
+              "token": " the",
+              "logprob": -0.4379724860191345
+            },
+            {
+              "token": " dog",
+              "logprob": -3.424959659576416
+            },
+            {
+              "token": "'s",
+              "logprob": -0.673524796962738
+            },
+            {
+              "token": ".",
+              "logprob": -4.134150505065918
+            },
+            {
+              "token": " Q",
+              "logprob": -1.178247332572937
+            },
+            {
+              "token": ":",
+              "logprob": -0.022890033200383186
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "He cleaned a fluffy dog.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -3.5115342140197754
+            },
+            {
+              "token": " cleaned",
+              "logprob": -0.553952693939209
+            },
+            {
+              "token": " a",
+              "logprob": -0.21611905097961426
+            },
+            {
+              "token": " fluffy",
+              "logprob": -2.66313099861145
+            },
+            {
+              "token": " dog",
+              "logprob": -0.08805859088897705
+            },
+            {
+              "token": ".",
+              "logprob": -0.31706511974334717
+            },
+            {
+              "token": " \n",
+              "logprob": -2.132827043533325
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The cat and dog",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.753674030303955
+            },
+            {
+              "token": " cat",
+              "logprob": -3.3380520343780518
+            },
+            {
+              "token": " and",
+              "logprob": -2.9419147968292236
+            },
+            {
+              "token": " dog",
+              "logprob": -1.3451673984527588
+            },
+            {
+              "token": " Q",
+              "logprob": -3.5098116397857666
+            },
+            {
+              "token": ":",
+              "logprob": -0.039340563118457794
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The first pet they washed.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.753674030303955
+            },
+            {
+              "token": " first",
+              "logprob": -3.77413010597229
+            },
+            {
+              "token": " pet",
+              "logprob": -2.5308032035827637
+            },
+            {
+              "token": " they",
+              "logprob": -1.8827805519104004
+            },
+            {
+              "token": " washed",
+              "logprob": -1.9608917236328125
+            },
+            {
+              "token": ".",
+              "logprob": -0.9369533061981201
+            },
+            {
+              "token": " Q",
+              "logprob": -0.910866916179657
+            },
+            {
+              "token": ":",
+              "logprob": -0.026438497006893158
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "What pet did Leo clean? He cleaned the dogs with water and the cats with lint.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.002840518951416
+            },
+            {
+              "token": " pet",
+              "logprob": -0.404221773147583
+            },
+            {
+              "token": " did",
+              "logprob": -0.0512225478887558
+            },
+            {
+              "token": " Leo",
+              "logprob": -0.08513886481523514
+            },
+            {
+              "token": " clean",
+              "logprob": -0.058382656425237656
+            },
+            {
+              "token": "?",
+              "logprob": -0.16629117727279663
+            },
+            {
+              "token": " He",
+              "logprob": -4.097281455993652
+            },
+            {
+              "token": " cleaned",
+              "logprob": -1.1423100233078003
+            },
+            {
+              "token": " the",
+              "logprob": -1.9644759893417358
+            },
+            {
+              "token": " dogs",
+              "logprob": -4.1678266525268555
+            },
+            {
+              "token": " with",
+              "logprob": -3.8948569297790527
+            },
+            {
+              "token": " water",
+              "logprob": -3.661586046218872
+            },
+            {
+              "token": " and",
+              "logprob": -1.2843031883239746
+            },
+            {
+              "token": " the",
+              "logprob": -0.7534916996955872
+            },
+            {
+              "token": " cats",
+              "logprob": -0.10298484563827515
+            },
+            {
+              "token": " with",
+              "logprob": -0.11371529847383499
+            },
+            {
+              "token": " lint",
+              "logprob": -5.3948516845703125
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.084165573120117
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Leo cleaned the fluffy dog.",
+          "token_data": [
+            {
+              "token": " Leo",
+              "logprob": -3.65077543258667
+            },
+            {
+              "token": " cleaned",
+              "logprob": -0.531816840171814
+            },
+            {
+              "token": " the",
+              "logprob": -2.263150453567505
+            },
+            {
+              "token": " fluffy",
+              "logprob": -3.1469640731811523
+            },
+            {
+              "token": " dog",
+              "logprob": -0.05640001967549324
+            },
+            {
+              "token": ".",
+              "logprob": -0.4161354601383209
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0303621292114258
+            },
+            {
+              "token": ":",
+              "logprob": -0.0233946330845356
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The first one he cleaned was a dog.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.753674030303955
+            },
+            {
+              "token": " first",
+              "logprob": -3.77413010597229
+            },
+            {
+              "token": " one",
+              "logprob": -2.728972911834717
+            },
+            {
+              "token": " he",
+              "logprob": -2.25099515914917
+            },
+            {
+              "token": " cleaned",
+              "logprob": -0.6671834588050842
+            },
+            {
+              "token": " was",
+              "logprob": -0.6072173714637756
+            },
+            {
+              "token": " a",
+              "logprob": -0.1447547823190689
+            },
+            {
+              "token": " dog",
+              "logprob": -1.9896490573883057
+            },
+            {
+              "token": ".",
+              "logprob": -0.38837888836860657
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0171749591827393
+            },
+            {
+              "token": ":",
+              "logprob": -0.022606519982218742
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.224964618682861
+            },
+            {
+              "token": ":",
+              "logprob": -0.13978764414787292
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What pet did Charlotte clean?",
+      "character": "Charlotte",
+      "story": "Leo and Charlotte were best friends. One sunny day, they decided to open a pet washing business. Leo loved dogs, and Charlotte liked cats. Their first customer was a man with a big, fluffy dog. The dog was dirty and needed a bath. Leo washed a fluffy dog while Charlotte played with a kitten nearby. The dog shook water everywhere, making Leo laugh. Charlotte smiled but stayed far away from the water. After the bath, the dog looked clean and happy. The man paid them and said he would come back. Leo was proud of his work. Charlotte was glad the kitten was safe from the wet dog. They packed up their supplies and went home. That night, they counted their money and planned to buy more pet shampoo. Leo and Charlotte were excited for their next adventure. They knew their business would grow because they worked well together. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "What did she clean the dog with? 2: Which was the one furthest away from the water?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.7656075954437256
+            },
+            {
+              "token": " did",
+              "logprob": -2.052906036376953
+            },
+            {
+              "token": " she",
+              "logprob": -2.4770278930664062
+            },
+            {
+              "token": " clean",
+              "logprob": -1.2564215660095215
+            },
+            {
+              "token": " the",
+              "logprob": -2.206226348876953
+            },
+            {
+              "token": " dog",
+              "logprob": -0.5068943500518799
+            },
+            {
+              "token": " with",
+              "logprob": -0.23400279879570007
+            },
+            {
+              "token": "?",
+              "logprob": -0.0878966897726059
+            },
+            {
+              "token": " ",
+              "logprob": -3.4297842979431152
+            },
+            {
+              "token": "2",
+              "logprob": -3.5515499114990234
+            },
+            {
+              "token": ":",
+              "logprob": -1.7921726703643799
+            },
+            {
+              "token": " Which",
+              "logprob": -3.592705249786377
+            },
+            {
+              "token": " was",
+              "logprob": -4.456393718719482
+            },
+            {
+              "token": " the",
+              "logprob": -1.1656856536865234
+            },
+            {
+              "token": " one",
+              "logprob": -4.75978422164917
+            },
+            {
+              "token": " fur",
+              "logprob": -5.031162261962891
+            },
+            {
+              "token": "thest",
+              "logprob": -0.04945508390665054
+            },
+            {
+              "token": " away",
+              "logprob": -0.5940520763397217
+            },
+            {
+              "token": " from",
+              "logprob": -0.25776275992393494
+            },
+            {
+              "token": " the",
+              "logprob": -0.11151997745037079
+            },
+            {
+              "token": " water",
+              "logprob": -0.49663621187210083
+            },
+            {
+              "token": "?",
+              "logprob": -0.09655927866697311
+            },
+            {
+              "token": " \n",
+              "logprob": -3.003922939300537
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "What pet did Charlotte clean? A: 0/3 pts",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.7881810665130615
+            },
+            {
+              "token": " pet",
+              "logprob": -0.46333158016204834
+            },
+            {
+              "token": " did",
+              "logprob": -0.06825022399425507
+            },
+            {
+              "token": " Charlotte",
+              "logprob": -0.44208747148513794
+            },
+            {
+              "token": " clean",
+              "logprob": -0.06460496038198471
+            },
+            {
+              "token": "?",
+              "logprob": -0.17576149106025696
+            },
+            {
+              "token": " A",
+              "logprob": -2.899341106414795
+            },
+            {
+              "token": ":",
+              "logprob": -0.10811087489128113
+            },
+            {
+              "token": " ",
+              "logprob": -4.51273775100708
+            },
+            {
+              "token": "0",
+              "logprob": -3.698683023452759
+            },
+            {
+              "token": "/",
+              "logprob": -2.5228946208953857
+            },
+            {
+              "token": "3",
+              "logprob": -3.1524171829223633
+            },
+            {
+              "token": " pts",
+              "logprob": -3.972672462463379
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.382823944091797
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -2.9337613582611084
+            },
+            {
+              "token": ":",
+              "logprob": -0.12057309597730637
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Which animal?",
+          "token_data": [
+            {
+              "token": " Which",
+              "logprob": -3.888265371322632
+            },
+            {
+              "token": " animal",
+              "logprob": -2.4088339805603027
+            },
+            {
+              "token": "?",
+              "logprob": -2.9951202869415283
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.7198874950408936
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "A cat",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.779630422592163
+            },
+            {
+              "token": " cat",
+              "logprob": -1.3659663200378418
+            },
+            {
+              "token": " Q",
+              "logprob": -3.2710466384887695
+            },
+            {
+              "token": ":",
+              "logprob": -0.039532288908958435
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -2.9337613582611084
+            },
+            {
+              "token": ":",
+              "logprob": -0.12057309597730637
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Charlotte cleaned the kittens and cats.",
+          "token_data": [
+            {
+              "token": " Charlotte",
+              "logprob": -2.3832643032073975
+            },
+            {
+              "token": " cleaned",
+              "logprob": -0.3036489188671112
+            },
+            {
+              "token": " the",
+              "logprob": -1.6116247177124023
+            },
+            {
+              "token": " kittens",
+              "logprob": -3.900590419769287
+            },
+            {
+              "token": " and",
+              "logprob": -3.0583839416503906
+            },
+            {
+              "token": " cats",
+              "logprob": -4.093564987182617
+            },
+            {
+              "token": ".",
+              "logprob": -0.5991050004959106
+            },
+            {
+              "token": " \n",
+              "logprob": -2.2040059566497803
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n\n",
+              "logprob": -4.7403717041015625
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "What pet did Leo clean?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.7881810665130615
+            },
+            {
+              "token": " pet",
+              "logprob": -0.46333158016204834
+            },
+            {
+              "token": " did",
+              "logprob": -0.06825022399425507
+            },
+            {
+              "token": " Leo",
+              "logprob": -1.2824594974517822
+            },
+            {
+              "token": " clean",
+              "logprob": -0.413971871137619
+            },
+            {
+              "token": "?",
+              "logprob": -0.0952320545911789
+            },
+            {
+              "token": " \n",
+              "logprob": -2.0699219703674316
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Charlotte cleaned a dog, but she is best friends with a cat.",
+          "token_data": [
+            {
+              "token": " Charlotte",
+              "logprob": -2.3832643032073975
+            },
+            {
+              "token": " cleaned",
+              "logprob": -0.3036489188671112
+            },
+            {
+              "token": " a",
+              "logprob": -0.4014139771461487
+            },
+            {
+              "token": " dog",
+              "logprob": -2.7528483867645264
+            },
+            {
+              "token": ",",
+              "logprob": -3.5881927013397217
+            },
+            {
+              "token": " but",
+              "logprob": -1.781139850616455
+            },
+            {
+              "token": " she",
+              "logprob": -1.3910044431686401
+            },
+            {
+              "token": " is",
+              "logprob": -4.278260231018066
+            },
+            {
+              "token": " best",
+              "logprob": -3.7487130165100098
+            },
+            {
+              "token": " friends",
+              "logprob": -0.07748105376958847
+            },
+            {
+              "token": " with",
+              "logprob": -0.032937102019786835
+            },
+            {
+              "token": " a",
+              "logprob": -0.4706929624080658
+            },
+            {
+              "token": " cat",
+              "logprob": -0.40729933977127075
+            },
+            {
+              "token": ".",
+              "logprob": -0.31724753975868225
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

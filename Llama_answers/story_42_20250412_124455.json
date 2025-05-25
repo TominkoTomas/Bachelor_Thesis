@@ -1,0 +1,1511 @@
+{
+  "story": "Leo and James were best friends. One day, they decided to explore an old house at the edge of town. The house looked scary, but they were brave. Leo opened a rusty gate that squeaked loudly. James carried a flashlight and shined it around. The yard was full of tall grass and broken toys. Inside the house, the walls were cracked, and the floor creaked with every step. James found an old book on a dusty table. He opened it and read a weird rhyme. Suddenly, the wind blew the door shut with a bang. Both boys jumped but laughed after. Leo suggested they leave before it got dark. They ran out of the house and back to the street. The adventure was fun, but they were glad to be safe. Leo and James promised to explore again another day. For now, they were happy to go home and rest.",
+  "characters": [
+    {
+      "question": "What condition was the gate Leo opened?",
+      "character": "Leo",
+      "story": "Leo and James were best friends. One day, they decided to explore an old house at the edge of town. The house looked scary, but they were brave. Leo opened a rusty gate that squeaked loudly. James carried a flashlight and shined it around. The yard was full of tall grass and broken toys. Inside the house, the walls were cracked, and the floor creaked with every step. James found an old book on a dusty table. He opened it and read a weird rhyme. Suddenly, the wind blew the door shut with a bang. Both boys jumped but laughed after. Leo suggested they leave before it got dark. They ran out of the house and back to the street. The adventure was fun, but they were glad to be safe. Leo and James promised to explore again another day. For now, they were happy to go home and rest.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "It was open, and Leo opened the gate with James to explore.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.4683592319488525
+            },
+            {
+              "token": " was",
+              "logprob": -0.2944942116737366
+            },
+            {
+              "token": " open",
+              "logprob": -2.9330763816833496
+            },
+            {
+              "token": ",",
+              "logprob": -3.502232074737549
+            },
+            {
+              "token": " and",
+              "logprob": -2.2544450759887695
+            },
+            {
+              "token": " Leo",
+              "logprob": -3.5742416381835938
+            },
+            {
+              "token": " opened",
+              "logprob": -1.3595049381256104
+            },
+            {
+              "token": " the",
+              "logprob": -1.5554163455963135
+            },
+            {
+              "token": " gate",
+              "logprob": -0.26578691601753235
+            },
+            {
+              "token": " with",
+              "logprob": -3.2598021030426025
+            },
+            {
+              "token": " James",
+              "logprob": -2.2570972442626953
+            },
+            {
+              "token": " to",
+              "logprob": -2.6982364654541016
+            },
+            {
+              "token": " explore",
+              "logprob": -1.3048969507217407
+            },
+            {
+              "token": ".",
+              "logprob": -1.5933606624603271
+            },
+            {
+              "token": " ",
+              "logprob": -2.239253282546997
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "It squeaked.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.5099449157714844
+            },
+            {
+              "token": " sque",
+              "logprob": -2.238416910171509
+            },
+            {
+              "token": "aked",
+              "logprob": -0.030279092490673065
+            },
+            {
+              "token": ".",
+              "logprob": -1.636763095855713
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9253429174423218
+            },
+            {
+              "token": ":",
+              "logprob": -0.019185921177268028
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "What conditions was James carrying?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.8199682235717773
+            },
+            {
+              "token": " conditions",
+              "logprob": -3.1195383071899414
+            },
+            {
+              "token": " was",
+              "logprob": -2.083242416381836
+            },
+            {
+              "token": " James",
+              "logprob": -2.917459011077881
+            },
+            {
+              "token": " carrying",
+              "logprob": -1.6465071439743042
+            },
+            {
+              "token": "?",
+              "logprob": -0.47797316312789917
+            },
+            {
+              "token": " \n",
+              "logprob": -2.716176986694336
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It was rust.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.5099449157714844
+            },
+            {
+              "token": " was",
+              "logprob": -0.28078487515449524
+            },
+            {
+              "token": " rust",
+              "logprob": -2.5337975025177
+            },
+            {
+              "token": ".",
+              "logprob": -1.6834383010864258
+            },
+            {
+              "token": " \n",
+              "logprob": -1.9251419305801392
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The gate was rusty. It looked scared but we weren’t frightened. Leo opened it and walked in without any hesitation.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.1732417345046997
+            },
+            {
+              "token": " gate",
+              "logprob": -0.13933828473091125
+            },
+            {
+              "token": " was",
+              "logprob": -0.31054264307022095
+            },
+            {
+              "token": " rusty",
+              "logprob": -1.2370492219924927
+            },
+            {
+              "token": ".",
+              "logprob": -1.0270856618881226
+            },
+            {
+              "token": " It",
+              "logprob": -2.5699989795684814
+            },
+            {
+              "token": " looked",
+              "logprob": -3.0580081939697266
+            },
+            {
+              "token": " scared",
+              "logprob": -3.6874260902404785
+            },
+            {
+              "token": " but",
+              "logprob": -3.203982353210449
+            },
+            {
+              "token": " we",
+              "logprob": -1.17692232131958
+            },
+            {
+              "token": " weren",
+              "logprob": -3.4514174461364746
+            },
+            {
+              "token": "’t",
+              "logprob": -1.7850606441497803
+            },
+            {
+              "token": " frightened",
+              "logprob": -4.334362983703613
+            },
+            {
+              "token": ".",
+              "logprob": -0.39431142807006836
+            },
+            {
+              "token": " Leo",
+              "logprob": -3.263558864593506
+            },
+            {
+              "token": " opened",
+              "logprob": -0.978585422039032
+            },
+            {
+              "token": " it",
+              "logprob": -1.508894443511963
+            },
+            {
+              "token": " and",
+              "logprob": -2.738097906112671
+            },
+            {
+              "token": " walked",
+              "logprob": -4.565639495849609
+            },
+            {
+              "token": " in",
+              "logprob": -0.8421688675880432
+            },
+            {
+              "token": " without",
+              "logprob": -4.461185455322266
+            },
+            {
+              "token": " any",
+              "logprob": -2.7287964820861816
+            },
+            {
+              "token": " hesitation",
+              "logprob": -3.1013686656951904
+            },
+            {
+              "token": ".",
+              "logprob": -0.24673889577388763
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.023012638092041
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A squeak",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.2162485122680664
+            },
+            {
+              "token": " sque",
+              "logprob": -3.3261196613311768
+            },
+            {
+              "token": "ak",
+              "logprob": -0.4253980219364166
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.7569990158081055
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Leo was nervous.",
+          "token_data": [
+            {
+              "token": " Leo",
+              "logprob": -3.372138023376465
+            },
+            {
+              "token": " was",
+              "logprob": -3.2571229934692383
+            },
+            {
+              "token": " nervous",
+              "logprob": -3.0107388496398926
+            },
+            {
+              "token": ".",
+              "logprob": -1.3343098163604736
+            },
+            {
+              "token": " \n",
+              "logprob": -2.151522397994995
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A rusted gate on the side of a house.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.2162485122680664
+            },
+            {
+              "token": " rust",
+              "logprob": -2.4974873065948486
+            },
+            {
+              "token": "ed",
+              "logprob": -0.37605899572372437
+            },
+            {
+              "token": " gate",
+              "logprob": -0.3522425889968872
+            },
+            {
+              "token": " on",
+              "logprob": -4.241217613220215
+            },
+            {
+              "token": " the",
+              "logprob": -0.9863946437835693
+            },
+            {
+              "token": " side",
+              "logprob": -1.7820971012115479
+            },
+            {
+              "token": " of",
+              "logprob": -0.15899516642093658
+            },
+            {
+              "token": " a",
+              "logprob": -1.2374093532562256
+            },
+            {
+              "token": " house",
+              "logprob": -1.3713350296020508
+            },
+            {
+              "token": ".",
+              "logprob": -0.6071817874908447
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.8930442333221436
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "A creaking sound.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.2162485122680664
+            },
+            {
+              "token": " c",
+              "logprob": -3.8125622272491455
+            },
+            {
+              "token": "reak",
+              "logprob": -0.007359773386269808
+            },
+            {
+              "token": "ing",
+              "logprob": -0.5413928031921387
+            },
+            {
+              "token": " sound",
+              "logprob": -2.040087938308716
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.6358633041381836
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The gate was rusted. B:  It was rusty. C:  The gate needed a little bit more work.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.9908857345581055
+            },
+            {
+              "token": " The",
+              "logprob": -1.2360986471176147
+            },
+            {
+              "token": " gate",
+              "logprob": -0.1584056168794632
+            },
+            {
+              "token": " was",
+              "logprob": -0.34530559182167053
+            },
+            {
+              "token": " rust",
+              "logprob": -2.0638375282287598
+            },
+            {
+              "token": "ed",
+              "logprob": -0.3429153561592102
+            },
+            {
+              "token": ".",
+              "logprob": -0.8574953675270081
+            },
+            {
+              "token": " B",
+              "logprob": -4.241771697998047
+            },
+            {
+              "token": ":",
+              "logprob": -0.014194242656230927
+            },
+            {
+              "token": " ",
+              "logprob": -0.3636075556278229
+            },
+            {
+              "token": " It",
+              "logprob": -2.799767017364502
+            },
+            {
+              "token": " was",
+              "logprob": -0.34425291419029236
+            },
+            {
+              "token": " rusty",
+              "logprob": -1.038224220275879
+            },
+            {
+              "token": ".",
+              "logprob": -0.1140601634979248
+            },
+            {
+              "token": " C",
+              "logprob": -0.3347582221031189
+            },
+            {
+              "token": ":",
+              "logprob": -0.009772789664566517
+            },
+            {
+              "token": " ",
+              "logprob": -0.1144988089799881
+            },
+            {
+              "token": " The",
+              "logprob": -1.131962537765503
+            },
+            {
+              "token": " gate",
+              "logprob": -0.08781348913908005
+            },
+            {
+              "token": " needed",
+              "logprob": -4.271797180175781
+            },
+            {
+              "token": " a",
+              "logprob": -1.3758854866027832
+            },
+            {
+              "token": " little",
+              "logprob": -1.9143750667572021
+            },
+            {
+              "token": " bit",
+              "logprob": -2.6676249504089355
+            },
+            {
+              "token": " more",
+              "logprob": -3.0320982933044434
+            },
+            {
+              "token": " work",
+              "logprob": -2.021724224090576
+            },
+            {
+              "token": ".",
+              "logprob": -0.6243076920509338
+            },
+            {
+              "token": " \n",
+              "logprob": -2.5697426795959473
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What condition was the gate James opened?",
+      "character": "James",
+      "story": "Leo and James were best friends. One day, they decided to explore an old house at the edge of town. The house looked scary, but they were brave. Leo opened a rusty gate that squeaked loudly. James carried a flashlight and shined it around. The yard was full of tall grass and broken toys. Inside the house, the walls were cracked, and the floor creaked with every step. James found an old book on a dusty table. He opened it and read a weird rhyme. Suddenly, the wind blew the door shut with a bang. Both boys jumped but laughed after. Leo suggested they leave before it got dark. They ran out of the house and back to the street. The adventure was fun, but they were glad to be safe. Leo and James promised to explore again another day. For now, they were happy to go home and rest.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "What did Leo and James laugh at? (A, A, A, B, C)",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.608157157897949
+            },
+            {
+              "token": " did",
+              "logprob": -2.6401848793029785
+            },
+            {
+              "token": " Leo",
+              "logprob": -1.0494369268417358
+            },
+            {
+              "token": " and",
+              "logprob": -0.730516791343689
+            },
+            {
+              "token": " James",
+              "logprob": -0.009186854586005211
+            },
+            {
+              "token": " laugh",
+              "logprob": -1.8753776550292969
+            },
+            {
+              "token": " at",
+              "logprob": -1.594743251800537
+            },
+            {
+              "token": "?",
+              "logprob": -0.3138009011745453
+            },
+            {
+              "token": " (",
+              "logprob": -3.1837692260742188
+            },
+            {
+              "token": "A",
+              "logprob": -2.0095584392547607
+            },
+            {
+              "token": ",",
+              "logprob": -4.1274237632751465
+            },
+            {
+              "token": " A",
+              "logprob": -1.14044988155365
+            },
+            {
+              "token": ",",
+              "logprob": -0.6725417375564575
+            },
+            {
+              "token": " A",
+              "logprob": -0.5872287154197693
+            },
+            {
+              "token": ",",
+              "logprob": -1.0269089937210083
+            },
+            {
+              "token": " B",
+              "logprob": -2.8377842903137207
+            },
+            {
+              "token": ",",
+              "logprob": -0.36845874786376953
+            },
+            {
+              "token": " C",
+              "logprob": -0.432380348443985
+            },
+            {
+              "token": ")\n",
+              "logprob": -2.791968584060669
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "A. The gate was not locked.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.1973273754119873
+            },
+            {
+              "token": ".",
+              "logprob": -3.5462398529052734
+            },
+            {
+              "token": " The",
+              "logprob": -1.4301568269729614
+            },
+            {
+              "token": " gate",
+              "logprob": -0.17061996459960938
+            },
+            {
+              "token": " was",
+              "logprob": -0.36237791180610657
+            },
+            {
+              "token": " not",
+              "logprob": -4.04907751083374
+            },
+            {
+              "token": " locked",
+              "logprob": -2.7958149909973145
+            },
+            {
+              "token": ".",
+              "logprob": -0.3556061089038849
+            },
+            {
+              "token": " \n",
+              "logprob": -2.6766536235809326
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A gate that squeaked when opened.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.1973273754119873
+            },
+            {
+              "token": " gate",
+              "logprob": -2.149322509765625
+            },
+            {
+              "token": " that",
+              "logprob": -1.5722192525863647
+            },
+            {
+              "token": " sque",
+              "logprob": -1.2220524549484253
+            },
+            {
+              "token": "aked",
+              "logprob": -0.18475458025932312
+            },
+            {
+              "token": " when",
+              "logprob": -2.9442687034606934
+            },
+            {
+              "token": " opened",
+              "logprob": -0.11791262775659561
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.7285120487213135
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Which gate? It squeaked loud. It was old and rusted. B: A rusty gate with a lot of work on it. It was full of dirt. C: The gate at the edge of town that led to adventure inside.",
+          "token_data": [
+            {
+              "token": " Which",
+              "logprob": -3.7459914684295654
+            },
+            {
+              "token": " gate",
+              "logprob": -2.1314353942871094
+            },
+            {
+              "token": "?",
+              "logprob": -1.8022375106811523
+            },
+            {
+              "token": " It",
+              "logprob": -2.9312915802001953
+            },
+            {
+              "token": " sque",
+              "logprob": -2.436899185180664
+            },
+            {
+              "token": "aked",
+              "logprob": -0.08562856167554855
+            },
+            {
+              "token": " loud",
+              "logprob": -3.6031947135925293
+            },
+            {
+              "token": ".",
+              "logprob": -1.3859410285949707
+            },
+            {
+              "token": " It",
+              "logprob": -2.8024494647979736
+            },
+            {
+              "token": " was",
+              "logprob": -0.6755032539367676
+            },
+            {
+              "token": " old",
+              "logprob": -2.263482093811035
+            },
+            {
+              "token": " and",
+              "logprob": -1.0157740116119385
+            },
+            {
+              "token": " rust",
+              "logprob": -1.9745771884918213
+            },
+            {
+              "token": "ed",
+              "logprob": -0.12487847357988358
+            },
+            {
+              "token": ".",
+              "logprob": -0.2108616828918457
+            },
+            {
+              "token": " B",
+              "logprob": -3.673978328704834
+            },
+            {
+              "token": ":",
+              "logprob": -0.03386993706226349
+            },
+            {
+              "token": " A",
+              "logprob": -3.3789095878601074
+            },
+            {
+              "token": " rusty",
+              "logprob": -1.099787950515747
+            },
+            {
+              "token": " gate",
+              "logprob": -0.1812235713005066
+            },
+            {
+              "token": " with",
+              "logprob": -3.6880998611450195
+            },
+            {
+              "token": " a",
+              "logprob": -0.6634248495101929
+            },
+            {
+              "token": " lot",
+              "logprob": -4.307331085205078
+            },
+            {
+              "token": " of",
+              "logprob": -0.026693418622016907
+            },
+            {
+              "token": " work",
+              "logprob": -4.584094524383545
+            },
+            {
+              "token": " on",
+              "logprob": -2.2446022033691406
+            },
+            {
+              "token": " it",
+              "logprob": -0.18020549416542053
+            },
+            {
+              "token": ".",
+              "logprob": -0.13210180401802063
+            },
+            {
+              "token": " It",
+              "logprob": -1.0283617973327637
+            },
+            {
+              "token": " was",
+              "logprob": -0.7105361819267273
+            },
+            {
+              "token": " full",
+              "logprob": -4.859568119049072
+            },
+            {
+              "token": " of",
+              "logprob": -0.02817174419760704
+            },
+            {
+              "token": " dirt",
+              "logprob": -3.7517590522766113
+            },
+            {
+              "token": ".",
+              "logprob": -0.696793794631958
+            },
+            {
+              "token": " C",
+              "logprob": -0.8971982598304749
+            },
+            {
+              "token": ":",
+              "logprob": -0.015037394128739834
+            },
+            {
+              "token": " The",
+              "logprob": -2.5392560958862305
+            },
+            {
+              "token": " gate",
+              "logprob": -0.3212648332118988
+            },
+            {
+              "token": " at",
+              "logprob": -4.491324424743652
+            },
+            {
+              "token": " the",
+              "logprob": -0.07875126600265503
+            },
+            {
+              "token": " edge",
+              "logprob": -0.7962914705276489
+            },
+            {
+              "token": " of",
+              "logprob": -0.018180280923843384
+            },
+            {
+              "token": " town",
+              "logprob": -0.6305223703384399
+            },
+            {
+              "token": " that",
+              "logprob": -3.2313241958618164
+            },
+            {
+              "token": " led",
+              "logprob": -3.8861351013183594
+            },
+            {
+              "token": " to",
+              "logprob": -0.33724305033683777
+            },
+            {
+              "token": " adventure",
+              "logprob": -2.2471044063568115
+            },
+            {
+              "token": " inside",
+              "logprob": -4.607573509216309
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.974748134613037
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "It was a rusty gate.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.448927640914917
+            },
+            {
+              "token": " was",
+              "logprob": -0.2949788272380829
+            },
+            {
+              "token": " a",
+              "logprob": -1.8346388339996338
+            },
+            {
+              "token": " rusty",
+              "logprob": -0.2153332531452179
+            },
+            {
+              "token": " gate",
+              "logprob": -0.259979784488678
+            },
+            {
+              "token": ".",
+              "logprob": -0.610953688621521
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0086833238601685
+            },
+            {
+              "token": ":",
+              "logprob": -0.021904325112700462
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The gate was rusty.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.3427140712738037
+            },
+            {
+              "token": " gate",
+              "logprob": -0.13763225078582764
+            },
+            {
+              "token": " was",
+              "logprob": -0.34929022192955017
+            },
+            {
+              "token": " rusty",
+              "logprob": -1.5808296203613281
+            },
+            {
+              "token": ".",
+              "logprob": -0.954767644405365
+            },
+            {
+              "token": " \n",
+              "logprob": -1.88227117061615
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "What is the second word?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.6003615856170654
+            },
+            {
+              "token": " is",
+              "logprob": -3.4974441528320312
+            },
+            {
+              "token": " the",
+              "logprob": -0.4415113925933838
+            },
+            {
+              "token": " second",
+              "logprob": -4.825725555419922
+            },
+            {
+              "token": " word",
+              "logprob": -2.7860188484191895
+            },
+            {
+              "token": "?",
+              "logprob": -1.2533981800079346
+            },
+            {
+              "token": " \n",
+              "logprob": -2.10602068901062
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A rusted gate is a sign that a door should be used. Opened a rusty gate, then James was brave to open it. Leo and James were brave but scared the wind blew shut with bang! Both boys laughed. Leo laughed with them in adventure but he was happy after they left safely by the dark wind blew the door shut with a bang again.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.1973273754119873
+            },
+            {
+              "token": " rust",
+              "logprob": -2.760944366455078
+            },
+            {
+              "token": "ed",
+              "logprob": -0.3545260727405548
+            },
+            {
+              "token": " gate",
+              "logprob": -0.4043720066547394
+            },
+            {
+              "token": " is",
+              "logprob": -4.250537872314453
+            },
+            {
+              "token": " a",
+              "logprob": -1.5155104398727417
+            },
+            {
+              "token": " sign",
+              "logprob": -1.673762559890747
+            },
+            {
+              "token": " that",
+              "logprob": -1.018923044204712
+            },
+            {
+              "token": " a",
+              "logprob": -2.8143835067749023
+            },
+            {
+              "token": " door",
+              "logprob": -3.0869131088256836
+            },
+            {
+              "token": " should",
+              "logprob": -3.733701229095459
+            },
+            {
+              "token": " be",
+              "logprob": -1.4933006763458252
+            },
+            {
+              "token": " used",
+              "logprob": -2.7607436180114746
+            },
+            {
+              "token": ".",
+              "logprob": -0.5698647499084473
+            },
+            {
+              "token": " Open",
+              "logprob": -4.025759696960449
+            },
+            {
+              "token": "ed",
+              "logprob": -1.0933949947357178
+            },
+            {
+              "token": " a",
+              "logprob": -1.6634397506713867
+            },
+            {
+              "token": " rusty",
+              "logprob": -0.3493601083755493
+            },
+            {
+              "token": " gate",
+              "logprob": -0.041263144463300705
+            },
+            {
+              "token": ",",
+              "logprob": -3.4100136756896973
+            },
+            {
+              "token": " then",
+              "logprob": -4.052737236022949
+            },
+            {
+              "token": " James",
+              "logprob": -1.6334614753723145
+            },
+            {
+              "token": " was",
+              "logprob": -2.0538408756256104
+            },
+            {
+              "token": " brave",
+              "logprob": -1.3370468616485596
+            },
+            {
+              "token": " to",
+              "logprob": -2.2554197311401367
+            },
+            {
+              "token": " open",
+              "logprob": -1.6118463277816772
+            },
+            {
+              "token": " it",
+              "logprob": -1.9114521741867065
+            },
+            {
+              "token": ".",
+              "logprob": -0.5280294418334961
+            },
+            {
+              "token": " Leo",
+              "logprob": -3.5575203895568848
+            },
+            {
+              "token": " and",
+              "logprob": -1.4513405561447144
+            },
+            {
+              "token": " James",
+              "logprob": -0.011190863326191902
+            },
+            {
+              "token": " were",
+              "logprob": -0.5361300110816956
+            },
+            {
+              "token": " brave",
+              "logprob": -1.4640486240386963
+            },
+            {
+              "token": " but",
+              "logprob": -4.546022415161133
+            },
+            {
+              "token": " scared",
+              "logprob": -3.78116512298584
+            },
+            {
+              "token": " the",
+              "logprob": -3.5731582641601562
+            },
+            {
+              "token": " wind",
+              "logprob": -0.8876893520355225
+            },
+            {
+              "token": " blew",
+              "logprob": -0.6745324730873108
+            },
+            {
+              "token": " shut",
+              "logprob": -3.1203513145446777
+            },
+            {
+              "token": " with",
+              "logprob": -2.303938150405884
+            },
+            {
+              "token": " bang",
+              "logprob": -3.5539960861206055
+            },
+            {
+              "token": "!",
+              "logprob": -4.201604843139648
+            },
+            {
+              "token": " Both",
+              "logprob": -1.389768362045288
+            },
+            {
+              "token": " boys",
+              "logprob": -0.42006009817123413
+            },
+            {
+              "token": " laughed",
+              "logprob": -1.1284841299057007
+            },
+            {
+              "token": ".",
+              "logprob": -1.6026722192764282
+            },
+            {
+              "token": " Leo",
+              "logprob": -1.6683179140090942
+            },
+            {
+              "token": " laughed",
+              "logprob": -3.316235065460205
+            },
+            {
+              "token": " with",
+              "logprob": -3.2042055130004883
+            },
+            {
+              "token": " them",
+              "logprob": -2.779156446456909
+            },
+            {
+              "token": " in",
+              "logprob": -5.007123947143555
+            },
+            {
+              "token": " adventure",
+              "logprob": -3.5340824127197266
+            },
+            {
+              "token": " but",
+              "logprob": -2.4898366928100586
+            },
+            {
+              "token": " he",
+              "logprob": -3.487423896789551
+            },
+            {
+              "token": " was",
+              "logprob": -0.5345597863197327
+            },
+            {
+              "token": " happy",
+              "logprob": -0.9248061776161194
+            },
+            {
+              "token": " after",
+              "logprob": -4.239196300506592
+            },
+            {
+              "token": " they",
+              "logprob": -1.63613760471344
+            },
+            {
+              "token": " left",
+              "logprob": -2.6049091815948486
+            },
+            {
+              "token": " safely",
+              "logprob": -4.308699607849121
+            },
+            {
+              "token": " by",
+              "logprob": -5.08920431137085
+            },
+            {
+              "token": " the",
+              "logprob": -1.175094485282898
+            },
+            {
+              "token": " dark",
+              "logprob": -4.420776844024658
+            },
+            {
+              "token": " wind",
+              "logprob": -4.284913539886475
+            },
+            {
+              "token": " blew",
+              "logprob": -2.2986581325531006
+            },
+            {
+              "token": " the",
+              "logprob": -1.6353014707565308
+            },
+            {
+              "token": " door",
+              "logprob": -0.12837359309196472
+            },
+            {
+              "token": " shut",
+              "logprob": -0.2406577169895172
+            },
+            {
+              "token": " with",
+              "logprob": -1.2899900674819946
+            },
+            {
+              "token": " a",
+              "logprob": -0.6551042795181274
+            },
+            {
+              "token": " bang",
+              "logprob": -0.03888178989291191
+            },
+            {
+              "token": " again",
+              "logprob": -4.9404168128967285
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.7469863891601562
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "What conditions does James need to explore an old house? A: The conditions James needed to explore the old house was that it didn't look scary, and it also needed a rusty gate.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.6003615856170654
+            },
+            {
+              "token": " conditions",
+              "logprob": -3.0161380767822266
+            },
+            {
+              "token": " does",
+              "logprob": -3.7261719703674316
+            },
+            {
+              "token": " James",
+              "logprob": -2.3357748985290527
+            },
+            {
+              "token": " need",
+              "logprob": -1.1911677122116089
+            },
+            {
+              "token": " to",
+              "logprob": -0.07607036828994751
+            },
+            {
+              "token": " explore",
+              "logprob": -2.1530022621154785
+            },
+            {
+              "token": " an",
+              "logprob": -2.5774855613708496
+            },
+            {
+              "token": " old",
+              "logprob": -0.08915025740861893
+            },
+            {
+              "token": " house",
+              "logprob": -0.05787009373307228
+            },
+            {
+              "token": "?",
+              "logprob": -0.34010541439056396
+            },
+            {
+              "token": " A",
+              "logprob": -0.5071331262588501
+            },
+            {
+              "token": ":",
+              "logprob": -0.03464968875050545
+            },
+            {
+              "token": " The",
+              "logprob": -3.154970645904541
+            },
+            {
+              "token": " conditions",
+              "logprob": -2.4184277057647705
+            },
+            {
+              "token": " James",
+              "logprob": -2.0155773162841797
+            },
+            {
+              "token": " needed",
+              "logprob": -1.656984567642212
+            },
+            {
+              "token": " to",
+              "logprob": -0.1622663289308548
+            },
+            {
+              "token": " explore",
+              "logprob": -0.7687336802482605
+            },
+            {
+              "token": " the",
+              "logprob": -1.4294947385787964
+            },
+            {
+              "token": " old",
+              "logprob": -0.2890661656856537
+            },
+            {
+              "token": " house",
+              "logprob": -0.019424457103013992
+            },
+            {
+              "token": " was",
+              "logprob": -2.9711103439331055
+            },
+            {
+              "token": " that",
+              "logprob": -1.8357751369476318
+            },
+            {
+              "token": " it",
+              "logprob": -1.1334483623504639
+            },
+            {
+              "token": " didn",
+              "logprob": -4.3920440673828125
+            },
+            {
+              "token": "'t",
+              "logprob": -0.1824602633714676
+            },
+            {
+              "token": " look",
+              "logprob": -0.25232407450675964
+            },
+            {
+              "token": " scary",
+              "logprob": -0.14853928983211517
+            },
+            {
+              "token": ",",
+              "logprob": -1.9516222476959229
+            },
+            {
+              "token": " and",
+              "logprob": -1.6967456340789795
+            },
+            {
+              "token": " it",
+              "logprob": -2.1266534328460693
+            },
+            {
+              "token": " also",
+              "logprob": -3.897775173187256
+            },
+            {
+              "token": " needed",
+              "logprob": -2.3265445232391357
+            },
+            {
+              "token": " a",
+              "logprob": -2.096107006072998
+            },
+            {
+              "token": " rusty",
+              "logprob": -0.7587239146232605
+            },
+            {
+              "token": " gate",
+              "logprob": -0.020256437361240387
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.188395023345947
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Leo opened a rusty gate that squeaked loudly. (2 points)",
+          "token_data": [
+            {
+              "token": " Leo",
+              "logprob": -2.9440505504608154
+            },
+            {
+              "token": " opened",
+              "logprob": -0.8827346563339233
+            },
+            {
+              "token": " a",
+              "logprob": -0.67496258020401
+            },
+            {
+              "token": " rusty",
+              "logprob": -0.09140312671661377
+            },
+            {
+              "token": " gate",
+              "logprob": -0.06845786422491074
+            },
+            {
+              "token": " that",
+              "logprob": -0.5486143231391907
+            },
+            {
+              "token": " sque",
+              "logprob": -0.0298080425709486
+            },
+            {
+              "token": "aked",
+              "logprob": -0.1742880791425705
+            },
+            {
+              "token": " loudly",
+              "logprob": -0.0464959442615509
+            },
+            {
+              "token": ".",
+              "logprob": -0.2573062777519226
+            },
+            {
+              "token": " (",
+              "logprob": -4.249528884887695
+            },
+            {
+              "token": "2",
+              "logprob": -4.86361026763916
+            },
+            {
+              "token": " points",
+              "logprob": -1.0290929079055786
+            },
+            {
+              "token": ")\n\n",
+              "logprob": -2.53035306930542
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

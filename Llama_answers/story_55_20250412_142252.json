@@ -1,0 +1,1327 @@
+{
+  "story": "Amelia and Grace were best friends who loved playing outside. One sunny day, they went to the park together. Grace sat on a bench to read her book while Amelia ran around the grassy field. The wind was strong, and Amelia saw a colorful kite flying high in the sky. Suddenly, the kite’s string broke, and it started falling. Amelia ran as fast as she could, stretching her arms out. She jumped and grabbed the string just in time. Amelia caught a flying kite! She was so happy and showed it to Grace, who smiled and clapped for her. The kite had a picture of a dragon on it, and Amelia thought it was the coolest thing ever. Grace went back to her book, and Amelia played with the kite for the rest of the afternoon. They both had a great day at the park.",
+  "characters": [
+    {
+      "question": "What was the kite doing when Amelia caught it?",
+      "character": "Amelia",
+      "story": "Amelia and Grace were best friends who loved playing outside. One sunny day, they went to the park together. Grace sat on a bench to read her book while Amelia ran around the grassy field. The wind was strong, and Amelia saw a colorful kite flying high in the sky. Suddenly, the kite’s string broke, and it started falling. Amelia ran as fast as she could, stretching her arms out. She jumped and grabbed the string just in time. Amelia caught a flying kite! She was so happy and showed it to Grace, who smiled and clapped for her. The kite had a picture of a dragon on it, and Amelia thought it was the coolest thing ever. Grace went back to her book, and Amelia played with the kite for the rest of the afternoon. They both had a great day at the park.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "What was the kite doing when Amelia caught it?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.7865402698516846
+            },
+            {
+              "token": " was",
+              "logprob": -0.5862433910369873
+            },
+            {
+              "token": " the",
+              "logprob": -0.24738426506519318
+            },
+            {
+              "token": " kite",
+              "logprob": -0.15265986323356628
+            },
+            {
+              "token": " doing",
+              "logprob": -0.05279580503702164
+            },
+            {
+              "token": " when",
+              "logprob": -0.40722545981407166
+            },
+            {
+              "token": " Amelia",
+              "logprob": -0.03564764931797981
+            },
+            {
+              "token": " caught",
+              "logprob": -0.028311505913734436
+            },
+            {
+              "token": " it",
+              "logprob": -0.020318815484642982
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.8647818565368652
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "It was falling, and it needed to be caught!",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.351747751235962
+            },
+            {
+              "token": " was",
+              "logprob": -0.14364217221736908
+            },
+            {
+              "token": " falling",
+              "logprob": -1.384810447692871
+            },
+            {
+              "token": ",",
+              "logprob": -2.632294178009033
+            },
+            {
+              "token": " and",
+              "logprob": -0.9903426766395569
+            },
+            {
+              "token": " it",
+              "logprob": -2.9841952323913574
+            },
+            {
+              "token": " needed",
+              "logprob": -2.1010608673095703
+            },
+            {
+              "token": " to",
+              "logprob": -0.8394390940666199
+            },
+            {
+              "token": " be",
+              "logprob": -0.11709138005971909
+            },
+            {
+              "token": " caught",
+              "logprob": -0.2686951756477356
+            },
+            {
+              "token": "!",
+              "logprob": -2.35996413230896
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.6178388595581055
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Amelia ran after it.",
+          "token_data": [
+            {
+              "token": " Amelia",
+              "logprob": -1.8266947269439697
+            },
+            {
+              "token": " ran",
+              "logprob": -2.7580792903900146
+            },
+            {
+              "token": " after",
+              "logprob": -2.3033580780029297
+            },
+            {
+              "token": " it",
+              "logprob": -0.345427006483078
+            },
+            {
+              "token": ".",
+              "logprob": -0.7076817154884338
+            },
+            {
+              "token": " ",
+              "logprob": -2.4112467765808105
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6542986631393433
+            },
+            {
+              "token": ":",
+              "logprob": -0.026908470317721367
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The picture was showing off how to fly and being in a long string of grass.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.2548620700836182
+            },
+            {
+              "token": " picture",
+              "logprob": -3.685046434402466
+            },
+            {
+              "token": " was",
+              "logprob": -3.202874183654785
+            },
+            {
+              "token": " showing",
+              "logprob": -3.9400928020477295
+            },
+            {
+              "token": " off",
+              "logprob": -4.576249122619629
+            },
+            {
+              "token": " how",
+              "logprob": -2.7173283100128174
+            },
+            {
+              "token": " to",
+              "logprob": -1.4255768060684204
+            },
+            {
+              "token": " fly",
+              "logprob": -1.4564495086669922
+            },
+            {
+              "token": " and",
+              "logprob": -3.040349006652832
+            },
+            {
+              "token": " being",
+              "logprob": -4.764886856079102
+            },
+            {
+              "token": " in",
+              "logprob": -3.9060983657836914
+            },
+            {
+              "token": " a",
+              "logprob": -1.510111689567566
+            },
+            {
+              "token": " long",
+              "logprob": -5.239748954772949
+            },
+            {
+              "token": " string",
+              "logprob": -0.7951511144638062
+            },
+            {
+              "token": " of",
+              "logprob": -2.4313509464263916
+            },
+            {
+              "token": " grass",
+              "logprob": -4.744020462036133
+            },
+            {
+              "token": ".",
+              "logprob": -0.8286551833152771
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.071319103240967
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The kite was falling out of the sky when Amelia ran as fast as she could to catch it.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.2548620700836182
+            },
+            {
+              "token": " kite",
+              "logprob": -1.0777437686920166
+            },
+            {
+              "token": " was",
+              "logprob": -0.43707752227783203
+            },
+            {
+              "token": " falling",
+              "logprob": -1.5518677234649658
+            },
+            {
+              "token": " out",
+              "logprob": -2.723903179168701
+            },
+            {
+              "token": " of",
+              "logprob": -0.014471923932433128
+            },
+            {
+              "token": " the",
+              "logprob": -0.06085235998034477
+            },
+            {
+              "token": " sky",
+              "logprob": -0.03894244134426117
+            },
+            {
+              "token": " when",
+              "logprob": -2.992692232131958
+            },
+            {
+              "token": " Amelia",
+              "logprob": -0.28515559434890747
+            },
+            {
+              "token": " ran",
+              "logprob": -2.164926290512085
+            },
+            {
+              "token": " as",
+              "logprob": -2.151259183883667
+            },
+            {
+              "token": " fast",
+              "logprob": -0.10004285722970963
+            },
+            {
+              "token": " as",
+              "logprob": -0.011027229018509388
+            },
+            {
+              "token": " she",
+              "logprob": -0.030944231897592545
+            },
+            {
+              "token": " could",
+              "logprob": -0.015838179737329483
+            },
+            {
+              "token": " to",
+              "logprob": -1.590227484703064
+            },
+            {
+              "token": " catch",
+              "logprob": -0.40653640031814575
+            },
+            {
+              "token": " it",
+              "logprob": -0.04680052027106285
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.001375913619995
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Answer using one whole sentance.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.112762451171875
+            },
+            {
+              "token": " using",
+              "logprob": -0.37076884508132935
+            },
+            {
+              "token": " one",
+              "logprob": -0.1843026578426361
+            },
+            {
+              "token": " whole",
+              "logprob": -0.13725653290748596
+            },
+            {
+              "token": " sent",
+              "logprob": -1.616681694984436
+            },
+            {
+              "token": "ance",
+              "logprob": -0.08238845318555832
+            },
+            {
+              "token": ".",
+              "logprob": -0.2249395251274109
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -2.8496720790863037
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The kite was flying high in the sky when a strong wind caused the string to break. What happened next? (A good example of an illustration here is, that it had a picture of a dragon on it. It showed what was going on at the moment for Amelia to run and jump and grab the string quickly.)",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.2548620700836182
+            },
+            {
+              "token": " kite",
+              "logprob": -1.0777437686920166
+            },
+            {
+              "token": " was",
+              "logprob": -0.43707752227783203
+            },
+            {
+              "token": " flying",
+              "logprob": -0.5923778414726257
+            },
+            {
+              "token": " high",
+              "logprob": -0.7747797966003418
+            },
+            {
+              "token": " in",
+              "logprob": -0.1912425309419632
+            },
+            {
+              "token": " the",
+              "logprob": -0.00836688932031393
+            },
+            {
+              "token": " sky",
+              "logprob": -0.02685973234474659
+            },
+            {
+              "token": " when",
+              "logprob": -2.3102328777313232
+            },
+            {
+              "token": " a",
+              "logprob": -2.95206618309021
+            },
+            {
+              "token": " strong",
+              "logprob": -2.292128562927246
+            },
+            {
+              "token": " wind",
+              "logprob": -0.08249922096729279
+            },
+            {
+              "token": " caused",
+              "logprob": -2.4093217849731445
+            },
+            {
+              "token": " the",
+              "logprob": -0.6282301545143127
+            },
+            {
+              "token": " string",
+              "logprob": -0.1644439697265625
+            },
+            {
+              "token": " to",
+              "logprob": -0.05476155877113342
+            },
+            {
+              "token": " break",
+              "logprob": -0.04606127366423607
+            },
+            {
+              "token": ".",
+              "logprob": -0.21822798252105713
+            },
+            {
+              "token": " What",
+              "logprob": -4.457405090332031
+            },
+            {
+              "token": " happened",
+              "logprob": -1.4196300506591797
+            },
+            {
+              "token": " next",
+              "logprob": -0.15481090545654297
+            },
+            {
+              "token": "?",
+              "logprob": -0.2684009373188019
+            },
+            {
+              "token": " (",
+              "logprob": -3.6573829650878906
+            },
+            {
+              "token": "A",
+              "logprob": -2.980720281600952
+            },
+            {
+              "token": " good",
+              "logprob": -4.373337268829346
+            },
+            {
+              "token": " example",
+              "logprob": -4.648327350616455
+            },
+            {
+              "token": " of",
+              "logprob": -0.4802341163158417
+            },
+            {
+              "token": " an",
+              "logprob": -3.0260629653930664
+            },
+            {
+              "token": " illustration",
+              "logprob": -5.321071624755859
+            },
+            {
+              "token": " here",
+              "logprob": -3.7926979064941406
+            },
+            {
+              "token": " is",
+              "logprob": -2.111466407775879
+            },
+            {
+              "token": ",",
+              "logprob": -3.9491231441497803
+            },
+            {
+              "token": " that",
+              "logprob": -3.377012014389038
+            },
+            {
+              "token": " it",
+              "logprob": -3.8707380294799805
+            },
+            {
+              "token": " had",
+              "logprob": -5.065847873687744
+            },
+            {
+              "token": " a",
+              "logprob": -0.13609693944454193
+            },
+            {
+              "token": " picture",
+              "logprob": -0.035719774663448334
+            },
+            {
+              "token": " of",
+              "logprob": -0.020243817940354347
+            },
+            {
+              "token": " a",
+              "logprob": -0.01688181236386299
+            },
+            {
+              "token": " dragon",
+              "logprob": -0.04885062947869301
+            },
+            {
+              "token": " on",
+              "logprob": -0.0971553772687912
+            },
+            {
+              "token": " it",
+              "logprob": -0.041070833802223206
+            },
+            {
+              "token": ".",
+              "logprob": -1.3126442432403564
+            },
+            {
+              "token": " It",
+              "logprob": -2.997936725616455
+            },
+            {
+              "token": " showed",
+              "logprob": -4.508509159088135
+            },
+            {
+              "token": " what",
+              "logprob": -3.9574050903320312
+            },
+            {
+              "token": " was",
+              "logprob": -1.9347147941589355
+            },
+            {
+              "token": " going",
+              "logprob": -2.2740211486816406
+            },
+            {
+              "token": " on",
+              "logprob": -0.3472236096858978
+            },
+            {
+              "token": " at",
+              "logprob": -3.4221177101135254
+            },
+            {
+              "token": " the",
+              "logprob": -0.2257470339536667
+            },
+            {
+              "token": " moment",
+              "logprob": -2.359849691390991
+            },
+            {
+              "token": " for",
+              "logprob": -4.481863021850586
+            },
+            {
+              "token": " Amelia",
+              "logprob": -1.9766298532485962
+            },
+            {
+              "token": " to",
+              "logprob": -3.0256452560424805
+            },
+            {
+              "token": " run",
+              "logprob": -3.0009374618530273
+            },
+            {
+              "token": " and",
+              "logprob": -1.518760085105896
+            },
+            {
+              "token": " jump",
+              "logprob": -2.7008752822875977
+            },
+            {
+              "token": " and",
+              "logprob": -3.0018224716186523
+            },
+            {
+              "token": " grab",
+              "logprob": -0.8493953347206116
+            },
+            {
+              "token": " the",
+              "logprob": -0.19028252363204956
+            },
+            {
+              "token": " string",
+              "logprob": -0.11914438754320145
+            },
+            {
+              "token": " quickly",
+              "logprob": -4.719670295715332
+            },
+            {
+              "token": ".)\n\n",
+              "logprob": -4.75394344329834
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.6327250003814697
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The string to a kite broke, so Amelia grabbed it just before it fell.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.2548620700836182
+            },
+            {
+              "token": " string",
+              "logprob": -3.5639078617095947
+            },
+            {
+              "token": " to",
+              "logprob": -3.6457958221435547
+            },
+            {
+              "token": " a",
+              "logprob": -2.375316619873047
+            },
+            {
+              "token": " kite",
+              "logprob": -0.13051551580429077
+            },
+            {
+              "token": " broke",
+              "logprob": -1.0190550088882446
+            },
+            {
+              "token": ",",
+              "logprob": -1.1336618661880493
+            },
+            {
+              "token": " so",
+              "logprob": -2.0929501056671143
+            },
+            {
+              "token": " Amelia",
+              "logprob": -0.406113862991333
+            },
+            {
+              "token": " grabbed",
+              "logprob": -3.5728600025177
+            },
+            {
+              "token": " it",
+              "logprob": -0.530712902545929
+            },
+            {
+              "token": " just",
+              "logprob": -2.061798095703125
+            },
+            {
+              "token": " before",
+              "logprob": -2.7367136478424072
+            },
+            {
+              "token": " it",
+              "logprob": -0.2356060892343521
+            },
+            {
+              "token": " fell",
+              "logprob": -0.904684841632843
+            },
+            {
+              "token": ".",
+              "logprob": -0.8513302803039551
+            },
+            {
+              "token": " ",
+              "logprob": -2.4265737533569336
+            },
+            {
+              "token": " Q",
+              "logprob": -1.1437723636627197
+            },
+            {
+              "token": ":",
+              "logprob": -0.03184497728943825
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The wind was strong. The kite’s string broke!",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.2548620700836182
+            },
+            {
+              "token": " wind",
+              "logprob": -0.7228853106498718
+            },
+            {
+              "token": " was",
+              "logprob": -0.4054868221282959
+            },
+            {
+              "token": " strong",
+              "logprob": -0.3358737826347351
+            },
+            {
+              "token": ".",
+              "logprob": -1.4876813888549805
+            },
+            {
+              "token": " The",
+              "logprob": -3.301107406616211
+            },
+            {
+              "token": " kite",
+              "logprob": -0.6329044103622437
+            },
+            {
+              "token": "’s",
+              "logprob": -1.5952293872833252
+            },
+            {
+              "token": " string",
+              "logprob": -0.016182150691747665
+            },
+            {
+              "token": " broke",
+              "logprob": -0.1723131388425827
+            },
+            {
+              "token": "!",
+              "logprob": -4.439338684082031
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.895970344543457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What was the kite doing when Grace caught it?",
+      "character": "Grace",
+      "story": "Amelia and Grace were best friends who loved playing outside. One sunny day, they went to the park together. Grace sat on a bench to read her book while Amelia ran around the grassy field. The wind was strong, and Amelia saw a colorful kite flying high in the sky. Suddenly, the kite’s string broke, and it started falling. Amelia ran as fast as she could, stretching her arms out. She jumped and grabbed the string just in time. Amelia caught a flying kite! She was so happy and showed it to Grace, who smiled and clapped for her. The kite had a picture of a dragon on it, and Amelia thought it was the coolest thing ever. Grace went back to her book, and Amelia played with the kite for the rest of the afternoon. They both had a great day at the park.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Nothing! That was just a good picture of the wind.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -3.858461618423462
+            },
+            {
+              "token": "!",
+              "logprob": -3.0298573970794678
+            },
+            {
+              "token": " That",
+              "logprob": -3.86088490486145
+            },
+            {
+              "token": " was",
+              "logprob": -1.4697201251983643
+            },
+            {
+              "token": " just",
+              "logprob": -2.946582794189453
+            },
+            {
+              "token": " a",
+              "logprob": -0.43275225162506104
+            },
+            {
+              "token": " good",
+              "logprob": -4.36311149597168
+            },
+            {
+              "token": " picture",
+              "logprob": -4.162514686584473
+            },
+            {
+              "token": " of",
+              "logprob": -0.8750052452087402
+            },
+            {
+              "token": " the",
+              "logprob": -2.377749443054199
+            },
+            {
+              "token": " wind",
+              "logprob": -3.562901496887207
+            },
+            {
+              "token": ".",
+              "logprob": -0.7480618953704834
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.7985196113586426
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "It was going around, but it got out of the kite's string and crashed back into Grace.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.54079270362854
+            },
+            {
+              "token": " was",
+              "logprob": -0.17157606780529022
+            },
+            {
+              "token": " going",
+              "logprob": -3.2736358642578125
+            },
+            {
+              "token": " around",
+              "logprob": -2.8565499782562256
+            },
+            {
+              "token": ",",
+              "logprob": -3.946120023727417
+            },
+            {
+              "token": " but",
+              "logprob": -2.3375000953674316
+            },
+            {
+              "token": " it",
+              "logprob": -1.6680023670196533
+            },
+            {
+              "token": " got",
+              "logprob": -2.999209403991699
+            },
+            {
+              "token": " out",
+              "logprob": -3.5820086002349854
+            },
+            {
+              "token": " of",
+              "logprob": -0.08181863278150558
+            },
+            {
+              "token": " the",
+              "logprob": -2.1905407905578613
+            },
+            {
+              "token": " kite",
+              "logprob": -4.727283477783203
+            },
+            {
+              "token": "'s",
+              "logprob": -1.7000553607940674
+            },
+            {
+              "token": " string",
+              "logprob": -1.4295436143875122
+            },
+            {
+              "token": " and",
+              "logprob": -1.84352445602417
+            },
+            {
+              "token": " crashed",
+              "logprob": -3.8503224849700928
+            },
+            {
+              "token": " back",
+              "logprob": -3.1752781867980957
+            },
+            {
+              "token": " into",
+              "logprob": -3.122798204421997
+            },
+            {
+              "token": " Grace",
+              "logprob": -3.102956533432007
+            },
+            {
+              "token": ".",
+              "logprob": -1.8757576942443848
+            },
+            {
+              "token": " Q",
+              "logprob": -1.1343650817871094
+            },
+            {
+              "token": ":",
+              "logprob": -0.025257887318730354
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "What was Amelia doing when Grace caught the kite?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.399226427078247
+            },
+            {
+              "token": " was",
+              "logprob": -0.6675851345062256
+            },
+            {
+              "token": " Amelia",
+              "logprob": -2.9928228855133057
+            },
+            {
+              "token": " doing",
+              "logprob": -0.5284892916679382
+            },
+            {
+              "token": " when",
+              "logprob": -0.7083694934844971
+            },
+            {
+              "token": " Grace",
+              "logprob": -1.4336411952972412
+            },
+            {
+              "token": " caught",
+              "logprob": -0.10070900619029999
+            },
+            {
+              "token": " the",
+              "logprob": -1.9475123882293701
+            },
+            {
+              "token": " kite",
+              "logprob": -0.04848489537835121
+            },
+            {
+              "token": "?",
+              "logprob": -0.08303891122341156
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.490004777908325
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The picture on the kite. 2: What did Grace say when she caught it? A: That was so cool.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.5747339725494385
+            },
+            {
+              "token": " picture",
+              "logprob": -2.8850810527801514
+            },
+            {
+              "token": " on",
+              "logprob": -2.046018123626709
+            },
+            {
+              "token": " the",
+              "logprob": -0.15464405715465546
+            },
+            {
+              "token": " kite",
+              "logprob": -0.12656110525131226
+            },
+            {
+              "token": ".",
+              "logprob": -2.6709609031677246
+            },
+            {
+              "token": " ",
+              "logprob": -2.818477153778076
+            },
+            {
+              "token": "2",
+              "logprob": -3.708407402038574
+            },
+            {
+              "token": ":",
+              "logprob": -2.537402868270874
+            },
+            {
+              "token": " What",
+              "logprob": -1.3398785591125488
+            },
+            {
+              "token": " did",
+              "logprob": -0.9635615348815918
+            },
+            {
+              "token": " Grace",
+              "logprob": -2.2079317569732666
+            },
+            {
+              "token": " say",
+              "logprob": -2.6107301712036133
+            },
+            {
+              "token": " when",
+              "logprob": -1.5414278507232666
+            },
+            {
+              "token": " she",
+              "logprob": -0.8193715810775757
+            },
+            {
+              "token": " caught",
+              "logprob": -0.6340055465698242
+            },
+            {
+              "token": " it",
+              "logprob": -1.7372442483901978
+            },
+            {
+              "token": "?",
+              "logprob": -0.07544111460447311
+            },
+            {
+              "token": " A",
+              "logprob": -0.1408899426460266
+            },
+            {
+              "token": ":",
+              "logprob": -0.01748797483742237
+            },
+            {
+              "token": " That",
+              "logprob": -4.36605167388916
+            },
+            {
+              "token": " was",
+              "logprob": -0.8842345476150513
+            },
+            {
+              "token": " so",
+              "logprob": -2.4707789421081543
+            },
+            {
+              "token": " cool",
+              "logprob": -0.33007076382637024
+            },
+            {
+              "token": ".",
+              "logprob": -0.8817246556282043
+            },
+            {
+              "token": " \n",
+              "logprob": -3.020831823348999
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.2628519535064697
+            },
+            {
+              "token": ":",
+              "logprob": -0.19622188806533813
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "It was going to get her book out of it.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.444549798965454
+            },
+            {
+              "token": " It",
+              "logprob": -1.8339805603027344
+            },
+            {
+              "token": " was",
+              "logprob": -0.18035580217838287
+            },
+            {
+              "token": " going",
+              "logprob": -3.490264892578125
+            },
+            {
+              "token": " to",
+              "logprob": -0.9440826177597046
+            },
+            {
+              "token": " get",
+              "logprob": -3.2818307876586914
+            },
+            {
+              "token": " her",
+              "logprob": -3.9650421142578125
+            },
+            {
+              "token": " book",
+              "logprob": -2.1193904876708984
+            },
+            {
+              "token": " out",
+              "logprob": -3.5456082820892334
+            },
+            {
+              "token": " of",
+              "logprob": -0.18172836303710938
+            },
+            {
+              "token": " it",
+              "logprob": -2.2331602573394775
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.5805797576904297
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Nothing.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -3.8589413166046143
+            },
+            {
+              "token": ".",
+              "logprob": -0.6729606986045837
+            },
+            {
+              "token": " ",
+              "logprob": -2.643409252166748
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9396758079528809
+            },
+            {
+              "token": ":",
+              "logprob": -0.026465315371751785
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "It was floating in the air.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.54079270362854
+            },
+            {
+              "token": " was",
+              "logprob": -0.17157606780529022
+            },
+            {
+              "token": " floating",
+              "logprob": -3.0779685974121094
+            },
+            {
+              "token": " in",
+              "logprob": -1.193363070487976
+            },
+            {
+              "token": " the",
+              "logprob": -0.030695941299200058
+            },
+            {
+              "token": " air",
+              "logprob": -1.202894687652588
+            },
+            {
+              "token": ".",
+              "logprob": -0.652930498123169
+            },
+            {
+              "token": " \n",
+              "logprob": -2.4357283115386963
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "What color were the kite and book? B: C",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.399226427078247
+            },
+            {
+              "token": " color",
+              "logprob": -3.5426881313323975
+            },
+            {
+              "token": " were",
+              "logprob": -3.082821846008301
+            },
+            {
+              "token": " the",
+              "logprob": -0.377374529838562
+            },
+            {
+              "token": " kite",
+              "logprob": -1.437896490097046
+            },
+            {
+              "token": " and",
+              "logprob": -1.4142849445343018
+            },
+            {
+              "token": " book",
+              "logprob": -2.8798892498016357
+            },
+            {
+              "token": "?",
+              "logprob": -0.16211864352226257
+            },
+            {
+              "token": " B",
+              "logprob": -2.66654896736145
+            },
+            {
+              "token": ":",
+              "logprob": -0.022164836525917053
+            },
+            {
+              "token": " C",
+              "logprob": -4.4867329597473145
+            },
+            {
+              "token": "\n",
+              "logprob": -4.082850456237793
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Grace caught the kite, and then she went back to her book.",
+          "token_data": [
+            {
+              "token": " Grace",
+              "logprob": -2.102215051651001
+            },
+            {
+              "token": " caught",
+              "logprob": -2.0430593490600586
+            },
+            {
+              "token": " the",
+              "logprob": -0.9473441243171692
+            },
+            {
+              "token": " kite",
+              "logprob": -0.21637533605098724
+            },
+            {
+              "token": ",",
+              "logprob": -3.6728382110595703
+            },
+            {
+              "token": " and",
+              "logprob": -1.263887643814087
+            },
+            {
+              "token": " then",
+              "logprob": -3.2433979511260986
+            },
+            {
+              "token": " she",
+              "logprob": -1.0929495096206665
+            },
+            {
+              "token": " went",
+              "logprob": -3.15096116065979
+            },
+            {
+              "token": " back",
+              "logprob": -0.06687483936548233
+            },
+            {
+              "token": " to",
+              "logprob": -0.021817784756422043
+            },
+            {
+              "token": " her",
+              "logprob": -0.054528020322322845
+            },
+            {
+              "token": " book",
+              "logprob": -0.027935169637203217
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.2724192142486572
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,839 @@
+{
+  "story": "Nathan and Ethan were best friends. One sunny day, they decided to fix the roof of their treehouse. The treehouse was old and had a leak. Nathan climbed a tall ladder to reach the roof. Ethan stayed on the ground to hand him tools. Nathan worked hard to patch the hole. Ethan told funny jokes to make him laugh. After an hour, the roof was fixed. Nathan came down the ladder safely. Both boys were happy with their work. They sat under the tree and drank lemonade. Ethan talked about his new bike. Nathan listened and smiled. The day ended with a high-five. They promised to build a bigger treehouse next summer. The sun set, and they went home tired but proud. Their friendship grew stronger that day.",
+  "characters": [
+    {
+      "question": "How high was the object Nathan climbed?",
+      "character": "Nathan",
+      "story": "Nathan and Ethan were best friends. One sunny day, they decided to fix the roof of their treehouse. The treehouse was old and had a leak. Nathan climbed a tall ladder to reach the roof. Ethan stayed on the ground to hand him tools. Nathan worked hard to patch the hole. Ethan told funny jokes to make him laugh. After an hour, the roof was fixed. Nathan came down the ladder safely. Both boys were happy with their work. They sat under the tree and drank lemonade. Ethan talked about his new bike. Nathan listened and smiled. The day ended with a high-five. They promised to build a bigger treehouse next summer. The sun set, and they went home tired but proud. Their friendship grew stronger that day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.8810882568359375
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Q. How high was the object Nathan climbed?",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.089572429656982
+            },
+            {
+              "token": ".",
+              "logprob": -2.3586485385894775
+            },
+            {
+              "token": " How",
+              "logprob": -0.6713034510612488
+            },
+            {
+              "token": " high",
+              "logprob": -0.34161555767059326
+            },
+            {
+              "token": " was",
+              "logprob": -0.051267851144075394
+            },
+            {
+              "token": " the",
+              "logprob": -0.018269242718815804
+            },
+            {
+              "token": " object",
+              "logprob": -0.026002800092101097
+            },
+            {
+              "token": " Nathan",
+              "logprob": -0.02533401921391487
+            },
+            {
+              "token": " climbed",
+              "logprob": -0.01836276240646839
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.7716054916381836
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "1 meter (m)",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -1.8309741020202637
+            },
+            {
+              "token": "1",
+              "logprob": -3.0290350914001465
+            },
+            {
+              "token": " meter",
+              "logprob": -2.2656283378601074
+            },
+            {
+              "token": " (",
+              "logprob": -2.8311922550201416
+            },
+            {
+              "token": "m",
+              "logprob": -1.7765092849731445
+            },
+            {
+              "token": ")",
+              "logprob": -0.3767440915107727
+            },
+            {
+              "token": " Q",
+              "logprob": -1.325864315032959
+            },
+            {
+              "token": ":",
+              "logprob": -0.031738508492708206
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "As tall as the ladder he needed.",
+          "token_data": [
+            {
+              "token": " As",
+              "logprob": -4.320990085601807
+            },
+            {
+              "token": " tall",
+              "logprob": -0.9630224108695984
+            },
+            {
+              "token": " as",
+              "logprob": -0.02915106527507305
+            },
+            {
+              "token": " the",
+              "logprob": -1.9200706481933594
+            },
+            {
+              "token": " ladder",
+              "logprob": -0.961761474609375
+            },
+            {
+              "token": " he",
+              "logprob": -2.777729034423828
+            },
+            {
+              "token": " needed",
+              "logprob": -2.936774730682373
+            },
+            {
+              "token": ".",
+              "logprob": -2.540371894836426
+            },
+            {
+              "token": " Q",
+              "logprob": -0.986119270324707
+            },
+            {
+              "token": ":",
+              "logprob": -0.024097178131341934
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "To the roof.",
+          "token_data": [
+            {
+              "token": " To",
+              "logprob": -3.722534656524658
+            },
+            {
+              "token": " the",
+              "logprob": -1.7509758472442627
+            },
+            {
+              "token": " roof",
+              "logprob": -0.7070744633674622
+            },
+            {
+              "token": ".",
+              "logprob": -1.0589158535003662
+            },
+            {
+              "token": " \n",
+              "logprob": -2.3697285652160645
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "a. 1.9 M B: 1.8 C: 2 D: 1.2",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -4.214320659637451
+            },
+            {
+              "token": ".",
+              "logprob": -3.5515763759613037
+            },
+            {
+              "token": " ",
+              "logprob": -0.7460306286811829
+            },
+            {
+              "token": "1",
+              "logprob": -2.4502320289611816
+            },
+            {
+              "token": ".",
+              "logprob": -0.8932746648788452
+            },
+            {
+              "token": "9",
+              "logprob": -4.094568252563477
+            },
+            {
+              "token": " M",
+              "logprob": -2.165309190750122
+            },
+            {
+              "token": " B",
+              "logprob": -1.412420392036438
+            },
+            {
+              "token": ":",
+              "logprob": -0.31000325083732605
+            },
+            {
+              "token": " ",
+              "logprob": -0.29623642563819885
+            },
+            {
+              "token": "1",
+              "logprob": -0.9415438771247864
+            },
+            {
+              "token": ".",
+              "logprob": -0.037369731813669205
+            },
+            {
+              "token": "8",
+              "logprob": -1.4992979764938354
+            },
+            {
+              "token": " C",
+              "logprob": -2.671201467514038
+            },
+            {
+              "token": ":",
+              "logprob": -0.028482651337981224
+            },
+            {
+              "token": " ",
+              "logprob": -0.11437112838029861
+            },
+            {
+              "token": "2",
+              "logprob": -1.5271742343902588
+            },
+            {
+              "token": " D",
+              "logprob": -1.8459471464157104
+            },
+            {
+              "token": ":",
+              "logprob": -0.023828908801078796
+            },
+            {
+              "token": " ",
+              "logprob": -0.04916323348879814
+            },
+            {
+              "token": "1",
+              "logprob": -0.965218186378479
+            },
+            {
+              "token": ".",
+              "logprob": -0.22819136083126068
+            },
+            {
+              "token": "2",
+              "logprob": -2.6718316078186035
+            },
+            {
+              "token": " Q",
+              "logprob": -3.4950695037841797
+            },
+            {
+              "token": ":",
+              "logprob": -0.03394794836640358
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "As tall as he could reach.",
+          "token_data": [
+            {
+              "token": " As",
+              "logprob": -4.320990085601807
+            },
+            {
+              "token": " tall",
+              "logprob": -0.9630224108695984
+            },
+            {
+              "token": " as",
+              "logprob": -0.02915106527507305
+            },
+            {
+              "token": " he",
+              "logprob": -3.575324058532715
+            },
+            {
+              "token": " could",
+              "logprob": -0.21371528506278992
+            },
+            {
+              "token": " reach",
+              "logprob": -0.8073692321777344
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.8973233699798584
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "One meter (high).",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -2.9978013038635254
+            },
+            {
+              "token": " meter",
+              "logprob": -2.0110249519348145
+            },
+            {
+              "token": " (",
+              "logprob": -3.224243640899658
+            },
+            {
+              "token": "high",
+              "logprob": -3.6426761150360107
+            },
+            {
+              "token": ").",
+              "logprob": -1.4051060676574707
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9688376188278198
+            },
+            {
+              "token": ":",
+              "logprob": -0.020100004971027374
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "20.5m",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -1.8309741020202637
+            },
+            {
+              "token": "20",
+              "logprob": -3.03633451461792
+            },
+            {
+              "token": ".",
+              "logprob": -3.8493800163269043
+            },
+            {
+              "token": "5",
+              "logprob": -2.039822578430176
+            },
+            {
+              "token": "m",
+              "logprob": -3.035097360610962
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.5025923252105713
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.8895602226257324
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How high was the object Ethan climbed?",
+      "character": "Ethan",
+      "story": "Nathan and Ethan were best friends. One sunny day, they decided to fix the roof of their treehouse. The treehouse was old and had a leak. Nathan climbed a tall ladder to reach the roof. Ethan stayed on the ground to hand him tools. Nathan worked hard to patch the hole. Ethan told funny jokes to make him laugh. After an hour, the roof was fixed. Nathan came down the ladder safely. Both boys were happy with their work. They sat under the tree and drank lemonade. Ethan talked about his new bike. Nathan listened and smiled. The day ended with a high-five. They promised to build a bigger treehouse next summer. The sun set, and they went home tired but proud. Their friendship grew stronger that day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "It was about _____ high.  (You will need a ruler to measure this out)",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -4.260736465454102
+            },
+            {
+              "token": " was",
+              "logprob": -0.43159228563308716
+            },
+            {
+              "token": " about",
+              "logprob": -2.1593031883239746
+            },
+            {
+              "token": " _____",
+              "logprob": -3.3914175033569336
+            },
+            {
+              "token": " high",
+              "logprob": -1.503857135772705
+            },
+            {
+              "token": ".",
+              "logprob": -0.6538393497467041
+            },
+            {
+              "token": " ",
+              "logprob": -3.0854811668395996
+            },
+            {
+              "token": " (",
+              "logprob": -3.859811305999756
+            },
+            {
+              "token": "You",
+              "logprob": -4.343915939331055
+            },
+            {
+              "token": " will",
+              "logprob": -2.2380619049072266
+            },
+            {
+              "token": " need",
+              "logprob": -1.1059775352478027
+            },
+            {
+              "token": " a",
+              "logprob": -2.5607268810272217
+            },
+            {
+              "token": " ruler",
+              "logprob": -2.028249502182007
+            },
+            {
+              "token": " to",
+              "logprob": -0.7909290194511414
+            },
+            {
+              "token": " measure",
+              "logprob": -0.7106514573097229
+            },
+            {
+              "token": " this",
+              "logprob": -1.642812967300415
+            },
+            {
+              "token": " out",
+              "logprob": -2.8633217811584473
+            },
+            {
+              "token": ")\n",
+              "logprob": -4.376091957092285
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "High enough to get a ladder.",
+          "token_data": [
+            {
+              "token": " High",
+              "logprob": -4.802077293395996
+            },
+            {
+              "token": " enough",
+              "logprob": -1.5155495405197144
+            },
+            {
+              "token": " to",
+              "logprob": -0.5155277848243713
+            },
+            {
+              "token": " get",
+              "logprob": -2.6361565589904785
+            },
+            {
+              "token": " a",
+              "logprob": -0.8213500380516052
+            },
+            {
+              "token": " ladder",
+              "logprob": -2.3117644786834717
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.2337918281555176
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Nathan climbed a tall ladder.",
+          "token_data": [
+            {
+              "token": " Nathan",
+              "logprob": -4.2562665939331055
+            },
+            {
+              "token": " climbed",
+              "logprob": -1.1906541585922241
+            },
+            {
+              "token": " a",
+              "logprob": -0.6660647392272949
+            },
+            {
+              "token": " tall",
+              "logprob": -0.18005435168743134
+            },
+            {
+              "token": " ladder",
+              "logprob": -0.06512804329395294
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.6879124641418457
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "What type of object did Nathan reach?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -4.298857688903809
+            },
+            {
+              "token": " type",
+              "logprob": -3.4096813201904297
+            },
+            {
+              "token": " of",
+              "logprob": -0.04073452204465866
+            },
+            {
+              "token": " object",
+              "logprob": -0.6866191625595093
+            },
+            {
+              "token": " did",
+              "logprob": -1.9126423597335815
+            },
+            {
+              "token": " Nathan",
+              "logprob": -1.7089266777038574
+            },
+            {
+              "token": " reach",
+              "logprob": -3.1197502613067627
+            },
+            {
+              "token": "?",
+              "logprob": -0.44346296787261963
+            },
+            {
+              "token": " \n",
+              "logprob": -2.068026065826416
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The height of the object Ethan climbed. (0 Points)",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.343687057495117
+            },
+            {
+              "token": " height",
+              "logprob": -2.6800575256347656
+            },
+            {
+              "token": " of",
+              "logprob": -0.34062162041664124
+            },
+            {
+              "token": " the",
+              "logprob": -0.21944962441921234
+            },
+            {
+              "token": " object",
+              "logprob": -0.7176851034164429
+            },
+            {
+              "token": " Ethan",
+              "logprob": -0.6909864544868469
+            },
+            {
+              "token": " climbed",
+              "logprob": -0.06255266815423965
+            },
+            {
+              "token": ".",
+              "logprob": -2.0117146968841553
+            },
+            {
+              "token": " (",
+              "logprob": -3.8978614807128906
+            },
+            {
+              "token": "0",
+              "logprob": -5.0648932456970215
+            },
+            {
+              "token": " Points",
+              "logprob": -4.303529262542725
+            },
+            {
+              "token": ")\n\n",
+              "logprob": -2.0965733528137207
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "How high was the object Ethan climbed?",
+          "token_data": [
+            {
+              "token": " How",
+              "logprob": -3.313267707824707
+            },
+            {
+              "token": " high",
+              "logprob": -0.3532616198062897
+            },
+            {
+              "token": " was",
+              "logprob": -0.20596808195114136
+            },
+            {
+              "token": " the",
+              "logprob": -0.06322275102138519
+            },
+            {
+              "token": " object",
+              "logprob": -0.046881403774023056
+            },
+            {
+              "token": " Ethan",
+              "logprob": -0.05092010274529457
+            },
+            {
+              "token": " climbed",
+              "logprob": -0.0509529635310173
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -2.935892343521118
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "10 meters.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -1.9271631240844727
+            },
+            {
+              "token": "10",
+              "logprob": -2.3882853984832764
+            },
+            {
+              "token": " meters",
+              "logprob": -1.9904844760894775
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.7019689083099365
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "None - It was an average climb.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.11484432220459
+            },
+            {
+              "token": " -",
+              "logprob": -3.949431896209717
+            },
+            {
+              "token": " It",
+              "logprob": -3.6770877838134766
+            },
+            {
+              "token": " was",
+              "logprob": -2.2951889038085938
+            },
+            {
+              "token": " an",
+              "logprob": -3.6915459632873535
+            },
+            {
+              "token": " average",
+              "logprob": -3.012453317642212
+            },
+            {
+              "token": " climb",
+              "logprob": -4.6108574867248535
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.1477527618408203
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Nathan and Ethan climbed high because the tree was at least 20ft. off of the ground.",
+          "token_data": [
+            {
+              "token": " Nathan",
+              "logprob": -4.2562665939331055
+            },
+            {
+              "token": " and",
+              "logprob": -1.2792543172836304
+            },
+            {
+              "token": " Ethan",
+              "logprob": -0.0140383867546916
+            },
+            {
+              "token": " climbed",
+              "logprob": -2.0914785861968994
+            },
+            {
+              "token": " high",
+              "logprob": -3.451145648956299
+            },
+            {
+              "token": " because",
+              "logprob": -2.3642401695251465
+            },
+            {
+              "token": " the",
+              "logprob": -2.334660053253174
+            },
+            {
+              "token": " tree",
+              "logprob": -0.9226534962654114
+            },
+            {
+              "token": " was",
+              "logprob": -3.1005401611328125
+            },
+            {
+              "token": " at",
+              "logprob": -4.324534893035889
+            },
+            {
+              "token": " least",
+              "logprob": -1.614669919013977
+            },
+            {
+              "token": " ",
+              "logprob": -0.29541248083114624
+            },
+            {
+              "token": "20",
+              "logprob": -2.0325355529785156
+            },
+            {
+              "token": "ft",
+              "logprob": -3.2150802612304688
+            },
+            {
+              "token": ".",
+              "logprob": -2.478881597518921
+            },
+            {
+              "token": " off",
+              "logprob": -3.196807622909546
+            },
+            {
+              "token": " of",
+              "logprob": -2.5559449195861816
+            },
+            {
+              "token": " the",
+              "logprob": -0.017728203907608986
+            },
+            {
+              "token": " ground",
+              "logprob": -0.0210704505443573
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.1363961696624756
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Nathan",
+          "token_data": [
+            {
+              "token": " Nathan",
+              "logprob": -4.2562665939331055
+            },
+            {
+              "token": " Q",
+              "logprob": -3.939612865447998
+            },
+            {
+              "token": ":",
+              "logprob": -0.031427107751369476
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1223 @@
+{
+  "story": "Lucas and Ethan were best friends. One day, they decided to go to the park. Lucas brought a taco for lunch. It was very spicy, but he liked it. Lucas chewed a spicy taco while Ethan played on the swings. Ethan laughed as he swung high in the air. After lunch, Lucas felt his mouth was on fire from the spice. He drank water quickly. Ethan didn’t notice because he was too busy having fun. They spent the whole afternoon together. They climbed trees, kicked a ball, and told jokes. When the sun started to set, they walked home. Lucas was still thinking about the spicy taco. Ethan talked about his favorite part of the day. They promised to meet again tomorrow. Both boys were tired but happy. It was a good day with good friends. The end.",
+  "characters": [
+    {
+      "question": "What flavor did the taco Lucas ate have?",
+      "character": "Lucas",
+      "story": "Lucas and Ethan were best friends. One day, they decided to go to the park. Lucas brought a taco for lunch. It was very spicy, but he liked it. Lucas chewed a spicy taco while Ethan played on the swings. Ethan laughed as he swung high in the air. After lunch, Lucas felt his mouth was on fire from the spice. He drank water quickly. Ethan didn’t notice because he was too busy having fun. They spent the whole afternoon together. They climbed trees, kicked a ball, and told jokes. When the sun started to set, they walked home. Lucas was still thinking about the spicy taco. Ethan talked about his favorite part of the day. They promised to meet again tomorrow. Both boys were tired but happy. It was a good day with good friends. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "spicy taco.",
+          "token_data": [
+            {
+              "token": " spicy",
+              "logprob": -1.2752954959869385
+            },
+            {
+              "token": " taco",
+              "logprob": -3.7718300819396973
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.992088556289673
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Spicy!",
+          "token_data": [
+            {
+              "token": " Sp",
+              "logprob": -1.1678354740142822
+            },
+            {
+              "token": "icy",
+              "logprob": -0.004753954242914915
+            },
+            {
+              "token": "!",
+              "logprob": -4.058822154998779
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The flavor of the taco eaten by Lucas is Spicy.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.8344614505767822
+            },
+            {
+              "token": " flavor",
+              "logprob": -2.5907516479492188
+            },
+            {
+              "token": " of",
+              "logprob": -0.7841356992721558
+            },
+            {
+              "token": " the",
+              "logprob": -0.17882981896400452
+            },
+            {
+              "token": " taco",
+              "logprob": -0.20113278925418854
+            },
+            {
+              "token": " eaten",
+              "logprob": -3.7847719192504883
+            },
+            {
+              "token": " by",
+              "logprob": -0.04210870340466499
+            },
+            {
+              "token": " Lucas",
+              "logprob": -0.02201068215072155
+            },
+            {
+              "token": " is",
+              "logprob": -2.7511703968048096
+            },
+            {
+              "token": " Sp",
+              "logprob": -3.321232795715332
+            },
+            {
+              "token": "icy",
+              "logprob": -0.0061783273704349995
+            },
+            {
+              "token": ".",
+              "logprob": -0.4569631814956665
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.739556074142456
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "A taco with hot spice.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.715703248977661
+            },
+            {
+              "token": " taco",
+              "logprob": -3.19111704826355
+            },
+            {
+              "token": " with",
+              "logprob": -1.3622199296951294
+            },
+            {
+              "token": " hot",
+              "logprob": -3.8121652603149414
+            },
+            {
+              "token": " spice",
+              "logprob": -2.3805954456329346
+            },
+            {
+              "token": ".",
+              "logprob": -0.7692791819572449
+            },
+            {
+              "token": " \n",
+              "logprob": -1.6424232721328735
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Spicy.",
+          "token_data": [
+            {
+              "token": " Sp",
+              "logprob": -1.1678354740142822
+            },
+            {
+              "token": "icy",
+              "logprob": -0.004753954242914915
+            },
+            {
+              "token": ".",
+              "logprob": -1.1851820945739746
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.2001049518585205
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "None, the taco was a joke! : ) (Just kidding!)",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -4.007987976074219
+            },
+            {
+              "token": ",",
+              "logprob": -3.2412843704223633
+            },
+            {
+              "token": " the",
+              "logprob": -2.1124138832092285
+            },
+            {
+              "token": " taco",
+              "logprob": -0.7943387627601624
+            },
+            {
+              "token": " was",
+              "logprob": -0.799199104309082
+            },
+            {
+              "token": " a",
+              "logprob": -2.858283042907715
+            },
+            {
+              "token": " joke",
+              "logprob": -3.1984896659851074
+            },
+            {
+              "token": "!",
+              "logprob": -3.6363635063171387
+            },
+            {
+              "token": " :",
+              "logprob": -5.189359664916992
+            },
+            {
+              "token": " )",
+              "logprob": -3.4527785778045654
+            },
+            {
+              "token": " (",
+              "logprob": -4.193901062011719
+            },
+            {
+              "token": "Just",
+              "logprob": -5.100512504577637
+            },
+            {
+              "token": " kidding",
+              "logprob": -0.9130789637565613
+            },
+            {
+              "token": "!)\n\n",
+              "logprob": -3.4854230880737305
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The taco had the spice from the spicy taco and he loved it. He would like to have it again next week, but his mother thought about a different day of the week.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.8344614505767822
+            },
+            {
+              "token": " taco",
+              "logprob": -0.4554043412208557
+            },
+            {
+              "token": " had",
+              "logprob": -1.492774248123169
+            },
+            {
+              "token": " the",
+              "logprob": -3.532428741455078
+            },
+            {
+              "token": " spice",
+              "logprob": -2.394318103790283
+            },
+            {
+              "token": " from",
+              "logprob": -4.064234733581543
+            },
+            {
+              "token": " the",
+              "logprob": -0.6318798661231995
+            },
+            {
+              "token": " spicy",
+              "logprob": -2.872668981552124
+            },
+            {
+              "token": " taco",
+              "logprob": -0.48413515090942383
+            },
+            {
+              "token": " and",
+              "logprob": -3.3924665451049805
+            },
+            {
+              "token": " he",
+              "logprob": -2.5955350399017334
+            },
+            {
+              "token": " loved",
+              "logprob": -3.4520907402038574
+            },
+            {
+              "token": " it",
+              "logprob": -0.2606269419193268
+            },
+            {
+              "token": ".",
+              "logprob": -0.49819421768188477
+            },
+            {
+              "token": " He",
+              "logprob": -2.70745587348938
+            },
+            {
+              "token": " would",
+              "logprob": -3.4063735008239746
+            },
+            {
+              "token": " like",
+              "logprob": -1.703676462173462
+            },
+            {
+              "token": " to",
+              "logprob": -0.3625221848487854
+            },
+            {
+              "token": " have",
+              "logprob": -0.7277785539627075
+            },
+            {
+              "token": " it",
+              "logprob": -0.9652963280677795
+            },
+            {
+              "token": " again",
+              "logprob": -0.3927136957645416
+            },
+            {
+              "token": " next",
+              "logprob": -4.210467338562012
+            },
+            {
+              "token": " week",
+              "logprob": -2.6936240196228027
+            },
+            {
+              "token": ",",
+              "logprob": -3.7419402599334717
+            },
+            {
+              "token": " but",
+              "logprob": -0.6508049964904785
+            },
+            {
+              "token": " his",
+              "logprob": -2.48111891746521
+            },
+            {
+              "token": " mother",
+              "logprob": -2.269167423248291
+            },
+            {
+              "token": " thought",
+              "logprob": -4.6133928298950195
+            },
+            {
+              "token": " about",
+              "logprob": -1.9564173221588135
+            },
+            {
+              "token": " a",
+              "logprob": -2.3938498497009277
+            },
+            {
+              "token": " different",
+              "logprob": -1.4411718845367432
+            },
+            {
+              "token": " day",
+              "logprob": -4.413149833679199
+            },
+            {
+              "token": " of",
+              "logprob": -3.6353981494903564
+            },
+            {
+              "token": " the",
+              "logprob": -0.027238911017775536
+            },
+            {
+              "token": " week",
+              "logprob": -0.013033791445195675
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.2218735218048096
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Luc was thinking of the spice, but it didn’t work. It only tasted spicy as he chewed it.",
+          "token_data": [
+            {
+              "token": " Luc",
+              "logprob": -3.936128854751587
+            },
+            {
+              "token": " was",
+              "logprob": -4.038599967956543
+            },
+            {
+              "token": " thinking",
+              "logprob": -1.4447025060653687
+            },
+            {
+              "token": " of",
+              "logprob": -2.299236297607422
+            },
+            {
+              "token": " the",
+              "logprob": -0.6840543150901794
+            },
+            {
+              "token": " spice",
+              "logprob": -2.795821189880371
+            },
+            {
+              "token": ",",
+              "logprob": -3.542736530303955
+            },
+            {
+              "token": " but",
+              "logprob": -0.9273344278335571
+            },
+            {
+              "token": " it",
+              "logprob": -2.0310661792755127
+            },
+            {
+              "token": " didn",
+              "logprob": -2.116515636444092
+            },
+            {
+              "token": "’t",
+              "logprob": -1.1187604665756226
+            },
+            {
+              "token": " work",
+              "logprob": -3.6014676094055176
+            },
+            {
+              "token": ".",
+              "logprob": -0.7336868643760681
+            },
+            {
+              "token": " It",
+              "logprob": -2.141509771347046
+            },
+            {
+              "token": " only",
+              "logprob": -4.332156658172607
+            },
+            {
+              "token": " tasted",
+              "logprob": -4.247421741485596
+            },
+            {
+              "token": " spicy",
+              "logprob": -1.9293264150619507
+            },
+            {
+              "token": " as",
+              "logprob": -4.431899547576904
+            },
+            {
+              "token": " he",
+              "logprob": -0.7257623076438904
+            },
+            {
+              "token": " chew",
+              "logprob": -0.4222152829170227
+            },
+            {
+              "token": "ed",
+              "logprob": -0.004465014673769474
+            },
+            {
+              "token": " it",
+              "logprob": -2.026909112930298
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.818588972091675
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The flavor did not affect the taste. The heat of the pepper was so intense, you can imagine it in your mouth and even burn into your stomach if you tried to chew too hard on them. You should probably stop eating before you get a mouthful like that. They are very good.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.8344614505767822
+            },
+            {
+              "token": " flavor",
+              "logprob": -2.5907516479492188
+            },
+            {
+              "token": " did",
+              "logprob": -2.594524383544922
+            },
+            {
+              "token": " not",
+              "logprob": -0.08368511497974396
+            },
+            {
+              "token": " affect",
+              "logprob": -2.594672203063965
+            },
+            {
+              "token": " the",
+              "logprob": -0.9019690752029419
+            },
+            {
+              "token": " taste",
+              "logprob": -2.7972958087921143
+            },
+            {
+              "token": ".",
+              "logprob": -1.5256609916687012
+            },
+            {
+              "token": " The",
+              "logprob": -1.5696666240692139
+            },
+            {
+              "token": " heat",
+              "logprob": -4.026905059814453
+            },
+            {
+              "token": " of",
+              "logprob": -1.6704392433166504
+            },
+            {
+              "token": " the",
+              "logprob": -0.1344347447156906
+            },
+            {
+              "token": " pepper",
+              "logprob": -3.951425552368164
+            },
+            {
+              "token": " was",
+              "logprob": -2.0156002044677734
+            },
+            {
+              "token": " so",
+              "logprob": -4.675195693969727
+            },
+            {
+              "token": " intense",
+              "logprob": -2.399724006652832
+            },
+            {
+              "token": ",",
+              "logprob": -1.7980951070785522
+            },
+            {
+              "token": " you",
+              "logprob": -3.8339805603027344
+            },
+            {
+              "token": " can",
+              "logprob": -3.018681049346924
+            },
+            {
+              "token": " imagine",
+              "logprob": -2.357475996017456
+            },
+            {
+              "token": " it",
+              "logprob": -1.974683403968811
+            },
+            {
+              "token": " in",
+              "logprob": -3.9023194313049316
+            },
+            {
+              "token": " your",
+              "logprob": -1.1485728025436401
+            },
+            {
+              "token": " mouth",
+              "logprob": -0.4388183355331421
+            },
+            {
+              "token": " and",
+              "logprob": -3.8452515602111816
+            },
+            {
+              "token": " even",
+              "logprob": -3.9316959381103516
+            },
+            {
+              "token": " burn",
+              "logprob": -4.584000587463379
+            },
+            {
+              "token": " into",
+              "logprob": -4.924316883087158
+            },
+            {
+              "token": " your",
+              "logprob": -0.3459419310092926
+            },
+            {
+              "token": " stomach",
+              "logprob": -0.8255271911621094
+            },
+            {
+              "token": " if",
+              "logprob": -4.247222423553467
+            },
+            {
+              "token": " you",
+              "logprob": -0.3694557845592499
+            },
+            {
+              "token": " tried",
+              "logprob": -4.464015007019043
+            },
+            {
+              "token": " to",
+              "logprob": -0.7731167674064636
+            },
+            {
+              "token": " chew",
+              "logprob": -1.3918015956878662
+            },
+            {
+              "token": " too",
+              "logprob": -2.0141968727111816
+            },
+            {
+              "token": " hard",
+              "logprob": -0.8166903257369995
+            },
+            {
+              "token": " on",
+              "logprob": -4.100833892822266
+            },
+            {
+              "token": " them",
+              "logprob": -4.1061930656433105
+            },
+            {
+              "token": ".",
+              "logprob": -0.37411221861839294
+            },
+            {
+              "token": " You",
+              "logprob": -2.9775259494781494
+            },
+            {
+              "token": " should",
+              "logprob": -3.717592239379883
+            },
+            {
+              "token": " probably",
+              "logprob": -3.6513562202453613
+            },
+            {
+              "token": " stop",
+              "logprob": -4.267414093017578
+            },
+            {
+              "token": " eating",
+              "logprob": -1.7074861526489258
+            },
+            {
+              "token": " before",
+              "logprob": -4.047736167907715
+            },
+            {
+              "token": " you",
+              "logprob": -0.8944634199142456
+            },
+            {
+              "token": " get",
+              "logprob": -1.774055004119873
+            },
+            {
+              "token": " a",
+              "logprob": -2.2927186489105225
+            },
+            {
+              "token": " mouth",
+              "logprob": -0.9122077226638794
+            },
+            {
+              "token": "ful",
+              "logprob": -1.6413004398345947
+            },
+            {
+              "token": " like",
+              "logprob": -2.751801013946533
+            },
+            {
+              "token": " that",
+              "logprob": -0.793747067451477
+            },
+            {
+              "token": ".",
+              "logprob": -0.6946426033973694
+            },
+            {
+              "token": " They",
+              "logprob": -4.014247894287109
+            },
+            {
+              "token": " are",
+              "logprob": -1.4294050931930542
+            },
+            {
+              "token": " very",
+              "logprob": -2.0438849925994873
+            },
+            {
+              "token": " good",
+              "logprob": -1.9152657985687256
+            },
+            {
+              "token": ".",
+              "logprob": -2.2059950828552246
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Spicy.",
+          "token_data": [
+            {
+              "token": " Sp",
+              "logprob": -1.1678354740142822
+            },
+            {
+              "token": "icy",
+              "logprob": -0.004753954242914915
+            },
+            {
+              "token": ".",
+              "logprob": -1.1851820945739746
+            },
+            {
+              "token": " Q",
+              "logprob": -0.872475802898407
+            },
+            {
+              "token": ":",
+              "logprob": -0.02195669151842594
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What flavor did the taco Ethan ate have?",
+      "character": "Ethan",
+      "story": "Lucas and Ethan were best friends. One day, they decided to go to the park. Lucas brought a taco for lunch. It was very spicy, but he liked it. Lucas chewed a spicy taco while Ethan played on the swings. Ethan laughed as he swung high in the air. After lunch, Lucas felt his mouth was on fire from the spice. He drank water quickly. Ethan didn’t notice because he was too busy having fun. They spent the whole afternoon together. They climbed trees, kicked a ball, and told jokes. When the sun started to set, they walked home. Lucas was still thinking about the spicy taco. Ethan talked about his favorite part of the day. They promised to meet again tomorrow. Both boys were tired but happy. It was a good day with good friends. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "It doesn't matter because you don't eat tazos.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.9678242206573486
+            },
+            {
+              "token": " doesn",
+              "logprob": -3.7505226135253906
+            },
+            {
+              "token": "'t",
+              "logprob": -0.36846277117729187
+            },
+            {
+              "token": " matter",
+              "logprob": -0.250151127576828
+            },
+            {
+              "token": " because",
+              "logprob": -2.642706871032715
+            },
+            {
+              "token": " you",
+              "logprob": -1.9785797595977783
+            },
+            {
+              "token": " don",
+              "logprob": -1.9784456491470337
+            },
+            {
+              "token": "'t",
+              "logprob": -0.02248787134885788
+            },
+            {
+              "token": " eat",
+              "logprob": -3.0073208808898926
+            },
+            {
+              "token": " t",
+              "logprob": -3.6427834033966064
+            },
+            {
+              "token": "az",
+              "logprob": -3.748696804046631
+            },
+            {
+              "token": "os",
+              "logprob": -0.06738191843032837
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.5805344581604004
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "spicy",
+          "token_data": [
+            {
+              "token": " spicy",
+              "logprob": -2.0319981575012207
+            },
+            {
+              "token": "\n",
+              "logprob": -1.906872034072876
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.583302974700928
+            },
+            {
+              "token": " Q",
+              "logprob": -3.6348533630371094
+            },
+            {
+              "token": ":",
+              "logprob": -0.12840114533901215
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It did not have any particular flavor. Spices of all sorts made up the taco Ethan ate.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.9042840003967285
+            },
+            {
+              "token": " did",
+              "logprob": -2.2008023262023926
+            },
+            {
+              "token": " not",
+              "logprob": -0.013196508400142193
+            },
+            {
+              "token": " have",
+              "logprob": -0.647147536277771
+            },
+            {
+              "token": " any",
+              "logprob": -0.8857006430625916
+            },
+            {
+              "token": " particular",
+              "logprob": -2.3297152519226074
+            },
+            {
+              "token": " flavor",
+              "logprob": -0.13018611073493958
+            },
+            {
+              "token": ".",
+              "logprob": -0.574066162109375
+            },
+            {
+              "token": " Sp",
+              "logprob": -4.256242752075195
+            },
+            {
+              "token": "ices",
+              "logprob": -2.16555118560791
+            },
+            {
+              "token": " of",
+              "logprob": -4.14633846282959
+            },
+            {
+              "token": " all",
+              "logprob": -1.116603970527649
+            },
+            {
+              "token": " sorts",
+              "logprob": -2.035954713821411
+            },
+            {
+              "token": " made",
+              "logprob": -3.7340006828308105
+            },
+            {
+              "token": " up",
+              "logprob": -2.425184488296509
+            },
+            {
+              "token": " the",
+              "logprob": -0.3078237473964691
+            },
+            {
+              "token": " taco",
+              "logprob": -0.9332683682441711
+            },
+            {
+              "token": " Ethan",
+              "logprob": -3.2143239974975586
+            },
+            {
+              "token": " ate",
+              "logprob": -0.12211371213197708
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.6206459999084473
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "It didn’t taste spicy.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.9042840003967285
+            },
+            {
+              "token": " didn",
+              "logprob": -1.230522632598877
+            },
+            {
+              "token": "’t",
+              "logprob": -1.1948952674865723
+            },
+            {
+              "token": " taste",
+              "logprob": -3.24947190284729
+            },
+            {
+              "token": " spicy",
+              "logprob": -0.9203296899795532
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.359344482421875
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "None of the above.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -1.6375099420547485
+            },
+            {
+              "token": " of",
+              "logprob": -1.0684714317321777
+            },
+            {
+              "token": " the",
+              "logprob": -0.3842185139656067
+            },
+            {
+              "token": " above",
+              "logprob": -0.22515922784805298
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.294520854949951
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It was the taste of home. It is something I look for in a story context when evaluating how well-written an article is. This would be good information for the reader, but not all of them need to know.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.9042840003967285
+            },
+            {
+              "token": " was",
+              "logprob": -1.0335144996643066
+            },
+            {
+              "token": " the",
+              "logprob": -3.8190135955810547
+            },
+            {
+              "token": " taste",
+              "logprob": -4.030723571777344
+            },
+            {
+              "token": " of",
+              "logprob": -0.19625315070152283
+            },
+            {
+              "token": " home",
+              "logprob": -4.218730926513672
+            },
+            {
+              "token": ".",
+              "logprob": -0.7416751384735107
+            },
+            {
+              "token": " It",
+              "logprob": -3.1320645809173584
+            },
+            {
+              "token": " is",
+              "logprob": -4.130550384521484
+            },
+            {
+              "token": " something",
+              "logprob": -4.007536888122559
+            },
+            {
+              "token": " I",
+              "logprob": -3.734665632247925
+            },
+            {
+              "token": " look",
+              "logprob": -4.654677391052246
+            },
+            {
+              "token": " for",
+              "logprob": -1.6918460130691528
+            },
+            {
+              "token": " in",
+              "logprob": -1.265322208404541
+            },
+            {
+              "token": " a",
+              "logprob": -1.8148493766784668
+            },
+            {
+              "token": " story",
+              "logprob": -1.7220412492752075
+            },
+            {
+              "token": " context",
+              "logprob": -3.1538186073303223
+            },
+            {
+              "token": " when",
+              "logprob": -4.228030204772949
+            },
+            {
+              "token": " evaluating",
+              "logprob": -3.9969468116760254
+            },
+            {
+              "token": " how",
+              "logprob": -5.009733200073242
+            },
+            {
+              "token": " well",
+              "logprob": -0.8752265572547913
+            },
+            {
+              "token": "-written",
+              "logprob": -3.8794898986816406
+            },
+            {
+              "token": " an",
+              "logprob": -2.7440247535705566
+            },
+            {
+              "token": " article",
+              "logprob": -3.644014596939087
+            },
+            {
+              "token": " is",
+              "logprob": -0.057320017367601395
+            },
+            {
+              "token": ".",
+              "logprob": -0.28487223386764526
+            },
+            {
+              "token": " This",
+              "logprob": -2.86037015914917
+            },
+            {
+              "token": " would",
+              "logprob": -5.392786979675293
+            },
+            {
+              "token": " be",
+              "logprob": -0.4950689673423767
+            },
+            {
+              "token": " good",
+              "logprob": -4.565999984741211
+            },
+            {
+              "token": " information",
+              "logprob": -3.360020399093628
+            },
+            {
+              "token": " for",
+              "logprob": -1.0537140369415283
+            },
+            {
+              "token": " the",
+              "logprob": -2.0219316482543945
+            },
+            {
+              "token": " reader",
+              "logprob": -1.4768216609954834
+            },
+            {
+              "token": ",",
+              "logprob": -2.2484405040740967
+            },
+            {
+              "token": " but",
+              "logprob": -0.6539035439491272
+            },
+            {
+              "token": " not",
+              "logprob": -2.4190402030944824
+            },
+            {
+              "token": " all",
+              "logprob": -4.008816719055176
+            },
+            {
+              "token": " of",
+              "logprob": -2.0713748931884766
+            },
+            {
+              "token": " them",
+              "logprob": -3.83469557762146
+            },
+            {
+              "token": " need",
+              "logprob": -1.659619927406311
+            },
+            {
+              "token": " to",
+              "logprob": -0.9636210799217224
+            },
+            {
+              "token": " know",
+              "logprob": -0.36982524394989014
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.8246991634368896
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "He had an italian taco.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -4.306568622589111
+            },
+            {
+              "token": " had",
+              "logprob": -2.9664015769958496
+            },
+            {
+              "token": " an",
+              "logprob": -3.229048490524292
+            },
+            {
+              "token": " italian",
+              "logprob": -5.444981575012207
+            },
+            {
+              "token": " taco",
+              "logprob": -3.3285584449768066
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.37986421585083
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "spicy",
+          "token_data": [
+            {
+              "token": " spicy",
+              "logprob": -2.0319981575012207
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.5953009128570557
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "None",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -1.6375099420547485
+            },
+            {
+              "token": " Q",
+              "logprob": -3.772160053253174
+            },
+            {
+              "token": ":",
+              "logprob": -0.021802619099617004
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

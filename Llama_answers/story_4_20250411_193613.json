@@ -1,0 +1,679 @@
+{
+  "story": "Taylor and Noah were best friends. One day, they sat in the park with paper and crayons. Taylor liked to draw, and Noah liked to watch the clouds. Taylor picked up a green crayon and started to draw. \"Taylor drew a green tree,\" Noah said, looking over. Taylor smiled and kept coloring. Noah pointed at the sky. \"That cloud looks like a dog,\" he said. Taylor nodded but stayed focused on the tree. The sun was warm, and the breeze was nice. After a while, Taylor finished the drawing. \"It’s done!\" Taylor said, holding it up. Noah clapped. \"It’s a good tree,\" he said. They packed up their things and walked home. Taylor carried the drawing carefully. Noah carried the crayons. They talked about what to do tomorrow. Maybe they would go to the park again. Maybe they would draw more pictures. It was a good day.",
+  "characters": [
+    {
+      "question": "What color was the tree Taylor drew?",
+      "character": "Taylor",
+      "story": "Taylor and Noah were best friends. One day, they sat in the park with paper and crayons. Taylor liked to draw, and Noah liked to watch the clouds. Taylor picked up a green crayon and started to draw. \"Taylor drew a green tree,\" Noah said, looking over. Taylor smiled and kept coloring. Noah pointed at the sky. \"That cloud looks like a dog,\" he said. Taylor nodded but stayed focused on the tree. The sun was warm, and the breeze was nice. After a while, Taylor finished the drawing. \"It’s done!\" Taylor said, holding it up. Noah clapped. \"It’s a good tree,\" he said. They packed up their things and walked home. Taylor carried the drawing carefully. Noah carried the crayons. They talked about what to do tomorrow. Maybe they would go to the park again. Maybe they would draw more pictures. It was a good day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "green",
+          "token_data": [
+            {
+              "token": " green",
+              "logprob": -2.9083147048950195
+            },
+            {
+              "token": " ",
+              "logprob": -3.157388687133789
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8804932236671448
+            },
+            {
+              "token": ":",
+              "logprob": -0.023288657888770103
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The tree Taylor drew was green.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.7692219018936157
+            },
+            {
+              "token": " tree",
+              "logprob": -0.19022338092327118
+            },
+            {
+              "token": " Taylor",
+              "logprob": -1.4642448425292969
+            },
+            {
+              "token": " drew",
+              "logprob": -0.012775715440511703
+            },
+            {
+              "token": " was",
+              "logprob": -0.07183753699064255
+            },
+            {
+              "token": " green",
+              "logprob": -0.8199467062950134
+            },
+            {
+              "token": ".",
+              "logprob": -0.33239930868148804
+            },
+            {
+              "token": " ",
+              "logprob": -2.5335068702697754
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "red",
+          "token_data": [
+            {
+              "token": " red",
+              "logprob": -3.8359007835388184
+            },
+            {
+              "token": " ",
+              "logprob": -3.0544400215148926
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8181288242340088
+            },
+            {
+              "token": ":",
+              "logprob": -0.023206429556012154
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "red",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.070309162139893
+            },
+            {
+              "token": " red",
+              "logprob": -4.608254432678223
+            },
+            {
+              "token": "\n",
+              "logprob": -1.8344603776931763
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The tree was green.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.7692219018936157
+            },
+            {
+              "token": " tree",
+              "logprob": -0.19022338092327118
+            },
+            {
+              "token": " was",
+              "logprob": -0.5417327880859375
+            },
+            {
+              "token": " green",
+              "logprob": -0.8635151386260986
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.3375039100646973
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Red",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.8149800300598145
+            },
+            {
+              "token": " \n",
+              "logprob": -3.2652549743652344
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It was blue.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.8327900171279907
+            },
+            {
+              "token": " was",
+              "logprob": -0.16997277736663818
+            },
+            {
+              "token": " blue",
+              "logprob": -2.406015157699585
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.797945737838745
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "The tree Taylor drew was green.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.7692219018936157
+            },
+            {
+              "token": " tree",
+              "logprob": -0.19022338092327118
+            },
+            {
+              "token": " Taylor",
+              "logprob": -1.4642448425292969
+            },
+            {
+              "token": " drew",
+              "logprob": -0.012775715440511703
+            },
+            {
+              "token": " was",
+              "logprob": -0.07183753699064255
+            },
+            {
+              "token": " green",
+              "logprob": -0.8199467062950134
+            },
+            {
+              "token": ".",
+              "logprob": -0.33239930868148804
+            },
+            {
+              "token": " \n",
+              "logprob": -1.899168610572815
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "What color was the tree Taylor drew? The drawing of the tree was blue because it's very nice. .",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.5572257041931152
+            },
+            {
+              "token": " color",
+              "logprob": -0.14566873013973236
+            },
+            {
+              "token": " was",
+              "logprob": -0.5272717475891113
+            },
+            {
+              "token": " the",
+              "logprob": -0.10178383439779282
+            },
+            {
+              "token": " tree",
+              "logprob": -0.061750996857881546
+            },
+            {
+              "token": " Taylor",
+              "logprob": -0.14918847382068634
+            },
+            {
+              "token": " drew",
+              "logprob": -0.020540732890367508
+            },
+            {
+              "token": "?",
+              "logprob": -0.19619211554527283
+            },
+            {
+              "token": " The",
+              "logprob": -2.882874011993408
+            },
+            {
+              "token": " drawing",
+              "logprob": -4.150540351867676
+            },
+            {
+              "token": " of",
+              "logprob": -2.9759464263916016
+            },
+            {
+              "token": " the",
+              "logprob": -0.5556461811065674
+            },
+            {
+              "token": " tree",
+              "logprob": -0.17502155900001526
+            },
+            {
+              "token": " was",
+              "logprob": -0.624212384223938
+            },
+            {
+              "token": " blue",
+              "logprob": -2.4331586360931396
+            },
+            {
+              "token": " because",
+              "logprob": -3.2618227005004883
+            },
+            {
+              "token": " it",
+              "logprob": -1.918147087097168
+            },
+            {
+              "token": "'s",
+              "logprob": -4.018557071685791
+            },
+            {
+              "token": " very",
+              "logprob": -4.418257713317871
+            },
+            {
+              "token": " nice",
+              "logprob": -3.5944159030914307
+            },
+            {
+              "token": ".",
+              "logprob": -1.5543252229690552
+            },
+            {
+              "token": " ",
+              "logprob": -2.8576042652130127
+            },
+            {
+              "token": ".\n\n\n",
+              "logprob": -3.728949546813965
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Red 5. It's a red tree.",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.8149800300598145
+            },
+            {
+              "token": " ",
+              "logprob": -3.6529788970947266
+            },
+            {
+              "token": "5",
+              "logprob": -3.654754877090454
+            },
+            {
+              "token": ".",
+              "logprob": -0.6130498051643372
+            },
+            {
+              "token": " It",
+              "logprob": -4.192978382110596
+            },
+            {
+              "token": "'s",
+              "logprob": -3.123537540435791
+            },
+            {
+              "token": " a",
+              "logprob": -0.4249221682548523
+            },
+            {
+              "token": " red",
+              "logprob": -2.000915765762329
+            },
+            {
+              "token": " tree",
+              "logprob": -0.47628337144851685
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.236344575881958
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What color was the tree Noah drew?",
+      "character": "Noah",
+      "story": "Taylor and Noah were best friends. One day, they sat in the park with paper and crayons. Taylor liked to draw, and Noah liked to watch the clouds. Taylor picked up a green crayon and started to draw. \"Taylor drew a green tree,\" Noah said, looking over. Taylor smiled and kept coloring. Noah pointed at the sky. \"That cloud looks like a dog,\" he said. Taylor nodded but stayed focused on the tree. The sun was warm, and the breeze was nice. After a while, Taylor finished the drawing. \"It’s done!\" Taylor said, holding it up. Noah clapped. \"It’s a good tree,\" he said. They packed up their things and walked home. Taylor carried the drawing carefully. Noah carried the crayons. They talked about what to do tomorrow. Maybe they would go to the park again. Maybe they would draw more pictures. It was a good day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "It was purple.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.792077898979187
+            },
+            {
+              "token": " was",
+              "logprob": -0.25213536620140076
+            },
+            {
+              "token": " purple",
+              "logprob": -2.8142592906951904
+            },
+            {
+              "token": ".",
+              "logprob": -0.5036192536354065
+            },
+            {
+              "token": " \n",
+              "logprob": -1.7662367820739746
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "green.",
+          "token_data": [
+            {
+              "token": " green",
+              "logprob": -2.978264808654785
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.4943389892578125
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The tree was red, because the clouds had looked like dogs.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.8733634948730469
+            },
+            {
+              "token": " tree",
+              "logprob": -0.17528851330280304
+            },
+            {
+              "token": " was",
+              "logprob": -0.4694177508354187
+            },
+            {
+              "token": " red",
+              "logprob": -2.4839487075805664
+            },
+            {
+              "token": ",",
+              "logprob": -3.0606980323791504
+            },
+            {
+              "token": " because",
+              "logprob": -1.7398046255111694
+            },
+            {
+              "token": " the",
+              "logprob": -2.2433831691741943
+            },
+            {
+              "token": " clouds",
+              "logprob": -3.3391683101654053
+            },
+            {
+              "token": " had",
+              "logprob": -3.776132106781006
+            },
+            {
+              "token": " looked",
+              "logprob": -3.5124764442443848
+            },
+            {
+              "token": " like",
+              "logprob": -0.061639606952667236
+            },
+            {
+              "token": " dogs",
+              "logprob": -0.33722907304763794
+            },
+            {
+              "token": ".",
+              "logprob": -0.503270149230957
+            },
+            {
+              "token": " \n",
+              "logprob": -1.7760119438171387
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Green",
+          "token_data": [
+            {
+              "token": " Green",
+              "logprob": -2.6123886108398438
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.6226706504821777
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The tree was blue, and that is when we started out.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.8733634948730469
+            },
+            {
+              "token": " tree",
+              "logprob": -0.17528851330280304
+            },
+            {
+              "token": " was",
+              "logprob": -0.4694177508354187
+            },
+            {
+              "token": " blue",
+              "logprob": -1.5788869857788086
+            },
+            {
+              "token": ",",
+              "logprob": -3.142936944961548
+            },
+            {
+              "token": " and",
+              "logprob": -1.937577724456787
+            },
+            {
+              "token": " that",
+              "logprob": -2.9884610176086426
+            },
+            {
+              "token": " is",
+              "logprob": -1.4264932870864868
+            },
+            {
+              "token": " when",
+              "logprob": -3.77606201171875
+            },
+            {
+              "token": " we",
+              "logprob": -3.1105055809020996
+            },
+            {
+              "token": " started",
+              "logprob": -4.18217658996582
+            },
+            {
+              "token": " out",
+              "logprob": -4.068321704864502
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.932931423187256
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The tree Noah drew was brown.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.8733634948730469
+            },
+            {
+              "token": " tree",
+              "logprob": -0.17528851330280304
+            },
+            {
+              "token": " Noah",
+              "logprob": -2.272472620010376
+            },
+            {
+              "token": " drew",
+              "logprob": -0.01837247610092163
+            },
+            {
+              "token": " was",
+              "logprob": -0.08240053057670593
+            },
+            {
+              "token": " brown",
+              "logprob": -3.1982364654541016
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.214839458465576
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "green B: red C: orange D: blue",
+          "token_data": [
+            {
+              "token": " green",
+              "logprob": -2.978264808654785
+            },
+            {
+              "token": " B",
+              "logprob": -3.3242170810699463
+            },
+            {
+              "token": ":",
+              "logprob": -0.01423596404492855
+            },
+            {
+              "token": " red",
+              "logprob": -2.2374467849731445
+            },
+            {
+              "token": " C",
+              "logprob": -0.06972178816795349
+            },
+            {
+              "token": ":",
+              "logprob": -0.007774451747536659
+            },
+            {
+              "token": " orange",
+              "logprob": -2.7468767166137695
+            },
+            {
+              "token": " D",
+              "logprob": -2.2254133224487305
+            },
+            {
+              "token": ":",
+              "logprob": -0.02467781864106655
+            },
+            {
+              "token": " blue",
+              "logprob": -1.2624753713607788
+            },
+            {
+              "token": " Q",
+              "logprob": -2.599388599395752
+            },
+            {
+              "token": ":",
+              "logprob": -0.023499904200434685
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Brown",
+          "token_data": [
+            {
+              "token": " Brown",
+              "logprob": -3.3390464782714844
+            },
+            {
+              "token": "\n",
+              "logprob": -2.098954677581787
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Green",
+          "token_data": [
+            {
+              "token": " Green",
+              "logprob": -2.6123886108398438
+            },
+            {
+              "token": "\n",
+              "logprob": -1.9556411504745483
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "A blue one",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.7481136322021484
+            },
+            {
+              "token": " blue",
+              "logprob": -2.3786733150482178
+            },
+            {
+              "token": " one",
+              "logprob": -1.9229265451431274
+            },
+            {
+              "token": " Q",
+              "logprob": -3.1064436435699463
+            },
+            {
+              "token": ":",
+              "logprob": -0.01815909333527088
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

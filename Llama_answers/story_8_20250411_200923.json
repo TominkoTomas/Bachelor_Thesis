@@ -1,0 +1,1147 @@
+{
+  "story": "Ella and Jordan were best friends who loved to draw together. One day, they sat at their small wooden table with crayons and pens scattered everywhere. Ella liked to draw big, colorful flowers, while Jordan preferred sketching tall buildings. Ella suddenly looked around with a worried face. \"Where is my purple pen?\" she asked. Jordan kept drawing, not noticing Ella's problem. Ella checked under the table, in her bag, and even in her pockets, but the pen was gone. \"Ella lost a purple pen,\" she said sadly. Jordan finally looked up and said, \"Maybe it rolled away!\" Ella sighed but then smiled. \"It's okay,\" she said. \"I can use a blue one instead.\" They kept drawing until the sun went down, happily sharing their creations. Even without the purple pen, Ella still had fun with her friend Jordan. That night, Ella found the purple pen under her bed, but she didn't mind anymore. She was just glad she got to spend the day drawing with Jordan.",
+  "characters": [
+    {
+      "question": "What did Ella lose?",
+      "character": "Ella",
+      "story": "Ella and Jordan were best friends who loved to draw together. One day, they sat at their small wooden table with crayons and pens scattered everywhere. Ella liked to draw big, colorful flowers, while Jordan preferred sketching tall buildings. Ella suddenly looked around with a worried face. \"Where is my purple pen?\" she asked. Jordan kept drawing, not noticing Ella's problem. Ella checked under the table, in her bag, and even in her pockets, but the pen was gone. \"Ella lost a purple pen,\" she said sadly. Jordan finally looked up and said, \"Maybe it rolled away!\" Ella sighed but then smiled. \"It's okay,\" she said. \"I can use a blue one instead.\" They kept drawing until the sun went down, happily sharing their creations. Even without the purple pen, Ella still had fun with her friend Jordan. That night, Ella found the purple pen under her bed, but she didn't mind anymore. She was just glad she got to spend the day drawing with Jordan.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Ella lost her purple pen.",
+          "token_data": [
+            {
+              "token": " Ella",
+              "logprob": -1.6659631729125977
+            },
+            {
+              "token": " lost",
+              "logprob": -0.10687979310750961
+            },
+            {
+              "token": " her",
+              "logprob": -1.6975665092468262
+            },
+            {
+              "token": " purple",
+              "logprob": -0.19145609438419342
+            },
+            {
+              "token": " pen",
+              "logprob": -0.03579212352633476
+            },
+            {
+              "token": ".",
+              "logprob": -0.3227381706237793
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.812633991241455
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The purple pen",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.4335484504699707
+            },
+            {
+              "token": " purple",
+              "logprob": -0.3938019275665283
+            },
+            {
+              "token": " pen",
+              "logprob": -0.01853116974234581
+            },
+            {
+              "token": " Q",
+              "logprob": -1.8386578559875488
+            },
+            {
+              "token": ":",
+              "logprob": -0.014949317090213299
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "an eraser",
+          "token_data": [
+            {
+              "token": " an",
+              "logprob": -3.8010640144348145
+            },
+            {
+              "token": " er",
+              "logprob": -1.6091488599777222
+            },
+            {
+              "token": "aser",
+              "logprob": -0.009537724778056145
+            },
+            {
+              "token": "\n",
+              "logprob": -2.887531042098999
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "A purple pen.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.019186496734619
+            },
+            {
+              "token": " purple",
+              "logprob": -0.2235192209482193
+            },
+            {
+              "token": " pen",
+              "logprob": -0.022916017100214958
+            },
+            {
+              "token": ".",
+              "logprob": -0.6505594849586487
+            },
+            {
+              "token": " \n",
+              "logprob": -2.135375738143921
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A purple pen",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.019186496734619
+            },
+            {
+              "token": " purple",
+              "logprob": -0.2235192209482193
+            },
+            {
+              "token": " pen",
+              "logprob": -0.022916017100214958
+            },
+            {
+              "token": " Q",
+              "logprob": -2.016768455505371
+            },
+            {
+              "token": ":",
+              "logprob": -0.01909458078444004
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It’s a purple pen",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -4.113638401031494
+            },
+            {
+              "token": "’s",
+              "logprob": -3.264101505279541
+            },
+            {
+              "token": " a",
+              "logprob": -1.2361174821853638
+            },
+            {
+              "token": " purple",
+              "logprob": -0.5882366895675659
+            },
+            {
+              "token": " pen",
+              "logprob": -0.0351974181830883
+            },
+            {
+              "token": " Q",
+              "logprob": -3.395561456680298
+            },
+            {
+              "token": ":",
+              "logprob": -0.028900593519210815
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "1. Nothing",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.858734607696533
+            },
+            {
+              "token": "1",
+              "logprob": -2.142256736755371
+            },
+            {
+              "token": ".",
+              "logprob": -1.4206616878509521
+            },
+            {
+              "token": " Nothing",
+              "logprob": -3.715749740600586
+            },
+            {
+              "token": " \n",
+              "logprob": -4.074987411499023
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Her pen",
+          "token_data": [
+            {
+              "token": " Her",
+              "logprob": -2.527712345123291
+            },
+            {
+              "token": " pen",
+              "logprob": -2.3981237411499023
+            },
+            {
+              "token": "\n",
+              "logprob": -2.915966749191284
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.812633991241455
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What did Jordan lose?",
+      "character": "Jordan",
+      "story": "Ella and Jordan were best friends who loved to draw together. One day, they sat at their small wooden table with crayons and pens scattered everywhere. Ella liked to draw big, colorful flowers, while Jordan preferred sketching tall buildings. Ella suddenly looked around with a worried face. \"Where is my purple pen?\" she asked. Jordan kept drawing, not noticing Ella's problem. Ella checked under the table, in her bag, and even in her pockets, but the pen was gone. \"Ella lost a purple pen,\" she said sadly. Jordan finally looked up and said, \"Maybe it rolled away!\" Ella sighed but then smiled. \"It's okay,\" she said. \"I can use a blue one instead.\" They kept drawing until the sun went down, happily sharing their creations. Even without the purple pen, Ella still had fun with her friend Jordan. That night, Ella found the purple pen under her bed, but she didn't mind anymore. She was just glad she got to spend the day drawing with Jordan.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "What did Jordan lose?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.5942602157592773
+            },
+            {
+              "token": " did",
+              "logprob": -0.17836876213550568
+            },
+            {
+              "token": " Jordan",
+              "logprob": -0.08740220218896866
+            },
+            {
+              "token": " lose",
+              "logprob": -0.07791385799646378
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -2.520470142364502
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "It was his purple pen.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.258530616760254
+            },
+            {
+              "token": " was",
+              "logprob": -2.0838966369628906
+            },
+            {
+              "token": " his",
+              "logprob": -1.7245795726776123
+            },
+            {
+              "token": " purple",
+              "logprob": -1.315172791481018
+            },
+            {
+              "token": " pen",
+              "logprob": -0.07384320348501205
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.884233236312866
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Maybe it rolled away.",
+          "token_data": [
+            {
+              "token": " Maybe",
+              "logprob": -4.315427780151367
+            },
+            {
+              "token": " it",
+              "logprob": -0.20760908722877502
+            },
+            {
+              "token": " rolled",
+              "logprob": -0.03734538331627846
+            },
+            {
+              "token": " away",
+              "logprob": -0.017754437401890755
+            },
+            {
+              "token": ".",
+              "logprob": -1.663353443145752
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0368294715881348
+            },
+            {
+              "token": ":",
+              "logprob": -0.01749863289296627
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "What did Jordan lose?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.6322498321533203
+            },
+            {
+              "token": " did",
+              "logprob": -0.17757785320281982
+            },
+            {
+              "token": " Jordan",
+              "logprob": -0.09384676814079285
+            },
+            {
+              "token": " lose",
+              "logprob": -0.07683325558900833
+            },
+            {
+              "token": "?\n",
+              "logprob": -1.9666184186935425
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Nothing, that's impossible. I'll try to use it as a metaphor instead! :) What did Ella want to do? A: She wanted to find the purple pen so they could both draw together. Why didn't Ella take any more? A: That's the answer we're all here waiting for - it just so happens that when we need something badly, something magical just happens. So while it might be tempting to use this as a metaphor for how she wants to put this together (I can even feel its existence!), it will never be able to replace the person who was trying so hard, without ever being sure whether or not I did that myself in the first place - but no matter how close we come looking back with just a little bit left over before my own set up my next sentence!",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -3.2251358032226562
+            },
+            {
+              "token": ",",
+              "logprob": -2.59333872795105
+            },
+            {
+              "token": " that",
+              "logprob": -4.739548206329346
+            },
+            {
+              "token": "'s",
+              "logprob": -1.2400063276290894
+            },
+            {
+              "token": " impossible",
+              "logprob": -4.247282981872559
+            },
+            {
+              "token": ".",
+              "logprob": -0.9114760756492615
+            },
+            {
+              "token": " I",
+              "logprob": -4.575566291809082
+            },
+            {
+              "token": "'ll",
+              "logprob": -3.5228662490844727
+            },
+            {
+              "token": " try",
+              "logprob": -2.3455426692962646
+            },
+            {
+              "token": " to",
+              "logprob": -1.7276344299316406
+            },
+            {
+              "token": " use",
+              "logprob": -4.69782829284668
+            },
+            {
+              "token": " it",
+              "logprob": -3.896759033203125
+            },
+            {
+              "token": " as",
+              "logprob": -2.38096284866333
+            },
+            {
+              "token": " a",
+              "logprob": -0.46124982833862305
+            },
+            {
+              "token": " metaphor",
+              "logprob": -3.1290032863616943
+            },
+            {
+              "token": " instead",
+              "logprob": -4.631124496459961
+            },
+            {
+              "token": "!",
+              "logprob": -3.811171293258667
+            },
+            {
+              "token": " :)",
+              "logprob": -3.9311954975128174
+            },
+            {
+              "token": " What",
+              "logprob": -4.689234733581543
+            },
+            {
+              "token": " did",
+              "logprob": -0.9337486028671265
+            },
+            {
+              "token": " Ella",
+              "logprob": -0.28883281350135803
+            },
+            {
+              "token": " want",
+              "logprob": -3.810725688934326
+            },
+            {
+              "token": " to",
+              "logprob": -0.43561676144599915
+            },
+            {
+              "token": " do",
+              "logprob": -0.6244861483573914
+            },
+            {
+              "token": "?",
+              "logprob": -0.4310460388660431
+            },
+            {
+              "token": " A",
+              "logprob": -0.1443568915128708
+            },
+            {
+              "token": ":",
+              "logprob": -0.007921825163066387
+            },
+            {
+              "token": " She",
+              "logprob": -1.4716352224349976
+            },
+            {
+              "token": " wanted",
+              "logprob": -0.2567134499549866
+            },
+            {
+              "token": " to",
+              "logprob": -0.030684957280755043
+            },
+            {
+              "token": " find",
+              "logprob": -2.554593563079834
+            },
+            {
+              "token": " the",
+              "logprob": -1.868473768234253
+            },
+            {
+              "token": " purple",
+              "logprob": -0.27570876479148865
+            },
+            {
+              "token": " pen",
+              "logprob": -0.024538708850741386
+            },
+            {
+              "token": " so",
+              "logprob": -4.335488319396973
+            },
+            {
+              "token": " they",
+              "logprob": -1.6799826622009277
+            },
+            {
+              "token": " could",
+              "logprob": -0.2146652191877365
+            },
+            {
+              "token": " both",
+              "logprob": -1.9890445470809937
+            },
+            {
+              "token": " draw",
+              "logprob": -2.155853271484375
+            },
+            {
+              "token": " together",
+              "logprob": -1.7979466915130615
+            },
+            {
+              "token": ".",
+              "logprob": -0.6290175914764404
+            },
+            {
+              "token": " Why",
+              "logprob": -1.7668309211730957
+            },
+            {
+              "token": " didn",
+              "logprob": -2.2994441986083984
+            },
+            {
+              "token": "'t",
+              "logprob": -0.021947942674160004
+            },
+            {
+              "token": " Ella",
+              "logprob": -0.5163165330886841
+            },
+            {
+              "token": " take",
+              "logprob": -4.952564239501953
+            },
+            {
+              "token": " any",
+              "logprob": -4.379242420196533
+            },
+            {
+              "token": " more",
+              "logprob": -2.7384629249572754
+            },
+            {
+              "token": "?",
+              "logprob": -2.9452719688415527
+            },
+            {
+              "token": " A",
+              "logprob": -0.13020974397659302
+            },
+            {
+              "token": ":",
+              "logprob": -0.010524839162826538
+            },
+            {
+              "token": " That",
+              "logprob": -3.8575453758239746
+            },
+            {
+              "token": "'s",
+              "logprob": -0.66435706615448
+            },
+            {
+              "token": " the",
+              "logprob": -3.1915221214294434
+            },
+            {
+              "token": " answer",
+              "logprob": -4.152427673339844
+            },
+            {
+              "token": " we",
+              "logprob": -3.467500686645508
+            },
+            {
+              "token": "'re",
+              "logprob": -1.4333806037902832
+            },
+            {
+              "token": " all",
+              "logprob": -1.939872145652771
+            },
+            {
+              "token": " here",
+              "logprob": -3.7610557079315186
+            },
+            {
+              "token": " waiting",
+              "logprob": -3.383918523788452
+            },
+            {
+              "token": " for",
+              "logprob": -0.28517603874206543
+            },
+            {
+              "token": " -",
+              "logprob": -4.757885456085205
+            },
+            {
+              "token": " it",
+              "logprob": -3.856127977371216
+            },
+            {
+              "token": " just",
+              "logprob": -4.6066575050354
+            },
+            {
+              "token": " so",
+              "logprob": -3.649857521057129
+            },
+            {
+              "token": " happens",
+              "logprob": -0.8938912153244019
+            },
+            {
+              "token": " that",
+              "logprob": -0.40431010723114014
+            },
+            {
+              "token": " when",
+              "logprob": -4.059381484985352
+            },
+            {
+              "token": " we",
+              "logprob": -2.1132216453552246
+            },
+            {
+              "token": " need",
+              "logprob": -4.348830223083496
+            },
+            {
+              "token": " something",
+              "logprob": -2.5813071727752686
+            },
+            {
+              "token": " badly",
+              "logprob": -3.800960063934326
+            },
+            {
+              "token": ",",
+              "logprob": -0.4642258882522583
+            },
+            {
+              "token": " something",
+              "logprob": -3.8466458320617676
+            },
+            {
+              "token": " magical",
+              "logprob": -3.977506160736084
+            },
+            {
+              "token": " just",
+              "logprob": -3.4456067085266113
+            },
+            {
+              "token": " happens",
+              "logprob": -1.574863314628601
+            },
+            {
+              "token": ".",
+              "logprob": -1.3885465860366821
+            },
+            {
+              "token": " So",
+              "logprob": -3.9801487922668457
+            },
+            {
+              "token": " while",
+              "logprob": -4.833320617675781
+            },
+            {
+              "token": " it",
+              "logprob": -2.356217861175537
+            },
+            {
+              "token": " might",
+              "logprob": -2.267733573913574
+            },
+            {
+              "token": " be",
+              "logprob": -1.0692784786224365
+            },
+            {
+              "token": " tempting",
+              "logprob": -3.265212297439575
+            },
+            {
+              "token": " to",
+              "logprob": -0.07403252273797989
+            },
+            {
+              "token": " use",
+              "logprob": -2.3587939739227295
+            },
+            {
+              "token": " this",
+              "logprob": -1.4375306367874146
+            },
+            {
+              "token": " as",
+              "logprob": -1.638101577758789
+            },
+            {
+              "token": " a",
+              "logprob": -0.40187522768974304
+            },
+            {
+              "token": " metaphor",
+              "logprob": -0.27554571628570557
+            },
+            {
+              "token": " for",
+              "logprob": -1.0540462732315063
+            },
+            {
+              "token": " how",
+              "logprob": -3.22275447845459
+            },
+            {
+              "token": " she",
+              "logprob": -3.8641228675842285
+            },
+            {
+              "token": " wants",
+              "logprob": -4.423675060272217
+            },
+            {
+              "token": " to",
+              "logprob": -0.42491233348846436
+            },
+            {
+              "token": " put",
+              "logprob": -5.525404930114746
+            },
+            {
+              "token": " this",
+              "logprob": -2.3686394691467285
+            },
+            {
+              "token": " together",
+              "logprob": -2.052903890609741
+            },
+            {
+              "token": " (",
+              "logprob": -4.05920934677124
+            },
+            {
+              "token": "I",
+              "logprob": -2.5320489406585693
+            },
+            {
+              "token": " can",
+              "logprob": -3.787390947341919
+            },
+            {
+              "token": " even",
+              "logprob": -4.397738456726074
+            },
+            {
+              "token": " feel",
+              "logprob": -3.838407039642334
+            },
+            {
+              "token": " its",
+              "logprob": -4.749859809875488
+            },
+            {
+              "token": " existence",
+              "logprob": -4.529534339904785
+            },
+            {
+              "token": "!),",
+              "logprob": -2.264373779296875
+            },
+            {
+              "token": " it",
+              "logprob": -1.4894894361495972
+            },
+            {
+              "token": " will",
+              "logprob": -4.355070114135742
+            },
+            {
+              "token": " never",
+              "logprob": -2.850942850112915
+            },
+            {
+              "token": " be",
+              "logprob": -0.7015645503997803
+            },
+            {
+              "token": " able",
+              "logprob": -3.213203191757202
+            },
+            {
+              "token": " to",
+              "logprob": -0.015465452335774899
+            },
+            {
+              "token": " replace",
+              "logprob": -1.57542884349823
+            },
+            {
+              "token": " the",
+              "logprob": -1.0443508625030518
+            },
+            {
+              "token": " person",
+              "logprob": -4.424044609069824
+            },
+            {
+              "token": " who",
+              "logprob": -0.6448572874069214
+            },
+            {
+              "token": " was",
+              "logprob": -2.517585277557373
+            },
+            {
+              "token": " trying",
+              "logprob": -4.120700359344482
+            },
+            {
+              "token": " so",
+              "logprob": -1.9362995624542236
+            },
+            {
+              "token": " hard",
+              "logprob": -0.010623333044350147
+            },
+            {
+              "token": ",",
+              "logprob": -4.309330463409424
+            },
+            {
+              "token": " without",
+              "logprob": -4.31386661529541
+            },
+            {
+              "token": " ever",
+              "logprob": -4.003896713256836
+            },
+            {
+              "token": " being",
+              "logprob": -3.0493264198303223
+            },
+            {
+              "token": " sure",
+              "logprob": -4.392764568328857
+            },
+            {
+              "token": " whether",
+              "logprob": -2.5486202239990234
+            },
+            {
+              "token": " or",
+              "logprob": -1.4338597059249878
+            },
+            {
+              "token": " not",
+              "logprob": -0.03318679705262184
+            },
+            {
+              "token": " I",
+              "logprob": -2.949763774871826
+            },
+            {
+              "token": " did",
+              "logprob": -4.072943687438965
+            },
+            {
+              "token": " that",
+              "logprob": -3.1098620891571045
+            },
+            {
+              "token": " myself",
+              "logprob": -3.3675332069396973
+            },
+            {
+              "token": " in",
+              "logprob": -4.990738868713379
+            },
+            {
+              "token": " the",
+              "logprob": -1.213727355003357
+            },
+            {
+              "token": " first",
+              "logprob": -0.38887539505958557
+            },
+            {
+              "token": " place",
+              "logprob": -0.017311422154307365
+            },
+            {
+              "token": " -",
+              "logprob": -2.834252119064331
+            },
+            {
+              "token": " but",
+              "logprob": -2.34541916847229
+            },
+            {
+              "token": " no",
+              "logprob": -4.190951347351074
+            },
+            {
+              "token": " matter",
+              "logprob": -0.6193372011184692
+            },
+            {
+              "token": " how",
+              "logprob": -1.3852146863937378
+            },
+            {
+              "token": " close",
+              "logprob": -3.8436810970306396
+            },
+            {
+              "token": " we",
+              "logprob": -1.5155110359191895
+            },
+            {
+              "token": " come",
+              "logprob": -1.6926056146621704
+            },
+            {
+              "token": " looking",
+              "logprob": -5.020519256591797
+            },
+            {
+              "token": " back",
+              "logprob": -3.704989194869995
+            },
+            {
+              "token": " with",
+              "logprob": -3.4924259185791016
+            },
+            {
+              "token": " just",
+              "logprob": -3.0885207653045654
+            },
+            {
+              "token": " a",
+              "logprob": -1.280698537826538
+            },
+            {
+              "token": " little",
+              "logprob": -0.36702021956443787
+            },
+            {
+              "token": " bit",
+              "logprob": -0.35231146216392517
+            },
+            {
+              "token": " left",
+              "logprob": -3.130504846572876
+            },
+            {
+              "token": " over",
+              "logprob": -1.3162107467651367
+            },
+            {
+              "token": " before",
+              "logprob": -4.792973041534424
+            },
+            {
+              "token": " my",
+              "logprob": -5.111572742462158
+            },
+            {
+              "token": " own",
+              "logprob": -3.3562004566192627
+            },
+            {
+              "token": " set",
+              "logprob": -4.862349510192871
+            },
+            {
+              "token": " up",
+              "logprob": -3.1014933586120605
+            },
+            {
+              "token": " my",
+              "logprob": -3.3566224575042725
+            },
+            {
+              "token": " next",
+              "logprob": -3.709958076477051
+            },
+            {
+              "token": " sentence",
+              "logprob": -3.706360340118408
+            },
+            {
+              "token": "!",
+              "logprob": -2.6674089431762695
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.3631529808044434
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A pen.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.7814273834228516
+            },
+            {
+              "token": " pen",
+              "logprob": -2.661377429962158
+            },
+            {
+              "token": ".",
+              "logprob": -0.6370260715484619
+            },
+            {
+              "token": " \n",
+              "logprob": -2.2996785640716553
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "What did Ella lose?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.6322498321533203
+            },
+            {
+              "token": " did",
+              "logprob": -0.17757785320281982
+            },
+            {
+              "token": " Ella",
+              "logprob": -2.6864123344421387
+            },
+            {
+              "token": " lose",
+              "logprob": -0.4071595370769501
+            },
+            {
+              "token": "?",
+              "logprob": -0.2962959110736847
+            },
+            {
+              "token": " ",
+              "logprob": -2.9228663444519043
+            },
+            {
+              "token": "\n\n\n\n\n\n",
+              "logprob": -3.8810088634490967
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A purple pen",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.7814273834228516
+            },
+            {
+              "token": " purple",
+              "logprob": -0.7460616827011108
+            },
+            {
+              "token": " pen",
+              "logprob": -0.0357273668050766
+            },
+            {
+              "token": " Q",
+              "logprob": -2.1004295349121094
+            },
+            {
+              "token": ":",
+              "logprob": -0.020040180534124374
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "a pen.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.777102470397949
+            },
+            {
+              "token": " pen",
+              "logprob": -2.1460981369018555
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.1855151653289795
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The purple pen",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.8031673431396484
+            },
+            {
+              "token": " purple",
+              "logprob": -0.5593466758728027
+            },
+            {
+              "token": " pen",
+              "logprob": -0.022858574986457825
+            },
+            {
+              "token": " Q",
+              "logprob": -1.9123660326004028
+            },
+            {
+              "token": ":",
+              "logprob": -0.017960768193006516
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

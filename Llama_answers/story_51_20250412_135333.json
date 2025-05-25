@@ -1,0 +1,1983 @@
+{
+  "story": "One day, Alexander and Sam went to the park. It was a cold morning, and the wind blew hard. Alexander found a striped scarf on a bench. It was red and white. He picked it up and looked around, but no one was there. \"Sam, look what I found!\" Alexander said. Sam was busy kicking a ball and did not hear him. Alexander decided to keep the scarf to stay warm. He wrapped it around his neck and felt cozy. Sam stopped playing and ran over. \"Where did you get that scarf?\" Sam asked. Alexander told him about finding it on the bench. Sam shrugged and said, \"Cool! Let's go get hot chocolate.\" They walked to a nearby shop, happy and warm. The scarf made Alexander smile. He was glad he found it. The two friends enjoyed their day together, sipping hot drinks and laughing. The end.",
+  "characters": [
+    {
+      "question": "What pattern was on the scarf Alexander found?",
+      "character": "Alexander",
+      "story": "One day, Alexander and Sam went to the park. It was a cold morning, and the wind blew hard. Alexander found a striped scarf on a bench. It was red and white. He picked it up and looked around, but no one was there. \"Sam, look what I found!\" Alexander said. Sam was busy kicking a ball and did not hear him. Alexander decided to keep the scarf to stay warm. He wrapped it around his neck and felt cozy. Sam stopped playing and ran over. \"Where did you get that scarf?\" Sam asked. Alexander told him about finding it on the bench. Sam shrugged and said, \"Cool! Let's go get hot chocolate.\" They walked to a nearby shop, happy and warm. The scarf made Alexander smile. He was glad he found it. The two friends enjoyed their day together, sipping hot drinks and laughing. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A stripe pattern.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.2006032466888428
+            },
+            {
+              "token": " stripe",
+              "logprob": -3.2202420234680176
+            },
+            {
+              "token": " pattern",
+              "logprob": -1.111945629119873
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.824734687805176
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "None. Alexander felt happy he found it.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.059401273727417
+            },
+            {
+              "token": ".",
+              "logprob": -0.8363972902297974
+            },
+            {
+              "token": " Alexander",
+              "logprob": -3.8972816467285156
+            },
+            {
+              "token": " felt",
+              "logprob": -4.30916690826416
+            },
+            {
+              "token": " happy",
+              "logprob": -2.1209354400634766
+            },
+            {
+              "token": " he",
+              "logprob": -2.525946855545044
+            },
+            {
+              "token": " found",
+              "logprob": -0.18662619590759277
+            },
+            {
+              "token": " it",
+              "logprob": -0.2703809440135956
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.692605495452881
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.710040807723999
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It was a pattern called stripes.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.1259543895721436
+            },
+            {
+              "token": " was",
+              "logprob": -0.3213804364204407
+            },
+            {
+              "token": " a",
+              "logprob": -1.0536317825317383
+            },
+            {
+              "token": " pattern",
+              "logprob": -3.3115625381469727
+            },
+            {
+              "token": " called",
+              "logprob": -3.266599178314209
+            },
+            {
+              "token": " stripes",
+              "logprob": -2.192423105239868
+            },
+            {
+              "token": ".",
+              "logprob": -0.3343932628631592
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "A striped scarf.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.239647626876831
+            },
+            {
+              "token": " striped",
+              "logprob": -2.182389736175537
+            },
+            {
+              "token": " scarf",
+              "logprob": -1.313565731048584
+            },
+            {
+              "token": ".",
+              "logprob": -0.8761705756187439
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9952882528305054
+            },
+            {
+              "token": ":",
+              "logprob": -0.024634787812829018
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A red and white one.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.239647626876831
+            },
+            {
+              "token": " red",
+              "logprob": -1.6998926401138306
+            },
+            {
+              "token": " and",
+              "logprob": -0.09382613748311996
+            },
+            {
+              "token": " white",
+              "logprob": -0.04405346140265465
+            },
+            {
+              "token": " one",
+              "logprob": -2.6321330070495605
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.0323188304901123
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The answer depends on how you look at this. To the observer looking in from the outside of their eyelids, it is clear as day.  The question is a rhetorical one, but for those that do not care to look out they way to see their eyes move, perhaps the only thing in front of your pupils was an hourglass. As they are about to turn away with the clock moving along before their very own eyes, you can imagine that such an observer has two options before them. The first one would be something along these lines; I must admit, in this case you were looking up, and from inside my eye's, the pattern was a bright light. At first glance there was an image of what is to come later. Your gaze was upon this picture with your eyelids covering the opening towards our visual system when you first opened it with your eyes as wide open as you could before they shut themselves. To take that route, though one way might have been preferable to the other, but since most people don't consider which option they'd go with at a red traffic light approaching from behind there'll likely always be some sort of obstacle in front of us all unless someone finds a loophole.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.0824859142303467
+            },
+            {
+              "token": " answer",
+              "logprob": -2.1205384731292725
+            },
+            {
+              "token": " depends",
+              "logprob": -3.7250142097473145
+            },
+            {
+              "token": " on",
+              "logprob": -0.08202291280031204
+            },
+            {
+              "token": " how",
+              "logprob": -1.6262881755828857
+            },
+            {
+              "token": " you",
+              "logprob": -0.4324011504650116
+            },
+            {
+              "token": " look",
+              "logprob": -2.199063301086426
+            },
+            {
+              "token": " at",
+              "logprob": -0.055766716599464417
+            },
+            {
+              "token": " this",
+              "logprob": -2.9571640491485596
+            },
+            {
+              "token": ".",
+              "logprob": -2.1753616333007812
+            },
+            {
+              "token": " To",
+              "logprob": -4.373265266418457
+            },
+            {
+              "token": " the",
+              "logprob": -2.29215669631958
+            },
+            {
+              "token": " observer",
+              "logprob": -4.052219867706299
+            },
+            {
+              "token": " looking",
+              "logprob": -3.1979100704193115
+            },
+            {
+              "token": " in",
+              "logprob": -2.5569992065429688
+            },
+            {
+              "token": " from",
+              "logprob": -1.0226750373840332
+            },
+            {
+              "token": " the",
+              "logprob": -0.23415213823318481
+            },
+            {
+              "token": " outside",
+              "logprob": -0.09807948768138885
+            },
+            {
+              "token": " of",
+              "logprob": -2.729254722595215
+            },
+            {
+              "token": " their",
+              "logprob": -4.238088607788086
+            },
+            {
+              "token": " eyel",
+              "logprob": -4.8499908447265625
+            },
+            {
+              "token": "ids",
+              "logprob": -0.2809433937072754
+            },
+            {
+              "token": ",",
+              "logprob": -0.20143555104732513
+            },
+            {
+              "token": " it",
+              "logprob": -2.3812851905822754
+            },
+            {
+              "token": " is",
+              "logprob": -1.7959398031234741
+            },
+            {
+              "token": " clear",
+              "logprob": -4.035748481750488
+            },
+            {
+              "token": " as",
+              "logprob": -2.5940194129943848
+            },
+            {
+              "token": " day",
+              "logprob": -0.3575340211391449
+            },
+            {
+              "token": ".",
+              "logprob": -2.0213146209716797
+            },
+            {
+              "token": " ",
+              "logprob": -4.838414192199707
+            },
+            {
+              "token": " The",
+              "logprob": -1.8689087629318237
+            },
+            {
+              "token": " question",
+              "logprob": -5.264925003051758
+            },
+            {
+              "token": " is",
+              "logprob": -1.4113976955413818
+            },
+            {
+              "token": " a",
+              "logprob": -3.3838346004486084
+            },
+            {
+              "token": " rhetorical",
+              "logprob": -2.612638235092163
+            },
+            {
+              "token": " one",
+              "logprob": -0.37552961707115173
+            },
+            {
+              "token": ",",
+              "logprob": -1.33292555809021
+            },
+            {
+              "token": " but",
+              "logprob": -3.002577543258667
+            },
+            {
+              "token": " for",
+              "logprob": -3.922140121459961
+            },
+            {
+              "token": " those",
+              "logprob": -2.111853837966919
+            },
+            {
+              "token": " that",
+              "logprob": -2.039745569229126
+            },
+            {
+              "token": " do",
+              "logprob": -2.059980630874634
+            },
+            {
+              "token": " not",
+              "logprob": -0.0718047022819519
+            },
+            {
+              "token": " care",
+              "logprob": -4.45161247253418
+            },
+            {
+              "token": " to",
+              "logprob": -1.6963618993759155
+            },
+            {
+              "token": " look",
+              "logprob": -0.9116825461387634
+            },
+            {
+              "token": " out",
+              "logprob": -4.451381683349609
+            },
+            {
+              "token": " they",
+              "logprob": -4.262125015258789
+            },
+            {
+              "token": " way",
+              "logprob": -1.7165162563323975
+            },
+            {
+              "token": " to",
+              "logprob": -3.54533314704895
+            },
+            {
+              "token": " see",
+              "logprob": -2.2248878479003906
+            },
+            {
+              "token": " their",
+              "logprob": -3.5047550201416016
+            },
+            {
+              "token": " eyes",
+              "logprob": -3.4713027477264404
+            },
+            {
+              "token": " move",
+              "logprob": -4.797553062438965
+            },
+            {
+              "token": ",",
+              "logprob": -0.7552551031112671
+            },
+            {
+              "token": " perhaps",
+              "logprob": -5.532628059387207
+            },
+            {
+              "token": " the",
+              "logprob": -1.9306817054748535
+            },
+            {
+              "token": " only",
+              "logprob": -4.441237926483154
+            },
+            {
+              "token": " thing",
+              "logprob": -2.4545466899871826
+            },
+            {
+              "token": " in",
+              "logprob": -3.336395263671875
+            },
+            {
+              "token": " front",
+              "logprob": -3.2912354469299316
+            },
+            {
+              "token": " of",
+              "logprob": -0.028914954513311386
+            },
+            {
+              "token": " your",
+              "logprob": -3.4920949935913086
+            },
+            {
+              "token": " pupils",
+              "logprob": -4.262889862060547
+            },
+            {
+              "token": " was",
+              "logprob": -4.130359172821045
+            },
+            {
+              "token": " an",
+              "logprob": -4.078756332397461
+            },
+            {
+              "token": " hour",
+              "logprob": -5.51101016998291
+            },
+            {
+              "token": "glass",
+              "logprob": -0.6618222594261169
+            },
+            {
+              "token": ".",
+              "logprob": -0.9665026664733887
+            },
+            {
+              "token": " As",
+              "logprob": -4.6267266273498535
+            },
+            {
+              "token": " they",
+              "logprob": -3.0946006774902344
+            },
+            {
+              "token": " are",
+              "logprob": -3.2845513820648193
+            },
+            {
+              "token": " about",
+              "logprob": -4.115750312805176
+            },
+            {
+              "token": " to",
+              "logprob": -0.10191959887742996
+            },
+            {
+              "token": " turn",
+              "logprob": -2.7677159309387207
+            },
+            {
+              "token": " away",
+              "logprob": -3.9638423919677734
+            },
+            {
+              "token": " with",
+              "logprob": -4.802239418029785
+            },
+            {
+              "token": " the",
+              "logprob": -1.5809910297393799
+            },
+            {
+              "token": " clock",
+              "logprob": -5.423057556152344
+            },
+            {
+              "token": " moving",
+              "logprob": -4.139372825622559
+            },
+            {
+              "token": " along",
+              "logprob": -4.613490104675293
+            },
+            {
+              "token": " before",
+              "logprob": -5.446400165557861
+            },
+            {
+              "token": " their",
+              "logprob": -0.8737760782241821
+            },
+            {
+              "token": " very",
+              "logprob": -2.7235236167907715
+            },
+            {
+              "token": " own",
+              "logprob": -1.6993670463562012
+            },
+            {
+              "token": " eyes",
+              "logprob": -0.5973284244537354
+            },
+            {
+              "token": ",",
+              "logprob": -0.24152500927448273
+            },
+            {
+              "token": " you",
+              "logprob": -2.431664228439331
+            },
+            {
+              "token": " can",
+              "logprob": -1.9944658279418945
+            },
+            {
+              "token": " imagine",
+              "logprob": -4.163460731506348
+            },
+            {
+              "token": " that",
+              "logprob": -2.5869333744049072
+            },
+            {
+              "token": " such",
+              "logprob": -5.767470359802246
+            },
+            {
+              "token": " an",
+              "logprob": -2.1888298988342285
+            },
+            {
+              "token": " observer",
+              "logprob": -2.3790547847747803
+            },
+            {
+              "token": " has",
+              "logprob": -3.979907989501953
+            },
+            {
+              "token": " two",
+              "logprob": -5.666814804077148
+            },
+            {
+              "token": " options",
+              "logprob": -4.294162273406982
+            },
+            {
+              "token": " before",
+              "logprob": -3.3628275394439697
+            },
+            {
+              "token": " them",
+              "logprob": -0.5218067169189453
+            },
+            {
+              "token": ".",
+              "logprob": -0.9107152223587036
+            },
+            {
+              "token": " The",
+              "logprob": -2.3675575256347656
+            },
+            {
+              "token": " first",
+              "logprob": -0.8544093370437622
+            },
+            {
+              "token": " one",
+              "logprob": -4.081704139709473
+            },
+            {
+              "token": " would",
+              "logprob": -3.30283784866333
+            },
+            {
+              "token": " be",
+              "logprob": -0.5795211791992188
+            },
+            {
+              "token": " something",
+              "logprob": -5.229001045227051
+            },
+            {
+              "token": " along",
+              "logprob": -3.584587335586548
+            },
+            {
+              "token": " these",
+              "logprob": -2.292870044708252
+            },
+            {
+              "token": " lines",
+              "logprob": -0.06619134545326233
+            },
+            {
+              "token": ";",
+              "logprob": -3.952833414077759
+            },
+            {
+              "token": " I",
+              "logprob": -4.345397472381592
+            },
+            {
+              "token": " must",
+              "logprob": -4.011736869812012
+            },
+            {
+              "token": " admit",
+              "logprob": -3.1931278705596924
+            },
+            {
+              "token": ",",
+              "logprob": -1.4644356966018677
+            },
+            {
+              "token": " in",
+              "logprob": -4.117429733276367
+            },
+            {
+              "token": " this",
+              "logprob": -2.585947036743164
+            },
+            {
+              "token": " case",
+              "logprob": -1.6231887340545654
+            },
+            {
+              "token": " you",
+              "logprob": -3.684089422225952
+            },
+            {
+              "token": " were",
+              "logprob": -3.6627798080444336
+            },
+            {
+              "token": " looking",
+              "logprob": -4.252295017242432
+            },
+            {
+              "token": " up",
+              "logprob": -4.119709491729736
+            },
+            {
+              "token": ",",
+              "logprob": -2.6947968006134033
+            },
+            {
+              "token": " and",
+              "logprob": -2.3276853561401367
+            },
+            {
+              "token": " from",
+              "logprob": -4.656023025512695
+            },
+            {
+              "token": " inside",
+              "logprob": -4.79716682434082
+            },
+            {
+              "token": " my",
+              "logprob": -3.820462942123413
+            },
+            {
+              "token": " eye",
+              "logprob": -3.9072213172912598
+            },
+            {
+              "token": "'s",
+              "logprob": -3.9601826667785645
+            },
+            {
+              "token": ",",
+              "logprob": -1.699324369430542
+            },
+            {
+              "token": " the",
+              "logprob": -2.5651156902313232
+            },
+            {
+              "token": " pattern",
+              "logprob": -2.1518747806549072
+            },
+            {
+              "token": " was",
+              "logprob": -1.2955424785614014
+            },
+            {
+              "token": " a",
+              "logprob": -2.23120379447937
+            },
+            {
+              "token": " bright",
+              "logprob": -5.009698867797852
+            },
+            {
+              "token": " light",
+              "logprob": -4.413852691650391
+            },
+            {
+              "token": ".",
+              "logprob": -1.0509089231491089
+            },
+            {
+              "token": " At",
+              "logprob": -5.148923397064209
+            },
+            {
+              "token": " first",
+              "logprob": -2.8036868572235107
+            },
+            {
+              "token": " glance",
+              "logprob": -1.449039101600647
+            },
+            {
+              "token": " there",
+              "logprob": -5.132546424865723
+            },
+            {
+              "token": " was",
+              "logprob": -0.6752992272377014
+            },
+            {
+              "token": " an",
+              "logprob": -3.2519750595092773
+            },
+            {
+              "token": " image",
+              "logprob": -3.9543161392211914
+            },
+            {
+              "token": " of",
+              "logprob": -0.881339967250824
+            },
+            {
+              "token": " what",
+              "logprob": -4.186563491821289
+            },
+            {
+              "token": " is",
+              "logprob": -3.9045183658599854
+            },
+            {
+              "token": " to",
+              "logprob": -1.506865382194519
+            },
+            {
+              "token": " come",
+              "logprob": -0.5625441074371338
+            },
+            {
+              "token": " later",
+              "logprob": -4.934764385223389
+            },
+            {
+              "token": ".",
+              "logprob": -1.6231474876403809
+            },
+            {
+              "token": " Your",
+              "logprob": -5.09550666809082
+            },
+            {
+              "token": " gaze",
+              "logprob": -3.9527039527893066
+            },
+            {
+              "token": " was",
+              "logprob": -1.442839503288269
+            },
+            {
+              "token": " upon",
+              "logprob": -3.2212741374969482
+            },
+            {
+              "token": " this",
+              "logprob": -3.151521682739258
+            },
+            {
+              "token": " picture",
+              "logprob": -5.2042975425720215
+            },
+            {
+              "token": " with",
+              "logprob": -4.06736946105957
+            },
+            {
+              "token": " your",
+              "logprob": -4.485744953155518
+            },
+            {
+              "token": " eyel",
+              "logprob": -3.5399301052093506
+            },
+            {
+              "token": "ids",
+              "logprob": -0.26026713848114014
+            },
+            {
+              "token": " covering",
+              "logprob": -5.128615379333496
+            },
+            {
+              "token": " the",
+              "logprob": -1.224656343460083
+            },
+            {
+              "token": " opening",
+              "logprob": -5.123867988586426
+            },
+            {
+              "token": " towards",
+              "logprob": -4.851911544799805
+            },
+            {
+              "token": " our",
+              "logprob": -5.1273674964904785
+            },
+            {
+              "token": " visual",
+              "logprob": -4.940232753753662
+            },
+            {
+              "token": " system",
+              "logprob": -1.249790072441101
+            },
+            {
+              "token": " when",
+              "logprob": -4.654748916625977
+            },
+            {
+              "token": " you",
+              "logprob": -2.90236496925354
+            },
+            {
+              "token": " first",
+              "logprob": -3.310474157333374
+            },
+            {
+              "token": " opened",
+              "logprob": -2.81628680229187
+            },
+            {
+              "token": " it",
+              "logprob": -2.855107545852661
+            },
+            {
+              "token": " with",
+              "logprob": -3.8414297103881836
+            },
+            {
+              "token": " your",
+              "logprob": -0.9826314449310303
+            },
+            {
+              "token": " eyes",
+              "logprob": -0.9747463464736938
+            },
+            {
+              "token": " as",
+              "logprob": -4.673580646514893
+            },
+            {
+              "token": " wide",
+              "logprob": -2.3094892501831055
+            },
+            {
+              "token": " open",
+              "logprob": -3.155021905899048
+            },
+            {
+              "token": " as",
+              "logprob": -0.3102651536464691
+            },
+            {
+              "token": " you",
+              "logprob": -1.727569580078125
+            },
+            {
+              "token": " could",
+              "logprob": -1.2071566581726074
+            },
+            {
+              "token": " before",
+              "logprob": -4.656981945037842
+            },
+            {
+              "token": " they",
+              "logprob": -2.1346938610076904
+            },
+            {
+              "token": " shut",
+              "logprob": -3.03566837310791
+            },
+            {
+              "token": " themselves",
+              "logprob": -3.1742868423461914
+            },
+            {
+              "token": ".",
+              "logprob": -2.7963476181030273
+            },
+            {
+              "token": " To",
+              "logprob": -4.692183494567871
+            },
+            {
+              "token": " take",
+              "logprob": -5.272017002105713
+            },
+            {
+              "token": " that",
+              "logprob": -4.111130714416504
+            },
+            {
+              "token": " route",
+              "logprob": -4.045037269592285
+            },
+            {
+              "token": ",",
+              "logprob": -1.4884971380233765
+            },
+            {
+              "token": " though",
+              "logprob": -5.079809665679932
+            },
+            {
+              "token": " one",
+              "logprob": -4.287377834320068
+            },
+            {
+              "token": " way",
+              "logprob": -3.722825050354004
+            },
+            {
+              "token": " might",
+              "logprob": -4.343075752258301
+            },
+            {
+              "token": " have",
+              "logprob": -3.0071916580200195
+            },
+            {
+              "token": " been",
+              "logprob": -1.01253342628479
+            },
+            {
+              "token": " preferable",
+              "logprob": -5.082480430603027
+            },
+            {
+              "token": " to",
+              "logprob": -1.1218135356903076
+            },
+            {
+              "token": " the",
+              "logprob": -1.4773716926574707
+            },
+            {
+              "token": " other",
+              "logprob": -0.3346865773200989
+            },
+            {
+              "token": ",",
+              "logprob": -1.1855053901672363
+            },
+            {
+              "token": " but",
+              "logprob": -1.4681552648544312
+            },
+            {
+              "token": " since",
+              "logprob": -5.44932746887207
+            },
+            {
+              "token": " most",
+              "logprob": -5.376949787139893
+            },
+            {
+              "token": " people",
+              "logprob": -0.6322963237762451
+            },
+            {
+              "token": " don",
+              "logprob": -2.8623552322387695
+            },
+            {
+              "token": "'t",
+              "logprob": -0.0915035530924797
+            },
+            {
+              "token": " consider",
+              "logprob": -4.450798034667969
+            },
+            {
+              "token": " which",
+              "logprob": -4.414071083068848
+            },
+            {
+              "token": " option",
+              "logprob": -2.975628614425659
+            },
+            {
+              "token": " they",
+              "logprob": -1.217857837677002
+            },
+            {
+              "token": "'d",
+              "logprob": -2.8597097396850586
+            },
+            {
+              "token": " go",
+              "logprob": -3.3451297283172607
+            },
+            {
+              "token": " with",
+              "logprob": -0.9723846912384033
+            },
+            {
+              "token": " at",
+              "logprob": -3.926950216293335
+            },
+            {
+              "token": " a",
+              "logprob": -3.755622386932373
+            },
+            {
+              "token": " red",
+              "logprob": -3.9888229370117188
+            },
+            {
+              "token": " traffic",
+              "logprob": -3.117480516433716
+            },
+            {
+              "token": " light",
+              "logprob": -0.08384484052658081
+            },
+            {
+              "token": " approaching",
+              "logprob": -4.610415935516357
+            },
+            {
+              "token": " from",
+              "logprob": -1.769507646560669
+            },
+            {
+              "token": " behind",
+              "logprob": -0.5950515866279602
+            },
+            {
+              "token": " there",
+              "logprob": -5.1097822189331055
+            },
+            {
+              "token": "'ll",
+              "logprob": -4.2930426597595215
+            },
+            {
+              "token": " likely",
+              "logprob": -3.212637424468994
+            },
+            {
+              "token": " always",
+              "logprob": -2.1487576961517334
+            },
+            {
+              "token": " be",
+              "logprob": -0.2546815574169159
+            },
+            {
+              "token": " some",
+              "logprob": -1.6955660581588745
+            },
+            {
+              "token": " sort",
+              "logprob": -1.595030426979065
+            },
+            {
+              "token": " of",
+              "logprob": -0.09077595174312592
+            },
+            {
+              "token": " obstacle",
+              "logprob": -5.334450721740723
+            },
+            {
+              "token": " in",
+              "logprob": -2.3410937786102295
+            },
+            {
+              "token": " front",
+              "logprob": -0.8216257095336914
+            },
+            {
+              "token": " of",
+              "logprob": -0.1983562409877777
+            },
+            {
+              "token": " us",
+              "logprob": -2.6962192058563232
+            },
+            {
+              "token": " all",
+              "logprob": -2.096242904663086
+            },
+            {
+              "token": " unless",
+              "logprob": -4.692940711975098
+            },
+            {
+              "token": " someone",
+              "logprob": -3.5869979858398438
+            },
+            {
+              "token": " finds",
+              "logprob": -4.040036678314209
+            },
+            {
+              "token": " a",
+              "logprob": -1.6098005771636963
+            },
+            {
+              "token": " loophole",
+              "logprob": -4.114772319793701
+            },
+            {
+              "token": ".",
+              "logprob": -2.7701663970947266
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -4.411443710327148
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A pattern of stripes.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.239647626876831
+            },
+            {
+              "token": " pattern",
+              "logprob": -2.902832508087158
+            },
+            {
+              "token": " of",
+              "logprob": -0.6241150498390198
+            },
+            {
+              "token": " stripes",
+              "logprob": -0.5344505906105042
+            },
+            {
+              "token": ".",
+              "logprob": -0.68308025598526
+            },
+            {
+              "token": " Q",
+              "logprob": -1.2283393144607544
+            },
+            {
+              "token": ":",
+              "logprob": -0.024151522666215897
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Red and White.",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -1.9458959102630615
+            },
+            {
+              "token": " and",
+              "logprob": -0.1436828374862671
+            },
+            {
+              "token": " White",
+              "logprob": -0.9246774911880493
+            },
+            {
+              "token": ".",
+              "logprob": -0.9585731029510498
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0131057500839233
+            },
+            {
+              "token": ":",
+              "logprob": -0.027322083711624146
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "striped pattern",
+          "token_data": [
+            {
+              "token": " striped",
+              "logprob": -3.9727694988250732
+            },
+            {
+              "token": " pattern",
+              "logprob": -4.093780517578125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What pattern was on the scarf Sam found?",
+      "character": "Sam",
+      "story": "One day, Alexander and Sam went to the park. It was a cold morning, and the wind blew hard. Alexander found a striped scarf on a bench. It was red and white. He picked it up and looked around, but no one was there. \"Sam, look what I found!\" Alexander said. Sam was busy kicking a ball and did not hear him. Alexander decided to keep the scarf to stay warm. He wrapped it around his neck and felt cozy. Sam stopped playing and ran over. \"Where did you get that scarf?\" Sam asked. Alexander told him about finding it on the bench. Sam shrugged and said, \"Cool! Let's go get hot chocolate.\" They walked to a nearby shop, happy and warm. The scarf made Alexander smile. He was glad he found it. The two friends enjoyed their day together, sipping hot drinks and laughing. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Sam found it with both hands.",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -3.8614988327026367
+            },
+            {
+              "token": " found",
+              "logprob": -0.9649344682693481
+            },
+            {
+              "token": " it",
+              "logprob": -3.161436080932617
+            },
+            {
+              "token": " with",
+              "logprob": -3.510162591934204
+            },
+            {
+              "token": " both",
+              "logprob": -4.177732944488525
+            },
+            {
+              "token": " hands",
+              "logprob": -0.3416386544704437
+            },
+            {
+              "token": ".",
+              "logprob": -0.8122571706771851
+            },
+            {
+              "token": " ",
+              "logprob": -2.794708728790283
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The first time the red and white scarf appeared in the story.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.294140577316284
+            },
+            {
+              "token": " first",
+              "logprob": -3.3856892585754395
+            },
+            {
+              "token": " time",
+              "logprob": -3.316833734512329
+            },
+            {
+              "token": " the",
+              "logprob": -2.809246063232422
+            },
+            {
+              "token": " red",
+              "logprob": -4.02736234664917
+            },
+            {
+              "token": " and",
+              "logprob": -0.5323338508605957
+            },
+            {
+              "token": " white",
+              "logprob": -0.023172883316874504
+            },
+            {
+              "token": " scarf",
+              "logprob": -0.8544238209724426
+            },
+            {
+              "token": " appeared",
+              "logprob": -1.628408432006836
+            },
+            {
+              "token": " in",
+              "logprob": -2.2421374320983887
+            },
+            {
+              "token": " the",
+              "logprob": -0.5441361665725708
+            },
+            {
+              "token": " story",
+              "logprob": -0.2754964530467987
+            },
+            {
+              "token": ".",
+              "logprob": -2.6646037101745605
+            },
+            {
+              "token": " ",
+              "logprob": -2.675337314605713
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.7848994731903076
+            },
+            {
+              "token": " using",
+              "logprob": -0.3678400218486786
+            },
+            {
+              "token": " one",
+              "logprob": -0.2130107283592224
+            },
+            {
+              "token": " whole",
+              "logprob": -0.10960093140602112
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.41286033391952515
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.7931954860687256
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "a star.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.8806235790252686
+            },
+            {
+              "token": " star",
+              "logprob": -4.7424774169921875
+            },
+            {
+              "token": ".",
+              "logprob": -1.324800968170166
+            },
+            {
+              "token": " \n",
+              "logprob": -2.0631191730499268
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "What pattern is on the scarf Alexander found?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.6349246501922607
+            },
+            {
+              "token": " pattern",
+              "logprob": -0.6436070799827576
+            },
+            {
+              "token": " is",
+              "logprob": -3.1048226356506348
+            },
+            {
+              "token": " on",
+              "logprob": -0.5150259137153625
+            },
+            {
+              "token": " the",
+              "logprob": -0.1301811933517456
+            },
+            {
+              "token": " scarf",
+              "logprob": -0.3686058521270752
+            },
+            {
+              "token": " Alexander",
+              "logprob": -2.515789031982422
+            },
+            {
+              "token": " found",
+              "logprob": -0.16859816014766693
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.0928969383239746
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.1688337326049805
+            },
+            {
+              "token": ":",
+              "logprob": -0.3188123404979706
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It was striped.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.433209180831909
+            },
+            {
+              "token": " was",
+              "logprob": -0.3717290759086609
+            },
+            {
+              "token": " striped",
+              "logprob": -1.8014588356018066
+            },
+            {
+              "token": ".",
+              "logprob": -0.6143054366111755
+            },
+            {
+              "token": " Q",
+              "logprob": -1.8599848747253418
+            },
+            {
+              "token": ":",
+              "logprob": -0.025481965392827988
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "The pattern on the scarf Sam found was: black, red and white. B: Black, red and white.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.294140577316284
+            },
+            {
+              "token": " pattern",
+              "logprob": -0.7910484671592712
+            },
+            {
+              "token": " on",
+              "logprob": -0.9691603183746338
+            },
+            {
+              "token": " the",
+              "logprob": -0.051018550992012024
+            },
+            {
+              "token": " scarf",
+              "logprob": -0.06746327131986618
+            },
+            {
+              "token": " Sam",
+              "logprob": -0.9998693466186523
+            },
+            {
+              "token": " found",
+              "logprob": -0.02224772982299328
+            },
+            {
+              "token": " was",
+              "logprob": -0.1692546010017395
+            },
+            {
+              "token": ":",
+              "logprob": -3.912613868713379
+            },
+            {
+              "token": " black",
+              "logprob": -4.960923194885254
+            },
+            {
+              "token": ",",
+              "logprob": -2.1085615158081055
+            },
+            {
+              "token": " red",
+              "logprob": -1.6700139045715332
+            },
+            {
+              "token": " and",
+              "logprob": -1.9344847202301025
+            },
+            {
+              "token": " white",
+              "logprob": -0.23749999701976776
+            },
+            {
+              "token": ".",
+              "logprob": -0.5035026669502258
+            },
+            {
+              "token": " B",
+              "logprob": -4.648284912109375
+            },
+            {
+              "token": ":",
+              "logprob": -0.024572094902396202
+            },
+            {
+              "token": " Black",
+              "logprob": -3.8269526958465576
+            },
+            {
+              "token": ",",
+              "logprob": -0.3433336615562439
+            },
+            {
+              "token": " red",
+              "logprob": -0.3908388316631317
+            },
+            {
+              "token": " and",
+              "logprob": -0.12279663980007172
+            },
+            {
+              "token": " white",
+              "logprob": -0.00707797659561038
+            },
+            {
+              "token": ".",
+              "logprob": -0.35532233119010925
+            },
+            {
+              "token": " \n",
+              "logprob": -2.895374059677124
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "He was too cool.  The story is about Alexander, the main character of the story who finds a red and white scarf while he was playing in a park one cold day.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -4.527255058288574
+            },
+            {
+              "token": " was",
+              "logprob": -2.7304701805114746
+            },
+            {
+              "token": " too",
+              "logprob": -3.7031192779541016
+            },
+            {
+              "token": " cool",
+              "logprob": -3.094587564468384
+            },
+            {
+              "token": ".",
+              "logprob": -2.5196244716644287
+            },
+            {
+              "token": " ",
+              "logprob": -2.808598518371582
+            },
+            {
+              "token": " The",
+              "logprob": -4.026368618011475
+            },
+            {
+              "token": " story",
+              "logprob": -4.541529178619385
+            },
+            {
+              "token": " is",
+              "logprob": -1.706265926361084
+            },
+            {
+              "token": " about",
+              "logprob": -1.5817794799804688
+            },
+            {
+              "token": " Alexander",
+              "logprob": -2.806548595428467
+            },
+            {
+              "token": ",",
+              "logprob": -2.6992549896240234
+            },
+            {
+              "token": " the",
+              "logprob": -3.8151726722717285
+            },
+            {
+              "token": " main",
+              "logprob": -1.3258693218231201
+            },
+            {
+              "token": " character",
+              "logprob": -0.041493840515613556
+            },
+            {
+              "token": " of",
+              "logprob": -2.7058138847351074
+            },
+            {
+              "token": " the",
+              "logprob": -0.5693811774253845
+            },
+            {
+              "token": " story",
+              "logprob": -0.36313000321388245
+            },
+            {
+              "token": " who",
+              "logprob": -3.751767635345459
+            },
+            {
+              "token": " finds",
+              "logprob": -4.248356819152832
+            },
+            {
+              "token": " a",
+              "logprob": -0.32162609696388245
+            },
+            {
+              "token": " red",
+              "logprob": -2.639204263687134
+            },
+            {
+              "token": " and",
+              "logprob": -0.0636783316731453
+            },
+            {
+              "token": " white",
+              "logprob": -0.008422331884503365
+            },
+            {
+              "token": " scarf",
+              "logprob": -0.8711087703704834
+            },
+            {
+              "token": " while",
+              "logprob": -4.168804168701172
+            },
+            {
+              "token": " he",
+              "logprob": -1.8612488508224487
+            },
+            {
+              "token": " was",
+              "logprob": -1.027427077293396
+            },
+            {
+              "token": " playing",
+              "logprob": -1.5048503875732422
+            },
+            {
+              "token": " in",
+              "logprob": -1.6774860620498657
+            },
+            {
+              "token": " a",
+              "logprob": -1.9988044500350952
+            },
+            {
+              "token": " park",
+              "logprob": -0.15867756307125092
+            },
+            {
+              "token": " one",
+              "logprob": -3.96456241607666
+            },
+            {
+              "token": " cold",
+              "logprob": -2.458281993865967
+            },
+            {
+              "token": " day",
+              "logprob": -2.165313482284546
+            },
+            {
+              "token": ".",
+              "logprob": -0.2308824360370636
+            },
+            {
+              "token": " \n",
+              "logprob": -3.4949190616607666
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Which one of the following is false about a regular polygon (not a prism)? Choose the answer that fits your English sentence. The number of its vertices, not counting interior points. If one line is drawn and another, it forms 4 lines; 6 angles; and 6 corners.",
+          "token_data": [
+            {
+              "token": " Which",
+              "logprob": -4.4686431884765625
+            },
+            {
+              "token": " one",
+              "logprob": -2.951385021209717
+            },
+            {
+              "token": " of",
+              "logprob": -0.3734627068042755
+            },
+            {
+              "token": " the",
+              "logprob": -0.21872162818908691
+            },
+            {
+              "token": " following",
+              "logprob": -0.20605114102363586
+            },
+            {
+              "token": " is",
+              "logprob": -0.43330907821655273
+            },
+            {
+              "token": " false",
+              "logprob": -3.254300594329834
+            },
+            {
+              "token": " about",
+              "logprob": -1.11040461063385
+            },
+            {
+              "token": " a",
+              "logprob": -3.9770710468292236
+            },
+            {
+              "token": " regular",
+              "logprob": -5.009083271026611
+            },
+            {
+              "token": " polygon",
+              "logprob": -0.2904554009437561
+            },
+            {
+              "token": " (",
+              "logprob": -3.842860698699951
+            },
+            {
+              "token": "not",
+              "logprob": -2.863304853439331
+            },
+            {
+              "token": " a",
+              "logprob": -0.5285302996635437
+            },
+            {
+              "token": " prism",
+              "logprob": -4.464913368225098
+            },
+            {
+              "token": ")?",
+              "logprob": -0.4477870762348175
+            },
+            {
+              "token": " Choose",
+              "logprob": -5.098653793334961
+            },
+            {
+              "token": " the",
+              "logprob": -0.41494035720825195
+            },
+            {
+              "token": " answer",
+              "logprob": -2.4686243534088135
+            },
+            {
+              "token": " that",
+              "logprob": -0.5158689022064209
+            },
+            {
+              "token": " fits",
+              "logprob": -3.888861656188965
+            },
+            {
+              "token": " your",
+              "logprob": -1.8382006883621216
+            },
+            {
+              "token": " English",
+              "logprob": -4.470095634460449
+            },
+            {
+              "token": " sentence",
+              "logprob": -5.142481803894043
+            },
+            {
+              "token": ".",
+              "logprob": -0.959661602973938
+            },
+            {
+              "token": " The",
+              "logprob": -2.9978573322296143
+            },
+            {
+              "token": " number",
+              "logprob": -4.085107803344727
+            },
+            {
+              "token": " of",
+              "logprob": -0.06103270873427391
+            },
+            {
+              "token": " its",
+              "logprob": -3.508631706237793
+            },
+            {
+              "token": " vertices",
+              "logprob": -3.2247462272644043
+            },
+            {
+              "token": ",",
+              "logprob": -3.7234597206115723
+            },
+            {
+              "token": " not",
+              "logprob": -4.323480129241943
+            },
+            {
+              "token": " counting",
+              "logprob": -3.4572913646698
+            },
+            {
+              "token": " interior",
+              "logprob": -4.422512054443359
+            },
+            {
+              "token": " points",
+              "logprob": -0.8815019130706787
+            },
+            {
+              "token": ".",
+              "logprob": -2.218032121658325
+            },
+            {
+              "token": " If",
+              "logprob": -4.660593509674072
+            },
+            {
+              "token": " one",
+              "logprob": -3.3177707195281982
+            },
+            {
+              "token": " line",
+              "logprob": -4.252308368682861
+            },
+            {
+              "token": " is",
+              "logprob": -1.9307236671447754
+            },
+            {
+              "token": " drawn",
+              "logprob": -1.3878073692321777
+            },
+            {
+              "token": " and",
+              "logprob": -4.430034160614014
+            },
+            {
+              "token": " another",
+              "logprob": -4.669519901275635
+            },
+            {
+              "token": ",",
+              "logprob": -3.453207492828369
+            },
+            {
+              "token": " it",
+              "logprob": -3.006620407104492
+            },
+            {
+              "token": " forms",
+              "logprob": -3.1891708374023438
+            },
+            {
+              "token": " ",
+              "logprob": -4.237779140472412
+            },
+            {
+              "token": "4",
+              "logprob": -0.8343350887298584
+            },
+            {
+              "token": " lines",
+              "logprob": -4.231284141540527
+            },
+            {
+              "token": ";",
+              "logprob": -4.763543128967285
+            },
+            {
+              "token": " ",
+              "logprob": -1.9783334732055664
+            },
+            {
+              "token": "6",
+              "logprob": -3.850184917449951
+            },
+            {
+              "token": " angles",
+              "logprob": -2.943045139312744
+            },
+            {
+              "token": ";",
+              "logprob": -0.9894776344299316
+            },
+            {
+              "token": " and",
+              "logprob": -1.3031909465789795
+            },
+            {
+              "token": " ",
+              "logprob": -0.45253986120224
+            },
+            {
+              "token": "6",
+              "logprob": -1.9770983457565308
+            },
+            {
+              "token": " corners",
+              "logprob": -4.845994472503662
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.9732718467712402
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

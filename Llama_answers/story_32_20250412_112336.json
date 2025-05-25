@@ -1,0 +1,975 @@
+{
+  "story": "Caleb and Ella were neighbors. One sunny day, Caleb decided to paint his front door. He picked a bright blue color because it reminded him of the sky. Caleb painted a blue door while humming his favorite song. Ella walked by with her dog and waved at him. Caleb smiled and waved back. The blue door looked shiny and new when he finished. Ella continued her walk without saying anything about the door. Caleb felt proud of his work. He stepped back to admire the blue door. It made his house look cheerful. Later, Caleb sat on his porch and drank lemonade. Ella returned from her walk and went inside her house. The blue door stayed bright and happy all day. Caleb thought about painting the fence next. He liked making things look nice. Ella never mentioned the door, but Caleb didn’t mind. He was just glad to see his blue door every morning.",
+  "characters": [
+    {
+      "question": "What color was the door Caleb painted?",
+      "character": "Caleb",
+      "story": "Caleb and Ella were neighbors. One sunny day, Caleb decided to paint his front door. He picked a bright blue color because it reminded him of the sky. Caleb painted a blue door while humming his favorite song. Ella walked by with her dog and waved at him. Caleb smiled and waved back. The blue door looked shiny and new when he finished. Ella continued her walk without saying anything about the door. Caleb felt proud of his work. He stepped back to admire the blue door. It made his house look cheerful. Later, Caleb sat on his porch and drank lemonade. Ella returned from her walk and went inside her house. The blue door stayed bright and happy all day. Caleb thought about painting the fence next. He liked making things look nice. Ella never mentioned the door, but Caleb didn’t mind. He was just glad to see his blue door every morning.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "It reminded him of the sky.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.309515953063965
+            },
+            {
+              "token": " reminded",
+              "logprob": -2.4572460651397705
+            },
+            {
+              "token": " him",
+              "logprob": -0.3553648293018341
+            },
+            {
+              "token": " of",
+              "logprob": -0.020401163026690483
+            },
+            {
+              "token": " the",
+              "logprob": -0.20569755136966705
+            },
+            {
+              "token": " sky",
+              "logprob": -0.16006788611412048
+            },
+            {
+              "token": ".",
+              "logprob": -0.6607933044433594
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.4234774112701416
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The color that the door was painted was blue.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.5451536178588867
+            },
+            {
+              "token": " color",
+              "logprob": -1.7235198020935059
+            },
+            {
+              "token": " that",
+              "logprob": -2.417755126953125
+            },
+            {
+              "token": " the",
+              "logprob": -3.2804863452911377
+            },
+            {
+              "token": " door",
+              "logprob": -0.2274090051651001
+            },
+            {
+              "token": " was",
+              "logprob": -0.6073686480522156
+            },
+            {
+              "token": " painted",
+              "logprob": -0.3520127534866333
+            },
+            {
+              "token": " was",
+              "logprob": -0.2401755452156067
+            },
+            {
+              "token": " blue",
+              "logprob": -1.5264235734939575
+            },
+            {
+              "token": ".",
+              "logprob": -0.367789626121521
+            },
+            {
+              "token": " Q",
+              "logprob": -2.007812738418579
+            },
+            {
+              "token": ":",
+              "logprob": -0.02666347101330757
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "What color do you think the door should be? How will your decision impact the story?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.478945732116699
+            },
+            {
+              "token": " color",
+              "logprob": -0.3993794322013855
+            },
+            {
+              "token": " do",
+              "logprob": -3.800292491912842
+            },
+            {
+              "token": " you",
+              "logprob": -0.12398964166641235
+            },
+            {
+              "token": " think",
+              "logprob": -0.2571861743927002
+            },
+            {
+              "token": " the",
+              "logprob": -1.5647026300430298
+            },
+            {
+              "token": " door",
+              "logprob": -0.18429961800575256
+            },
+            {
+              "token": " should",
+              "logprob": -1.7686729431152344
+            },
+            {
+              "token": " be",
+              "logprob": -0.1344294250011444
+            },
+            {
+              "token": "?",
+              "logprob": -0.17458105087280273
+            },
+            {
+              "token": " How",
+              "logprob": -4.273903846740723
+            },
+            {
+              "token": " will",
+              "logprob": -4.134387969970703
+            },
+            {
+              "token": " your",
+              "logprob": -4.250186920166016
+            },
+            {
+              "token": " decision",
+              "logprob": -3.285599946975708
+            },
+            {
+              "token": " impact",
+              "logprob": -1.845216989517212
+            },
+            {
+              "token": " the",
+              "logprob": -0.7974698543548584
+            },
+            {
+              "token": " story",
+              "logprob": -0.9088875651359558
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -2.6097218990325928
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Bright blue.",
+          "token_data": [
+            {
+              "token": " Bright",
+              "logprob": -1.871958613395691
+            },
+            {
+              "token": " blue",
+              "logprob": -0.3336934447288513
+            },
+            {
+              "token": ".",
+              "logprob": -0.8557931184768677
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.2749247550964355
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The color was Blue, he painted his house blue, in memory of his friend. The blue door is a special day for the community.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.223298072814941
+            },
+            {
+              "token": " The",
+              "logprob": -2.6697845458984375
+            },
+            {
+              "token": " color",
+              "logprob": -1.4958550930023193
+            },
+            {
+              "token": " was",
+              "logprob": -1.9922809600830078
+            },
+            {
+              "token": " Blue",
+              "logprob": -3.2247838973999023
+            },
+            {
+              "token": ",",
+              "logprob": -3.039870262145996
+            },
+            {
+              "token": " he",
+              "logprob": -3.6621580123901367
+            },
+            {
+              "token": " painted",
+              "logprob": -1.9694147109985352
+            },
+            {
+              "token": " his",
+              "logprob": -2.3753554821014404
+            },
+            {
+              "token": " house",
+              "logprob": -1.9519001245498657
+            },
+            {
+              "token": " blue",
+              "logprob": -2.171046257019043
+            },
+            {
+              "token": ",",
+              "logprob": -2.841660499572754
+            },
+            {
+              "token": " in",
+              "logprob": -4.461103439331055
+            },
+            {
+              "token": " memory",
+              "logprob": -1.8754878044128418
+            },
+            {
+              "token": " of",
+              "logprob": -0.07241429388523102
+            },
+            {
+              "token": " his",
+              "logprob": -0.8881443738937378
+            },
+            {
+              "token": " friend",
+              "logprob": -2.958470582962036
+            },
+            {
+              "token": ".",
+              "logprob": -2.333865165710449
+            },
+            {
+              "token": " The",
+              "logprob": -3.7630202770233154
+            },
+            {
+              "token": " blue",
+              "logprob": -3.246391773223877
+            },
+            {
+              "token": " door",
+              "logprob": -0.7888277173042297
+            },
+            {
+              "token": " is",
+              "logprob": -3.630824565887451
+            },
+            {
+              "token": " a",
+              "logprob": -1.6580159664154053
+            },
+            {
+              "token": " special",
+              "logprob": -4.291361331939697
+            },
+            {
+              "token": " day",
+              "logprob": -3.18617844581604
+            },
+            {
+              "token": " for",
+              "logprob": -1.5430463552474976
+            },
+            {
+              "token": " the",
+              "logprob": -3.121941566467285
+            },
+            {
+              "token": " community",
+              "logprob": -3.7271108627319336
+            },
+            {
+              "token": ".",
+              "logprob": -0.7415741682052612
+            },
+            {
+              "token": " \n",
+              "logprob": -2.7618236541748047
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Caleb picked a bright blue color for the door. This color reminds him of the sky.",
+          "token_data": [
+            {
+              "token": " Caleb",
+              "logprob": -2.653557777404785
+            },
+            {
+              "token": " picked",
+              "logprob": -1.8561075925827026
+            },
+            {
+              "token": " a",
+              "logprob": -0.07885394990444183
+            },
+            {
+              "token": " bright",
+              "logprob": -0.04576113820075989
+            },
+            {
+              "token": " blue",
+              "logprob": -0.138807475566864
+            },
+            {
+              "token": " color",
+              "logprob": -0.20603977143764496
+            },
+            {
+              "token": " for",
+              "logprob": -2.6882553100585938
+            },
+            {
+              "token": " the",
+              "logprob": -0.8877134323120117
+            },
+            {
+              "token": " door",
+              "logprob": -0.1261758655309677
+            },
+            {
+              "token": ".",
+              "logprob": -0.5119966268539429
+            },
+            {
+              "token": " This",
+              "logprob": -3.098581314086914
+            },
+            {
+              "token": " color",
+              "logprob": -0.9536711573600769
+            },
+            {
+              "token": " reminds",
+              "logprob": -1.8583579063415527
+            },
+            {
+              "token": " him",
+              "logprob": -0.13801100850105286
+            },
+            {
+              "token": " of",
+              "logprob": -0.012091198936104774
+            },
+            {
+              "token": " the",
+              "logprob": -0.04586305841803551
+            },
+            {
+              "token": " sky",
+              "logprob": -0.08811546117067337
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.946115732192993
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.266690254211426
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Blue.",
+          "token_data": [
+            {
+              "token": " Blue",
+              "logprob": -2.234755516052246
+            },
+            {
+              "token": ".",
+              "logprob": -1.342504858970642
+            },
+            {
+              "token": " ",
+              "logprob": -2.525362491607666
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0088939666748047
+            },
+            {
+              "token": ":",
+              "logprob": -0.020285753533244133
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "What color was the door Caleb painted?",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.223298072814941
+            },
+            {
+              "token": " What",
+              "logprob": -2.910369873046875
+            },
+            {
+              "token": " color",
+              "logprob": -0.3076046109199524
+            },
+            {
+              "token": " was",
+              "logprob": -0.6298848986625671
+            },
+            {
+              "token": " the",
+              "logprob": -0.053152620792388916
+            },
+            {
+              "token": " door",
+              "logprob": -0.03589966148138046
+            },
+            {
+              "token": " Caleb",
+              "logprob": -0.1294110268354416
+            },
+            {
+              "token": " painted",
+              "logprob": -0.010841868817806244
+            },
+            {
+              "token": "?",
+              "logprob": -0.09922731667757034
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.587533712387085
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "It was a bright blue.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.214512825012207
+            },
+            {
+              "token": " was",
+              "logprob": -0.18977709114551544
+            },
+            {
+              "token": " a",
+              "logprob": -0.32284411787986755
+            },
+            {
+              "token": " bright",
+              "logprob": -0.08055738359689713
+            },
+            {
+              "token": " blue",
+              "logprob": -0.09021458774805069
+            },
+            {
+              "token": ".",
+              "logprob": -0.9888340830802917
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.2188663482666016
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What color was the door Ella painted?",
+      "character": "Ella",
+      "story": "Caleb and Ella were neighbors. One sunny day, Caleb decided to paint his front door. He picked a bright blue color because it reminded him of the sky. Caleb painted a blue door while humming his favorite song. Ella walked by with her dog and waved at him. Caleb smiled and waved back. The blue door looked shiny and new when he finished. Ella continued her walk without saying anything about the door. Caleb felt proud of his work. He stepped back to admire the blue door. It made his house look cheerful. Later, Caleb sat on his porch and drank lemonade. Ella returned from her walk and went inside her house. The blue door stayed bright and happy all day. Caleb thought about painting the fence next. He liked making things look nice. Ella never mentioned the door, but Caleb didn’t mind. He was just glad to see his blue door every morning.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "brown",
+          "token_data": [
+            {
+              "token": " brown",
+              "logprob": -4.742884159088135
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.285184383392334
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The door Ella painted was yellow. Caleb picked a bright blue color for the door to make it look cheery.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.3284878730773926
+            },
+            {
+              "token": " door",
+              "logprob": -0.5037732720375061
+            },
+            {
+              "token": " Ella",
+              "logprob": -0.709345281124115
+            },
+            {
+              "token": " painted",
+              "logprob": -0.03256607428193092
+            },
+            {
+              "token": " was",
+              "logprob": -0.1516459584236145
+            },
+            {
+              "token": " yellow",
+              "logprob": -3.175325393676758
+            },
+            {
+              "token": ".",
+              "logprob": -0.34599006175994873
+            },
+            {
+              "token": " Caleb",
+              "logprob": -2.675680637359619
+            },
+            {
+              "token": " picked",
+              "logprob": -3.5434751510620117
+            },
+            {
+              "token": " a",
+              "logprob": -0.2257058322429657
+            },
+            {
+              "token": " bright",
+              "logprob": -0.1356772482395172
+            },
+            {
+              "token": " blue",
+              "logprob": -0.0746033638715744
+            },
+            {
+              "token": " color",
+              "logprob": -0.14705853164196014
+            },
+            {
+              "token": " for",
+              "logprob": -2.784268617630005
+            },
+            {
+              "token": " the",
+              "logprob": -1.3239805698394775
+            },
+            {
+              "token": " door",
+              "logprob": -0.2376476675271988
+            },
+            {
+              "token": " to",
+              "logprob": -3.456608295440674
+            },
+            {
+              "token": " make",
+              "logprob": -2.4981493949890137
+            },
+            {
+              "token": " it",
+              "logprob": -2.2998642921447754
+            },
+            {
+              "token": " look",
+              "logprob": -0.824108898639679
+            },
+            {
+              "token": " che",
+              "logprob": -3.214285373687744
+            },
+            {
+              "token": "ery",
+              "logprob": -0.04483397677540779
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.8705854415893555
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.633331775665283
+            },
+            {
+              "token": ":",
+              "logprob": -0.10344523936510086
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "black",
+          "token_data": [
+            {
+              "token": " black",
+              "logprob": -5.043887615203857
+            },
+            {
+              "token": " ",
+              "logprob": -3.1770882606506348
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8412144780158997
+            },
+            {
+              "token": ":",
+              "logprob": -0.020962359383702278
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Purple",
+          "token_data": [
+            {
+              "token": " Purple",
+              "logprob": -5.023383617401123
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.545151710510254
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "None of the colors above. (This should not be a guessing game for your kids.) What color did she pick? Make sure you explain this to your kids! What is the purpose of this passage?",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.550873279571533
+            },
+            {
+              "token": " of",
+              "logprob": -2.0791983604431152
+            },
+            {
+              "token": " the",
+              "logprob": -0.3419371545314789
+            },
+            {
+              "token": " colors",
+              "logprob": -2.5674781799316406
+            },
+            {
+              "token": " above",
+              "logprob": -3.3140151500701904
+            },
+            {
+              "token": ".",
+              "logprob": -0.7292128801345825
+            },
+            {
+              "token": " (",
+              "logprob": -4.579448223114014
+            },
+            {
+              "token": "This",
+              "logprob": -3.8985838890075684
+            },
+            {
+              "token": " should",
+              "logprob": -3.363677978515625
+            },
+            {
+              "token": " not",
+              "logprob": -3.3183507919311523
+            },
+            {
+              "token": " be",
+              "logprob": -0.2586623430252075
+            },
+            {
+              "token": " a",
+              "logprob": -1.176852822303772
+            },
+            {
+              "token": " guessing",
+              "logprob": -4.146326065063477
+            },
+            {
+              "token": " game",
+              "logprob": -0.3192076086997986
+            },
+            {
+              "token": " for",
+              "logprob": -2.963214874267578
+            },
+            {
+              "token": " your",
+              "logprob": -2.159165859222412
+            },
+            {
+              "token": " kids",
+              "logprob": -1.8586411476135254
+            },
+            {
+              "token": ".)",
+              "logprob": -2.12101411819458
+            },
+            {
+              "token": " What",
+              "logprob": -4.084158420562744
+            },
+            {
+              "token": " color",
+              "logprob": -0.6718577146530151
+            },
+            {
+              "token": " did",
+              "logprob": -1.0645339488983154
+            },
+            {
+              "token": " she",
+              "logprob": -3.4208641052246094
+            },
+            {
+              "token": " pick",
+              "logprob": -1.890871524810791
+            },
+            {
+              "token": "?",
+              "logprob": -0.5091462135314941
+            },
+            {
+              "token": " Make",
+              "logprob": -5.455269813537598
+            },
+            {
+              "token": " sure",
+              "logprob": -1.7022795677185059
+            },
+            {
+              "token": " you",
+              "logprob": -1.5011556148529053
+            },
+            {
+              "token": " explain",
+              "logprob": -2.835843563079834
+            },
+            {
+              "token": " this",
+              "logprob": -2.4994876384735107
+            },
+            {
+              "token": " to",
+              "logprob": -1.6108450889587402
+            },
+            {
+              "token": " your",
+              "logprob": -0.27135542035102844
+            },
+            {
+              "token": " kids",
+              "logprob": -0.5746808648109436
+            },
+            {
+              "token": "!",
+              "logprob": -2.685661554336548
+            },
+            {
+              "token": " What",
+              "logprob": -2.6551666259765625
+            },
+            {
+              "token": " is",
+              "logprob": -2.958374261856079
+            },
+            {
+              "token": " the",
+              "logprob": -0.5435990691184998
+            },
+            {
+              "token": " purpose",
+              "logprob": -3.849379301071167
+            },
+            {
+              "token": " of",
+              "logprob": -0.09045234322547913
+            },
+            {
+              "token": " this",
+              "logprob": -0.7622807621955872
+            },
+            {
+              "token": " passage",
+              "logprob": -3.452467918395996
+            },
+            {
+              "token": "?\n",
+              "logprob": -4.145380020141602
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Ella painted it a shade of green.",
+          "token_data": [
+            {
+              "token": " Ella",
+              "logprob": -4.335391521453857
+            },
+            {
+              "token": " painted",
+              "logprob": -0.23370182514190674
+            },
+            {
+              "token": " it",
+              "logprob": -2.153149127960205
+            },
+            {
+              "token": " a",
+              "logprob": -0.8009589910507202
+            },
+            {
+              "token": " shade",
+              "logprob": -2.466806411743164
+            },
+            {
+              "token": " of",
+              "logprob": -0.01640264317393303
+            },
+            {
+              "token": " green",
+              "logprob": -2.608187675476074
+            },
+            {
+              "token": ".",
+              "logprob": -0.5891929268836975
+            },
+            {
+              "token": " Q",
+              "logprob": -1.5677605867385864
+            },
+            {
+              "token": ":",
+              "logprob": -0.019471103325486183
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Red.",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.6673951148986816
+            },
+            {
+              "token": ".",
+              "logprob": -1.2359992265701294
+            },
+            {
+              "token": " \n",
+              "logprob": -2.3541159629821777
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The color was green.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.3284878730773926
+            },
+            {
+              "token": " color",
+              "logprob": -1.89188814163208
+            },
+            {
+              "token": " was",
+              "logprob": -2.4125871658325195
+            },
+            {
+              "token": " green",
+              "logprob": -4.027472496032715
+            },
+            {
+              "token": ".",
+              "logprob": -0.5244134664535522
+            },
+            {
+              "token": " Q",
+              "logprob": -1.2118940353393555
+            },
+            {
+              "token": ":",
+              "logprob": -0.017123593017458916
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Red",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.6673951148986816
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.065916061401367
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

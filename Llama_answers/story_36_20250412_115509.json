@@ -1,0 +1,999 @@
+{
+  "story": "Lucas and Jordan were best friends. One summer, they decided to go on a trip together. Lucas packed a large suitcase with clothes, snacks, and his favorite book. Jordan brought a small backpack with just a few things. \"Why do you need so much stuff?\" Jordan asked. Lucas laughed and said, \"I like to be prepared!\" They took a bus to the beach. The sun was bright, and the water was blue. They built a big sandcastle and ate ice cream. Jordan found a shiny shell and gave it to Lucas. \"For your collection,\" Jordan said. Lucas smiled and put it in his pocket. At night, they told stories by the campfire. Lucas told a funny story about a talking dog. Jordan told a spooky story about a ghost. They laughed and had a great time. The next day, they went home. Lucas was happy he brought his big suitcase because he had everything he needed. Jordan was happy too, even with just a small backpack. They both agreed it was the best trip ever.",
+  "characters": [
+    {
+      "question": "What size was the suitcase Lucas packed?",
+      "character": "Lucas",
+      "story": "Lucas and Jordan were best friends. One summer, they decided to go on a trip together. Lucas packed a large suitcase with clothes, snacks, and his favorite book. Jordan brought a small backpack with just a few things. \"Why do you need so much stuff?\" Jordan asked. Lucas laughed and said, \"I like to be prepared!\" They took a bus to the beach. The sun was bright, and the water was blue. They built a big sandcastle and ate ice cream. Jordan found a shiny shell and gave it to Lucas. \"For your collection,\" Jordan said. Lucas smiled and put it in his pocket. At night, they told stories by the campfire. Lucas told a funny story about a talking dog. Jordan told a spooky story about a ghost. They laughed and had a great time. The next day, they went home. Lucas was happy he brought his big suitcase because he had everything he needed. Jordan was happy too, even with just a small backpack. They both agreed it was the best trip ever.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "None",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -4.054544925689697
+            },
+            {
+              "token": " Q",
+              "logprob": -2.5999670028686523
+            },
+            {
+              "token": ":",
+              "logprob": -0.03405660390853882
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Answer: One big suitcase",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.540018081665039
+            },
+            {
+              "token": ":",
+              "logprob": -2.5096113681793213
+            },
+            {
+              "token": " One",
+              "logprob": -3.4127535820007324
+            },
+            {
+              "token": " big",
+              "logprob": -3.217648983001709
+            },
+            {
+              "token": " suitcase",
+              "logprob": -0.2779112458229065
+            },
+            {
+              "token": "\n",
+              "logprob": -3.5663001537323
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A large suitcase.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.9231557846069336
+            },
+            {
+              "token": " large",
+              "logprob": -1.3678622245788574
+            },
+            {
+              "token": " suitcase",
+              "logprob": -0.22288763523101807
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.9707930088043213
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "He brought a large suitcase! He packed it with clothes, snacks, and a favorite book. It was quite an achievement!",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -4.770296096801758
+            },
+            {
+              "token": " brought",
+              "logprob": -1.5663108825683594
+            },
+            {
+              "token": " a",
+              "logprob": -0.3729313313961029
+            },
+            {
+              "token": " large",
+              "logprob": -0.7890231609344482
+            },
+            {
+              "token": " suitcase",
+              "logprob": -0.13595762848854065
+            },
+            {
+              "token": "!",
+              "logprob": -3.7661678791046143
+            },
+            {
+              "token": " He",
+              "logprob": -3.053457021713257
+            },
+            {
+              "token": " packed",
+              "logprob": -1.5225690603256226
+            },
+            {
+              "token": " it",
+              "logprob": -1.0285475254058838
+            },
+            {
+              "token": " with",
+              "logprob": -0.35013559460639954
+            },
+            {
+              "token": " clothes",
+              "logprob": -0.5646136999130249
+            },
+            {
+              "token": ",",
+              "logprob": -0.08100886642932892
+            },
+            {
+              "token": " snacks",
+              "logprob": -0.03180790692567825
+            },
+            {
+              "token": ",",
+              "logprob": -0.09985031187534332
+            },
+            {
+              "token": " and",
+              "logprob": -0.039899252355098724
+            },
+            {
+              "token": " a",
+              "logprob": -2.1903505325317383
+            },
+            {
+              "token": " favorite",
+              "logprob": -1.0210156440734863
+            },
+            {
+              "token": " book",
+              "logprob": -0.011438739486038685
+            },
+            {
+              "token": ".",
+              "logprob": -0.34288135170936584
+            },
+            {
+              "token": " It",
+              "logprob": -3.295670986175537
+            },
+            {
+              "token": " was",
+              "logprob": -0.33695685863494873
+            },
+            {
+              "token": " quite",
+              "logprob": -4.753363609313965
+            },
+            {
+              "token": " an",
+              "logprob": -3.396233320236206
+            },
+            {
+              "token": " achievement",
+              "logprob": -3.360149621963501
+            },
+            {
+              "token": "!",
+              "logprob": -1.254962682723999
+            },
+            {
+              "token": " \n",
+              "logprob": -2.964034080505371
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "About 2 Cubic Feet (CMF) .",
+          "token_data": [
+            {
+              "token": " About",
+              "logprob": -3.8139915466308594
+            },
+            {
+              "token": " ",
+              "logprob": -1.885974407196045
+            },
+            {
+              "token": "2",
+              "logprob": -1.7288219928741455
+            },
+            {
+              "token": " Cub",
+              "logprob": -3.7599918842315674
+            },
+            {
+              "token": "ic",
+              "logprob": -0.12862235307693481
+            },
+            {
+              "token": " Feet",
+              "logprob": -0.863395094871521
+            },
+            {
+              "token": " (",
+              "logprob": -2.1113529205322266
+            },
+            {
+              "token": "CM",
+              "logprob": -5.092158794403076
+            },
+            {
+              "token": "F",
+              "logprob": -3.2929534912109375
+            },
+            {
+              "token": ")",
+              "logprob": -0.5019196271896362
+            },
+            {
+              "token": " ",
+              "logprob": -2.5636258125305176
+            },
+            {
+              "token": ".\n\n\n",
+              "logprob": -3.276309013366699
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "medium",
+          "token_data": [
+            {
+              "token": " medium",
+              "logprob": -4.687231063842773
+            },
+            {
+              "token": " \n",
+              "logprob": -3.248075485229492
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "big B: huge C: tiny",
+          "token_data": [
+            {
+              "token": " big",
+              "logprob": -4.807043075561523
+            },
+            {
+              "token": " B",
+              "logprob": -3.056730270385742
+            },
+            {
+              "token": ":",
+              "logprob": -0.03285139426589012
+            },
+            {
+              "token": " huge",
+              "logprob": -3.7249159812927246
+            },
+            {
+              "token": " C",
+              "logprob": -0.4981284737586975
+            },
+            {
+              "token": ":",
+              "logprob": -0.01694522239267826
+            },
+            {
+              "token": " tiny",
+              "logprob": -2.1005444526672363
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.0571939945220947
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Small",
+          "token_data": [
+            {
+              "token": " Small",
+              "logprob": -3.0798349380493164
+            },
+            {
+              "token": "\n",
+              "logprob": -2.5056064128875732
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "A small size.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.9231557846069336
+            },
+            {
+              "token": " small",
+              "logprob": -2.535003185272217
+            },
+            {
+              "token": " size",
+              "logprob": -3.340200185775757
+            },
+            {
+              "token": ".",
+              "logprob": -0.8733885288238525
+            },
+            {
+              "token": " ",
+              "logprob": -2.6149163246154785
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "One.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -3.9047164916992188
+            },
+            {
+              "token": ".",
+              "logprob": -3.094564437866211
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.8978137969970703
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What size was the suitcase Jordan packed?",
+      "character": "Jordan",
+      "story": "Lucas and Jordan were best friends. One summer, they decided to go on a trip together. Lucas packed a large suitcase with clothes, snacks, and his favorite book. Jordan brought a small backpack with just a few things. \"Why do you need so much stuff?\" Jordan asked. Lucas laughed and said, \"I like to be prepared!\" They took a bus to the beach. The sun was bright, and the water was blue. They built a big sandcastle and ate ice cream. Jordan found a shiny shell and gave it to Lucas. \"For your collection,\" Jordan said. Lucas smiled and put it in his pocket. At night, they told stories by the campfire. Lucas told a funny story about a talking dog. Jordan told a spooky story about a ghost. They laughed and had a great time. The next day, they went home. Lucas was happy he brought his big suitcase because he had everything he needed. Jordan was happy too, even with just a small backpack. They both agreed it was the best trip ever.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "One large suitcase.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -3.635979652404785
+            },
+            {
+              "token": " large",
+              "logprob": -2.88407564163208
+            },
+            {
+              "token": " suitcase",
+              "logprob": -0.22980079054832458
+            },
+            {
+              "token": ".",
+              "logprob": -1.2160828113555908
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.4661240577697754
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "None.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -4.295042991638184
+            },
+            {
+              "token": ".",
+              "logprob": -1.308348536491394
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8385674357414246
+            },
+            {
+              "token": ":",
+              "logprob": -0.015057237818837166
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "One large suitcase and one small bag",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -3.632704734802246
+            },
+            {
+              "token": " large",
+              "logprob": -2.8868205547332764
+            },
+            {
+              "token": " suitcase",
+              "logprob": -0.22825133800506592
+            },
+            {
+              "token": " and",
+              "logprob": -1.1751269102096558
+            },
+            {
+              "token": " one",
+              "logprob": -0.31254303455352783
+            },
+            {
+              "token": " small",
+              "logprob": -0.15260399878025055
+            },
+            {
+              "token": " bag",
+              "logprob": -2.5638461112976074
+            },
+            {
+              "token": " Q",
+              "logprob": -2.8602547645568848
+            },
+            {
+              "token": ":",
+              "logprob": -0.02484063245356083
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.826663017272949
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "What size suitcase did Jordan pack? Small or Large?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.1980695724487305
+            },
+            {
+              "token": " size",
+              "logprob": -0.19142703711986542
+            },
+            {
+              "token": " suitcase",
+              "logprob": -3.033975124359131
+            },
+            {
+              "token": " did",
+              "logprob": -0.31613555550575256
+            },
+            {
+              "token": " Jordan",
+              "logprob": -0.20134608447551727
+            },
+            {
+              "token": " pack",
+              "logprob": -0.39274731278419495
+            },
+            {
+              "token": "?",
+              "logprob": -0.24960294365882874
+            },
+            {
+              "token": " Small",
+              "logprob": -4.07828426361084
+            },
+            {
+              "token": " or",
+              "logprob": -3.950706958770752
+            },
+            {
+              "token": " Large",
+              "logprob": -1.456035852432251
+            },
+            {
+              "token": "?\n",
+              "logprob": -3.2220234870910645
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "What size was the backpack Lucas brought?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.1980695724487305
+            },
+            {
+              "token": " size",
+              "logprob": -0.19142703711986542
+            },
+            {
+              "token": " was",
+              "logprob": -0.4495272636413574
+            },
+            {
+              "token": " the",
+              "logprob": -0.0993148609995842
+            },
+            {
+              "token": " backpack",
+              "logprob": -2.610973596572876
+            },
+            {
+              "token": " Lucas",
+              "logprob": -2.4472570419311523
+            },
+            {
+              "token": " brought",
+              "logprob": -2.44254732131958
+            },
+            {
+              "token": "?",
+              "logprob": -0.17002113163471222
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.9381957054138184
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A small backpack was perfect!",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.4735878705978394
+            },
+            {
+              "token": " small",
+              "logprob": -0.6424717307090759
+            },
+            {
+              "token": " backpack",
+              "logprob": -0.6810742020606995
+            },
+            {
+              "token": " was",
+              "logprob": -3.4898111820220947
+            },
+            {
+              "token": " perfect",
+              "logprob": -3.904137134552002
+            },
+            {
+              "token": "!",
+              "logprob": -2.950104236602783
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.4247701168060303
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "The small size was 10 feet tall, 4 inches in diameter and a width of only one inch.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.3940019607543945
+            },
+            {
+              "token": " small",
+              "logprob": -2.8721065521240234
+            },
+            {
+              "token": " size",
+              "logprob": -1.2246595621109009
+            },
+            {
+              "token": " was",
+              "logprob": -1.9781843423843384
+            },
+            {
+              "token": " ",
+              "logprob": -3.1163079738616943
+            },
+            {
+              "token": "10",
+              "logprob": -3.123480796813965
+            },
+            {
+              "token": " feet",
+              "logprob": -3.9776463508605957
+            },
+            {
+              "token": " tall",
+              "logprob": -3.337524652481079
+            },
+            {
+              "token": ",",
+              "logprob": -1.5099406242370605
+            },
+            {
+              "token": " ",
+              "logprob": -0.187425896525383
+            },
+            {
+              "token": "4",
+              "logprob": -3.0460782051086426
+            },
+            {
+              "token": " inches",
+              "logprob": -1.9398870468139648
+            },
+            {
+              "token": " in",
+              "logprob": -3.3345303535461426
+            },
+            {
+              "token": " diameter",
+              "logprob": -1.1615710258483887
+            },
+            {
+              "token": " and",
+              "logprob": -2.5794677734375
+            },
+            {
+              "token": " a",
+              "logprob": -3.2785260677337646
+            },
+            {
+              "token": " width",
+              "logprob": -4.095920562744141
+            },
+            {
+              "token": " of",
+              "logprob": -0.07818487286567688
+            },
+            {
+              "token": " only",
+              "logprob": -4.255442142486572
+            },
+            {
+              "token": " one",
+              "logprob": -4.13723087310791
+            },
+            {
+              "token": " inch",
+              "logprob": -0.43581274151802063
+            },
+            {
+              "token": ".",
+              "logprob": -0.3851035535335541
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "One of the things he packed was the shiny shell that he got. That’s not bad, but it doesn't count much, even when you do so many other things you should. We want to see if the one was because the one was too big to put all their stories together and what it is a few, or maybe even a few.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -3.632704734802246
+            },
+            {
+              "token": " of",
+              "logprob": -3.3280189037323
+            },
+            {
+              "token": " the",
+              "logprob": -0.47594815492630005
+            },
+            {
+              "token": " things",
+              "logprob": -4.111069202423096
+            },
+            {
+              "token": " he",
+              "logprob": -2.794189929962158
+            },
+            {
+              "token": " packed",
+              "logprob": -0.3132813274860382
+            },
+            {
+              "token": " was",
+              "logprob": -0.48885056376457214
+            },
+            {
+              "token": " the",
+              "logprob": -2.04659366607666
+            },
+            {
+              "token": " shiny",
+              "logprob": -4.0537495613098145
+            },
+            {
+              "token": " shell",
+              "logprob": -0.07903669774532318
+            },
+            {
+              "token": " that",
+              "logprob": -2.7978177070617676
+            },
+            {
+              "token": " he",
+              "logprob": -0.4215169847011566
+            },
+            {
+              "token": " got",
+              "logprob": -2.6780242919921875
+            },
+            {
+              "token": ".",
+              "logprob": -2.281247138977051
+            },
+            {
+              "token": " That",
+              "logprob": -4.304332733154297
+            },
+            {
+              "token": "’s",
+              "logprob": -4.283601760864258
+            },
+            {
+              "token": " not",
+              "logprob": -3.3888964653015137
+            },
+            {
+              "token": " bad",
+              "logprob": -4.137748718261719
+            },
+            {
+              "token": ",",
+              "logprob": -1.3361903429031372
+            },
+            {
+              "token": " but",
+              "logprob": -0.6914129257202148
+            },
+            {
+              "token": " it",
+              "logprob": -1.1111787557601929
+            },
+            {
+              "token": " doesn",
+              "logprob": -3.8342361450195312
+            },
+            {
+              "token": "'t",
+              "logprob": -2.6148884296417236
+            },
+            {
+              "token": " count",
+              "logprob": -3.431062698364258
+            },
+            {
+              "token": " much",
+              "logprob": -4.200238227844238
+            },
+            {
+              "token": ",",
+              "logprob": -3.418774366378784
+            },
+            {
+              "token": " even",
+              "logprob": -4.159526348114014
+            },
+            {
+              "token": " when",
+              "logprob": -2.552786111831665
+            },
+            {
+              "token": " you",
+              "logprob": -1.0377193689346313
+            },
+            {
+              "token": " do",
+              "logprob": -4.806797981262207
+            },
+            {
+              "token": " so",
+              "logprob": -5.061561107635498
+            },
+            {
+              "token": " many",
+              "logprob": -1.5867879390716553
+            },
+            {
+              "token": " other",
+              "logprob": -3.1587142944335938
+            },
+            {
+              "token": " things",
+              "logprob": -0.3051411807537079
+            },
+            {
+              "token": " you",
+              "logprob": -2.890089988708496
+            },
+            {
+              "token": " should",
+              "logprob": -3.7191734313964844
+            },
+            {
+              "token": ".",
+              "logprob": -3.624905586242676
+            },
+            {
+              "token": " We",
+              "logprob": -4.185024261474609
+            },
+            {
+              "token": " want",
+              "logprob": -5.153494834899902
+            },
+            {
+              "token": " to",
+              "logprob": -0.5663251876831055
+            },
+            {
+              "token": " see",
+              "logprob": -3.9097542762756348
+            },
+            {
+              "token": " if",
+              "logprob": -2.0649924278259277
+            },
+            {
+              "token": " the",
+              "logprob": -3.193232774734497
+            },
+            {
+              "token": " one",
+              "logprob": -4.964964866638184
+            },
+            {
+              "token": " was",
+              "logprob": -3.757948398590088
+            },
+            {
+              "token": " because",
+              "logprob": -5.4699931144714355
+            },
+            {
+              "token": " the",
+              "logprob": -2.7532644271850586
+            },
+            {
+              "token": " one",
+              "logprob": -1.4249718189239502
+            },
+            {
+              "token": " was",
+              "logprob": -0.5776237845420837
+            },
+            {
+              "token": " too",
+              "logprob": -5.10783052444458
+            },
+            {
+              "token": " big",
+              "logprob": -1.2375794649124146
+            },
+            {
+              "token": " to",
+              "logprob": -2.3983519077301025
+            },
+            {
+              "token": " put",
+              "logprob": -3.925346612930298
+            },
+            {
+              "token": " all",
+              "logprob": -4.193647861480713
+            },
+            {
+              "token": " their",
+              "logprob": -4.248737335205078
+            },
+            {
+              "token": " stories",
+              "logprob": -4.697330951690674
+            },
+            {
+              "token": " together",
+              "logprob": -2.918447494506836
+            },
+            {
+              "token": " and",
+              "logprob": -3.340785026550293
+            },
+            {
+              "token": " what",
+              "logprob": -4.619746208190918
+            },
+            {
+              "token": " it",
+              "logprob": -3.2439045906066895
+            },
+            {
+              "token": " is",
+              "logprob": -1.8679707050323486
+            },
+            {
+              "token": " a",
+              "logprob": -2.6097683906555176
+            },
+            {
+              "token": " few",
+              "logprob": -3.317539930343628
+            },
+            {
+              "token": ",",
+              "logprob": -3.606144428253174
+            },
+            {
+              "token": " or",
+              "logprob": -3.894239902496338
+            },
+            {
+              "token": " maybe",
+              "logprob": -3.9601285457611084
+            },
+            {
+              "token": " even",
+              "logprob": -0.9018983840942383
+            },
+            {
+              "token": " a",
+              "logprob": -1.7841172218322754
+            },
+            {
+              "token": " few",
+              "logprob": -0.6692126393318176
+            },
+            {
+              "token": ".",
+              "logprob": -2.2429871559143066
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -4.831624507904053
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "small (smaller)",
+          "token_data": [
+            {
+              "token": " small",
+              "logprob": -3.4733285903930664
+            },
+            {
+              "token": " (",
+              "logprob": -4.370489120483398
+            },
+            {
+              "token": "small",
+              "logprob": -3.0283219814300537
+            },
+            {
+              "token": "er",
+              "logprob": -3.3931479454040527
+            },
+            {
+              "token": ")\n\n",
+              "logprob": -3.5375492572784424
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "story": "Chloe and Jamie were best friends. One sunny day, they decided to go to the park. Chloe carries a white bag with her snacks and a book. Jamie brought a ball to play with. They walked together, laughing and talking. At the park, Chloe sat on a bench and took out her book. Jamie kicked the ball around. After a while, Chloe shared her snacks with Jamie. They ate and watched the clouds. Jamie pointed at a cloud that looked like a dog. Chloe laughed and said it looked more like a cat. They stayed until the sun started to go down. Then they packed their things and walked home. Chloe still carried her white bag, now empty. Jamie carried the ball under his arm. They promised to meet again tomorrow. It was a perfect day with simple joys.",
+  "characters": [
+    {
+      "question": "What color is Chloe's bag?",
+      "character": "Chloe",
+      "story": "Chloe and Jamie were best friends. One sunny day, they decided to go to the park. Chloe carries a white bag with her snacks and a book. Jamie brought a ball to play with. They walked together, laughing and talking. At the park, Chloe sat on a bench and took out her book. Jamie kicked the ball around. After a while, Chloe shared her snacks with Jamie. They ate and watched the clouds. Jamie pointed at a cloud that looked like a dog. Chloe laughed and said it looked more like a cat. They stayed until the sun started to go down. Then they packed their things and walked home. Chloe still carried her white bag, now empty. Jamie carried the ball under his arm. They promised to meet again tomorrow. It was a perfect day with simple joys.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The bag was white.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.3695950508117676
+            },
+            {
+              "token": " bag",
+              "logprob": -0.4125068187713623
+            },
+            {
+              "token": " was",
+              "logprob": -1.918197751045227
+            },
+            {
+              "token": " white",
+              "logprob": -0.27051863074302673
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.6650774478912354
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The answer for this question is a brown bag.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.335801362991333
+            },
+            {
+              "token": " answer",
+              "logprob": -3.277151107788086
+            },
+            {
+              "token": " for",
+              "logprob": -3.5176966190338135
+            },
+            {
+              "token": " this",
+              "logprob": -0.4615395665168762
+            },
+            {
+              "token": " question",
+              "logprob": -0.24543848633766174
+            },
+            {
+              "token": " is",
+              "logprob": -0.34933391213417053
+            },
+            {
+              "token": " a",
+              "logprob": -2.287902355194092
+            },
+            {
+              "token": " brown",
+              "logprob": -5.2489752769470215
+            },
+            {
+              "token": " bag",
+              "logprob": -0.3156379759311676
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.020564556121826
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Chloe carries a white bag with her snacks and a book. B: None",
+          "token_data": [
+            {
+              "token": " Chloe",
+              "logprob": -3.1941540241241455
+            },
+            {
+              "token": " carries",
+              "logprob": -2.03830885887146
+            },
+            {
+              "token": " a",
+              "logprob": -0.07292775809764862
+            },
+            {
+              "token": " white",
+              "logprob": -0.08889801055192947
+            },
+            {
+              "token": " bag",
+              "logprob": -0.027594059705734253
+            },
+            {
+              "token": " with",
+              "logprob": -1.1119163036346436
+            },
+            {
+              "token": " her",
+              "logprob": -0.014442197978496552
+            },
+            {
+              "token": " snacks",
+              "logprob": -0.029357949271798134
+            },
+            {
+              "token": " and",
+              "logprob": -0.06146294251084328
+            },
+            {
+              "token": " a",
+              "logprob": -0.012148435227572918
+            },
+            {
+              "token": " book",
+              "logprob": -0.016880402341485023
+            },
+            {
+              "token": ".",
+              "logprob": -0.24885249137878418
+            },
+            {
+              "token": " B",
+              "logprob": -3.4632678031921387
+            },
+            {
+              "token": ":",
+              "logprob": -0.03889153525233269
+            },
+            {
+              "token": " None",
+              "logprob": -4.141929626464844
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.422663688659668
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Red.",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -3.6586010456085205
+            },
+            {
+              "token": ".",
+              "logprob": -1.2755154371261597
+            },
+            {
+              "token": " \n",
+              "logprob": -1.959787130355835
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "White",
+          "token_data": [
+            {
+              "token": " White",
+              "logprob": -1.0994064807891846
+            },
+            {
+              "token": " Q",
+              "logprob": -1.5554592609405518
+            },
+            {
+              "token": ":",
+              "logprob": -0.01727861724793911
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "None",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.918036699295044
+            },
+            {
+              "token": "\n",
+              "logprob": -3.1012465953826904
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "White B: Grey C: Red",
+          "token_data": [
+            {
+              "token": " White",
+              "logprob": -1.0994064807891846
+            },
+            {
+              "token": " B",
+              "logprob": -3.731546640396118
+            },
+            {
+              "token": ":",
+              "logprob": -0.013005079701542854
+            },
+            {
+              "token": " Grey",
+              "logprob": -4.009982109069824
+            },
+            {
+              "token": " C",
+              "logprob": -0.1058398112654686
+            },
+            {
+              "token": ":",
+              "logprob": -0.005880081560462713
+            },
+            {
+              "token": " Red",
+              "logprob": -2.247076988220215
+            },
+            {
+              "token": " \n",
+              "logprob": -3.495546817779541
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Chloe's bag is white.",
+          "token_data": [
+            {
+              "token": " Chloe",
+              "logprob": -3.1941540241241455
+            },
+            {
+              "token": "'s",
+              "logprob": -0.48473525047302246
+            },
+            {
+              "token": " bag",
+              "logprob": -0.045272599905729294
+            },
+            {
+              "token": " is",
+              "logprob": -0.08384967595338821
+            },
+            {
+              "token": " white",
+              "logprob": -0.2780827581882477
+            },
+            {
+              "token": ".",
+              "logprob": -0.3253883123397827
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9479355812072754
+            },
+            {
+              "token": ":",
+              "logprob": -0.018010292202234268
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "A: Chloe's bag is white.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.522191286087036
+            },
+            {
+              "token": ":",
+              "logprob": -1.750426173210144
+            },
+            {
+              "token": " Chloe",
+              "logprob": -1.4334877729415894
+            },
+            {
+              "token": "'s",
+              "logprob": -0.7031244039535522
+            },
+            {
+              "token": " bag",
+              "logprob": -0.04209144786000252
+            },
+            {
+              "token": " is",
+              "logprob": -0.0525655522942543
+            },
+            {
+              "token": " white",
+              "logprob": -0.289936900138855
+            },
+            {
+              "token": ".",
+              "logprob": -0.38294053077697754
+            },
+            {
+              "token": " \n",
+              "logprob": -1.9194457530975342
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Chloe carried a white bag.",
+          "token_data": [
+            {
+              "token": " Chloe",
+              "logprob": -3.1941540241241455
+            },
+            {
+              "token": " carried",
+              "logprob": -2.661262273788452
+            },
+            {
+              "token": " a",
+              "logprob": -0.15287554264068604
+            },
+            {
+              "token": " white",
+              "logprob": -0.08473403006792068
+            },
+            {
+              "token": " bag",
+              "logprob": -0.026086771860718727
+            },
+            {
+              "token": ".",
+              "logprob": -0.729491114616394
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.480839490890503
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What color is Jamie's bag?",
+      "character": "Jamie",
+      "story": "Chloe and Jamie were best friends. One sunny day, they decided to go to the park. Chloe carries a white bag with her snacks and a book. Jamie brought a ball to play with. They walked together, laughing and talking. At the park, Chloe sat on a bench and took out her book. Jamie kicked the ball around. After a while, Chloe shared her snacks with Jamie. They ate and watched the clouds. Jamie pointed at a cloud that looked like a dog. Chloe laughed and said it looked more like a cat. They stayed until the sun started to go down. Then they packed their things and walked home. Chloe still carried her white bag, now empty. Jamie carried the ball under his arm. They promised to meet again tomorrow. It was a perfect day with simple joys.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Blue",
+          "token_data": [
+            {
+              "token": " Blue",
+              "logprob": -2.997746229171753
+            },
+            {
+              "token": " Q",
+              "logprob": -1.5309514999389648
+            },
+            {
+              "token": ":",
+              "logprob": -0.014197766780853271
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "What color is Jamie's bag? .",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.903787612915039
+            },
+            {
+              "token": " color",
+              "logprob": -0.07024864107370377
+            },
+            {
+              "token": " is",
+              "logprob": -0.24096493422985077
+            },
+            {
+              "token": " Jamie",
+              "logprob": -0.11276941746473312
+            },
+            {
+              "token": "'s",
+              "logprob": -0.03361153230071068
+            },
+            {
+              "token": " bag",
+              "logprob": -0.10378453880548477
+            },
+            {
+              "token": "?",
+              "logprob": -0.23179656267166138
+            },
+            {
+              "token": " ",
+              "logprob": -3.4040298461914062
+            },
+            {
+              "token": ".\n\n\n",
+              "logprob": -4.245946884155273
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The ball was purple, Chloe's book was blue, the dog looked like a cat. When it rained they laughed.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.626768112182617
+            },
+            {
+              "token": " ball",
+              "logprob": -2.1042287349700928
+            },
+            {
+              "token": " was",
+              "logprob": -2.718074321746826
+            },
+            {
+              "token": " purple",
+              "logprob": -3.610445022583008
+            },
+            {
+              "token": ",",
+              "logprob": -2.9149086475372314
+            },
+            {
+              "token": " Chloe",
+              "logprob": -3.4831392765045166
+            },
+            {
+              "token": "'s",
+              "logprob": -2.6404595375061035
+            },
+            {
+              "token": " book",
+              "logprob": -2.1736438274383545
+            },
+            {
+              "token": " was",
+              "logprob": -0.15509118139743805
+            },
+            {
+              "token": " blue",
+              "logprob": -1.5635240077972412
+            },
+            {
+              "token": ",",
+              "logprob": -0.582459568977356
+            },
+            {
+              "token": " the",
+              "logprob": -2.795535087585449
+            },
+            {
+              "token": " dog",
+              "logprob": -4.17772102355957
+            },
+            {
+              "token": " looked",
+              "logprob": -1.3124576807022095
+            },
+            {
+              "token": " like",
+              "logprob": -0.44667285680770874
+            },
+            {
+              "token": " a",
+              "logprob": -0.0914401188492775
+            },
+            {
+              "token": " cat",
+              "logprob": -0.18406927585601807
+            },
+            {
+              "token": ".",
+              "logprob": -1.228071928024292
+            },
+            {
+              "token": " When",
+              "logprob": -4.334639072418213
+            },
+            {
+              "token": " it",
+              "logprob": -2.8856682777404785
+            },
+            {
+              "token": " r",
+              "logprob": -3.5490970611572266
+            },
+            {
+              "token": "ained",
+              "logprob": -0.007705132942646742
+            },
+            {
+              "token": " they",
+              "logprob": -3.6867763996124268
+            },
+            {
+              "token": " laughed",
+              "logprob": -5.0229692459106445
+            },
+            {
+              "token": ".",
+              "logprob": -1.4537962675094604
+            },
+            {
+              "token": " \n",
+              "logprob": -2.9268739223480225
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "A. Brown",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.377324104309082
+            },
+            {
+              "token": ".",
+              "logprob": -2.299018383026123
+            },
+            {
+              "token": " Brown",
+              "logprob": -3.6578588485717773
+            },
+            {
+              "token": " Q",
+              "logprob": -1.4327545166015625
+            },
+            {
+              "token": ":",
+              "logprob": -0.021603500470519066
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "What color is Jamie's bag?",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.135047912597656
+            },
+            {
+              "token": " What",
+              "logprob": -4.316778182983398
+            },
+            {
+              "token": " color",
+              "logprob": -0.0645480677485466
+            },
+            {
+              "token": " is",
+              "logprob": -0.1553218513727188
+            },
+            {
+              "token": " Jamie",
+              "logprob": -0.04786860570311546
+            },
+            {
+              "token": "'s",
+              "logprob": -0.028972279280424118
+            },
+            {
+              "token": " bag",
+              "logprob": -0.06717349588871002
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -2.4493017196655273
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "White",
+          "token_data": [
+            {
+              "token": " White",
+              "logprob": -1.5916730165481567
+            },
+            {
+              "token": " Q",
+              "logprob": -1.419048547744751
+            },
+            {
+              "token": ":",
+              "logprob": -0.017028316855430603
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Jamie brought a ball to play with. They stayed until the sun started to go down. Then they packed their things and walked home.",
+          "token_data": [
+            {
+              "token": " Jamie",
+              "logprob": -3.519057273864746
+            },
+            {
+              "token": " brought",
+              "logprob": -2.3530733585357666
+            },
+            {
+              "token": " a",
+              "logprob": -0.1469302922487259
+            },
+            {
+              "token": " ball",
+              "logprob": -1.0720009803771973
+            },
+            {
+              "token": " to",
+              "logprob": -0.7920562028884888
+            },
+            {
+              "token": " play",
+              "logprob": -0.08015432208776474
+            },
+            {
+              "token": " with",
+              "logprob": -0.11957719177007675
+            },
+            {
+              "token": ".",
+              "logprob": -0.5705517530441284
+            },
+            {
+              "token": " They",
+              "logprob": -1.9872348308563232
+            },
+            {
+              "token": " stayed",
+              "logprob": -2.398250102996826
+            },
+            {
+              "token": " until",
+              "logprob": -0.016693077981472015
+            },
+            {
+              "token": " the",
+              "logprob": -0.008330241777002811
+            },
+            {
+              "token": " sun",
+              "logprob": -0.013661222532391548
+            },
+            {
+              "token": " started",
+              "logprob": -0.047215770930051804
+            },
+            {
+              "token": " to",
+              "logprob": -0.005694476421922445
+            },
+            {
+              "token": " go",
+              "logprob": -0.00854490790516138
+            },
+            {
+              "token": " down",
+              "logprob": -0.009648829698562622
+            },
+            {
+              "token": ".",
+              "logprob": -0.056232351809740067
+            },
+            {
+              "token": " Then",
+              "logprob": -0.3607231676578522
+            },
+            {
+              "token": " they",
+              "logprob": -0.021027609705924988
+            },
+            {
+              "token": " packed",
+              "logprob": -0.019913863390684128
+            },
+            {
+              "token": " their",
+              "logprob": -0.051455263048410416
+            },
+            {
+              "token": " things",
+              "logprob": -0.011234243400394917
+            },
+            {
+              "token": " and",
+              "logprob": -0.04351946339011192
+            },
+            {
+              "token": " walked",
+              "logprob": -0.03302948921918869
+            },
+            {
+              "token": " home",
+              "logprob": -0.01510127354413271
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.093212842941284
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "White.",
+          "token_data": [
+            {
+              "token": " White",
+              "logprob": -1.5916730165481567
+            },
+            {
+              "token": ".",
+              "logprob": -1.6434423923492432
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0164159536361694
+            },
+            {
+              "token": ":",
+              "logprob": -0.014809082262217999
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Brown.",
+          "token_data": [
+            {
+              "token": " Brown",
+              "logprob": -4.13844108581543
+            },
+            {
+              "token": ".",
+              "logprob": -1.3855804204940796
+            },
+            {
+              "token": " ",
+              "logprob": -2.6043901443481445
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0927013158798218
+            },
+            {
+              "token": ":",
+              "logprob": -0.01659412868320942
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Blue.",
+          "token_data": [
+            {
+              "token": " Blue",
+              "logprob": -2.9642086029052734
+            },
+            {
+              "token": ".",
+              "logprob": -1.210533618927002
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9905408024787903
+            },
+            {
+              "token": ":",
+              "logprob": -0.014580837450921535
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

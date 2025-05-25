@@ -1,0 +1,675 @@
+{
+  "story": "One sunny day, Alex and Chloe went to the park. They liked to play together after school. Alex saw a pretty garden full of flowers. \"Look, Chloe!\" Alex said. Chloe was busy watching clouds. Alex picked a red flower because it was bright and happy. Alex wanted to show it to Chloe. \"This is for you,\" Alex said. Chloe smiled but kept looking at the sky. \"I think it might rain,\" Chloe said. Alex held the red flower and shook their head. \"No, it’s too sunny for rain,\" Alex replied. They walked around the park some more. Alex smelled the red flower. It smelled sweet. Chloe found a big rock and sat on it. \"Let’s stay here for a while,\" Chloe said. Alex agreed and sat down too. They talked about school and their friends. The red flower stayed in Alex’s hand until it was time to go home. Chloe waved goodbye and ran to their house. Alex took the red flower home and put it in a cup of water. It was a nice day at the park.",
+  "characters": [
+    {
+      "question": "What color was the flower Alex picked?",
+      "character": "Alex",
+      "story": "One sunny day, Alex and Chloe went to the park. They liked to play together after school. Alex saw a pretty garden full of flowers. \"Look, Chloe!\" Alex said. Chloe was busy watching clouds. Alex picked a red flower because it was bright and happy. Alex wanted to show it to Chloe. \"This is for you,\" Alex said. Chloe smiled but kept looking at the sky. \"I think it might rain,\" Chloe said. Alex held the red flower and shook their head. \"No, it’s too sunny for rain,\" Alex replied. They walked around the park some more. Alex smelled the red flower. It smelled sweet. Chloe found a big rock and sat on it. \"Let’s stay here for a while,\" Chloe said. Alex agreed and sat down too. They talked about school and their friends. The red flower stayed in Alex’s hand until it was time to go home. Chloe waved goodbye and ran to their house. Alex took the red flower home and put it in a cup of water. It was a nice day at the park.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "It was a very pretty shade of blue because it was a perfect day.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.9630439281463623
+            },
+            {
+              "token": " was",
+              "logprob": -0.03755690157413483
+            },
+            {
+              "token": " a",
+              "logprob": -1.015128254890442
+            },
+            {
+              "token": " very",
+              "logprob": -4.004878044128418
+            },
+            {
+              "token": " pretty",
+              "logprob": -1.6078251600265503
+            },
+            {
+              "token": " shade",
+              "logprob": -2.7285094261169434
+            },
+            {
+              "token": " of",
+              "logprob": -0.0064028119668364525
+            },
+            {
+              "token": " blue",
+              "logprob": -3.3431801795959473
+            },
+            {
+              "token": " because",
+              "logprob": -3.444798707962036
+            },
+            {
+              "token": " it",
+              "logprob": -1.5429091453552246
+            },
+            {
+              "token": " was",
+              "logprob": -0.3102145493030548
+            },
+            {
+              "token": " a",
+              "logprob": -1.102386713027954
+            },
+            {
+              "token": " perfect",
+              "logprob": -3.123565673828125
+            },
+            {
+              "token": " day",
+              "logprob": -0.5876273512840271
+            },
+            {
+              "token": ".",
+              "logprob": -1.9185912609100342
+            },
+            {
+              "token": " \n",
+              "logprob": -1.6787750720977783
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "It was Red.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.920107364654541
+            },
+            {
+              "token": " was",
+              "logprob": -0.0385655015707016
+            },
+            {
+              "token": " Red",
+              "logprob": -3.9200196266174316
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.2611477375030518
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The flower was bright and happy because Alex picked the color red.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.0813393592834473
+            },
+            {
+              "token": " flower",
+              "logprob": -0.0975034162402153
+            },
+            {
+              "token": " was",
+              "logprob": -0.9594628810882568
+            },
+            {
+              "token": " bright",
+              "logprob": -2.4105513095855713
+            },
+            {
+              "token": " and",
+              "logprob": -0.20360656082630157
+            },
+            {
+              "token": " happy",
+              "logprob": -0.07315582036972046
+            },
+            {
+              "token": " because",
+              "logprob": -3.1242947578430176
+            },
+            {
+              "token": " Alex",
+              "logprob": -3.072758674621582
+            },
+            {
+              "token": " picked",
+              "logprob": -0.2688429355621338
+            },
+            {
+              "token": " the",
+              "logprob": -3.0417630672454834
+            },
+            {
+              "token": " color",
+              "logprob": -3.0221731662750244
+            },
+            {
+              "token": " red",
+              "logprob": -0.2591000199317932
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.8160054683685303
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "What color was the flower Alex picked?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.5002217292785645
+            },
+            {
+              "token": " color",
+              "logprob": -0.13323265314102173
+            },
+            {
+              "token": " was",
+              "logprob": -0.752922534942627
+            },
+            {
+              "token": " the",
+              "logprob": -0.045306552201509476
+            },
+            {
+              "token": " flower",
+              "logprob": -0.021646080538630486
+            },
+            {
+              "token": " Alex",
+              "logprob": -0.2459508627653122
+            },
+            {
+              "token": " picked",
+              "logprob": -0.015450897626578808
+            },
+            {
+              "token": "?",
+              "logprob": -0.15001384913921356
+            },
+            {
+              "token": " Q",
+              "logprob": -3.195382595062256
+            },
+            {
+              "token": ":",
+              "logprob": -0.039575837552547455
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Red",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -1.0447754859924316
+            },
+            {
+              "token": "\n",
+              "logprob": -2.3638768196105957
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The flower he picked was Red.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.0813393592834473
+            },
+            {
+              "token": " flower",
+              "logprob": -0.0975034162402153
+            },
+            {
+              "token": " he",
+              "logprob": -3.3096253871917725
+            },
+            {
+              "token": " picked",
+              "logprob": -0.012801611796021461
+            },
+            {
+              "token": " was",
+              "logprob": -0.07235729694366455
+            },
+            {
+              "token": " Red",
+              "logprob": -3.3471860885620117
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.7486472129821777
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Red.",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -1.0447754859924316
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.156336307525635
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "The flower Alex picked was a red one.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.0813393592834473
+            },
+            {
+              "token": " flower",
+              "logprob": -0.0975034162402153
+            },
+            {
+              "token": " Alex",
+              "logprob": -0.8688371181488037
+            },
+            {
+              "token": " picked",
+              "logprob": -0.00682191364467144
+            },
+            {
+              "token": " was",
+              "logprob": -0.0543450266122818
+            },
+            {
+              "token": " a",
+              "logprob": -2.3884406089782715
+            },
+            {
+              "token": " red",
+              "logprob": -1.9085825681686401
+            },
+            {
+              "token": " one",
+              "logprob": -1.7741875648498535
+            },
+            {
+              "token": ".",
+              "logprob": -0.4481842517852783
+            },
+            {
+              "token": " Q",
+              "logprob": -1.3765251636505127
+            },
+            {
+              "token": ":",
+              "logprob": -0.023339783772826195
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "red",
+          "token_data": [
+            {
+              "token": " red",
+              "logprob": -2.541365146636963
+            },
+            {
+              "token": "\n",
+              "logprob": -2.240335464477539
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The flower that Alex picked was red.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.0813393592834473
+            },
+            {
+              "token": " flower",
+              "logprob": -0.0975034162402153
+            },
+            {
+              "token": " that",
+              "logprob": -2.86722731590271
+            },
+            {
+              "token": " Alex",
+              "logprob": -0.06429199874401093
+            },
+            {
+              "token": " picked",
+              "logprob": -0.016009708866477013
+            },
+            {
+              "token": " was",
+              "logprob": -0.08738353103399277
+            },
+            {
+              "token": " red",
+              "logprob": -0.6949437260627747
+            },
+            {
+              "token": ".",
+              "logprob": -0.34890681505203247
+            },
+            {
+              "token": " Q",
+              "logprob": -1.3031792640686035
+            },
+            {
+              "token": ":",
+              "logprob": -0.022837601602077484
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What color was the flower Chloe picked?",
+      "character": "Chloe",
+      "story": "One sunny day, Alex and Chloe went to the park. They liked to play together after school. Alex saw a pretty garden full of flowers. \"Look, Chloe!\" Alex said. Chloe was busy watching clouds. Alex picked a red flower because it was bright and happy. Alex wanted to show it to Chloe. \"This is for you,\" Alex said. Chloe smiled but kept looking at the sky. \"I think it might rain,\" Chloe said. Alex held the red flower and shook their head. \"No, it’s too sunny for rain,\" Alex replied. They walked around the park some more. Alex smelled the red flower. It smelled sweet. Chloe found a big rock and sat on it. \"Let’s stay here for a while,\" Chloe said. Alex agreed and sat down too. They talked about school and their friends. The red flower stayed in Alex’s hand until it was time to go home. Chloe waved goodbye and ran to their house. Alex took the red flower home and put it in a cup of water. It was a nice day at the park.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "red.",
+          "token_data": [
+            {
+              "token": " red",
+              "logprob": -2.8934731483459473
+            },
+            {
+              "token": ".",
+              "logprob": -2.2742204666137695
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.3516926765441895
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "None",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.789731502532959
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.115244150161743
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "It was yellow.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.553928852081299
+            },
+            {
+              "token": " was",
+              "logprob": -0.11872153729200363
+            },
+            {
+              "token": " yellow",
+              "logprob": -2.938854694366455
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.469451904296875
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "What color did the flower pick? B: Which color of flower did Chloe pick? C: The color was _______ of red flower.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.2491374015808105
+            },
+            {
+              "token": " color",
+              "logprob": -0.149820014834404
+            },
+            {
+              "token": " did",
+              "logprob": -1.9009082317352295
+            },
+            {
+              "token": " the",
+              "logprob": -1.612361192703247
+            },
+            {
+              "token": " flower",
+              "logprob": -0.11671487987041473
+            },
+            {
+              "token": " pick",
+              "logprob": -1.782103419303894
+            },
+            {
+              "token": "?",
+              "logprob": -0.2842235267162323
+            },
+            {
+              "token": " B",
+              "logprob": -1.958974003791809
+            },
+            {
+              "token": ":",
+              "logprob": -0.021288583055138588
+            },
+            {
+              "token": " Which",
+              "logprob": -2.2753169536590576
+            },
+            {
+              "token": " color",
+              "logprob": -0.4988687038421631
+            },
+            {
+              "token": " of",
+              "logprob": -3.956641435623169
+            },
+            {
+              "token": " flower",
+              "logprob": -0.6273536682128906
+            },
+            {
+              "token": " did",
+              "logprob": -0.20489990711212158
+            },
+            {
+              "token": " Chloe",
+              "logprob": -0.4197066128253937
+            },
+            {
+              "token": " pick",
+              "logprob": -0.08532781153917313
+            },
+            {
+              "token": "?",
+              "logprob": -0.09968556463718414
+            },
+            {
+              "token": " C",
+              "logprob": -0.44152122735977173
+            },
+            {
+              "token": ":",
+              "logprob": -0.01020605769008398
+            },
+            {
+              "token": " The",
+              "logprob": -4.411040782928467
+            },
+            {
+              "token": " color",
+              "logprob": -1.1462764739990234
+            },
+            {
+              "token": " was",
+              "logprob": -3.40185546875
+            },
+            {
+              "token": " ______",
+              "logprob": -3.6252808570861816
+            },
+            {
+              "token": "_",
+              "logprob": -2.504472255706787
+            },
+            {
+              "token": " of",
+              "logprob": -1.8802769184112549
+            },
+            {
+              "token": " red",
+              "logprob": -2.8865511417388916
+            },
+            {
+              "token": " flower",
+              "logprob": -1.3891680240631104
+            },
+            {
+              "token": ".",
+              "logprob": -0.7788133025169373
+            },
+            {
+              "token": " Q",
+              "logprob": -2.746809959411621
+            },
+            {
+              "token": ":",
+              "logprob": -0.06378291547298431
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Blue",
+          "token_data": [
+            {
+              "token": " Blue",
+              "logprob": -4.149699687957764
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.211132049560547
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Red",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -1.390668511390686
+            },
+            {
+              "token": " Q",
+              "logprob": -1.5776112079620361
+            },
+            {
+              "token": ":",
+              "logprob": -0.024385739117860794
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "What color were the flowers?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.2491374015808105
+            },
+            {
+              "token": " color",
+              "logprob": -0.149820014834404
+            },
+            {
+              "token": " were",
+              "logprob": -2.993635892868042
+            },
+            {
+              "token": " the",
+              "logprob": -0.14553958177566528
+            },
+            {
+              "token": " flowers",
+              "logprob": -0.1538418084383011
+            },
+            {
+              "token": "?",
+              "logprob": -0.6753999590873718
+            },
+            {
+              "token": " Q",
+              "logprob": -2.251755952835083
+            },
+            {
+              "token": ":",
+              "logprob": -0.030360857024788857
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Red",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -1.390668511390686
+            },
+            {
+              "token": "\n",
+              "logprob": -2.3894007205963135
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.235127925872803
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "red",
+          "token_data": [
+            {
+              "token": " red",
+              "logprob": -2.900844097137451
+            },
+            {
+              "token": "\n",
+              "logprob": -2.269420623779297
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

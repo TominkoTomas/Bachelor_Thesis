@@ -1,0 +1,1283 @@
+{
+  "story": "Amelia and Ethan were best friends who loved to play outside. One day, it rained a lot, and the ground became very muddy. Amelia saw her dad’s car covered in dirt after the storm. She decided to clean it for him. Amelia washed a muddy car with a bucket of soapy water and a sponge. She scrubbed hard until the car was shiny again. Meanwhile, Ethan was busy drawing pictures in his notebook under a tree. He liked to sketch birds and clouds. When Amelia finished, she called Ethan to see her work. Ethan smiled and said, “Good job!” Amelia was happy she helped her dad. After that, they ran to the park to play on the swings. The sun was out, and they had a great time together. They promised to meet again the next day for more fun.",
+  "characters": [
+    {
+      "question": "What was dirty that Amelia cleaned?",
+      "character": "Amelia",
+      "story": "Amelia and Ethan were best friends who loved to play outside. One day, it rained a lot, and the ground became very muddy. Amelia saw her dad’s car covered in dirt after the storm. She decided to clean it for him. Amelia washed a muddy car with a bucket of soapy water and a sponge. She scrubbed hard until the car was shiny again. Meanwhile, Ethan was busy drawing pictures in his notebook under a tree. He liked to sketch birds and clouds. When Amelia finished, she called Ethan to see her work. Ethan smiled and said, “Good job!” Amelia was happy she helped her dad. After that, they ran to the park to play on the swings. The sun was out, and they had a great time together. They promised to meet again the next day for more fun.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.839745044708252
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "A car.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.7010347843170166
+            },
+            {
+              "token": " car",
+              "logprob": -1.0655627250671387
+            },
+            {
+              "token": ".",
+              "logprob": -0.9796863794326782
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.5900676250457764
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Mud",
+          "token_data": [
+            {
+              "token": " Mud",
+              "logprob": -4.491950035095215
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.9750587940216064
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Mud.",
+          "token_data": [
+            {
+              "token": " Mud",
+              "logprob": -4.491950035095215
+            },
+            {
+              "token": ".",
+              "logprob": -1.0744240283966064
+            },
+            {
+              "token": " Q",
+              "logprob": -0.5821111798286438
+            },
+            {
+              "token": ":",
+              "logprob": -0.014162627048790455
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The rain was too big for Ethan and Amelia.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.6601545810699463
+            },
+            {
+              "token": " rain",
+              "logprob": -2.3246655464172363
+            },
+            {
+              "token": " was",
+              "logprob": -2.925588369369507
+            },
+            {
+              "token": " too",
+              "logprob": -2.901808738708496
+            },
+            {
+              "token": " big",
+              "logprob": -3.258849859237671
+            },
+            {
+              "token": " for",
+              "logprob": -3.2695226669311523
+            },
+            {
+              "token": " Ethan",
+              "logprob": -2.8691301345825195
+            },
+            {
+              "token": " and",
+              "logprob": -1.7856166362762451
+            },
+            {
+              "token": " Amelia",
+              "logprob": -0.3676714599132538
+            },
+            {
+              "token": ".",
+              "logprob": -1.8665475845336914
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.5040903091430664
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Amelia and Ethan were best friends who loved to play outside. One day, it rained a lot, and the ground became very muddy.",
+          "token_data": [
+            {
+              "token": " Amelia",
+              "logprob": -2.0537874698638916
+            },
+            {
+              "token": " and",
+              "logprob": -2.8276567459106445
+            },
+            {
+              "token": " Ethan",
+              "logprob": -0.03779086098074913
+            },
+            {
+              "token": " were",
+              "logprob": -0.7795368432998657
+            },
+            {
+              "token": " best",
+              "logprob": -0.26862990856170654
+            },
+            {
+              "token": " friends",
+              "logprob": -0.013980668969452381
+            },
+            {
+              "token": " who",
+              "logprob": -0.24807162582874298
+            },
+            {
+              "token": " loved",
+              "logprob": -0.030687039718031883
+            },
+            {
+              "token": " to",
+              "logprob": -0.010827718302607536
+            },
+            {
+              "token": " play",
+              "logprob": -0.037249259650707245
+            },
+            {
+              "token": " outside",
+              "logprob": -0.013583138585090637
+            },
+            {
+              "token": ".",
+              "logprob": -0.06565821915864944
+            },
+            {
+              "token": " One",
+              "logprob": -0.0686635673046112
+            },
+            {
+              "token": " day",
+              "logprob": -0.0048782858066260815
+            },
+            {
+              "token": ",",
+              "logprob": -0.02080860175192356
+            },
+            {
+              "token": " it",
+              "logprob": -0.0172814279794693
+            },
+            {
+              "token": " r",
+              "logprob": -0.005613752640783787
+            },
+            {
+              "token": "ained",
+              "logprob": -0.00033230031840503216
+            },
+            {
+              "token": " a",
+              "logprob": -0.007080581039190292
+            },
+            {
+              "token": " lot",
+              "logprob": -0.0007594323833473027
+            },
+            {
+              "token": ",",
+              "logprob": -0.01656094379723072
+            },
+            {
+              "token": " and",
+              "logprob": -0.009387991391122341
+            },
+            {
+              "token": " the",
+              "logprob": -0.005701114889234304
+            },
+            {
+              "token": " ground",
+              "logprob": -0.0026793316937983036
+            },
+            {
+              "token": " became",
+              "logprob": -0.009594046510756016
+            },
+            {
+              "token": " very",
+              "logprob": -0.006109017413109541
+            },
+            {
+              "token": " muddy",
+              "logprob": -0.004325320478528738
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.862413167953491
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The car.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.6601545810699463
+            },
+            {
+              "token": " car",
+              "logprob": -0.9192813634872437
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.2282161712646484
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "The car was covered in mud from the rain.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.6601545810699463
+            },
+            {
+              "token": " car",
+              "logprob": -0.9192813634872437
+            },
+            {
+              "token": " was",
+              "logprob": -2.643477439880371
+            },
+            {
+              "token": " covered",
+              "logprob": -1.606511116027832
+            },
+            {
+              "token": " in",
+              "logprob": -0.20494429767131805
+            },
+            {
+              "token": " mud",
+              "logprob": -1.7503093481063843
+            },
+            {
+              "token": " from",
+              "logprob": -2.5355401039123535
+            },
+            {
+              "token": " the",
+              "logprob": -0.4771961569786072
+            },
+            {
+              "token": " rain",
+              "logprob": -1.5488371849060059
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.8975932598114014
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Her dad’s car.",
+          "token_data": [
+            {
+              "token": " Her",
+              "logprob": -4.263038635253906
+            },
+            {
+              "token": " dad",
+              "logprob": -0.8706933856010437
+            },
+            {
+              "token": "’s",
+              "logprob": -0.8767275214195251
+            },
+            {
+              "token": " car",
+              "logprob": -0.05887989327311516
+            },
+            {
+              "token": ".",
+              "logprob": -0.5883805155754089
+            },
+            {
+              "token": " \n",
+              "logprob": -2.348503589630127
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Car",
+          "token_data": [
+            {
+              "token": " Car",
+              "logprob": -4.194385528564453
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.653337001800537
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What was dirty that Ethan cleaned?",
+      "character": "Ethan",
+      "story": "Amelia and Ethan were best friends who loved to play outside. One day, it rained a lot, and the ground became very muddy. Amelia saw her dad’s car covered in dirt after the storm. She decided to clean it for him. Amelia washed a muddy car with a bucket of soapy water and a sponge. She scrubbed hard until the car was shiny again. Meanwhile, Ethan was busy drawing pictures in his notebook under a tree. He liked to sketch birds and clouds. When Amelia finished, she called Ethan to see her work. Ethan smiled and said, “Good job!” Amelia was happy she helped her dad. After that, they ran to the park to play on the swings. The sun was out, and they had a great time together. They promised to meet again the next day for more fun.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Ethan cleaned up after he had a storm.",
+          "token_data": [
+            {
+              "token": " Ethan",
+              "logprob": -1.8168506622314453
+            },
+            {
+              "token": " cleaned",
+              "logprob": -1.1692383289337158
+            },
+            {
+              "token": " up",
+              "logprob": -3.8876664638519287
+            },
+            {
+              "token": " after",
+              "logprob": -2.398224353790283
+            },
+            {
+              "token": " he",
+              "logprob": -2.892566680908203
+            },
+            {
+              "token": " had",
+              "logprob": -2.8926448822021484
+            },
+            {
+              "token": " a",
+              "logprob": -0.5711485743522644
+            },
+            {
+              "token": " storm",
+              "logprob": -3.627289295196533
+            },
+            {
+              "token": ".",
+              "logprob": -0.7679058909416199
+            },
+            {
+              "token": " ",
+              "logprob": -3.1340579986572266
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "It was their muddy clothes and it needed a new car to be shined up again.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -4.013464450836182
+            },
+            {
+              "token": " was",
+              "logprob": -0.7058197855949402
+            },
+            {
+              "token": " their",
+              "logprob": -4.166026592254639
+            },
+            {
+              "token": " muddy",
+              "logprob": -3.043060302734375
+            },
+            {
+              "token": " clothes",
+              "logprob": -2.9956371784210205
+            },
+            {
+              "token": " and",
+              "logprob": -3.0086326599121094
+            },
+            {
+              "token": " it",
+              "logprob": -4.066590309143066
+            },
+            {
+              "token": " needed",
+              "logprob": -2.792990207672119
+            },
+            {
+              "token": " a",
+              "logprob": -0.9452975988388062
+            },
+            {
+              "token": " new",
+              "logprob": -3.064836025238037
+            },
+            {
+              "token": " car",
+              "logprob": -2.9385552406311035
+            },
+            {
+              "token": " to",
+              "logprob": -2.5797805786132812
+            },
+            {
+              "token": " be",
+              "logprob": -1.7005618810653687
+            },
+            {
+              "token": " sh",
+              "logprob": -3.3471322059631348
+            },
+            {
+              "token": "ined",
+              "logprob": -0.19668763875961304
+            },
+            {
+              "token": " up",
+              "logprob": -2.745044231414795
+            },
+            {
+              "token": " again",
+              "logprob": -1.3040359020233154
+            },
+            {
+              "token": ".",
+              "logprob": -0.43887895345687866
+            },
+            {
+              "token": " ",
+              "logprob": -3.0408077239990234
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9175949096679688
+            },
+            {
+              "token": ":",
+              "logprob": -0.02597387693822384
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "It started raining and his mom made him help to clean it for a while. Ethan wanted to build a shelter before the rain got worse. Ethan knew it was better to work together in these situations so they would get help sooner. They worked hard because he felt very tired by this point, and there wasn't a whole lot of time left on the calendar that needed to be completed quickly so if you take longer than normal you will be late!",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -4.013464450836182
+            },
+            {
+              "token": " started",
+              "logprob": -3.435716390609741
+            },
+            {
+              "token": " raining",
+              "logprob": -1.4020171165466309
+            },
+            {
+              "token": " and",
+              "logprob": -1.9002671241760254
+            },
+            {
+              "token": " his",
+              "logprob": -3.585202693939209
+            },
+            {
+              "token": " mom",
+              "logprob": -2.1954946517944336
+            },
+            {
+              "token": " made",
+              "logprob": -3.1917455196380615
+            },
+            {
+              "token": " him",
+              "logprob": -0.22524753212928772
+            },
+            {
+              "token": " help",
+              "logprob": -2.3951475620269775
+            },
+            {
+              "token": " to",
+              "logprob": -3.027850389480591
+            },
+            {
+              "token": " clean",
+              "logprob": -0.31486013531684875
+            },
+            {
+              "token": " it",
+              "logprob": -3.7456514835357666
+            },
+            {
+              "token": " for",
+              "logprob": -3.7651920318603516
+            },
+            {
+              "token": " a",
+              "logprob": -3.2233052253723145
+            },
+            {
+              "token": " while",
+              "logprob": -0.7725722193717957
+            },
+            {
+              "token": ".",
+              "logprob": -0.4252201020717621
+            },
+            {
+              "token": " Ethan",
+              "logprob": -3.5278000831604004
+            },
+            {
+              "token": " wanted",
+              "logprob": -4.1763691902160645
+            },
+            {
+              "token": " to",
+              "logprob": -0.0693233460187912
+            },
+            {
+              "token": " build",
+              "logprob": -5.091704845428467
+            },
+            {
+              "token": " a",
+              "logprob": -0.20489737391471863
+            },
+            {
+              "token": " shelter",
+              "logprob": -2.571316719055176
+            },
+            {
+              "token": " before",
+              "logprob": -5.228728771209717
+            },
+            {
+              "token": " the",
+              "logprob": -1.0206177234649658
+            },
+            {
+              "token": " rain",
+              "logprob": -0.9975828528404236
+            },
+            {
+              "token": " got",
+              "logprob": -1.3826082944869995
+            },
+            {
+              "token": " worse",
+              "logprob": -1.1123700141906738
+            },
+            {
+              "token": ".",
+              "logprob": -0.32945716381073
+            },
+            {
+              "token": " Ethan",
+              "logprob": -2.3399763107299805
+            },
+            {
+              "token": " knew",
+              "logprob": -4.925661563873291
+            },
+            {
+              "token": " it",
+              "logprob": -2.2342934608459473
+            },
+            {
+              "token": " was",
+              "logprob": -0.6233085989952087
+            },
+            {
+              "token": " better",
+              "logprob": -4.133785724639893
+            },
+            {
+              "token": " to",
+              "logprob": -0.10126299411058426
+            },
+            {
+              "token": " work",
+              "logprob": -3.344141721725464
+            },
+            {
+              "token": " together",
+              "logprob": -0.9079715609550476
+            },
+            {
+              "token": " in",
+              "logprob": -3.973515033721924
+            },
+            {
+              "token": " these",
+              "logprob": -4.578705787658691
+            },
+            {
+              "token": " situations",
+              "logprob": -1.154366374015808
+            },
+            {
+              "token": " so",
+              "logprob": -4.4829511642456055
+            },
+            {
+              "token": " they",
+              "logprob": -0.9649218320846558
+            },
+            {
+              "token": " would",
+              "logprob": -3.381084442138672
+            },
+            {
+              "token": " get",
+              "logprob": -2.9652445316314697
+            },
+            {
+              "token": " help",
+              "logprob": -3.821719169616699
+            },
+            {
+              "token": " sooner",
+              "logprob": -3.923532724380493
+            },
+            {
+              "token": ".",
+              "logprob": -0.3504300117492676
+            },
+            {
+              "token": " They",
+              "logprob": -3.167903423309326
+            },
+            {
+              "token": " worked",
+              "logprob": -2.484917163848877
+            },
+            {
+              "token": " hard",
+              "logprob": -1.8979804515838623
+            },
+            {
+              "token": " because",
+              "logprob": -4.434538841247559
+            },
+            {
+              "token": " he",
+              "logprob": -3.2435975074768066
+            },
+            {
+              "token": " felt",
+              "logprob": -5.011982440948486
+            },
+            {
+              "token": " very",
+              "logprob": -3.627847671508789
+            },
+            {
+              "token": " tired",
+              "logprob": -3.3180792331695557
+            },
+            {
+              "token": " by",
+              "logprob": -4.029756546020508
+            },
+            {
+              "token": " this",
+              "logprob": -3.505312204360962
+            },
+            {
+              "token": " point",
+              "logprob": -1.1277129650115967
+            },
+            {
+              "token": ",",
+              "logprob": -2.9724292755126953
+            },
+            {
+              "token": " and",
+              "logprob": -0.955561637878418
+            },
+            {
+              "token": " there",
+              "logprob": -4.75160551071167
+            },
+            {
+              "token": " wasn",
+              "logprob": -3.1314260959625244
+            },
+            {
+              "token": "'t",
+              "logprob": -0.847217857837677
+            },
+            {
+              "token": " a",
+              "logprob": -1.7173763513565063
+            },
+            {
+              "token": " whole",
+              "logprob": -3.287106990814209
+            },
+            {
+              "token": " lot",
+              "logprob": -0.08107899874448776
+            },
+            {
+              "token": " of",
+              "logprob": -0.3431840240955353
+            },
+            {
+              "token": " time",
+              "logprob": -0.6623274087905884
+            },
+            {
+              "token": " left",
+              "logprob": -0.7924681901931763
+            },
+            {
+              "token": " on",
+              "logprob": -4.148248195648193
+            },
+            {
+              "token": " the",
+              "logprob": -0.7843416333198547
+            },
+            {
+              "token": " calendar",
+              "logprob": -3.7288432121276855
+            },
+            {
+              "token": " that",
+              "logprob": -5.21484899520874
+            },
+            {
+              "token": " needed",
+              "logprob": -4.43720006942749
+            },
+            {
+              "token": " to",
+              "logprob": -0.2037295550107956
+            },
+            {
+              "token": " be",
+              "logprob": -0.21627886593341827
+            },
+            {
+              "token": " completed",
+              "logprob": -2.9606053829193115
+            },
+            {
+              "token": " quickly",
+              "logprob": -5.568553447723389
+            },
+            {
+              "token": " so",
+              "logprob": -4.439128875732422
+            },
+            {
+              "token": " if",
+              "logprob": -5.125321388244629
+            },
+            {
+              "token": " you",
+              "logprob": -2.7781710624694824
+            },
+            {
+              "token": " take",
+              "logprob": -5.119109153747559
+            },
+            {
+              "token": " longer",
+              "logprob": -3.6010396480560303
+            },
+            {
+              "token": " than",
+              "logprob": -0.5358278155326843
+            },
+            {
+              "token": " normal",
+              "logprob": -3.405003070831299
+            },
+            {
+              "token": " you",
+              "logprob": -3.6881916522979736
+            },
+            {
+              "token": " will",
+              "logprob": -1.8779529333114624
+            },
+            {
+              "token": " be",
+              "logprob": -2.3359432220458984
+            },
+            {
+              "token": " late",
+              "logprob": -2.60123348236084
+            },
+            {
+              "token": "!",
+              "logprob": -3.3119311332702637
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "What was dirty? B: I saw it and told my dad to wash it with a soapy water and sponge. C: Where? D: My friends!",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.5495829582214355
+            },
+            {
+              "token": " was",
+              "logprob": -0.8171857595443726
+            },
+            {
+              "token": " dirty",
+              "logprob": -0.4458101689815521
+            },
+            {
+              "token": "?",
+              "logprob": -2.1905837059020996
+            },
+            {
+              "token": " B",
+              "logprob": -3.3822860717773438
+            },
+            {
+              "token": ":",
+              "logprob": -0.05190490931272507
+            },
+            {
+              "token": " I",
+              "logprob": -4.306569576263428
+            },
+            {
+              "token": " saw",
+              "logprob": -4.195431709289551
+            },
+            {
+              "token": " it",
+              "logprob": -2.234412908554077
+            },
+            {
+              "token": " and",
+              "logprob": -3.4778900146484375
+            },
+            {
+              "token": " told",
+              "logprob": -4.149968147277832
+            },
+            {
+              "token": " my",
+              "logprob": -0.7826107740402222
+            },
+            {
+              "token": " dad",
+              "logprob": -0.49828487634658813
+            },
+            {
+              "token": " to",
+              "logprob": -1.6506316661834717
+            },
+            {
+              "token": " wash",
+              "logprob": -3.374593734741211
+            },
+            {
+              "token": " it",
+              "logprob": -0.19208931922912598
+            },
+            {
+              "token": " with",
+              "logprob": -2.9934701919555664
+            },
+            {
+              "token": " a",
+              "logprob": -0.9170795679092407
+            },
+            {
+              "token": " so",
+              "logprob": -1.846747875213623
+            },
+            {
+              "token": "apy",
+              "logprob": -0.005783726926892996
+            },
+            {
+              "token": " water",
+              "logprob": -0.59626704454422
+            },
+            {
+              "token": " and",
+              "logprob": -0.5433158278465271
+            },
+            {
+              "token": " sponge",
+              "logprob": -1.583169937133789
+            },
+            {
+              "token": ".",
+              "logprob": -0.3216800093650818
+            },
+            {
+              "token": " C",
+              "logprob": -1.432421088218689
+            },
+            {
+              "token": ":",
+              "logprob": -0.0087405014783144
+            },
+            {
+              "token": " Where",
+              "logprob": -5.123803615570068
+            },
+            {
+              "token": "?",
+              "logprob": -2.0420279502868652
+            },
+            {
+              "token": " D",
+              "logprob": -0.15417547523975372
+            },
+            {
+              "token": ":",
+              "logprob": -0.008134448900818825
+            },
+            {
+              "token": " My",
+              "logprob": -3.1977362632751465
+            },
+            {
+              "token": " friends",
+              "logprob": -4.612634658813477
+            },
+            {
+              "token": "!",
+              "logprob": -3.2561187744140625
+            },
+            {
+              "token": " Q",
+              "logprob": -3.3728737831115723
+            },
+            {
+              "token": ":",
+              "logprob": -0.04243016242980957
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "What did he need help with? a: What were Amelia’s siblings doing at home? A:",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.5495829582214355
+            },
+            {
+              "token": " did",
+              "logprob": -2.245694637298584
+            },
+            {
+              "token": " he",
+              "logprob": -3.3603549003601074
+            },
+            {
+              "token": " need",
+              "logprob": -3.6971383094787598
+            },
+            {
+              "token": " help",
+              "logprob": -1.9025394916534424
+            },
+            {
+              "token": " with",
+              "logprob": -0.21351328492164612
+            },
+            {
+              "token": "?",
+              "logprob": -0.21754683554172516
+            },
+            {
+              "token": " a",
+              "logprob": -3.2272746562957764
+            },
+            {
+              "token": ":",
+              "logprob": -0.11089588701725006
+            },
+            {
+              "token": " What",
+              "logprob": -1.0103260278701782
+            },
+            {
+              "token": " were",
+              "logprob": -4.198997974395752
+            },
+            {
+              "token": " Amelia",
+              "logprob": -1.428680419921875
+            },
+            {
+              "token": "’s",
+              "logprob": -1.8816823959350586
+            },
+            {
+              "token": " siblings",
+              "logprob": -4.638998985290527
+            },
+            {
+              "token": " doing",
+              "logprob": -0.6914085149765015
+            },
+            {
+              "token": " at",
+              "logprob": -4.0121941566467285
+            },
+            {
+              "token": " home",
+              "logprob": -2.609165906906128
+            },
+            {
+              "token": "?",
+              "logprob": -0.16137391328811646
+            },
+            {
+              "token": " A",
+              "logprob": -1.007917881011963
+            },
+            {
+              "token": ":",
+              "logprob": -0.037878330796957016
+            },
+            {
+              "token": " \n",
+              "logprob": -4.493870258331299
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The clouds.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.8932290077209473
+            },
+            {
+              "token": " clouds",
+              "logprob": -4.1637187004089355
+            },
+            {
+              "token": ".",
+              "logprob": -0.825958251953125
+            },
+            {
+              "token": " Q",
+              "logprob": -0.43757057189941406
+            },
+            {
+              "token": ":",
+              "logprob": -0.011867397464811802
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.167365550994873
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "It got all muddy after it started to rain.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -4.013464450836182
+            },
+            {
+              "token": " got",
+              "logprob": -3.3169171810150146
+            },
+            {
+              "token": " all",
+              "logprob": -3.8322248458862305
+            },
+            {
+              "token": " muddy",
+              "logprob": -0.9031322598457336
+            },
+            {
+              "token": " after",
+              "logprob": -2.971282720565796
+            },
+            {
+              "token": " it",
+              "logprob": -2.36897611618042
+            },
+            {
+              "token": " started",
+              "logprob": -2.5202078819274902
+            },
+            {
+              "token": " to",
+              "logprob": -0.1889837086200714
+            },
+            {
+              "token": " rain",
+              "logprob": -0.08562319725751877
+            },
+            {
+              "token": ".",
+              "logprob": -0.36368411779403687
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7276414036750793
+            },
+            {
+              "token": ":",
+              "logprob": -0.01569584384560585
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Answer: The mud on the car",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.6669631004333496
+            },
+            {
+              "token": ":",
+              "logprob": -0.7281634211540222
+            },
+            {
+              "token": " The",
+              "logprob": -1.7771480083465576
+            },
+            {
+              "token": " mud",
+              "logprob": -2.907778739929199
+            },
+            {
+              "token": " on",
+              "logprob": -1.5845304727554321
+            },
+            {
+              "token": " the",
+              "logprob": -0.6153020262718201
+            },
+            {
+              "token": " car",
+              "logprob": -0.26959148049354553
+            },
+            {
+              "token": "\n",
+              "logprob": -3.401075839996338
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Ethan was cleaning his dad’s car for him.",
+          "token_data": [
+            {
+              "token": " Ethan",
+              "logprob": -1.7483172416687012
+            },
+            {
+              "token": " was",
+              "logprob": -1.9751200675964355
+            },
+            {
+              "token": " cleaning",
+              "logprob": -1.1931406259536743
+            },
+            {
+              "token": " his",
+              "logprob": -1.1646196842193604
+            },
+            {
+              "token": " dad",
+              "logprob": -4.634826183319092
+            },
+            {
+              "token": "’s",
+              "logprob": -0.7095807790756226
+            },
+            {
+              "token": " car",
+              "logprob": -0.11617638915777206
+            },
+            {
+              "token": " for",
+              "logprob": -3.8657357692718506
+            },
+            {
+              "token": " him",
+              "logprob": -0.39805474877357483
+            },
+            {
+              "token": ".",
+              "logprob": -0.4842342138290405
+            },
+            {
+              "token": " ",
+              "logprob": -3.442676544189453
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6224204897880554
+            },
+            {
+              "token": ":",
+              "logprob": -0.02093002013862133
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

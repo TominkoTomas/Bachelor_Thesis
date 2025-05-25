@@ -1,0 +1,867 @@
+{
+  "story": "Henry and Sophia were best friends who lived next door to each other. One sunny morning, Henry woke up early and decided to take care of his garden. He saw a small plant in the corner that looked sad and droopy. Henry watered a wilted plant, hoping it would grow strong again. Sophia, who loved to play outside, came over to visit. She brought her favorite jump rope and asked Henry if he wanted to play. Henry smiled and said yes, but first he wanted to finish his gardening. Sophia waited patiently, humming a little tune. After Henry was done, they played jump rope together, laughing and counting how many times they could jump without missing. The day was fun, and the plant Henry watered began to look a little happier in the sunshine. Henry and Sophia promised to play again the next day, and they both went home with big smiles.",
+  "characters": [
+    {
+      "question": "What condition was the plant before Henry helped it?",
+      "character": "Henry",
+      "story": "Henry and Sophia were best friends who lived next door to each other. One sunny morning, Henry woke up early and decided to take care of his garden. He saw a small plant in the corner that looked sad and droopy. Henry watered a wilted plant, hoping it would grow strong again. Sophia, who loved to play outside, came over to visit. She brought her favorite jump rope and asked Henry if he wanted to play. Henry smiled and said yes, but first he wanted to finish his gardening. Sophia waited patiently, humming a little tune. After Henry was done, they played jump rope together, laughing and counting how many times they could jump without missing. The day was fun, and the plant Henry watered began to look a little happier in the sunshine. Henry and Sophia promised to play again the next day, and they both went home with big smiles.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The plant looked wilted.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.1428024768829346
+            },
+            {
+              "token": " plant",
+              "logprob": -0.10381065309047699
+            },
+            {
+              "token": " looked",
+              "logprob": -2.4788761138916016
+            },
+            {
+              "token": " wilt",
+              "logprob": -2.2197232246398926
+            },
+            {
+              "token": "ed",
+              "logprob": -0.011409864760935307
+            },
+            {
+              "token": ".",
+              "logprob": -1.433851718902588
+            },
+            {
+              "token": " ",
+              "logprob": -2.401735305786133
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8824598789215088
+            },
+            {
+              "token": ":",
+              "logprob": -0.03439240902662277
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "What condition was the plant after Henry helped it?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.273118019104004
+            },
+            {
+              "token": " condition",
+              "logprob": -0.36996394395828247
+            },
+            {
+              "token": " was",
+              "logprob": -0.2954196631908417
+            },
+            {
+              "token": " the",
+              "logprob": -0.11787531524896622
+            },
+            {
+              "token": " plant",
+              "logprob": -0.038494959473609924
+            },
+            {
+              "token": " after",
+              "logprob": -2.681260108947754
+            },
+            {
+              "token": " Henry",
+              "logprob": -0.11140938848257065
+            },
+            {
+              "token": " helped",
+              "logprob": -0.05383140966296196
+            },
+            {
+              "token": " it",
+              "logprob": -0.10611387342214584
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.845628261566162
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.0308141708374023
+            },
+            {
+              "token": ":",
+              "logprob": -0.2446293830871582
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "What condition was the plant before Henry helped it? A: It was a little wilted.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.273118019104004
+            },
+            {
+              "token": " condition",
+              "logprob": -0.36996394395828247
+            },
+            {
+              "token": " was",
+              "logprob": -0.2954196631908417
+            },
+            {
+              "token": " the",
+              "logprob": -0.11787531524896622
+            },
+            {
+              "token": " plant",
+              "logprob": -0.038494959473609924
+            },
+            {
+              "token": " before",
+              "logprob": -0.4057301878929138
+            },
+            {
+              "token": " Henry",
+              "logprob": -0.13862505555152893
+            },
+            {
+              "token": " helped",
+              "logprob": -0.032448604702949524
+            },
+            {
+              "token": " it",
+              "logprob": -0.03743874654173851
+            },
+            {
+              "token": "?",
+              "logprob": -0.23579227924346924
+            },
+            {
+              "token": " A",
+              "logprob": -4.144680023193359
+            },
+            {
+              "token": ":",
+              "logprob": -0.050422970205545425
+            },
+            {
+              "token": " It",
+              "logprob": -1.8535215854644775
+            },
+            {
+              "token": " was",
+              "logprob": -0.2686820924282074
+            },
+            {
+              "token": " a",
+              "logprob": -2.4411988258361816
+            },
+            {
+              "token": " little",
+              "logprob": -0.4917568266391754
+            },
+            {
+              "token": " wilt",
+              "logprob": -2.3214118480682373
+            },
+            {
+              "token": "ed",
+              "logprob": -0.0073682935908436775
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.775240898132324
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The plant was wilting, and its leaves had already begun to turn yellow and brown.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.1528968811035156
+            },
+            {
+              "token": " plant",
+              "logprob": -0.10367804020643234
+            },
+            {
+              "token": " was",
+              "logprob": -0.2647339701652527
+            },
+            {
+              "token": " wil",
+              "logprob": -2.3210701942443848
+            },
+            {
+              "token": "ting",
+              "logprob": -0.047254886478185654
+            },
+            {
+              "token": ",",
+              "logprob": -2.419022560119629
+            },
+            {
+              "token": " and",
+              "logprob": -1.53151273727417
+            },
+            {
+              "token": " its",
+              "logprob": -4.237841606140137
+            },
+            {
+              "token": " leaves",
+              "logprob": -0.5040255784988403
+            },
+            {
+              "token": " had",
+              "logprob": -3.205193042755127
+            },
+            {
+              "token": " already",
+              "logprob": -3.897968292236328
+            },
+            {
+              "token": " begun",
+              "logprob": -3.233849287033081
+            },
+            {
+              "token": " to",
+              "logprob": -0.017127109691500664
+            },
+            {
+              "token": " turn",
+              "logprob": -1.275307536125183
+            },
+            {
+              "token": " yellow",
+              "logprob": -2.8219141960144043
+            },
+            {
+              "token": " and",
+              "logprob": -2.1478731632232666
+            },
+            {
+              "token": " brown",
+              "logprob": -0.2504141926765442
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.1088738441467285
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The plant was dying.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.1528968811035156
+            },
+            {
+              "token": " plant",
+              "logprob": -0.10367804020643234
+            },
+            {
+              "token": " was",
+              "logprob": -0.2647339701652527
+            },
+            {
+              "token": " dying",
+              "logprob": -3.3451943397521973
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.6660566329956055
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Wilted",
+          "token_data": [
+            {
+              "token": " W",
+              "logprob": -4.004964828491211
+            },
+            {
+              "token": "ilt",
+              "logprob": -0.08471354842185974
+            },
+            {
+              "token": "ed",
+              "logprob": -0.0010721893049776554
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.674912929534912
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Wilting and Droopy",
+          "token_data": [
+            {
+              "token": " Wil",
+              "logprob": -3.948556900024414
+            },
+            {
+              "token": "ting",
+              "logprob": -1.4407001733779907
+            },
+            {
+              "token": " and",
+              "logprob": -1.9140645265579224
+            },
+            {
+              "token": " Dro",
+              "logprob": -3.012819766998291
+            },
+            {
+              "token": "opy",
+              "logprob": -0.1707225739955902
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.344252347946167
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It was sad and wilted.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.5227231979370117
+            },
+            {
+              "token": " was",
+              "logprob": -0.15325455367565155
+            },
+            {
+              "token": " sad",
+              "logprob": -3.2779674530029297
+            },
+            {
+              "token": " and",
+              "logprob": -0.2569010257720947
+            },
+            {
+              "token": " wilt",
+              "logprob": -2.8124747276306152
+            },
+            {
+              "token": "ed",
+              "logprob": -0.0036019706167280674
+            },
+            {
+              "token": ".",
+              "logprob": -0.4271356165409088
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7123562693595886
+            },
+            {
+              "token": ":",
+              "logprob": -0.03129875659942627
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "What was the condition of the plant before Henry helped it? Answer: It needed water to help grow and flourish.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.273118019104004
+            },
+            {
+              "token": " was",
+              "logprob": -2.564786195755005
+            },
+            {
+              "token": " the",
+              "logprob": -0.2779640555381775
+            },
+            {
+              "token": " condition",
+              "logprob": -0.8276769518852234
+            },
+            {
+              "token": " of",
+              "logprob": -0.20119421184062958
+            },
+            {
+              "token": " the",
+              "logprob": -0.03353177011013031
+            },
+            {
+              "token": " plant",
+              "logprob": -0.050929393619298935
+            },
+            {
+              "token": " before",
+              "logprob": -0.47459131479263306
+            },
+            {
+              "token": " Henry",
+              "logprob": -0.12638285756111145
+            },
+            {
+              "token": " helped",
+              "logprob": -0.06305834650993347
+            },
+            {
+              "token": " it",
+              "logprob": -0.06772688031196594
+            },
+            {
+              "token": "?",
+              "logprob": -0.16569733619689941
+            },
+            {
+              "token": " Answer",
+              "logprob": -3.5005784034729004
+            },
+            {
+              "token": ":",
+              "logprob": -0.5800130367279053
+            },
+            {
+              "token": " It",
+              "logprob": -1.6969457864761353
+            },
+            {
+              "token": " needed",
+              "logprob": -3.75732684135437
+            },
+            {
+              "token": " water",
+              "logprob": -0.9858414530754089
+            },
+            {
+              "token": " to",
+              "logprob": -2.976323366165161
+            },
+            {
+              "token": " help",
+              "logprob": -2.6895194053649902
+            },
+            {
+              "token": " grow",
+              "logprob": -4.101855754852295
+            },
+            {
+              "token": " and",
+              "logprob": -3.17903995513916
+            },
+            {
+              "token": " flourish",
+              "logprob": -3.096895217895508
+            },
+            {
+              "token": ".",
+              "logprob": -0.39038926362991333
+            },
+            {
+              "token": " ",
+              "logprob": -2.5711617469787598
+            },
+            {
+              "token": " Q",
+              "logprob": -1.6112266778945923
+            },
+            {
+              "token": ":",
+              "logprob": -0.03862880915403366
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What condition was the plant before Sophia helped it?",
+      "character": "Sophia",
+      "story": "Henry and Sophia were best friends who lived next door to each other. One sunny morning, Henry woke up early and decided to take care of his garden. He saw a small plant in the corner that looked sad and droopy. Henry watered a wilted plant, hoping it would grow strong again. Sophia, who loved to play outside, came over to visit. She brought her favorite jump rope and asked Henry if he wanted to play. Henry smiled and said yes, but first he wanted to finish his gardening. Sophia waited patiently, humming a little tune. After Henry was done, they played jump rope together, laughing and counting how many times they could jump without missing. The day was fun, and the plant Henry watered began to look a little happier in the sunshine. Henry and Sophia promised to play again the next day, and they both went home with big smiles.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "It was not strong enough.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.6573317050933838
+            },
+            {
+              "token": " was",
+              "logprob": -0.15814492106437683
+            },
+            {
+              "token": " not",
+              "logprob": -4.093008995056152
+            },
+            {
+              "token": " strong",
+              "logprob": -4.191132068634033
+            },
+            {
+              "token": " enough",
+              "logprob": -1.345237135887146
+            },
+            {
+              "token": ".",
+              "logprob": -1.6008405685424805
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6384416222572327
+            },
+            {
+              "token": ":",
+              "logprob": -0.024427736178040504
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.2143921852111816
+            },
+            {
+              "token": ":",
+              "logprob": -0.2505280375480652
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "wilted",
+          "token_data": [
+            {
+              "token": " wilt",
+              "logprob": -4.003933429718018
+            },
+            {
+              "token": "ed",
+              "logprob": -0.0016950300196185708
+            },
+            {
+              "token": "\n",
+              "logprob": -2.447221279144287
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The plant was sad, wilting, and droopy.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.127841591835022
+            },
+            {
+              "token": " plant",
+              "logprob": -0.1262679100036621
+            },
+            {
+              "token": " was",
+              "logprob": -0.28663843870162964
+            },
+            {
+              "token": " sad",
+              "logprob": -3.357262372970581
+            },
+            {
+              "token": ",",
+              "logprob": -1.9336732625961304
+            },
+            {
+              "token": " wil",
+              "logprob": -3.720095157623291
+            },
+            {
+              "token": "ting",
+              "logprob": -0.09523499011993408
+            },
+            {
+              "token": ",",
+              "logprob": -0.5448886156082153
+            },
+            {
+              "token": " and",
+              "logprob": -0.044294122606515884
+            },
+            {
+              "token": " dro",
+              "logprob": -0.33562904596328735
+            },
+            {
+              "token": "opy",
+              "logprob": -0.23639725148677826
+            },
+            {
+              "token": ".",
+              "logprob": -0.37102726101875305
+            },
+            {
+              "token": " \n",
+              "logprob": -2.173511028289795
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.2143921852111816
+            },
+            {
+              "token": ":",
+              "logprob": -0.2505280375480652
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The plant looked sad and droopy.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.127841591835022
+            },
+            {
+              "token": " plant",
+              "logprob": -0.1262679100036621
+            },
+            {
+              "token": " looked",
+              "logprob": -2.3701632022857666
+            },
+            {
+              "token": " sad",
+              "logprob": -0.6534308195114136
+            },
+            {
+              "token": " and",
+              "logprob": -0.184073343873024
+            },
+            {
+              "token": " dro",
+              "logprob": -0.16555753350257874
+            },
+            {
+              "token": "opy",
+              "logprob": -0.07195846736431122
+            },
+            {
+              "token": ".",
+              "logprob": -0.5248910784721375
+            },
+            {
+              "token": " \n",
+              "logprob": -2.138170003890991
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It looked a little sad, droppy.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.6931463479995728
+            },
+            {
+              "token": " looked",
+              "logprob": -2.7836079597473145
+            },
+            {
+              "token": " a",
+              "logprob": -2.436370372772217
+            },
+            {
+              "token": " little",
+              "logprob": -0.07915620505809784
+            },
+            {
+              "token": " sad",
+              "logprob": -0.7434163093566895
+            },
+            {
+              "token": ",",
+              "logprob": -2.583649158477783
+            },
+            {
+              "token": " dro",
+              "logprob": -2.046813726425171
+            },
+            {
+              "token": "ppy",
+              "logprob": -2.461243152618408
+            },
+            {
+              "token": ".",
+              "logprob": -3.5124287605285645
+            },
+            {
+              "token": " ",
+              "logprob": -2.591240644454956
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9868757128715515
+            },
+            {
+              "token": ":",
+              "logprob": -0.03879567235708237
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "The plant was very droopy.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.127841591835022
+            },
+            {
+              "token": " plant",
+              "logprob": -0.1262679100036621
+            },
+            {
+              "token": " was",
+              "logprob": -0.28663843870162964
+            },
+            {
+              "token": " very",
+              "logprob": -2.846073865890503
+            },
+            {
+              "token": " dro",
+              "logprob": -2.2137913703918457
+            },
+            {
+              "token": "opy",
+              "logprob": -0.14014817774295807
+            },
+            {
+              "token": ".",
+              "logprob": -1.0665558576583862
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8268323540687561
+            },
+            {
+              "token": ":",
+              "logprob": -0.027974002063274384
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It was sad and droopy.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.6931463479995728
+            },
+            {
+              "token": " was",
+              "logprob": -0.1615186631679535
+            },
+            {
+              "token": " sad",
+              "logprob": -3.0608584880828857
+            },
+            {
+              "token": " and",
+              "logprob": -0.2671979069709778
+            },
+            {
+              "token": " dro",
+              "logprob": -0.2693701982498169
+            },
+            {
+              "token": "opy",
+              "logprob": -0.14272284507751465
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.7172064781188965
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Wilty, droppy and sad.",
+          "token_data": [
+            {
+              "token": " Wil",
+              "logprob": -3.783277988433838
+            },
+            {
+              "token": "ty",
+              "logprob": -1.9340111017227173
+            },
+            {
+              "token": ",",
+              "logprob": -2.1081669330596924
+            },
+            {
+              "token": " dro",
+              "logprob": -1.0704751014709473
+            },
+            {
+              "token": "ppy",
+              "logprob": -1.6784582138061523
+            },
+            {
+              "token": " and",
+              "logprob": -1.905405879020691
+            },
+            {
+              "token": " sad",
+              "logprob": -0.5943269729614258
+            },
+            {
+              "token": ".",
+              "logprob": -0.6818468570709229
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.5558676719665527
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

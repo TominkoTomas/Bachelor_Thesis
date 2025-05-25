@@ -1,0 +1,1199 @@
+{
+  "story": "Owen and Chloe were best friends. They liked to play outside every day after school. One day, Owen had an idea. He wanted to make Chloe laugh. Owen wrote a funny joke on a piece of paper. He folded it and put it in his pocket. When he saw Chloe, he said, \"I have a surprise for you!\" Chloe smiled and asked, \"What is it?\" Owen took out the paper and read the joke. Chloe laughed so hard she almost fell over. Owen was happy because he loved making Chloe laugh. After that, they went to the park and played on the swings. The sun was shining, and they had a great time. Owen thought of more jokes to tell Chloe later. Chloe was excited to hear them. They both knew they would always be friends. The end.",
+  "characters": [
+    {
+      "question": "What tone did Owen's joke have?",
+      "character": "Owen",
+      "story": "Owen and Chloe were best friends. They liked to play outside every day after school. One day, Owen had an idea. He wanted to make Chloe laugh. Owen wrote a funny joke on a piece of paper. He folded it and put it in his pocket. When he saw Chloe, he said, \"I have a surprise for you!\" Chloe smiled and asked, \"What is it?\" Owen took out the paper and read the joke. Chloe laughed so hard she almost fell over. Owen was happy because he loved making Chloe laugh. After that, they went to the park and played on the swings. The sun was shining, and they had a great time. Owen thought of more jokes to tell Chloe later. Chloe was excited to hear them. They both knew they would always be friends. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.0773112773895264
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The tone Owen had for the joke was laughing really hard.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.2391655445098877
+            },
+            {
+              "token": " tone",
+              "logprob": -0.4140106737613678
+            },
+            {
+              "token": " Owen",
+              "logprob": -3.189955949783325
+            },
+            {
+              "token": " had",
+              "logprob": -1.2986546754837036
+            },
+            {
+              "token": " for",
+              "logprob": -3.5148181915283203
+            },
+            {
+              "token": " the",
+              "logprob": -2.2420921325683594
+            },
+            {
+              "token": " joke",
+              "logprob": -0.18719547986984253
+            },
+            {
+              "token": " was",
+              "logprob": -0.2567240595817566
+            },
+            {
+              "token": " laughing",
+              "logprob": -4.202672958374023
+            },
+            {
+              "token": " really",
+              "logprob": -2.3452534675598145
+            },
+            {
+              "token": " hard",
+              "logprob": -0.06309103965759277
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.4976742267608643
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Joy.",
+          "token_data": [
+            {
+              "token": " Joy",
+              "logprob": -4.423498153686523
+            },
+            {
+              "token": ".",
+              "logprob": -2.6294829845428467
+            },
+            {
+              "token": " Q",
+              "logprob": -1.083376407623291
+            },
+            {
+              "token": ":",
+              "logprob": -0.016957176849246025
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "When he told the joke, what tone did Owen have? I am very glad! B: Chloe had a great time. I was so funny! C: After that day, I think about more jokes to tell Chloe later.",
+          "token_data": [
+            {
+              "token": " When",
+              "logprob": -4.872345924377441
+            },
+            {
+              "token": " he",
+              "logprob": -1.8575423955917358
+            },
+            {
+              "token": " told",
+              "logprob": -3.1547913551330566
+            },
+            {
+              "token": " the",
+              "logprob": -0.6144114136695862
+            },
+            {
+              "token": " joke",
+              "logprob": -0.08017555624246597
+            },
+            {
+              "token": ",",
+              "logprob": -0.2834847867488861
+            },
+            {
+              "token": " what",
+              "logprob": -4.181222915649414
+            },
+            {
+              "token": " tone",
+              "logprob": -1.2962863445281982
+            },
+            {
+              "token": " did",
+              "logprob": -0.12342292815446854
+            },
+            {
+              "token": " Owen",
+              "logprob": -0.9083646535873413
+            },
+            {
+              "token": " have",
+              "logprob": -0.5938971042633057
+            },
+            {
+              "token": "?",
+              "logprob": -0.3900904953479767
+            },
+            {
+              "token": " I",
+              "logprob": -4.169558525085449
+            },
+            {
+              "token": " am",
+              "logprob": -2.8260364532470703
+            },
+            {
+              "token": " very",
+              "logprob": -2.540299892425537
+            },
+            {
+              "token": " glad",
+              "logprob": -3.1094486713409424
+            },
+            {
+              "token": "!",
+              "logprob": -3.0137600898742676
+            },
+            {
+              "token": " B",
+              "logprob": -3.906965732574463
+            },
+            {
+              "token": ":",
+              "logprob": -0.01808077283203602
+            },
+            {
+              "token": " Chloe",
+              "logprob": -3.7824935913085938
+            },
+            {
+              "token": " had",
+              "logprob": -3.4572055339813232
+            },
+            {
+              "token": " a",
+              "logprob": -0.40803101658821106
+            },
+            {
+              "token": " great",
+              "logprob": -1.8787460327148438
+            },
+            {
+              "token": " time",
+              "logprob": -1.1091594696044922
+            },
+            {
+              "token": ".",
+              "logprob": -1.064195156097412
+            },
+            {
+              "token": " I",
+              "logprob": -1.9750605821609497
+            },
+            {
+              "token": " was",
+              "logprob": -2.9072089195251465
+            },
+            {
+              "token": " so",
+              "logprob": -1.6644625663757324
+            },
+            {
+              "token": " funny",
+              "logprob": -2.4250831604003906
+            },
+            {
+              "token": "!",
+              "logprob": -0.4279900789260864
+            },
+            {
+              "token": " C",
+              "logprob": -0.48367875814437866
+            },
+            {
+              "token": ":",
+              "logprob": -0.014860411174595356
+            },
+            {
+              "token": " After",
+              "logprob": -3.1164846420288086
+            },
+            {
+              "token": " that",
+              "logprob": -0.4254285395145416
+            },
+            {
+              "token": " day",
+              "logprob": -3.5434088706970215
+            },
+            {
+              "token": ",",
+              "logprob": -0.08510349690914154
+            },
+            {
+              "token": " I",
+              "logprob": -2.3738884925842285
+            },
+            {
+              "token": " think",
+              "logprob": -4.041777610778809
+            },
+            {
+              "token": " about",
+              "logprob": -3.343085289001465
+            },
+            {
+              "token": " more",
+              "logprob": -0.855457067489624
+            },
+            {
+              "token": " jokes",
+              "logprob": -0.032702114433050156
+            },
+            {
+              "token": " to",
+              "logprob": -0.4035540223121643
+            },
+            {
+              "token": " tell",
+              "logprob": -0.08051007986068726
+            },
+            {
+              "token": " Chloe",
+              "logprob": -0.21433314681053162
+            },
+            {
+              "token": " later",
+              "logprob": -0.726530134677887
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.501786470413208
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "I believe Owen had a tone that would make you fall over. It's a lot of work to get a joke like that!",
+          "token_data": [
+            {
+              "token": " I",
+              "logprob": -4.465452194213867
+            },
+            {
+              "token": " believe",
+              "logprob": -5.152315616607666
+            },
+            {
+              "token": " Owen",
+              "logprob": -2.138718605041504
+            },
+            {
+              "token": " had",
+              "logprob": -1.7963522672653198
+            },
+            {
+              "token": " a",
+              "logprob": -0.20363786816596985
+            },
+            {
+              "token": " tone",
+              "logprob": -3.4496893882751465
+            },
+            {
+              "token": " that",
+              "logprob": -1.4381111860275269
+            },
+            {
+              "token": " would",
+              "logprob": -3.627305269241333
+            },
+            {
+              "token": " make",
+              "logprob": -0.838589072227478
+            },
+            {
+              "token": " you",
+              "logprob": -2.2110447883605957
+            },
+            {
+              "token": " fall",
+              "logprob": -3.2422711849212646
+            },
+            {
+              "token": " over",
+              "logprob": -0.5325441360473633
+            },
+            {
+              "token": ".",
+              "logprob": -1.3887215852737427
+            },
+            {
+              "token": " It",
+              "logprob": -3.9812841415405273
+            },
+            {
+              "token": "'s",
+              "logprob": -2.9898483753204346
+            },
+            {
+              "token": " a",
+              "logprob": -1.265618920326233
+            },
+            {
+              "token": " lot",
+              "logprob": -3.2977023124694824
+            },
+            {
+              "token": " of",
+              "logprob": -0.5176069736480713
+            },
+            {
+              "token": " work",
+              "logprob": -2.6220591068267822
+            },
+            {
+              "token": " to",
+              "logprob": -0.6685484051704407
+            },
+            {
+              "token": " get",
+              "logprob": -2.1606428623199463
+            },
+            {
+              "token": " a",
+              "logprob": -1.544526219367981
+            },
+            {
+              "token": " joke",
+              "logprob": -2.639014959335327
+            },
+            {
+              "token": " like",
+              "logprob": -1.1729177236557007
+            },
+            {
+              "token": " that",
+              "logprob": -0.37229183316230774
+            },
+            {
+              "token": "!",
+              "logprob": -3.3022425174713135
+            },
+            {
+              "token": " Q",
+              "logprob": -2.989896297454834
+            },
+            {
+              "token": ":",
+              "logprob": -0.04436665028333664
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Owen read the joke and Chloe laughed so hard they almost fell over. Owen was happy because he loved making Chloe laugh.",
+          "token_data": [
+            {
+              "token": " Owen",
+              "logprob": -3.8322842121124268
+            },
+            {
+              "token": " read",
+              "logprob": -3.4908154010772705
+            },
+            {
+              "token": " the",
+              "logprob": -0.4718914330005646
+            },
+            {
+              "token": " joke",
+              "logprob": -0.06693560630083084
+            },
+            {
+              "token": " and",
+              "logprob": -1.8140954971313477
+            },
+            {
+              "token": " Chloe",
+              "logprob": -2.5923075675964355
+            },
+            {
+              "token": " laughed",
+              "logprob": -0.14857853949069977
+            },
+            {
+              "token": " so",
+              "logprob": -0.21984928846359253
+            },
+            {
+              "token": " hard",
+              "logprob": -0.019301336258649826
+            },
+            {
+              "token": " they",
+              "logprob": -2.6776974201202393
+            },
+            {
+              "token": " almost",
+              "logprob": -0.05406171455979347
+            },
+            {
+              "token": " fell",
+              "logprob": -0.020232485607266426
+            },
+            {
+              "token": " over",
+              "logprob": -0.046002645045518875
+            },
+            {
+              "token": ".",
+              "logprob": -0.28762826323509216
+            },
+            {
+              "token": " Owen",
+              "logprob": -3.3575377464294434
+            },
+            {
+              "token": " was",
+              "logprob": -0.2716081440448761
+            },
+            {
+              "token": " happy",
+              "logprob": -0.23699899017810822
+            },
+            {
+              "token": " because",
+              "logprob": -0.159781813621521
+            },
+            {
+              "token": " he",
+              "logprob": -0.035580236464738846
+            },
+            {
+              "token": " loved",
+              "logprob": -0.05267174914479256
+            },
+            {
+              "token": " making",
+              "logprob": -0.06187651306390762
+            },
+            {
+              "token": " Chloe",
+              "logprob": -0.039186976850032806
+            },
+            {
+              "token": " laugh",
+              "logprob": -0.021175377070903778
+            },
+            {
+              "token": ".",
+              "logprob": -0.25413981080055237
+            },
+            {
+              "token": " Q",
+              "logprob": -1.952438235282898
+            },
+            {
+              "token": ":",
+              "logprob": -0.04677197337150574
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The tone of the joke that made Chloe laugh was funny.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.2391655445098877
+            },
+            {
+              "token": " tone",
+              "logprob": -0.4140106737613678
+            },
+            {
+              "token": " of",
+              "logprob": -0.9375565052032471
+            },
+            {
+              "token": " the",
+              "logprob": -0.7312148809432983
+            },
+            {
+              "token": " joke",
+              "logprob": -0.08513667434453964
+            },
+            {
+              "token": " that",
+              "logprob": -3.4431591033935547
+            },
+            {
+              "token": " made",
+              "logprob": -3.3256146907806396
+            },
+            {
+              "token": " Chloe",
+              "logprob": -0.04873630031943321
+            },
+            {
+              "token": " laugh",
+              "logprob": -0.09358136355876923
+            },
+            {
+              "token": " was",
+              "logprob": -1.1264654397964478
+            },
+            {
+              "token": " funny",
+              "logprob": -1.944631814956665
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.8008463382720947
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Fun",
+          "token_data": [
+            {
+              "token": " Fun",
+              "logprob": -4.946366310119629
+            },
+            {
+              "token": " \n",
+              "logprob": -3.809323310852051
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It had a tone of silliness to it.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.7668650150299072
+            },
+            {
+              "token": " had",
+              "logprob": -0.8168203234672546
+            },
+            {
+              "token": " a",
+              "logprob": -0.10304819047451019
+            },
+            {
+              "token": " tone",
+              "logprob": -3.6869263648986816
+            },
+            {
+              "token": " of",
+              "logprob": -0.32403334975242615
+            },
+            {
+              "token": " sill",
+              "logprob": -5.406098365783691
+            },
+            {
+              "token": "iness",
+              "logprob": -0.0024964616168290377
+            },
+            {
+              "token": " to",
+              "logprob": -2.681793212890625
+            },
+            {
+              "token": " it",
+              "logprob": -0.08548170328140259
+            },
+            {
+              "token": ".",
+              "logprob": -0.4066111743450165
+            },
+            {
+              "token": " \n",
+              "logprob": -1.39471435546875
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "It made her laugh too hard.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.7668650150299072
+            },
+            {
+              "token": " made",
+              "logprob": -2.926647424697876
+            },
+            {
+              "token": " her",
+              "logprob": -1.0646086931228638
+            },
+            {
+              "token": " laugh",
+              "logprob": -0.13279631733894348
+            },
+            {
+              "token": " too",
+              "logprob": -4.246034622192383
+            },
+            {
+              "token": " hard",
+              "logprob": -0.4450114965438843
+            },
+            {
+              "token": ".",
+              "logprob": -1.6888225078582764
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.8114144802093506
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What tone did Chloe's joke have?",
+      "character": "Chloe",
+      "story": "Owen and Chloe were best friends. They liked to play outside every day after school. One day, Owen had an idea. He wanted to make Chloe laugh. Owen wrote a funny joke on a piece of paper. He folded it and put it in his pocket. When he saw Chloe, he said, \"I have a surprise for you!\" Chloe smiled and asked, \"What is it?\" Owen took out the paper and read the joke. Chloe laughed so hard she almost fell over. Owen was happy because he loved making Chloe laugh. After that, they went to the park and played on the swings. The sun was shining, and they had a great time. Owen thought of more jokes to tell Chloe later. Chloe was excited to hear them. They both knew they would always be friends. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Very funny.",
+          "token_data": [
+            {
+              "token": " Very",
+              "logprob": -3.880045175552368
+            },
+            {
+              "token": " funny",
+              "logprob": -0.6843835115432739
+            },
+            {
+              "token": ".",
+              "logprob": -1.126012921333313
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.005171537399292
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Funny - it is funny because she laughed so hard.",
+          "token_data": [
+            {
+              "token": " Funny",
+              "logprob": -4.102134704589844
+            },
+            {
+              "token": " -",
+              "logprob": -4.140712261199951
+            },
+            {
+              "token": " it",
+              "logprob": -3.8762199878692627
+            },
+            {
+              "token": " is",
+              "logprob": -3.952777862548828
+            },
+            {
+              "token": " funny",
+              "logprob": -2.934295177459717
+            },
+            {
+              "token": " because",
+              "logprob": -1.8958972692489624
+            },
+            {
+              "token": " she",
+              "logprob": -2.7593934535980225
+            },
+            {
+              "token": " laughed",
+              "logprob": -0.9462544322013855
+            },
+            {
+              "token": " so",
+              "logprob": -0.25945448875427246
+            },
+            {
+              "token": " hard",
+              "logprob": -0.04055057838559151
+            },
+            {
+              "token": ".",
+              "logprob": -2.339402437210083
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.7454490661621094
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "It had a really big laugh.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.71103835105896
+            },
+            {
+              "token": " had",
+              "logprob": -0.767868161201477
+            },
+            {
+              "token": " a",
+              "logprob": -0.1294676810503006
+            },
+            {
+              "token": " really",
+              "logprob": -3.8230252265930176
+            },
+            {
+              "token": " big",
+              "logprob": -2.5332202911376953
+            },
+            {
+              "token": " laugh",
+              "logprob": -1.3868707418441772
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.118621587753296
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It was a tone of laughter!",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.71103835105896
+            },
+            {
+              "token": " was",
+              "logprob": -1.1346360445022583
+            },
+            {
+              "token": " a",
+              "logprob": -0.7458260655403137
+            },
+            {
+              "token": " tone",
+              "logprob": -4.178570747375488
+            },
+            {
+              "token": " of",
+              "logprob": -0.4626978039741516
+            },
+            {
+              "token": " laughter",
+              "logprob": -0.8503931760787964
+            },
+            {
+              "token": "!",
+              "logprob": -3.3979837894439697
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.237117767333984
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "When was it appropriate for Owen to share this joke with her? B: What do you think Chloe liked the most about this situation? C: What is an interesting part of the story?",
+          "token_data": [
+            {
+              "token": " When",
+              "logprob": -4.850706100463867
+            },
+            {
+              "token": " was",
+              "logprob": -4.384607315063477
+            },
+            {
+              "token": " it",
+              "logprob": -3.0042669773101807
+            },
+            {
+              "token": " appropriate",
+              "logprob": -5.021417617797852
+            },
+            {
+              "token": " for",
+              "logprob": -1.0118474960327148
+            },
+            {
+              "token": " Owen",
+              "logprob": -0.38529232144355774
+            },
+            {
+              "token": " to",
+              "logprob": -0.020118696615099907
+            },
+            {
+              "token": " share",
+              "logprob": -2.050973653793335
+            },
+            {
+              "token": " this",
+              "logprob": -3.5423073768615723
+            },
+            {
+              "token": " joke",
+              "logprob": -0.345164954662323
+            },
+            {
+              "token": " with",
+              "logprob": -0.3989221453666687
+            },
+            {
+              "token": " her",
+              "logprob": -2.6895177364349365
+            },
+            {
+              "token": "?",
+              "logprob": -0.18061484396457672
+            },
+            {
+              "token": " B",
+              "logprob": -2.607097625732422
+            },
+            {
+              "token": ":",
+              "logprob": -0.015888165682554245
+            },
+            {
+              "token": " What",
+              "logprob": -0.893146812915802
+            },
+            {
+              "token": " do",
+              "logprob": -3.350710391998291
+            },
+            {
+              "token": " you",
+              "logprob": -0.127831369638443
+            },
+            {
+              "token": " think",
+              "logprob": -0.15149064362049103
+            },
+            {
+              "token": " Chloe",
+              "logprob": -4.705961227416992
+            },
+            {
+              "token": " liked",
+              "logprob": -3.060784101486206
+            },
+            {
+              "token": " the",
+              "logprob": -3.4344711303710938
+            },
+            {
+              "token": " most",
+              "logprob": -0.22394193708896637
+            },
+            {
+              "token": " about",
+              "logprob": -0.8290053009986877
+            },
+            {
+              "token": " this",
+              "logprob": -1.031659483909607
+            },
+            {
+              "token": " situation",
+              "logprob": -3.8823516368865967
+            },
+            {
+              "token": "?",
+              "logprob": -0.07332555204629898
+            },
+            {
+              "token": " C",
+              "logprob": -0.810248613357544
+            },
+            {
+              "token": ":",
+              "logprob": -0.008053568191826344
+            },
+            {
+              "token": " What",
+              "logprob": -0.6981354355812073
+            },
+            {
+              "token": " is",
+              "logprob": -2.9277093410491943
+            },
+            {
+              "token": " an",
+              "logprob": -3.3972158432006836
+            },
+            {
+              "token": " interesting",
+              "logprob": -3.9698376655578613
+            },
+            {
+              "token": " part",
+              "logprob": -4.069847106933594
+            },
+            {
+              "token": " of",
+              "logprob": -0.3870987594127655
+            },
+            {
+              "token": " the",
+              "logprob": -1.5544579029083252
+            },
+            {
+              "token": " story",
+              "logprob": -0.7155876159667969
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -4.562119960784912
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "That is a joke on the face of it.",
+          "token_data": [
+            {
+              "token": " That",
+              "logprob": -4.928388595581055
+            },
+            {
+              "token": " is",
+              "logprob": -2.478633403778076
+            },
+            {
+              "token": " a",
+              "logprob": -0.8521820306777954
+            },
+            {
+              "token": " joke",
+              "logprob": -3.167647361755371
+            },
+            {
+              "token": " on",
+              "logprob": -3.6075572967529297
+            },
+            {
+              "token": " the",
+              "logprob": -2.360102653503418
+            },
+            {
+              "token": " face",
+              "logprob": -3.7386879920959473
+            },
+            {
+              "token": " of",
+              "logprob": -1.632391095161438
+            },
+            {
+              "token": " it",
+              "logprob": -3.984617233276367
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.1825332641601562
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Chole laughed so hard she almost fell over.",
+          "token_data": [
+            {
+              "token": " Ch",
+              "logprob": -4.8513641357421875
+            },
+            {
+              "token": "ole",
+              "logprob": -2.5405592918395996
+            },
+            {
+              "token": " laughed",
+              "logprob": -1.9360857009887695
+            },
+            {
+              "token": " so",
+              "logprob": -0.15713034570217133
+            },
+            {
+              "token": " hard",
+              "logprob": -0.028658626601099968
+            },
+            {
+              "token": " she",
+              "logprob": -0.1005885973572731
+            },
+            {
+              "token": " almost",
+              "logprob": -0.042026061564683914
+            },
+            {
+              "token": " fell",
+              "logprob": -0.034686073660850525
+            },
+            {
+              "token": " over",
+              "logprob": -0.04254281148314476
+            },
+            {
+              "token": ".",
+              "logprob": -0.4222274422645569
+            },
+            {
+              "token": " \n",
+              "logprob": -1.8529620170593262
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n\n",
+              "logprob": -3.228238821029663
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "funny and exciting.",
+          "token_data": [
+            {
+              "token": " funny",
+              "logprob": -5.279385566711426
+            },
+            {
+              "token": " and",
+              "logprob": -3.7680985927581787
+            },
+            {
+              "token": " exciting",
+              "logprob": -2.2705302238464355
+            },
+            {
+              "token": ".",
+              "logprob": -0.9863717555999756
+            },
+            {
+              "token": " \n",
+              "logprob": -1.7864196300506592
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "(very funny) B: (funny, but) C: (unfuny)",
+          "token_data": [
+            {
+              "token": " (",
+              "logprob": -5.174708366394043
+            },
+            {
+              "token": "very",
+              "logprob": -4.884515285491943
+            },
+            {
+              "token": " funny",
+              "logprob": -1.5807645320892334
+            },
+            {
+              "token": ")",
+              "logprob": -0.577996015548706
+            },
+            {
+              "token": " B",
+              "logprob": -2.243062973022461
+            },
+            {
+              "token": ":",
+              "logprob": -0.020981619134545326
+            },
+            {
+              "token": " (",
+              "logprob": -0.11319829523563385
+            },
+            {
+              "token": "fun",
+              "logprob": -1.5010294914245605
+            },
+            {
+              "token": "ny",
+              "logprob": -0.013991247862577438
+            },
+            {
+              "token": ",",
+              "logprob": -4.069839000701904
+            },
+            {
+              "token": " but",
+              "logprob": -0.4912472069263458
+            },
+            {
+              "token": ")",
+              "logprob": -1.8985050916671753
+            },
+            {
+              "token": " C",
+              "logprob": -0.14988774061203003
+            },
+            {
+              "token": ":",
+              "logprob": -0.020111102610826492
+            },
+            {
+              "token": " (",
+              "logprob": -0.04895438626408577
+            },
+            {
+              "token": "un",
+              "logprob": -4.9954752922058105
+            },
+            {
+              "token": "fun",
+              "logprob": -0.19400425255298615
+            },
+            {
+              "token": "y",
+              "logprob": -3.685291290283203
+            },
+            {
+              "token": ")\n\n",
+              "logprob": -2.6424713134765625
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

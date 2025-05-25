@@ -1,0 +1,2015 @@
+{
+  "story": "James and Emma were neighbors. James was loud and loved parties. Emma was quiet and liked books. One day, James threw a wild party. The music was so loud Emma could hear it in her house. She tried to read but couldn’t focus. Emma decided to go over and ask James to turn it down. When she knocked, James opened the door with a big smile. “Join the fun!” he said. Emma said no thanks but asked if he could lower the music. James agreed and turned it down a little. Emma went back home happy. The next day, James saw Emma outside. He apologized for the noise. Emma said it was okay and invited him for tea. James was surprised but went. They talked and laughed. From that day, James was quieter, and Emma didn’t mind his small parties. They became good friends. The end.",
+  "characters": [
+    {
+      "question": "How would you describe the party James hosted?",
+      "character": "James",
+      "story": "James and Emma were neighbors. James was loud and loved parties. Emma was quiet and liked books. One day, James threw a wild party. The music was so loud Emma could hear it in her house. She tried to read but couldn’t focus. Emma decided to go over and ask James to turn it down. When she knocked, James opened the door with a big smile. “Join the fun!” he said. Emma said no thanks but asked if he could lower the music. James agreed and turned it down a little. Emma went back home happy. The next day, James saw Emma outside. He apologized for the noise. Emma said it was okay and invited him for tea. James was surprised but went. They talked and laughed. From that day, James was quieter, and Emma didn’t mind his small parties. They became good friends. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.979856491088867
+            },
+            {
+              "token": ":",
+              "logprob": -0.10406980663537979
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "I think James’s party was a wild celebration. The loud music could be heard even in Emma’s house. This made her want to leave. So, she knocked on James’s door with a big smile and said, “It was so loud that I couldn’t read my book.” Emma didn’t mind as long as James turned down the music a little bit. They laughed at each other from then on!",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.9851675033569336
+            },
+            {
+              "token": " I",
+              "logprob": -4.465364456176758
+            },
+            {
+              "token": " think",
+              "logprob": -2.98736572265625
+            },
+            {
+              "token": " James",
+              "logprob": -1.404423713684082
+            },
+            {
+              "token": "’s",
+              "logprob": -2.4896509647369385
+            },
+            {
+              "token": " party",
+              "logprob": -0.530264675617218
+            },
+            {
+              "token": " was",
+              "logprob": -0.3431582450866699
+            },
+            {
+              "token": " a",
+              "logprob": -2.0117435455322266
+            },
+            {
+              "token": " wild",
+              "logprob": -3.073411464691162
+            },
+            {
+              "token": " celebration",
+              "logprob": -3.7691802978515625
+            },
+            {
+              "token": ".",
+              "logprob": -0.8212156295776367
+            },
+            {
+              "token": " The",
+              "logprob": -2.1677541732788086
+            },
+            {
+              "token": " loud",
+              "logprob": -1.9569807052612305
+            },
+            {
+              "token": " music",
+              "logprob": -0.14386063814163208
+            },
+            {
+              "token": " could",
+              "logprob": -3.9850168228149414
+            },
+            {
+              "token": " be",
+              "logprob": -0.13282501697540283
+            },
+            {
+              "token": " heard",
+              "logprob": -0.12579236924648285
+            },
+            {
+              "token": " even",
+              "logprob": -2.1744816303253174
+            },
+            {
+              "token": " in",
+              "logprob": -0.46769779920578003
+            },
+            {
+              "token": " Emma",
+              "logprob": -0.31516578793525696
+            },
+            {
+              "token": "’s",
+              "logprob": -0.028228649869561195
+            },
+            {
+              "token": " house",
+              "logprob": -0.5464236736297607
+            },
+            {
+              "token": ".",
+              "logprob": -0.15690049529075623
+            },
+            {
+              "token": " This",
+              "logprob": -3.634763717651367
+            },
+            {
+              "token": " made",
+              "logprob": -1.2947394847869873
+            },
+            {
+              "token": " her",
+              "logprob": -0.6288808584213257
+            },
+            {
+              "token": " want",
+              "logprob": -1.2495627403259277
+            },
+            {
+              "token": " to",
+              "logprob": -0.004535744432359934
+            },
+            {
+              "token": " leave",
+              "logprob": -2.0359416007995605
+            },
+            {
+              "token": ".",
+              "logprob": -1.485042691230774
+            },
+            {
+              "token": " So",
+              "logprob": -2.457766056060791
+            },
+            {
+              "token": ",",
+              "logprob": -0.8528865575790405
+            },
+            {
+              "token": " she",
+              "logprob": -0.30321621894836426
+            },
+            {
+              "token": " knocked",
+              "logprob": -1.4614202976226807
+            },
+            {
+              "token": " on",
+              "logprob": -0.337154358625412
+            },
+            {
+              "token": " James",
+              "logprob": -0.6853028535842896
+            },
+            {
+              "token": "’s",
+              "logprob": -0.28485551476478577
+            },
+            {
+              "token": " door",
+              "logprob": -0.09628908336162567
+            },
+            {
+              "token": " with",
+              "logprob": -2.2341809272766113
+            },
+            {
+              "token": " a",
+              "logprob": -0.4079609811306
+            },
+            {
+              "token": " big",
+              "logprob": -1.5236382484436035
+            },
+            {
+              "token": " smile",
+              "logprob": -0.01595105230808258
+            },
+            {
+              "token": " and",
+              "logprob": -2.1012017726898193
+            },
+            {
+              "token": " said",
+              "logprob": -2.1525070667266846
+            },
+            {
+              "token": ",",
+              "logprob": -0.8705663084983826
+            },
+            {
+              "token": " “",
+              "logprob": -0.09242203086614609
+            },
+            {
+              "token": "It",
+              "logprob": -3.624345064163208
+            },
+            {
+              "token": " was",
+              "logprob": -1.9009236097335815
+            },
+            {
+              "token": " so",
+              "logprob": -2.4537529945373535
+            },
+            {
+              "token": " loud",
+              "logprob": -0.14916454255580902
+            },
+            {
+              "token": " that",
+              "logprob": -1.6951119899749756
+            },
+            {
+              "token": " I",
+              "logprob": -0.10320828855037689
+            },
+            {
+              "token": " couldn",
+              "logprob": -0.8138541579246521
+            },
+            {
+              "token": "’t",
+              "logprob": -0.03145748749375343
+            },
+            {
+              "token": " read",
+              "logprob": -0.3707939386367798
+            },
+            {
+              "token": " my",
+              "logprob": -2.2327442169189453
+            },
+            {
+              "token": " book",
+              "logprob": -0.1309683471918106
+            },
+            {
+              "token": ".”",
+              "logprob": -1.1834425926208496
+            },
+            {
+              "token": " Emma",
+              "logprob": -4.1248393058776855
+            },
+            {
+              "token": " didn",
+              "logprob": -4.051471710205078
+            },
+            {
+              "token": "’t",
+              "logprob": -0.03321147337555885
+            },
+            {
+              "token": " mind",
+              "logprob": -0.6946523785591125
+            },
+            {
+              "token": " as",
+              "logprob": -4.246500015258789
+            },
+            {
+              "token": " long",
+              "logprob": -0.6014981269836426
+            },
+            {
+              "token": " as",
+              "logprob": -0.011601835489273071
+            },
+            {
+              "token": " James",
+              "logprob": -0.7066633105278015
+            },
+            {
+              "token": " turned",
+              "logprob": -1.8531908988952637
+            },
+            {
+              "token": " down",
+              "logprob": -1.1082340478897095
+            },
+            {
+              "token": " the",
+              "logprob": -0.22735677659511566
+            },
+            {
+              "token": " music",
+              "logprob": -0.29419487714767456
+            },
+            {
+              "token": " a",
+              "logprob": -1.708017349243164
+            },
+            {
+              "token": " little",
+              "logprob": -0.21877850592136383
+            },
+            {
+              "token": " bit",
+              "logprob": -1.5991774797439575
+            },
+            {
+              "token": ".",
+              "logprob": -0.14242379367351532
+            },
+            {
+              "token": " They",
+              "logprob": -3.0886402130126953
+            },
+            {
+              "token": " laughed",
+              "logprob": -2.9560537338256836
+            },
+            {
+              "token": " at",
+              "logprob": -4.43329381942749
+            },
+            {
+              "token": " each",
+              "logprob": -0.6761347055435181
+            },
+            {
+              "token": " other",
+              "logprob": -0.036630138754844666
+            },
+            {
+              "token": " from",
+              "logprob": -3.7156786918640137
+            },
+            {
+              "token": " then",
+              "logprob": -3.56072735786438
+            },
+            {
+              "token": " on",
+              "logprob": -0.08948834240436554
+            },
+            {
+              "token": "!",
+              "logprob": -3.3294875621795654
+            },
+            {
+              "token": " \n",
+              "logprob": -2.9282073974609375
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A noisy party",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -4.038666725158691
+            },
+            {
+              "token": " noisy",
+              "logprob": -2.685129404067993
+            },
+            {
+              "token": " party",
+              "logprob": -0.4275376796722412
+            },
+            {
+              "token": " Q",
+              "logprob": -3.701655149459839
+            },
+            {
+              "token": ":",
+              "logprob": -0.02353227138519287
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "How would you describe the party James hosted?",
+          "token_data": [
+            {
+              "token": " How",
+              "logprob": -3.776249885559082
+            },
+            {
+              "token": " would",
+              "logprob": -0.37390682101249695
+            },
+            {
+              "token": " you",
+              "logprob": -0.024488458409905434
+            },
+            {
+              "token": " describe",
+              "logprob": -0.028524013236165047
+            },
+            {
+              "token": " the",
+              "logprob": -0.10671095550060272
+            },
+            {
+              "token": " party",
+              "logprob": -0.14240726828575134
+            },
+            {
+              "token": " James",
+              "logprob": -0.0747978538274765
+            },
+            {
+              "token": " hosted",
+              "logprob": -0.13391375541687012
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -2.7962162494659424
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "James was loud and liked parties.",
+          "token_data": [
+            {
+              "token": " James",
+              "logprob": -1.5765105485916138
+            },
+            {
+              "token": " was",
+              "logprob": -1.2360236644744873
+            },
+            {
+              "token": " loud",
+              "logprob": -0.583889365196228
+            },
+            {
+              "token": " and",
+              "logprob": -0.25306805968284607
+            },
+            {
+              "token": " liked",
+              "logprob": -3.168342351913452
+            },
+            {
+              "token": " parties",
+              "logprob": -0.14728078246116638
+            },
+            {
+              "token": ".",
+              "logprob": -0.11650470644235611
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.1496667861938477
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "What type of party? B: Describe a good friend to you. C: Tell me what you did today.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.3037939071655273
+            },
+            {
+              "token": " type",
+              "logprob": -3.982548236846924
+            },
+            {
+              "token": " of",
+              "logprob": -0.03437340632081032
+            },
+            {
+              "token": " party",
+              "logprob": -1.4864132404327393
+            },
+            {
+              "token": "?",
+              "logprob": -1.823859691619873
+            },
+            {
+              "token": " B",
+              "logprob": -2.4275031089782715
+            },
+            {
+              "token": ":",
+              "logprob": -0.014801095239818096
+            },
+            {
+              "token": " Describe",
+              "logprob": -3.9284300804138184
+            },
+            {
+              "token": " a",
+              "logprob": -3.336146831512451
+            },
+            {
+              "token": " good",
+              "logprob": -4.204810619354248
+            },
+            {
+              "token": " friend",
+              "logprob": -2.1018688678741455
+            },
+            {
+              "token": " to",
+              "logprob": -3.5079751014709473
+            },
+            {
+              "token": " you",
+              "logprob": -0.4985901713371277
+            },
+            {
+              "token": ".",
+              "logprob": -0.38062116503715515
+            },
+            {
+              "token": " C",
+              "logprob": -0.9389471411705017
+            },
+            {
+              "token": ":",
+              "logprob": -0.008109263144433498
+            },
+            {
+              "token": " Tell",
+              "logprob": -4.497684001922607
+            },
+            {
+              "token": " me",
+              "logprob": -1.8703596591949463
+            },
+            {
+              "token": " what",
+              "logprob": -2.8413901329040527
+            },
+            {
+              "token": " you",
+              "logprob": -0.8156497478485107
+            },
+            {
+              "token": " did",
+              "logprob": -2.522573232650757
+            },
+            {
+              "token": " today",
+              "logprob": -3.1793413162231445
+            },
+            {
+              "token": ".",
+              "logprob": -0.16153277456760406
+            },
+            {
+              "token": " \n",
+              "logprob": -2.544127941131592
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "loud",
+          "token_data": [
+            {
+              "token": " loud",
+              "logprob": -4.319199562072754
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.8199665546417236
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Loud music and a crowd of people.",
+          "token_data": [
+            {
+              "token": " Loud",
+              "logprob": -3.3687028884887695
+            },
+            {
+              "token": " music",
+              "logprob": -2.4985456466674805
+            },
+            {
+              "token": " and",
+              "logprob": -2.6331217288970947
+            },
+            {
+              "token": " a",
+              "logprob": -2.329730749130249
+            },
+            {
+              "token": " crowd",
+              "logprob": -3.7936739921569824
+            },
+            {
+              "token": " of",
+              "logprob": -1.1446425914764404
+            },
+            {
+              "token": " people",
+              "logprob": -0.47797727584838867
+            },
+            {
+              "token": ".",
+              "logprob": -0.7763199210166931
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0514774322509766
+            },
+            {
+              "token": ":",
+              "logprob": -0.015577542595565319
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It would be so loud.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.153188705444336
+            },
+            {
+              "token": " would",
+              "logprob": -2.9517064094543457
+            },
+            {
+              "token": " be",
+              "logprob": -0.39174389839172363
+            },
+            {
+              "token": " so",
+              "logprob": -3.826739549636841
+            },
+            {
+              "token": " loud",
+              "logprob": -0.16703689098358154
+            },
+            {
+              "token": ".",
+              "logprob": -3.6451544761657715
+            },
+            {
+              "token": " \n",
+              "logprob": -1.7910830974578857
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "(1 point)",
+          "token_data": [
+            {
+              "token": " (",
+              "logprob": -4.4878082275390625
+            },
+            {
+              "token": "1",
+              "logprob": -1.511902093887329
+            },
+            {
+              "token": " point",
+              "logprob": -2.341658115386963
+            },
+            {
+              "token": ")",
+              "logprob": -0.12490760535001755
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.2399792671203613
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How would you describe the party Emma hosted?",
+      "character": "Emma",
+      "story": "James and Emma were neighbors. James was loud and loved parties. Emma was quiet and liked books. One day, James threw a wild party. The music was so loud Emma could hear it in her house. She tried to read but couldn’t focus. Emma decided to go over and ask James to turn it down. When she knocked, James opened the door with a big smile. “Join the fun!” he said. Emma said no thanks but asked if he could lower the music. James agreed and turned it down a little. Emma went back home happy. The next day, James saw Emma outside. He apologized for the noise. Emma said it was okay and invited him for tea. James was surprised but went. They talked and laughed. From that day, James was quieter, and Emma didn’t mind his small parties. They became good friends. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Party = One big loud group of friends with the same goal. The whole group is happy. Everyone was having fun and enjoying themselves. There is no real distinction between individual people or a person as a whole versus a person’s environment; there are only two possible types of sentences: one with or without someone else in them. Only two types of sentences are possible for every word to have any meaning at all except when it appears to refer to an object.",
+          "token_data": [
+            {
+              "token": " Party",
+              "logprob": -3.974358320236206
+            },
+            {
+              "token": " =",
+              "logprob": -4.242954254150391
+            },
+            {
+              "token": " One",
+              "logprob": -4.0973310470581055
+            },
+            {
+              "token": " big",
+              "logprob": -1.9100316762924194
+            },
+            {
+              "token": " loud",
+              "logprob": -2.795579195022583
+            },
+            {
+              "token": " group",
+              "logprob": -2.965942144393921
+            },
+            {
+              "token": " of",
+              "logprob": -0.23681126534938812
+            },
+            {
+              "token": " friends",
+              "logprob": -1.2385951280593872
+            },
+            {
+              "token": " with",
+              "logprob": -3.0259103775024414
+            },
+            {
+              "token": " the",
+              "logprob": -3.7474255561828613
+            },
+            {
+              "token": " same",
+              "logprob": -1.5138953924179077
+            },
+            {
+              "token": " goal",
+              "logprob": -2.4282827377319336
+            },
+            {
+              "token": ".",
+              "logprob": -1.400452733039856
+            },
+            {
+              "token": " The",
+              "logprob": -4.01571798324585
+            },
+            {
+              "token": " whole",
+              "logprob": -4.451144218444824
+            },
+            {
+              "token": " group",
+              "logprob": -2.0704832077026367
+            },
+            {
+              "token": " is",
+              "logprob": -2.0532917976379395
+            },
+            {
+              "token": " happy",
+              "logprob": -4.102118492126465
+            },
+            {
+              "token": ".",
+              "logprob": -1.9456530809402466
+            },
+            {
+              "token": " Everyone",
+              "logprob": -2.8029611110687256
+            },
+            {
+              "token": " was",
+              "logprob": -4.481236934661865
+            },
+            {
+              "token": " having",
+              "logprob": -1.972584843635559
+            },
+            {
+              "token": " fun",
+              "logprob": -0.6618335843086243
+            },
+            {
+              "token": " and",
+              "logprob": -1.7536075115203857
+            },
+            {
+              "token": " enjoying",
+              "logprob": -1.3404195308685303
+            },
+            {
+              "token": " themselves",
+              "logprob": -0.8914777040481567
+            },
+            {
+              "token": ".",
+              "logprob": -0.2080603390932083
+            },
+            {
+              "token": " There",
+              "logprob": -3.6828956604003906
+            },
+            {
+              "token": " is",
+              "logprob": -1.9286071062088013
+            },
+            {
+              "token": " no",
+              "logprob": -0.8923240900039673
+            },
+            {
+              "token": " real",
+              "logprob": -5.449846267700195
+            },
+            {
+              "token": " distinction",
+              "logprob": -4.4902424812316895
+            },
+            {
+              "token": " between",
+              "logprob": -0.1358347237110138
+            },
+            {
+              "token": " individual",
+              "logprob": -5.013068199157715
+            },
+            {
+              "token": " people",
+              "logprob": -3.553122043609619
+            },
+            {
+              "token": " or",
+              "logprob": -2.88912034034729
+            },
+            {
+              "token": " a",
+              "logprob": -2.425509452819824
+            },
+            {
+              "token": " person",
+              "logprob": -4.34476375579834
+            },
+            {
+              "token": " as",
+              "logprob": -1.6324849128723145
+            },
+            {
+              "token": " a",
+              "logprob": -0.11072547733783722
+            },
+            {
+              "token": " whole",
+              "logprob": -0.2970714867115021
+            },
+            {
+              "token": " versus",
+              "logprob": -4.994448184967041
+            },
+            {
+              "token": " a",
+              "logprob": -1.1669138669967651
+            },
+            {
+              "token": " person",
+              "logprob": -3.608053684234619
+            },
+            {
+              "token": "’s",
+              "logprob": -2.2672510147094727
+            },
+            {
+              "token": " environment",
+              "logprob": -5.362977027893066
+            },
+            {
+              "token": ";",
+              "logprob": -4.859338283538818
+            },
+            {
+              "token": " there",
+              "logprob": -3.453275680541992
+            },
+            {
+              "token": " are",
+              "logprob": -2.205322504043579
+            },
+            {
+              "token": " only",
+              "logprob": -2.2848286628723145
+            },
+            {
+              "token": " two",
+              "logprob": -3.424222707748413
+            },
+            {
+              "token": " possible",
+              "logprob": -5.055605888366699
+            },
+            {
+              "token": " types",
+              "logprob": -4.914937973022461
+            },
+            {
+              "token": " of",
+              "logprob": -0.2109868973493576
+            },
+            {
+              "token": " sentences",
+              "logprob": -5.242901802062988
+            },
+            {
+              "token": ":",
+              "logprob": -0.8446295261383057
+            },
+            {
+              "token": " one",
+              "logprob": -2.297166585922241
+            },
+            {
+              "token": " with",
+              "logprob": -2.775722026824951
+            },
+            {
+              "token": " or",
+              "logprob": -2.2770957946777344
+            },
+            {
+              "token": " without",
+              "logprob": -0.20689980685710907
+            },
+            {
+              "token": " someone",
+              "logprob": -4.941215991973877
+            },
+            {
+              "token": " else",
+              "logprob": -1.6747945547103882
+            },
+            {
+              "token": " in",
+              "logprob": -2.462264060974121
+            },
+            {
+              "token": " them",
+              "logprob": -3.1193199157714844
+            },
+            {
+              "token": ".",
+              "logprob": -0.4580131769180298
+            },
+            {
+              "token": " Only",
+              "logprob": -4.780850410461426
+            },
+            {
+              "token": " two",
+              "logprob": -1.7383800745010376
+            },
+            {
+              "token": " types",
+              "logprob": -1.5954033136367798
+            },
+            {
+              "token": " of",
+              "logprob": -0.129661425948143
+            },
+            {
+              "token": " sentences",
+              "logprob": -0.39266687631607056
+            },
+            {
+              "token": " are",
+              "logprob": -1.1264201402664185
+            },
+            {
+              "token": " possible",
+              "logprob": -0.44051432609558105
+            },
+            {
+              "token": " for",
+              "logprob": -3.8263330459594727
+            },
+            {
+              "token": " every",
+              "logprob": -3.2129461765289307
+            },
+            {
+              "token": " word",
+              "logprob": -3.1390109062194824
+            },
+            {
+              "token": " to",
+              "logprob": -4.175134181976318
+            },
+            {
+              "token": " have",
+              "logprob": -2.9689881801605225
+            },
+            {
+              "token": " any",
+              "logprob": -3.421096086502075
+            },
+            {
+              "token": " meaning",
+              "logprob": -0.2637338936328888
+            },
+            {
+              "token": " at",
+              "logprob": -0.5783550143241882
+            },
+            {
+              "token": " all",
+              "logprob": -0.0048880125395953655
+            },
+            {
+              "token": " except",
+              "logprob": -4.345530033111572
+            },
+            {
+              "token": " when",
+              "logprob": -1.650560975074768
+            },
+            {
+              "token": " it",
+              "logprob": -1.45297372341156
+            },
+            {
+              "token": " appears",
+              "logprob": -4.260497093200684
+            },
+            {
+              "token": " to",
+              "logprob": -3.339724540710449
+            },
+            {
+              "token": " refer",
+              "logprob": -3.331212043762207
+            },
+            {
+              "token": " to",
+              "logprob": -0.5729946494102478
+            },
+            {
+              "token": " an",
+              "logprob": -3.4479007720947266
+            },
+            {
+              "token": " object",
+              "logprob": -0.49188166856765747
+            },
+            {
+              "token": ".",
+              "logprob": -2.7454993724823
+            },
+            {
+              "token": " \n",
+              "logprob": -2.911851644515991
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Emma would like to join a party and enjoy the music but she’s not feeling that kind of loud parties. She would rather read the book or just get in the peaceful zone.",
+          "token_data": [
+            {
+              "token": " Emma",
+              "logprob": -3.208254814147949
+            },
+            {
+              "token": " would",
+              "logprob": -3.91664457321167
+            },
+            {
+              "token": " like",
+              "logprob": -2.5180020332336426
+            },
+            {
+              "token": " to",
+              "logprob": -0.8114405274391174
+            },
+            {
+              "token": " join",
+              "logprob": -4.384335041046143
+            },
+            {
+              "token": " a",
+              "logprob": -1.2957773208618164
+            },
+            {
+              "token": " party",
+              "logprob": -0.6889744400978088
+            },
+            {
+              "token": " and",
+              "logprob": -3.239863872528076
+            },
+            {
+              "token": " enjoy",
+              "logprob": -4.2950615882873535
+            },
+            {
+              "token": " the",
+              "logprob": -1.2319344282150269
+            },
+            {
+              "token": " music",
+              "logprob": -0.7101494669914246
+            },
+            {
+              "token": " but",
+              "logprob": -2.50569486618042
+            },
+            {
+              "token": " she",
+              "logprob": -1.3523355722427368
+            },
+            {
+              "token": "’s",
+              "logprob": -3.976149797439575
+            },
+            {
+              "token": " not",
+              "logprob": -2.1001315116882324
+            },
+            {
+              "token": " feeling",
+              "logprob": -3.5077426433563232
+            },
+            {
+              "token": " that",
+              "logprob": -3.730133056640625
+            },
+            {
+              "token": " kind",
+              "logprob": -4.321743011474609
+            },
+            {
+              "token": " of",
+              "logprob": -0.06147067993879318
+            },
+            {
+              "token": " loud",
+              "logprob": -3.7882497310638428
+            },
+            {
+              "token": " parties",
+              "logprob": -4.47728157043457
+            },
+            {
+              "token": ".",
+              "logprob": -0.37449896335601807
+            },
+            {
+              "token": " She",
+              "logprob": -1.6541370153427124
+            },
+            {
+              "token": " would",
+              "logprob": -2.4805872440338135
+            },
+            {
+              "token": " rather",
+              "logprob": -3.044856548309326
+            },
+            {
+              "token": " read",
+              "logprob": -0.8381708264350891
+            },
+            {
+              "token": " the",
+              "logprob": -3.5127110481262207
+            },
+            {
+              "token": " book",
+              "logprob": -0.3681764304637909
+            },
+            {
+              "token": " or",
+              "logprob": -3.560818910598755
+            },
+            {
+              "token": " just",
+              "logprob": -3.4341824054718018
+            },
+            {
+              "token": " get",
+              "logprob": -5.389124870300293
+            },
+            {
+              "token": " in",
+              "logprob": -3.663975715637207
+            },
+            {
+              "token": " the",
+              "logprob": -1.3522601127624512
+            },
+            {
+              "token": " peaceful",
+              "logprob": -4.637750148773193
+            },
+            {
+              "token": " zone",
+              "logprob": -3.034820556640625
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.8181955814361572
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "What is the sound of? How loud is the music? Can you hear it through a house or outside?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.259718894958496
+            },
+            {
+              "token": " is",
+              "logprob": -2.5853536128997803
+            },
+            {
+              "token": " the",
+              "logprob": -0.7103261947631836
+            },
+            {
+              "token": " sound",
+              "logprob": -3.5404746532440186
+            },
+            {
+              "token": " of",
+              "logprob": -1.0948045253753662
+            },
+            {
+              "token": "?",
+              "logprob": -4.165376663208008
+            },
+            {
+              "token": " How",
+              "logprob": -3.5636911392211914
+            },
+            {
+              "token": " loud",
+              "logprob": -1.5159480571746826
+            },
+            {
+              "token": " is",
+              "logprob": -1.5534207820892334
+            },
+            {
+              "token": " the",
+              "logprob": -1.2852387428283691
+            },
+            {
+              "token": " music",
+              "logprob": -0.8721662163734436
+            },
+            {
+              "token": "?",
+              "logprob": -0.19436657428741455
+            },
+            {
+              "token": " Can",
+              "logprob": -5.0572099685668945
+            },
+            {
+              "token": " you",
+              "logprob": -0.4177946150302887
+            },
+            {
+              "token": " hear",
+              "logprob": -0.848275899887085
+            },
+            {
+              "token": " it",
+              "logprob": -0.48768165707588196
+            },
+            {
+              "token": " through",
+              "logprob": -3.4150760173797607
+            },
+            {
+              "token": " a",
+              "logprob": -3.697112560272217
+            },
+            {
+              "token": " house",
+              "logprob": -2.671980857849121
+            },
+            {
+              "token": " or",
+              "logprob": -4.327005863189697
+            },
+            {
+              "token": " outside",
+              "logprob": -3.6338655948638916
+            },
+            {
+              "token": "?\n",
+              "logprob": -3.5102081298828125
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "She hosted a party which she enjoyed, but her neighbor found annoying.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -4.570590019226074
+            },
+            {
+              "token": " hosted",
+              "logprob": -3.1022865772247314
+            },
+            {
+              "token": " a",
+              "logprob": -0.31792590022087097
+            },
+            {
+              "token": " party",
+              "logprob": -1.594294548034668
+            },
+            {
+              "token": " which",
+              "logprob": -3.578158140182495
+            },
+            {
+              "token": " she",
+              "logprob": -2.191988945007324
+            },
+            {
+              "token": " enjoyed",
+              "logprob": -2.4293289184570312
+            },
+            {
+              "token": ",",
+              "logprob": -3.050325393676758
+            },
+            {
+              "token": " but",
+              "logprob": -0.507553219795227
+            },
+            {
+              "token": " her",
+              "logprob": -3.276956081390381
+            },
+            {
+              "token": " neighbor",
+              "logprob": -1.6267974376678467
+            },
+            {
+              "token": " found",
+              "logprob": -4.023227691650391
+            },
+            {
+              "token": " annoying",
+              "logprob": -2.8184261322021484
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.8111765384674072
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.629378318786621
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "James and Emma were neighbors. James was loud and loved parties. Emma was quiet and liked books. One day, James threw a wild party. The music was so loud Emma could hear it in her house. She tried to read but couldn’t focus. Emma decided to go over and ask James to turn it down. When she knocked, James opened the door with a big smile and said, \"Join the fun!\" he said. Emma said no thanks but asked if he could lower the music. James agreed and turned it down a little. Emma went back home happy.",
+          "token_data": [
+            {
+              "token": " James",
+              "logprob": -2.4415340423583984
+            },
+            {
+              "token": " and",
+              "logprob": -2.1791863441467285
+            },
+            {
+              "token": " Emma",
+              "logprob": -0.04474540799856186
+            },
+            {
+              "token": " were",
+              "logprob": -0.45131248235702515
+            },
+            {
+              "token": " neighbors",
+              "logprob": -0.17667123675346375
+            },
+            {
+              "token": ".",
+              "logprob": -0.04629439860582352
+            },
+            {
+              "token": " James",
+              "logprob": -0.18942461907863617
+            },
+            {
+              "token": " was",
+              "logprob": -0.04935240373015404
+            },
+            {
+              "token": " loud",
+              "logprob": -0.047629933804273605
+            },
+            {
+              "token": " and",
+              "logprob": -0.04078349843621254
+            },
+            {
+              "token": " loved",
+              "logprob": -0.06914236396551132
+            },
+            {
+              "token": " parties",
+              "logprob": -0.037574347108602524
+            },
+            {
+              "token": ".",
+              "logprob": -0.023317886516451836
+            },
+            {
+              "token": " Emma",
+              "logprob": -0.051165465265512466
+            },
+            {
+              "token": " was",
+              "logprob": -0.008582137525081635
+            },
+            {
+              "token": " quiet",
+              "logprob": -0.016278211027383804
+            },
+            {
+              "token": " and",
+              "logprob": -0.006549796089529991
+            },
+            {
+              "token": " liked",
+              "logprob": -0.012525699101388454
+            },
+            {
+              "token": " books",
+              "logprob": -0.011510273441672325
+            },
+            {
+              "token": ".",
+              "logprob": -0.03554699197411537
+            },
+            {
+              "token": " One",
+              "logprob": -0.05447237566113472
+            },
+            {
+              "token": " day",
+              "logprob": -0.003983895294368267
+            },
+            {
+              "token": ",",
+              "logprob": -0.013334852643311024
+            },
+            {
+              "token": " James",
+              "logprob": -0.019055750221014023
+            },
+            {
+              "token": " threw",
+              "logprob": -0.024805979803204536
+            },
+            {
+              "token": " a",
+              "logprob": -0.006667627952992916
+            },
+            {
+              "token": " wild",
+              "logprob": -0.0337894968688488
+            },
+            {
+              "token": " party",
+              "logprob": -0.011457595974206924
+            },
+            {
+              "token": ".",
+              "logprob": -0.03288692235946655
+            },
+            {
+              "token": " The",
+              "logprob": -0.04258107766509056
+            },
+            {
+              "token": " music",
+              "logprob": -0.006001664791256189
+            },
+            {
+              "token": " was",
+              "logprob": -0.01016912143677473
+            },
+            {
+              "token": " so",
+              "logprob": -0.002802732167765498
+            },
+            {
+              "token": " loud",
+              "logprob": -0.0008943848661147058
+            },
+            {
+              "token": " Emma",
+              "logprob": -0.024149196222424507
+            },
+            {
+              "token": " could",
+              "logprob": -0.014807202853262424
+            },
+            {
+              "token": " hear",
+              "logprob": -0.010375489480793476
+            },
+            {
+              "token": " it",
+              "logprob": -0.005111245904117823
+            },
+            {
+              "token": " in",
+              "logprob": -0.004653813783079386
+            },
+            {
+              "token": " her",
+              "logprob": -0.0017611959483474493
+            },
+            {
+              "token": " house",
+              "logprob": -0.0059639825485646725
+            },
+            {
+              "token": ".",
+              "logprob": -0.010349063202738762
+            },
+            {
+              "token": " She",
+              "logprob": -0.030974624678492546
+            },
+            {
+              "token": " tried",
+              "logprob": -0.011841244995594025
+            },
+            {
+              "token": " to",
+              "logprob": -0.003949224483221769
+            },
+            {
+              "token": " read",
+              "logprob": -0.0022815645206719637
+            },
+            {
+              "token": " but",
+              "logprob": -0.0051754070445895195
+            },
+            {
+              "token": " couldn",
+              "logprob": -0.010258330032229424
+            },
+            {
+              "token": "’t",
+              "logprob": -0.502687394618988
+            },
+            {
+              "token": " focus",
+              "logprob": -0.020364021882414818
+            },
+            {
+              "token": ".",
+              "logprob": -0.01492958702147007
+            },
+            {
+              "token": " Emma",
+              "logprob": -0.036098599433898926
+            },
+            {
+              "token": " decided",
+              "logprob": -0.007277882192283869
+            },
+            {
+              "token": " to",
+              "logprob": -0.0015641131903976202
+            },
+            {
+              "token": " go",
+              "logprob": -0.0018919679569080472
+            },
+            {
+              "token": " over",
+              "logprob": -0.0035375894512981176
+            },
+            {
+              "token": " and",
+              "logprob": -0.002657931065186858
+            },
+            {
+              "token": " ask",
+              "logprob": -0.025313328951597214
+            },
+            {
+              "token": " James",
+              "logprob": -0.007026959676295519
+            },
+            {
+              "token": " to",
+              "logprob": -0.003737608902156353
+            },
+            {
+              "token": " turn",
+              "logprob": -0.034407153725624084
+            },
+            {
+              "token": " it",
+              "logprob": -0.003463699948042631
+            },
+            {
+              "token": " down",
+              "logprob": -0.0015380468685179949
+            },
+            {
+              "token": ".",
+              "logprob": -0.01373353973031044
+            },
+            {
+              "token": " When",
+              "logprob": -0.024662118405103683
+            },
+            {
+              "token": " she",
+              "logprob": -0.003296538954600692
+            },
+            {
+              "token": " knocked",
+              "logprob": -0.0014568677870556712
+            },
+            {
+              "token": ",",
+              "logprob": -0.0033857659436762333
+            },
+            {
+              "token": " James",
+              "logprob": -0.0023950247559696436
+            },
+            {
+              "token": " opened",
+              "logprob": -0.004992044530808926
+            },
+            {
+              "token": " the",
+              "logprob": -0.0035380639601498842
+            },
+            {
+              "token": " door",
+              "logprob": -0.0024576953146606684
+            },
+            {
+              "token": " with",
+              "logprob": -0.0016236230731010437
+            },
+            {
+              "token": " a",
+              "logprob": -0.0019351581577211618
+            },
+            {
+              "token": " big",
+              "logprob": -0.002876432379707694
+            },
+            {
+              "token": " smile",
+              "logprob": -0.0008698494057171047
+            },
+            {
+              "token": " and",
+              "logprob": -4.727331161499023
+            },
+            {
+              "token": " said",
+              "logprob": -0.45158621668815613
+            },
+            {
+              "token": ",",
+              "logprob": -0.25102147459983826
+            },
+            {
+              "token": " \"",
+              "logprob": -2.40928053855896
+            },
+            {
+              "token": "Join",
+              "logprob": -0.06767340749502182
+            },
+            {
+              "token": " the",
+              "logprob": -0.007447692099958658
+            },
+            {
+              "token": " fun",
+              "logprob": -0.02751821279525757
+            },
+            {
+              "token": "!\"",
+              "logprob": -0.12519006431102753
+            },
+            {
+              "token": " he",
+              "logprob": -1.0904970169067383
+            },
+            {
+              "token": " said",
+              "logprob": -0.05894901975989342
+            },
+            {
+              "token": ".",
+              "logprob": -0.028594564646482468
+            },
+            {
+              "token": " Emma",
+              "logprob": -0.035964980721473694
+            },
+            {
+              "token": " said",
+              "logprob": -0.0734376609325409
+            },
+            {
+              "token": " no",
+              "logprob": -0.24903038144111633
+            },
+            {
+              "token": " thanks",
+              "logprob": -0.037909433245658875
+            },
+            {
+              "token": " but",
+              "logprob": -0.14161644876003265
+            },
+            {
+              "token": " asked",
+              "logprob": -0.14347094297409058
+            },
+            {
+              "token": " if",
+              "logprob": -0.0324547216296196
+            },
+            {
+              "token": " he",
+              "logprob": -0.008274204097688198
+            },
+            {
+              "token": " could",
+              "logprob": -0.006302363239228725
+            },
+            {
+              "token": " lower",
+              "logprob": -0.0023712392430752516
+            },
+            {
+              "token": " the",
+              "logprob": -0.004916839301586151
+            },
+            {
+              "token": " music",
+              "logprob": -0.02017722837626934
+            },
+            {
+              "token": ".",
+              "logprob": -0.024376312270760536
+            },
+            {
+              "token": " James",
+              "logprob": -0.01852976530790329
+            },
+            {
+              "token": " agreed",
+              "logprob": -0.02700803056359291
+            },
+            {
+              "token": " and",
+              "logprob": -0.03657244145870209
+            },
+            {
+              "token": " turned",
+              "logprob": -0.045618101954460144
+            },
+            {
+              "token": " it",
+              "logprob": -0.01612807624042034
+            },
+            {
+              "token": " down",
+              "logprob": -0.002595748519524932
+            },
+            {
+              "token": " a",
+              "logprob": -0.01716167852282524
+            },
+            {
+              "token": " little",
+              "logprob": -0.010494994930922985
+            },
+            {
+              "token": ".",
+              "logprob": -0.01833607815206051
+            },
+            {
+              "token": " Emma",
+              "logprob": -0.061545442789793015
+            },
+            {
+              "token": " went",
+              "logprob": -0.020995043218135834
+            },
+            {
+              "token": " back",
+              "logprob": -0.008701267652213573
+            },
+            {
+              "token": " home",
+              "logprob": -0.024490319192409515
+            },
+            {
+              "token": " happy",
+              "logprob": -0.06372709572315216
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -6.005566120147705
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "(1 sentance)",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.847391128540039
+            },
+            {
+              "token": " (",
+              "logprob": -4.156083106994629
+            },
+            {
+              "token": "1",
+              "logprob": -1.8676228523254395
+            },
+            {
+              "token": " sent",
+              "logprob": -4.010900497436523
+            },
+            {
+              "token": "ance",
+              "logprob": -0.6909100413322449
+            },
+            {
+              "token": ")",
+              "logprob": -0.5948764681816101
+            },
+            {
+              "token": " \n",
+              "logprob": -1.2376797199249268
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "It was noisy and she heard it in her own home.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.295466423034668
+            },
+            {
+              "token": " was",
+              "logprob": -0.278408944606781
+            },
+            {
+              "token": " noisy",
+              "logprob": -2.744082450866699
+            },
+            {
+              "token": " and",
+              "logprob": -1.7490707635879517
+            },
+            {
+              "token": " she",
+              "logprob": -2.544045925140381
+            },
+            {
+              "token": " heard",
+              "logprob": -4.365217208862305
+            },
+            {
+              "token": " it",
+              "logprob": -0.6928267478942871
+            },
+            {
+              "token": " in",
+              "logprob": -0.8012959957122803
+            },
+            {
+              "token": " her",
+              "logprob": -0.047393713146448135
+            },
+            {
+              "token": " own",
+              "logprob": -1.7915921211242676
+            },
+            {
+              "token": " home",
+              "logprob": -1.4479020833969116
+            },
+            {
+              "token": ".",
+              "logprob": -0.225932776927948
+            },
+            {
+              "token": " ",
+              "logprob": -2.8694777488708496
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "3 - 5 sentences",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.847391128540039
+            },
+            {
+              "token": "3",
+              "logprob": -3.8680388927459717
+            },
+            {
+              "token": " -",
+              "logprob": -3.8525612354278564
+            },
+            {
+              "token": " ",
+              "logprob": -0.4522886872291565
+            },
+            {
+              "token": "5",
+              "logprob": -0.7009807825088501
+            },
+            {
+              "token": " sentences",
+              "logprob": -0.5662839412689209
+            },
+            {
+              "token": " \n",
+              "logprob": -3.0016746520996094
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "One sentence answer please.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -4.345831871032715
+            },
+            {
+              "token": " sentence",
+              "logprob": -2.6550779342651367
+            },
+            {
+              "token": " answer",
+              "logprob": -2.2801730632781982
+            },
+            {
+              "token": " please",
+              "logprob": -3.326141834259033
+            },
+            {
+              "token": ".",
+              "logprob": -0.7505525350570679
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.2331221103668213
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

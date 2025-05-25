@@ -1,0 +1,795 @@
+{
+  "story": "One sunny day, Oliver and Ella played in the park. Oliver found a square box near the bench. It was brown and had a small hole on top. He picked it up and shook it. Something rattled inside. Ella was busy picking flowers and didn’t notice. Oliver tried to open the box, but it was stuck. He pulled harder, and the lid popped off. Inside was a shiny key. Oliver held it up to the light. “Look, Ella!” he called. Ella turned and smiled. “What’s that?” she asked. “I don’t know,” Oliver said. “Maybe it opens a treasure chest!” Ella laughed and went back to her flowers. Oliver put the key in his pocket. He kept the box too. Later, they went home for lunch. Oliver wondered where the key came from. He decided to ask his dad about it after eating. Ella didn’t care much about the box or the key. She just liked the flowers. The end.",
+  "characters": [
+    {
+      "question": "What shape was the box Oliver found?",
+      "character": "Oliver",
+      "story": "One sunny day, Oliver and Ella played in the park. Oliver found a square box near the bench. It was brown and had a small hole on top. He picked it up and shook it. Something rattled inside. Ella was busy picking flowers and didn’t notice. Oliver tried to open the box, but it was stuck. He pulled harder, and the lid popped off. Inside was a shiny key. Oliver held it up to the light. “Look, Ella!” he called. Ella turned and smiled. “What’s that?” she asked. “I don’t know,” Oliver said. “Maybe it opens a treasure chest!” Ella laughed and went back to her flowers. Oliver put the key in his pocket. He kept the box too. Later, they went home for lunch. Oliver wondered where the key came from. He decided to ask his dad about it after eating. Ella didn’t care much about the box or the key. She just liked the flowers. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.8202242851257324
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "One sentence describing the shape of the box.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -4.6186323165893555
+            },
+            {
+              "token": " sentence",
+              "logprob": -2.176722288131714
+            },
+            {
+              "token": " describing",
+              "logprob": -2.3813745975494385
+            },
+            {
+              "token": " the",
+              "logprob": -0.39957883954048157
+            },
+            {
+              "token": " shape",
+              "logprob": -0.6188973188400269
+            },
+            {
+              "token": " of",
+              "logprob": -0.650543212890625
+            },
+            {
+              "token": " the",
+              "logprob": -0.052940305322408676
+            },
+            {
+              "token": " box",
+              "logprob": -0.11422151327133179
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.349958896636963
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Square",
+          "token_data": [
+            {
+              "token": " Square",
+              "logprob": -2.8305037021636963
+            },
+            {
+              "token": " Q",
+              "logprob": -2.073192596435547
+            },
+            {
+              "token": ":",
+              "logprob": -0.030680911615490913
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "A square box, like this one:",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.0333874225616455
+            },
+            {
+              "token": " square",
+              "logprob": -0.6707462668418884
+            },
+            {
+              "token": " box",
+              "logprob": -1.2086654901504517
+            },
+            {
+              "token": ",",
+              "logprob": -3.251000165939331
+            },
+            {
+              "token": " like",
+              "logprob": -2.7142279148101807
+            },
+            {
+              "token": " this",
+              "logprob": -2.2657408714294434
+            },
+            {
+              "token": " one",
+              "logprob": -0.5015367269515991
+            },
+            {
+              "token": ":",
+              "logprob": -2.8596649169921875
+            },
+            {
+              "token": " \n",
+              "logprob": -1.8280550241470337
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Round.",
+          "token_data": [
+            {
+              "token": " Round",
+              "logprob": -4.574687957763672
+            },
+            {
+              "token": ".",
+              "logprob": -1.0496866703033447
+            },
+            {
+              "token": " Q",
+              "logprob": -1.2793036699295044
+            },
+            {
+              "token": ":",
+              "logprob": -0.023390091955661774
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "One way to help figure out what shape the box Oliver found is by finding similarities and differences between its parts.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -4.6186323165893555
+            },
+            {
+              "token": " way",
+              "logprob": -3.772733449935913
+            },
+            {
+              "token": " to",
+              "logprob": -0.6532292366027832
+            },
+            {
+              "token": " help",
+              "logprob": -4.750859260559082
+            },
+            {
+              "token": " figure",
+              "logprob": -4.377603530883789
+            },
+            {
+              "token": " out",
+              "logprob": -0.8035361170768738
+            },
+            {
+              "token": " what",
+              "logprob": -1.493395447731018
+            },
+            {
+              "token": " shape",
+              "logprob": -0.6694241166114807
+            },
+            {
+              "token": " the",
+              "logprob": -0.5672902464866638
+            },
+            {
+              "token": " box",
+              "logprob": -0.03990200161933899
+            },
+            {
+              "token": " Oliver",
+              "logprob": -1.1382867097854614
+            },
+            {
+              "token": " found",
+              "logprob": -0.044061679393053055
+            },
+            {
+              "token": " is",
+              "logprob": -1.372209072113037
+            },
+            {
+              "token": " by",
+              "logprob": -2.2380850315093994
+            },
+            {
+              "token": " finding",
+              "logprob": -3.5064921379089355
+            },
+            {
+              "token": " similarities",
+              "logprob": -4.896968841552734
+            },
+            {
+              "token": " and",
+              "logprob": -2.593994379043579
+            },
+            {
+              "token": " differences",
+              "logprob": -0.080403171479702
+            },
+            {
+              "token": " between",
+              "logprob": -0.5655574202537537
+            },
+            {
+              "token": " its",
+              "logprob": -4.409798622131348
+            },
+            {
+              "token": " parts",
+              "logprob": -1.8995482921600342
+            },
+            {
+              "token": ".",
+              "logprob": -0.7836184501647949
+            },
+            {
+              "token": " \n",
+              "logprob": -2.5420470237731934
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "What type of key was inside Oliver’s pocket? A: Where did Oliver find the key? A: What did Oliver notice in the park?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.6745474338531494
+            },
+            {
+              "token": " type",
+              "logprob": -3.1245009899139404
+            },
+            {
+              "token": " of",
+              "logprob": -0.0387604683637619
+            },
+            {
+              "token": " key",
+              "logprob": -2.44246506690979
+            },
+            {
+              "token": " was",
+              "logprob": -0.6934989094734192
+            },
+            {
+              "token": " inside",
+              "logprob": -3.37713360786438
+            },
+            {
+              "token": " Oliver",
+              "logprob": -2.2853641510009766
+            },
+            {
+              "token": "’s",
+              "logprob": -0.6102880835533142
+            },
+            {
+              "token": " pocket",
+              "logprob": -3.1826066970825195
+            },
+            {
+              "token": "?",
+              "logprob": -0.10290472209453583
+            },
+            {
+              "token": " A",
+              "logprob": -1.1781396865844727
+            },
+            {
+              "token": ":",
+              "logprob": -0.03238212689757347
+            },
+            {
+              "token": " Where",
+              "logprob": -1.7629907131195068
+            },
+            {
+              "token": " did",
+              "logprob": -0.2549758553504944
+            },
+            {
+              "token": " Oliver",
+              "logprob": -0.33479925990104675
+            },
+            {
+              "token": " find",
+              "logprob": -1.3960694074630737
+            },
+            {
+              "token": " the",
+              "logprob": -0.14490175247192383
+            },
+            {
+              "token": " key",
+              "logprob": -0.5338447690010071
+            },
+            {
+              "token": "?",
+              "logprob": -0.5532464385032654
+            },
+            {
+              "token": " A",
+              "logprob": -0.35761362314224243
+            },
+            {
+              "token": ":",
+              "logprob": -0.041633013635873795
+            },
+            {
+              "token": " What",
+              "logprob": -0.741107165813446
+            },
+            {
+              "token": " did",
+              "logprob": -0.46213430166244507
+            },
+            {
+              "token": " Oliver",
+              "logprob": -0.13276050984859467
+            },
+            {
+              "token": " notice",
+              "logprob": -3.2325892448425293
+            },
+            {
+              "token": " in",
+              "logprob": -3.9217443466186523
+            },
+            {
+              "token": " the",
+              "logprob": -0.25663256645202637
+            },
+            {
+              "token": " park",
+              "logprob": -0.8817448019981384
+            },
+            {
+              "token": "?",
+              "logprob": -0.37232640385627747
+            },
+            {
+              "token": " \n",
+              "logprob": -4.164281845092773
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Brown square box.",
+          "token_data": [
+            {
+              "token": " Brown",
+              "logprob": -3.8218719959259033
+            },
+            {
+              "token": " square",
+              "logprob": -3.8279476165771484
+            },
+            {
+              "token": " box",
+              "logprob": -1.0790059566497803
+            },
+            {
+              "token": ".",
+              "logprob": -1.2429524660110474
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.207766532897949
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.943971872329712
+            },
+            {
+              "token": ":",
+              "logprob": -0.12528987228870392
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "What color did the box appear? A: Did the lid of the box hold any surprises?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.6745474338531494
+            },
+            {
+              "token": " color",
+              "logprob": -2.0380685329437256
+            },
+            {
+              "token": " did",
+              "logprob": -1.3765314817428589
+            },
+            {
+              "token": " the",
+              "logprob": -0.4496263265609741
+            },
+            {
+              "token": " box",
+              "logprob": -0.3686653971672058
+            },
+            {
+              "token": " appear",
+              "logprob": -4.112695217132568
+            },
+            {
+              "token": "?",
+              "logprob": -0.7516128420829773
+            },
+            {
+              "token": " A",
+              "logprob": -1.1763249635696411
+            },
+            {
+              "token": ":",
+              "logprob": -0.04524821788072586
+            },
+            {
+              "token": " Did",
+              "logprob": -2.7956371307373047
+            },
+            {
+              "token": " the",
+              "logprob": -1.8108370304107666
+            },
+            {
+              "token": " lid",
+              "logprob": -2.9843544960021973
+            },
+            {
+              "token": " of",
+              "logprob": -1.0149669647216797
+            },
+            {
+              "token": " the",
+              "logprob": -0.0376020148396492
+            },
+            {
+              "token": " box",
+              "logprob": -0.11707822233438492
+            },
+            {
+              "token": " hold",
+              "logprob": -4.498941421508789
+            },
+            {
+              "token": " any",
+              "logprob": -2.091702461242676
+            },
+            {
+              "token": " surprises",
+              "logprob": -1.395504355430603
+            },
+            {
+              "token": "?",
+              "logprob": -0.09502861648797989
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.789851188659668
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What shape was the box Ella found?",
+      "character": "Ella",
+      "story": "One sunny day, Oliver and Ella played in the park. Oliver found a square box near the bench. It was brown and had a small hole on top. He picked it up and shook it. Something rattled inside. Ella was busy picking flowers and didn’t notice. Oliver tried to open the box, but it was stuck. He pulled harder, and the lid popped off. Inside was a shiny key. Oliver held it up to the light. “Look, Ella!” he called. Ella turned and smiled. “What’s that?” she asked. “I don’t know,” Oliver said. “Maybe it opens a treasure chest!” Ella laughed and went back to her flowers. Oliver put the key in his pocket. He kept the box too. Later, they went home for lunch. Oliver wondered where the key came from. He decided to ask his dad about it after eating. Ella didn’t care much about the box or the key. She just liked the flowers. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "square.",
+          "token_data": [
+            {
+              "token": " square",
+              "logprob": -3.250239849090576
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.7617321014404297
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Oval shape.",
+          "token_data": [
+            {
+              "token": " Oval",
+              "logprob": -3.425692081451416
+            },
+            {
+              "token": " shape",
+              "logprob": -3.511514186859131
+            },
+            {
+              "token": ".",
+              "logprob": -1.2207884788513184
+            },
+            {
+              "token": " \n",
+              "logprob": -1.2780746221542358
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "square",
+          "token_data": [
+            {
+              "token": " square",
+              "logprob": -3.2655997276306152
+            },
+            {
+              "token": "\n",
+              "logprob": -1.706161618232727
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Brown",
+          "token_data": [
+            {
+              "token": " Brown",
+              "logprob": -3.585991382598877
+            },
+            {
+              "token": "\n",
+              "logprob": -2.5264739990234375
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Square.",
+          "token_data": [
+            {
+              "token": " Square",
+              "logprob": -3.440906047821045
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.208926677703857
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Which shape was the box Ella find?",
+          "token_data": [
+            {
+              "token": " Which",
+              "logprob": -4.898066997528076
+            },
+            {
+              "token": " shape",
+              "logprob": -1.4601818323135376
+            },
+            {
+              "token": " was",
+              "logprob": -0.29500633478164673
+            },
+            {
+              "token": " the",
+              "logprob": -0.07410193234682083
+            },
+            {
+              "token": " box",
+              "logprob": -0.08222530037164688
+            },
+            {
+              "token": " Ella",
+              "logprob": -0.8054013252258301
+            },
+            {
+              "token": " find",
+              "logprob": -2.523346424102783
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -2.9337656497955322
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Ella found the square shaped box.",
+          "token_data": [
+            {
+              "token": " Ella",
+              "logprob": -4.647335529327393
+            },
+            {
+              "token": " found",
+              "logprob": -0.2912108302116394
+            },
+            {
+              "token": " the",
+              "logprob": -2.5584888458251953
+            },
+            {
+              "token": " square",
+              "logprob": -1.2317676544189453
+            },
+            {
+              "token": " shaped",
+              "logprob": -2.289029836654663
+            },
+            {
+              "token": " box",
+              "logprob": -0.15943394601345062
+            },
+            {
+              "token": ".",
+              "logprob": -0.5124309659004211
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.879845142364502
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A triangle.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.445603847503662
+            },
+            {
+              "token": " triangle",
+              "logprob": -3.251612663269043
+            },
+            {
+              "token": ".",
+              "logprob": -0.6293699741363525
+            },
+            {
+              "token": " \n",
+              "logprob": -1.7144075632095337
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The box was shaped like a circle. This made the flowers look very pretty!",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.1875815391540527
+            },
+            {
+              "token": " box",
+              "logprob": -0.5341978073120117
+            },
+            {
+              "token": " was",
+              "logprob": -0.5253427624702454
+            },
+            {
+              "token": " shaped",
+              "logprob": -2.8011789321899414
+            },
+            {
+              "token": " like",
+              "logprob": -0.5285392999649048
+            },
+            {
+              "token": " a",
+              "logprob": -0.24334709346294403
+            },
+            {
+              "token": " circle",
+              "logprob": -1.9228863716125488
+            },
+            {
+              "token": ".",
+              "logprob": -0.24072350561618805
+            },
+            {
+              "token": " This",
+              "logprob": -4.318115234375
+            },
+            {
+              "token": " made",
+              "logprob": -3.864610195159912
+            },
+            {
+              "token": " the",
+              "logprob": -2.6398024559020996
+            },
+            {
+              "token": " flowers",
+              "logprob": -2.3590779304504395
+            },
+            {
+              "token": " look",
+              "logprob": -1.599515438079834
+            },
+            {
+              "token": " very",
+              "logprob": -3.8320486545562744
+            },
+            {
+              "token": " pretty",
+              "logprob": -0.6434168815612793
+            },
+            {
+              "token": "!",
+              "logprob": -3.3684234619140625
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.579653739929199
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The box Ella found was square.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.1875815391540527
+            },
+            {
+              "token": " box",
+              "logprob": -0.5341978073120117
+            },
+            {
+              "token": " Ella",
+              "logprob": -1.5303208827972412
+            },
+            {
+              "token": " found",
+              "logprob": -0.035950951278209686
+            },
+            {
+              "token": " was",
+              "logprob": -0.14821165800094604
+            },
+            {
+              "token": " square",
+              "logprob": -2.5198116302490234
+            },
+            {
+              "token": ".",
+              "logprob": -0.32040509581565857
+            },
+            {
+              "token": " Q",
+              "logprob": -1.9580166339874268
+            },
+            {
+              "token": ":",
+              "logprob": -0.021381935104727745
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "story": "Leo and Oliver were best friends. One day, Leo got a job at a hair salon. He was nervous but excited. His first customer was a woman with curly hair. Leo took a deep breath and started cutting. \"Leo cut curly hair,\" Oliver said later when they met for lunch. Leo smiled and nodded. He was happy he did a good job. Oliver talked about his day at the park. He saw a puppy and played fetch with it. Leo listened while eating his sandwich. After lunch, they walked back to the salon together. Oliver waved goodbye and went home. Leo went inside to help more customers. He felt proud of his new job. That night, Leo called Oliver to tell him about his day. Oliver said he was happy for him. They laughed and talked about plans for the weekend. Both friends were glad to have each other. The end.",
+  "characters": [
+    {
+      "question": "What style did Leo's hair have?",
+      "character": "Leo",
+      "story": "Leo and Oliver were best friends. One day, Leo got a job at a hair salon. He was nervous but excited. His first customer was a woman with curly hair. Leo took a deep breath and started cutting. \"Leo cut curly hair,\" Oliver said later when they met for lunch. Leo smiled and nodded. He was happy he did a good job. Oliver talked about his day at the park. He saw a puppy and played fetch with it. Leo listened while eating his sandwich. After lunch, they walked back to the salon together. Oliver waved goodbye and went home. Leo went inside to help more customers. He felt proud of his new job. That night, Leo called Oliver to tell him about his day. Oliver said he was happy for him. They laughed and talked about plans for the weekend. Both friends were glad to have each other. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "B",
+          "token_data": [
+            {
+              "token": " B",
+              "logprob": -4.228364944458008
+            },
+            {
+              "token": "\n",
+              "logprob": -3.13663911819458
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Curly",
+          "token_data": [
+            {
+              "token": " Cur",
+              "logprob": -1.2472079992294312
+            },
+            {
+              "token": "ly",
+              "logprob": -0.04288685694336891
+            },
+            {
+              "token": " \n",
+              "logprob": -3.437610387802124
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "He cut curly hair. Leo smiled and nodded. He was happy he did a good job.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -3.8658595085144043
+            },
+            {
+              "token": " cut",
+              "logprob": -2.3293702602386475
+            },
+            {
+              "token": " curly",
+              "logprob": -0.35403966903686523
+            },
+            {
+              "token": " hair",
+              "logprob": -0.01953972689807415
+            },
+            {
+              "token": ".",
+              "logprob": -0.2905811369419098
+            },
+            {
+              "token": " Leo",
+              "logprob": -3.100135326385498
+            },
+            {
+              "token": " smiled",
+              "logprob": -0.6043608784675598
+            },
+            {
+              "token": " and",
+              "logprob": -0.1048208624124527
+            },
+            {
+              "token": " nodded",
+              "logprob": -0.08964496105909348
+            },
+            {
+              "token": ".",
+              "logprob": -0.1008150652050972
+            },
+            {
+              "token": " He",
+              "logprob": -0.2550585865974426
+            },
+            {
+              "token": " was",
+              "logprob": -0.0347713902592659
+            },
+            {
+              "token": " happy",
+              "logprob": -0.026885030791163445
+            },
+            {
+              "token": " he",
+              "logprob": -0.05004329979419708
+            },
+            {
+              "token": " did",
+              "logprob": -0.012145493179559708
+            },
+            {
+              "token": " a",
+              "logprob": -0.005972633603960276
+            },
+            {
+              "token": " good",
+              "logprob": -0.006368698552250862
+            },
+            {
+              "token": " job",
+              "logprob": -0.0028248426970094442
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.9976935386657715
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Curly",
+          "token_data": [
+            {
+              "token": " Cur",
+              "logprob": -1.2472079992294312
+            },
+            {
+              "token": "ly",
+              "logprob": -0.04288685694336891
+            },
+            {
+              "token": " ",
+              "logprob": -3.7090671062469482
+            },
+            {
+              "token": " Q",
+              "logprob": -0.5306051969528198
+            },
+            {
+              "token": ":",
+              "logprob": -0.04039626196026802
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "It's hard to say because curly and braid don't mean the same. To make it short, they said cut your hair.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.3849616050720215
+            },
+            {
+              "token": "'s",
+              "logprob": -3.3746533393859863
+            },
+            {
+              "token": " hard",
+              "logprob": -1.5293793678283691
+            },
+            {
+              "token": " to",
+              "logprob": -0.059022288769483566
+            },
+            {
+              "token": " say",
+              "logprob": -1.1248877048492432
+            },
+            {
+              "token": " because",
+              "logprob": -1.9964593648910522
+            },
+            {
+              "token": " curly",
+              "logprob": -4.027017593383789
+            },
+            {
+              "token": " and",
+              "logprob": -2.997297763824463
+            },
+            {
+              "token": " b",
+              "logprob": -3.9630560874938965
+            },
+            {
+              "token": "raid",
+              "logprob": -1.2452976703643799
+            },
+            {
+              "token": " don",
+              "logprob": -4.65615177154541
+            },
+            {
+              "token": "'t",
+              "logprob": -0.004662593826651573
+            },
+            {
+              "token": " mean",
+              "logprob": -2.4671878814697266
+            },
+            {
+              "token": " the",
+              "logprob": -0.4886546730995178
+            },
+            {
+              "token": " same",
+              "logprob": -0.05601471662521362
+            },
+            {
+              "token": ".",
+              "logprob": -1.4318143129348755
+            },
+            {
+              "token": " To",
+              "logprob": -4.340712070465088
+            },
+            {
+              "token": " make",
+              "logprob": -2.726871967315674
+            },
+            {
+              "token": " it",
+              "logprob": -2.3556675910949707
+            },
+            {
+              "token": " short",
+              "logprob": -2.585052251815796
+            },
+            {
+              "token": ",",
+              "logprob": -0.46693533658981323
+            },
+            {
+              "token": " they",
+              "logprob": -3.3549180030822754
+            },
+            {
+              "token": " said",
+              "logprob": -4.259744644165039
+            },
+            {
+              "token": " cut",
+              "logprob": -5.092499256134033
+            },
+            {
+              "token": " your",
+              "logprob": -3.839376211166382
+            },
+            {
+              "token": " hair",
+              "logprob": -0.3190973401069641
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.863182544708252
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "B and L",
+          "token_data": [
+            {
+              "token": " B",
+              "logprob": -4.121737003326416
+            },
+            {
+              "token": " and",
+              "logprob": -4.63151741027832
+            },
+            {
+              "token": " L",
+              "logprob": -3.6803765296936035
+            },
+            {
+              "token": " ",
+              "logprob": -3.647099018096924
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Curly",
+          "token_data": [
+            {
+              "token": " Cur",
+              "logprob": -1.2472079992294312
+            },
+            {
+              "token": "ly",
+              "logprob": -0.04288685694336891
+            },
+            {
+              "token": " Q",
+              "logprob": -1.9387023448944092
+            },
+            {
+              "token": ":",
+              "logprob": -0.026788821443915367
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "He had curly hair.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -3.8658595085144043
+            },
+            {
+              "token": " had",
+              "logprob": -0.6003015041351318
+            },
+            {
+              "token": " curly",
+              "logprob": -0.23184382915496826
+            },
+            {
+              "token": " hair",
+              "logprob": -0.07849428057670593
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.304323673248291
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "None. What was it?",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.593132495880127
+            },
+            {
+              "token": ".",
+              "logprob": -1.8651418685913086
+            },
+            {
+              "token": " What",
+              "logprob": -4.321471691131592
+            },
+            {
+              "token": " was",
+              "logprob": -3.4015209674835205
+            },
+            {
+              "token": " it",
+              "logprob": -3.877962589263916
+            },
+            {
+              "token": "?",
+              "logprob": -0.6416574716567993
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.8133063316345215
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Leo got a job cutting hair.",
+          "token_data": [
+            {
+              "token": " Leo",
+              "logprob": -2.249131679534912
+            },
+            {
+              "token": " got",
+              "logprob": -2.809117078781128
+            },
+            {
+              "token": " a",
+              "logprob": -0.6321541666984558
+            },
+            {
+              "token": " job",
+              "logprob": -0.08230940252542496
+            },
+            {
+              "token": " cutting",
+              "logprob": -2.6322803497314453
+            },
+            {
+              "token": " hair",
+              "logprob": -1.3124330043792725
+            },
+            {
+              "token": ".",
+              "logprob": -0.5667999982833862
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.9588463306427002
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What style did Oliver's hair have?",
+      "character": "Oliver",
+      "story": "Leo and Oliver were best friends. One day, Leo got a job at a hair salon. He was nervous but excited. His first customer was a woman with curly hair. Leo took a deep breath and started cutting. \"Leo cut curly hair,\" Oliver said later when they met for lunch. Leo smiled and nodded. He was happy he did a good job. Oliver talked about his day at the park. He saw a puppy and played fetch with it. Leo listened while eating his sandwich. After lunch, they walked back to the salon together. Oliver waved goodbye and went home. Leo went inside to help more customers. He felt proud of his new job. That night, Leo called Oliver to tell him about his day. Oliver said he was happy for him. They laughed and talked about plans for the weekend. Both friends were glad to have each other. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Curly",
+          "token_data": [
+            {
+              "token": " Cur",
+              "logprob": -0.8092677593231201
+            },
+            {
+              "token": "ly",
+              "logprob": -0.06032063066959381
+            },
+            {
+              "token": " \n",
+              "logprob": -3.7038493156433105
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Curly",
+          "token_data": [
+            {
+              "token": " Cur",
+              "logprob": -0.7638059854507446
+            },
+            {
+              "token": "ly",
+              "logprob": -0.05682864412665367
+            },
+            {
+              "token": "\n",
+              "logprob": -2.736057758331299
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "B",
+          "token_data": [
+            {
+              "token": " B",
+              "logprob": -3.501091480255127
+            },
+            {
+              "token": " Q",
+              "logprob": -4.276665687561035
+            },
+            {
+              "token": ":",
+              "logprob": -0.029594305902719498
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Curly.",
+          "token_data": [
+            {
+              "token": " Cur",
+              "logprob": -0.7638059854507446
+            },
+            {
+              "token": "ly",
+              "logprob": -0.05682864412665367
+            },
+            {
+              "token": ".",
+              "logprob": -1.5878443717956543
+            },
+            {
+              "token": " \n",
+              "logprob": -2.138012409210205
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "What style did Oliver have?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.7608094215393066
+            },
+            {
+              "token": " style",
+              "logprob": -0.19102030992507935
+            },
+            {
+              "token": " did",
+              "logprob": -0.21940091252326965
+            },
+            {
+              "token": " Oliver",
+              "logprob": -0.06337057799100876
+            },
+            {
+              "token": " have",
+              "logprob": -2.5542151927948
+            },
+            {
+              "token": "?\n",
+              "logprob": -3.7328286170959473
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "It was curly.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.341765880584717
+            },
+            {
+              "token": " was",
+              "logprob": -0.5506137609481812
+            },
+            {
+              "token": " curly",
+              "logprob": -0.12428131699562073
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.460721492767334
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "curly",
+          "token_data": [
+            {
+              "token": " curly",
+              "logprob": -2.9969735145568848
+            },
+            {
+              "token": "\n",
+              "logprob": -2.3200035095214844
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Curly.",
+          "token_data": [
+            {
+              "token": " Cur",
+              "logprob": -0.7638059854507446
+            },
+            {
+              "token": "ly",
+              "logprob": -0.05682864412665367
+            },
+            {
+              "token": ".",
+              "logprob": -1.5878443717956543
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.351778507232666
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Curly.",
+          "token_data": [
+            {
+              "token": " Cur",
+              "logprob": -0.7638059854507446
+            },
+            {
+              "token": "ly",
+              "logprob": -0.05682864412665367
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.95552396774292
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Curly B: Braided C: Wavy",
+          "token_data": [
+            {
+              "token": " Cur",
+              "logprob": -0.7638059854507446
+            },
+            {
+              "token": "ly",
+              "logprob": -0.05682864412665367
+            },
+            {
+              "token": " B",
+              "logprob": -2.618577480316162
+            },
+            {
+              "token": ":",
+              "logprob": -0.026963241398334503
+            },
+            {
+              "token": " Bra",
+              "logprob": -4.075860977172852
+            },
+            {
+              "token": "ided",
+              "logprob": -0.464958518743515
+            },
+            {
+              "token": " C",
+              "logprob": -0.18257677555084229
+            },
+            {
+              "token": ":",
+              "logprob": -0.010787858627736568
+            },
+            {
+              "token": " W",
+              "logprob": -1.931994915008545
+            },
+            {
+              "token": "avy",
+              "logprob": -0.24643118679523468
+            },
+            {
+              "token": " Q",
+              "logprob": -2.4703125953674316
+            },
+            {
+              "token": ":",
+              "logprob": -0.026174919679760933
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

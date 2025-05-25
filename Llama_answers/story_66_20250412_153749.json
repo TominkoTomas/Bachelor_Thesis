@@ -1,0 +1,947 @@
+{
+  "story": "Ava and Lucas were best friends. One rainy day, they were stuck inside Ava’s house with nothing to do. Ava had a big idea. She grabbed some old boxes, tape, and markers. Ava built a cardboard fort in the living room. It had a door and even a little window. Lucas laughed and said it looked cool. He helped color the walls with bright designs. They pretended the fort was a spaceship flying to the moon. Ava was the captain, and Lucas was the co-pilot. They packed snacks for their adventure. The rain kept falling outside, but inside the fort, they had fun. After a while, Ava’s mom called them for lunch. They left the fort but promised to play again later. That day, the cardboard fort became their favorite place. Ava and Lucas knew they would always find ways to have fun together, no matter the weather.",
+  "characters": [
+    {
+      "question": "What material was the fort Ava built?",
+      "character": "Ava",
+      "story": "Ava and Lucas were best friends. One rainy day, they were stuck inside Ava’s house with nothing to do. Ava had a big idea. She grabbed some old boxes, tape, and markers. Ava built a cardboard fort in the living room. It had a door and even a little window. Lucas laughed and said it looked cool. He helped color the walls with bright designs. They pretended the fort was a spaceship flying to the moon. Ava was the captain, and Lucas was the co-pilot. They packed snacks for their adventure. The rain kept falling outside, but inside the fort, they had fun. After a while, Ava’s mom called them for lunch. They left the fort but promised to play again later. That day, the cardboard fort became their favorite place. Ava and Lucas knew they would always find ways to have fun together, no matter the weather.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "What materials did Ava and Lucas build?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.584083080291748
+            },
+            {
+              "token": " materials",
+              "logprob": -3.3383266925811768
+            },
+            {
+              "token": " did",
+              "logprob": -0.929495096206665
+            },
+            {
+              "token": " Ava",
+              "logprob": -1.6131834983825684
+            },
+            {
+              "token": " and",
+              "logprob": -0.7915385365486145
+            },
+            {
+              "token": " Lucas",
+              "logprob": -0.025712382048368454
+            },
+            {
+              "token": " build",
+              "logprob": -1.406003475189209
+            },
+            {
+              "token": "?",
+              "logprob": -2.2130513191223145
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.1958775520324707
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The cardboard fort.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.14048433303833
+            },
+            {
+              "token": " cardboard",
+              "logprob": -0.9168258905410767
+            },
+            {
+              "token": " fort",
+              "logprob": -0.06236619874835014
+            },
+            {
+              "token": ".",
+              "logprob": -2.111485481262207
+            },
+            {
+              "token": " Q",
+              "logprob": -2.168818235397339
+            },
+            {
+              "token": ":",
+              "logprob": -0.024029916152358055
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A cardboard fort",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.570277690887451
+            },
+            {
+              "token": " cardboard",
+              "logprob": -0.194235160946846
+            },
+            {
+              "token": " fort",
+              "logprob": -0.06584718823432922
+            },
+            {
+              "token": "\n",
+              "logprob": -3.79060697555542
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Boxes.",
+          "token_data": [
+            {
+              "token": " Boxes",
+              "logprob": -3.792994976043701
+            },
+            {
+              "token": ".",
+              "logprob": -2.0217413902282715
+            },
+            {
+              "token": " \n",
+              "logprob": -2.5810024738311768
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "cardboard B: Paper C: Plaster",
+          "token_data": [
+            {
+              "token": " cardboard",
+              "logprob": -1.6928266286849976
+            },
+            {
+              "token": " B",
+              "logprob": -3.0060172080993652
+            },
+            {
+              "token": ":",
+              "logprob": -0.01740315929055214
+            },
+            {
+              "token": " Paper",
+              "logprob": -3.8959412574768066
+            },
+            {
+              "token": " C",
+              "logprob": -0.14380210638046265
+            },
+            {
+              "token": ":",
+              "logprob": -0.009837480261921883
+            },
+            {
+              "token": " Pl",
+              "logprob": -4.155642986297607
+            },
+            {
+              "token": "aster",
+              "logprob": -0.2873935401439667
+            },
+            {
+              "token": " \n",
+              "logprob": -3.6189048290252686
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A cardboard fort was built out of imagination.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.570277690887451
+            },
+            {
+              "token": " cardboard",
+              "logprob": -0.194235160946846
+            },
+            {
+              "token": " fort",
+              "logprob": -0.06584718823432922
+            },
+            {
+              "token": " was",
+              "logprob": -2.714430332183838
+            },
+            {
+              "token": " built",
+              "logprob": -1.0541704893112183
+            },
+            {
+              "token": " out",
+              "logprob": -3.7572765350341797
+            },
+            {
+              "token": " of",
+              "logprob": -0.008614521473646164
+            },
+            {
+              "token": " imagination",
+              "logprob": -4.291662216186523
+            },
+            {
+              "token": ".",
+              "logprob": -0.7118309140205383
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.9783011674880981
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The cardboard fort was made with old boxes. The two boxes we need to color in were: A cardboard fort, and an idea of a fun filled afternoon.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.14048433303833
+            },
+            {
+              "token": " cardboard",
+              "logprob": -0.9168258905410767
+            },
+            {
+              "token": " fort",
+              "logprob": -0.06236619874835014
+            },
+            {
+              "token": " was",
+              "logprob": -1.0173274278640747
+            },
+            {
+              "token": " made",
+              "logprob": -0.9380384683609009
+            },
+            {
+              "token": " with",
+              "logprob": -2.186169385910034
+            },
+            {
+              "token": " old",
+              "logprob": -3.418248176574707
+            },
+            {
+              "token": " boxes",
+              "logprob": -0.25782498717308044
+            },
+            {
+              "token": ".",
+              "logprob": -1.4547955989837646
+            },
+            {
+              "token": " The",
+              "logprob": -2.610896110534668
+            },
+            {
+              "token": " two",
+              "logprob": -4.936182975769043
+            },
+            {
+              "token": " boxes",
+              "logprob": -2.650177478790283
+            },
+            {
+              "token": " we",
+              "logprob": -4.301215648651123
+            },
+            {
+              "token": " need",
+              "logprob": -3.820969581604004
+            },
+            {
+              "token": " to",
+              "logprob": -0.7670032382011414
+            },
+            {
+              "token": " color",
+              "logprob": -2.7279083728790283
+            },
+            {
+              "token": " in",
+              "logprob": -2.9312844276428223
+            },
+            {
+              "token": " were",
+              "logprob": -1.7284128665924072
+            },
+            {
+              "token": ":",
+              "logprob": -2.9186296463012695
+            },
+            {
+              "token": " A",
+              "logprob": -3.2481894493103027
+            },
+            {
+              "token": " cardboard",
+              "logprob": -2.7698447704315186
+            },
+            {
+              "token": " fort",
+              "logprob": -0.2604527771472931
+            },
+            {
+              "token": ",",
+              "logprob": -2.9471824169158936
+            },
+            {
+              "token": " and",
+              "logprob": -0.5413978099822998
+            },
+            {
+              "token": " an",
+              "logprob": -3.105767250061035
+            },
+            {
+              "token": " idea",
+              "logprob": -2.668184518814087
+            },
+            {
+              "token": " of",
+              "logprob": -3.215339422225952
+            },
+            {
+              "token": " a",
+              "logprob": -2.3857369422912598
+            },
+            {
+              "token": " fun",
+              "logprob": -3.4577999114990234
+            },
+            {
+              "token": " filled",
+              "logprob": -4.307802677154541
+            },
+            {
+              "token": " afternoon",
+              "logprob": -2.909411668777466
+            },
+            {
+              "token": ".",
+              "logprob": -0.9286317825317383
+            },
+            {
+              "token": " Q",
+              "logprob": -1.898885726928711
+            },
+            {
+              "token": ":",
+              "logprob": -0.03303998336195946
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "cardboard.",
+          "token_data": [
+            {
+              "token": " cardboard",
+              "logprob": -1.6928266286849976
+            },
+            {
+              "token": ".",
+              "logprob": -2.3986449241638184
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8285908699035645
+            },
+            {
+              "token": ":",
+              "logprob": -0.02404109016060829
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Cardboard",
+          "token_data": [
+            {
+              "token": " Card",
+              "logprob": -1.176596999168396
+            },
+            {
+              "token": "board",
+              "logprob": -0.0077879359014332294
+            },
+            {
+              "token": " ",
+              "logprob": -3.5543675422668457
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7545888423919678
+            },
+            {
+              "token": ":",
+              "logprob": -0.027600320056080818
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "What material is the fort Ava built?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.5897364616394043
+            },
+            {
+              "token": " material",
+              "logprob": -0.3606434762477875
+            },
+            {
+              "token": " is",
+              "logprob": -2.834643602371216
+            },
+            {
+              "token": " the",
+              "logprob": -0.14221586287021637
+            },
+            {
+              "token": " fort",
+              "logprob": -0.17488783597946167
+            },
+            {
+              "token": " Ava",
+              "logprob": -0.9416248202323914
+            },
+            {
+              "token": " built",
+              "logprob": -0.1373259425163269
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -3.095374584197998
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What material was the fort Lucas built?",
+      "character": "Lucas",
+      "story": "Ava and Lucas were best friends. One rainy day, they were stuck inside Ava’s house with nothing to do. Ava had a big idea. She grabbed some old boxes, tape, and markers. Ava built a cardboard fort in the living room. It had a door and even a little window. Lucas laughed and said it looked cool. He helped color the walls with bright designs. They pretended the fort was a spaceship flying to the moon. Ava was the captain, and Lucas was the co-pilot. They packed snacks for their adventure. The rain kept falling outside, but inside the fort, they had fun. After a while, Ava’s mom called them for lunch. They left the fort but promised to play again later. That day, the cardboard fort became their favorite place. Ava and Lucas knew they would always find ways to have fun together, no matter the weather.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Cardboard",
+          "token_data": [
+            {
+              "token": " Card",
+              "logprob": -1.8436014652252197
+            },
+            {
+              "token": "board",
+              "logprob": -0.007721458561718464
+            },
+            {
+              "token": "\n",
+              "logprob": -2.4375901222229004
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Boxes B: Paper C: Cards D: Tape",
+          "token_data": [
+            {
+              "token": " Boxes",
+              "logprob": -4.2628173828125
+            },
+            {
+              "token": " B",
+              "logprob": -3.8377933502197266
+            },
+            {
+              "token": ":",
+              "logprob": -0.010477537289261818
+            },
+            {
+              "token": " Paper",
+              "logprob": -2.3129279613494873
+            },
+            {
+              "token": " C",
+              "logprob": -0.1660582572221756
+            },
+            {
+              "token": ":",
+              "logprob": -0.006518767215311527
+            },
+            {
+              "token": " Cards",
+              "logprob": -4.638901710510254
+            },
+            {
+              "token": " D",
+              "logprob": -0.6854362487792969
+            },
+            {
+              "token": ":",
+              "logprob": -0.03322427719831467
+            },
+            {
+              "token": " Tape",
+              "logprob": -3.3282949924468994
+            },
+            {
+              "token": "\n",
+              "logprob": -2.649855136871338
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Bigger, Better Box Fort",
+          "token_data": [
+            {
+              "token": " B",
+              "logprob": -3.947675943374634
+            },
+            {
+              "token": "igger",
+              "logprob": -1.9276148080825806
+            },
+            {
+              "token": ",",
+              "logprob": -1.9859328269958496
+            },
+            {
+              "token": " Better",
+              "logprob": -1.9286834001541138
+            },
+            {
+              "token": " Box",
+              "logprob": -3.647310972213745
+            },
+            {
+              "token": " Fort",
+              "logprob": -1.5839779376983643
+            },
+            {
+              "token": "\n",
+              "logprob": -3.174809694290161
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Answer using 1 whole sentences.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.259760856628418
+            },
+            {
+              "token": " using",
+              "logprob": -0.396079957485199
+            },
+            {
+              "token": " ",
+              "logprob": -2.993490219116211
+            },
+            {
+              "token": "1",
+              "logprob": -0.6275802254676819
+            },
+            {
+              "token": " whole",
+              "logprob": -0.3422650694847107
+            },
+            {
+              "token": " sentences",
+              "logprob": -3.1954288482666016
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.4261081218719482
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "a cardboard fort B: an inflatable fort C: A big, white fort.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -4.6979875564575195
+            },
+            {
+              "token": " cardboard",
+              "logprob": -0.5104710459709167
+            },
+            {
+              "token": " fort",
+              "logprob": -0.3190946877002716
+            },
+            {
+              "token": " B",
+              "logprob": -2.1596062183380127
+            },
+            {
+              "token": ":",
+              "logprob": -0.015228550881147385
+            },
+            {
+              "token": " an",
+              "logprob": -3.0789594650268555
+            },
+            {
+              "token": " inflatable",
+              "logprob": -4.561309337615967
+            },
+            {
+              "token": " fort",
+              "logprob": -0.3142443597316742
+            },
+            {
+              "token": " C",
+              "logprob": -0.14660675823688507
+            },
+            {
+              "token": ":",
+              "logprob": -0.011946558021008968
+            },
+            {
+              "token": " A",
+              "logprob": -2.962977886199951
+            },
+            {
+              "token": " big",
+              "logprob": -4.7288289070129395
+            },
+            {
+              "token": ",",
+              "logprob": -3.782334327697754
+            },
+            {
+              "token": " white",
+              "logprob": -4.778312683105469
+            },
+            {
+              "token": " fort",
+              "logprob": -2.913461685180664
+            },
+            {
+              "token": ".",
+              "logprob": -2.436825752258301
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.0173747539520264
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "What material was the fort Lucas built?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.460618257522583
+            },
+            {
+              "token": " material",
+              "logprob": -0.3607504665851593
+            },
+            {
+              "token": " was",
+              "logprob": -0.39310702681541443
+            },
+            {
+              "token": " the",
+              "logprob": -0.0753009244799614
+            },
+            {
+              "token": " fort",
+              "logprob": -0.0539083331823349
+            },
+            {
+              "token": " Lucas",
+              "logprob": -1.2205324172973633
+            },
+            {
+              "token": " built",
+              "logprob": -0.1336027830839157
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -2.749382495880127
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "cardboard",
+          "token_data": [
+            {
+              "token": " cardboard",
+              "logprob": -2.0761635303497314
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.00380277633667
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "B. C: Where is Lucas? A: D. E: What are the kids playing? A: C. D: The weather was going outside or inside at school when you and Ava had your fort.",
+          "token_data": [
+            {
+              "token": " B",
+              "logprob": -3.947675943374634
+            },
+            {
+              "token": ".",
+              "logprob": -3.29771089553833
+            },
+            {
+              "token": " C",
+              "logprob": -3.1642720699310303
+            },
+            {
+              "token": ":",
+              "logprob": -2.290292739868164
+            },
+            {
+              "token": " Where",
+              "logprob": -3.604966402053833
+            },
+            {
+              "token": " is",
+              "logprob": -2.3023180961608887
+            },
+            {
+              "token": " Lucas",
+              "logprob": -1.7508785724639893
+            },
+            {
+              "token": "?",
+              "logprob": -1.8875226974487305
+            },
+            {
+              "token": " A",
+              "logprob": -0.5366211533546448
+            },
+            {
+              "token": ":",
+              "logprob": -0.055547069758176804
+            },
+            {
+              "token": " D",
+              "logprob": -3.337351083755493
+            },
+            {
+              "token": ".",
+              "logprob": -0.1801573932170868
+            },
+            {
+              "token": " E",
+              "logprob": -1.0694572925567627
+            },
+            {
+              "token": ":",
+              "logprob": -0.13464534282684326
+            },
+            {
+              "token": " What",
+              "logprob": -0.5990392565727234
+            },
+            {
+              "token": " are",
+              "logprob": -3.283369779586792
+            },
+            {
+              "token": " the",
+              "logprob": -1.2629598379135132
+            },
+            {
+              "token": " kids",
+              "logprob": -3.981332302093506
+            },
+            {
+              "token": " playing",
+              "logprob": -3.695993423461914
+            },
+            {
+              "token": "?",
+              "logprob": -0.9958205223083496
+            },
+            {
+              "token": " A",
+              "logprob": -0.08002877235412598
+            },
+            {
+              "token": ":",
+              "logprob": -0.019401542842388153
+            },
+            {
+              "token": " C",
+              "logprob": -3.1644985675811768
+            },
+            {
+              "token": ".",
+              "logprob": -0.17408889532089233
+            },
+            {
+              "token": " D",
+              "logprob": -2.3495805263519287
+            },
+            {
+              "token": ":",
+              "logprob": -0.022226862609386444
+            },
+            {
+              "token": " The",
+              "logprob": -4.047226905822754
+            },
+            {
+              "token": " weather",
+              "logprob": -4.160988807678223
+            },
+            {
+              "token": " was",
+              "logprob": -1.6269618272781372
+            },
+            {
+              "token": " going",
+              "logprob": -5.056516170501709
+            },
+            {
+              "token": " outside",
+              "logprob": -1.7200716733932495
+            },
+            {
+              "token": " or",
+              "logprob": -4.55417537689209
+            },
+            {
+              "token": " inside",
+              "logprob": -0.9438961744308472
+            },
+            {
+              "token": " at",
+              "logprob": -4.945258140563965
+            },
+            {
+              "token": " school",
+              "logprob": -2.521822690963745
+            },
+            {
+              "token": " when",
+              "logprob": -5.5143656730651855
+            },
+            {
+              "token": " you",
+              "logprob": -3.4551894664764404
+            },
+            {
+              "token": " and",
+              "logprob": -3.100213050842285
+            },
+            {
+              "token": " Ava",
+              "logprob": -0.6891209483146667
+            },
+            {
+              "token": " had",
+              "logprob": -2.4542880058288574
+            },
+            {
+              "token": " your",
+              "logprob": -2.515155792236328
+            },
+            {
+              "token": " fort",
+              "logprob": -0.4901255965232849
+            },
+            {
+              "token": ".",
+              "logprob": -1.0755209922790527
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Cardboard",
+          "token_data": [
+            {
+              "token": " Card",
+              "logprob": -1.8755524158477783
+            },
+            {
+              "token": "board",
+              "logprob": -0.007799528539180756
+            },
+            {
+              "token": " Q",
+              "logprob": -1.7228443622589111
+            },
+            {
+              "token": ":",
+              "logprob": -0.023316722363233566
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "He built it from cardboard.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -4.469137191772461
+            },
+            {
+              "token": " built",
+              "logprob": -1.2212003469467163
+            },
+            {
+              "token": " it",
+              "logprob": -1.1886093616485596
+            },
+            {
+              "token": " from",
+              "logprob": -2.316063404083252
+            },
+            {
+              "token": " cardboard",
+              "logprob": -0.19965989887714386
+            },
+            {
+              "token": ".",
+              "logprob": -0.4175483286380768
+            },
+            {
+              "token": " Q",
+              "logprob": -0.711868941783905
+            },
+            {
+              "token": ":",
+              "logprob": -0.020714841783046722
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

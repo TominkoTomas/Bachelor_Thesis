@@ -1,0 +1,1275 @@
+{
+  "story": "One sunny day, Jordan and Zoe went to the park. Zoe sat on the grass and watched the clouds. Jordan picked up a big stick from the ground. It was too long, so Jordan trimmed a long branch with a pocket knife. Zoe smiled and said, \"What are you making?\" Jordan said, \"A walking stick for our hike tomorrow.\" Zoe liked the idea and nodded. They talked about the places they wanted to explore. After a while, Zoe stood up and stretched. She pointed to a butterfly flying nearby. Jordan put the stick down and watched the butterfly too. They both laughed when it landed on Zoe’s hand. Then Zoe said, \"Let’s go get ice cream.\" Jordan agreed and picked up the trimmed stick. They walked to the ice cream stand together, happy and excited for their hike the next day.",
+  "characters": [
+    {
+      "question": "What was the length of the branch Jordan trimmed?",
+      "character": "Jordan",
+      "story": "One sunny day, Jordan and Zoe went to the park. Zoe sat on the grass and watched the clouds. Jordan picked up a big stick from the ground. It was too long, so Jordan trimmed a long branch with a pocket knife. Zoe smiled and said, \"What are you making?\" Jordan said, \"A walking stick for our hike tomorrow.\" Zoe liked the idea and nodded. They talked about the places they wanted to explore. After a while, Zoe stood up and stretched. She pointed to a butterfly flying nearby. Jordan put the stick down and watched the butterfly too. They both laughed when it landed on Zoe’s hand. Then Zoe said, \"Let’s go get ice cream.\" Jordan agreed and picked up the trimmed stick. They walked to the ice cream stand together, happy and excited for their hike the next day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Jordan trimmed a big branch because he wanted to be in the park.",
+          "token_data": [
+            {
+              "token": " Jordan",
+              "logprob": -3.5520095825195312
+            },
+            {
+              "token": " trimmed",
+              "logprob": -0.1703089326620102
+            },
+            {
+              "token": " a",
+              "logprob": -0.3023810386657715
+            },
+            {
+              "token": " big",
+              "logprob": -3.051064968109131
+            },
+            {
+              "token": " branch",
+              "logprob": -1.6986109018325806
+            },
+            {
+              "token": " because",
+              "logprob": -3.3135366439819336
+            },
+            {
+              "token": " he",
+              "logprob": -1.4346503019332886
+            },
+            {
+              "token": " wanted",
+              "logprob": -0.8927102088928223
+            },
+            {
+              "token": " to",
+              "logprob": -0.33678728342056274
+            },
+            {
+              "token": " be",
+              "logprob": -2.5064494609832764
+            },
+            {
+              "token": " in",
+              "logprob": -4.140509605407715
+            },
+            {
+              "token": " the",
+              "logprob": -1.2044003009796143
+            },
+            {
+              "token": " park",
+              "logprob": -0.5580782890319824
+            },
+            {
+              "token": ".",
+              "logprob": -1.3790415525436401
+            },
+            {
+              "token": " \n",
+              "logprob": -3.413264751434326
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "None of the above. A branch does not get shorter by cutting it off, it must grow out of one side before starting to trim.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.031083106994629
+            },
+            {
+              "token": " of",
+              "logprob": -1.279069185256958
+            },
+            {
+              "token": " the",
+              "logprob": -0.14211225509643555
+            },
+            {
+              "token": " above",
+              "logprob": -0.4289563000202179
+            },
+            {
+              "token": ".",
+              "logprob": -0.8003434538841248
+            },
+            {
+              "token": " A",
+              "logprob": -4.5844950675964355
+            },
+            {
+              "token": " branch",
+              "logprob": -3.5721726417541504
+            },
+            {
+              "token": " does",
+              "logprob": -4.143647193908691
+            },
+            {
+              "token": " not",
+              "logprob": -0.020847130566835403
+            },
+            {
+              "token": " get",
+              "logprob": -3.083329200744629
+            },
+            {
+              "token": " shorter",
+              "logprob": -2.5818099975585938
+            },
+            {
+              "token": " by",
+              "logprob": -3.064661741256714
+            },
+            {
+              "token": " cutting",
+              "logprob": -2.7697877883911133
+            },
+            {
+              "token": " it",
+              "logprob": -0.6098238825798035
+            },
+            {
+              "token": " off",
+              "logprob": -2.126737117767334
+            },
+            {
+              "token": ",",
+              "logprob": -2.3448452949523926
+            },
+            {
+              "token": " it",
+              "logprob": -1.4715254306793213
+            },
+            {
+              "token": " must",
+              "logprob": -4.104997158050537
+            },
+            {
+              "token": " grow",
+              "logprob": -3.2823753356933594
+            },
+            {
+              "token": " out",
+              "logprob": -3.2592782974243164
+            },
+            {
+              "token": " of",
+              "logprob": -0.41047030687332153
+            },
+            {
+              "token": " one",
+              "logprob": -3.506887674331665
+            },
+            {
+              "token": " side",
+              "logprob": -0.38736042380332947
+            },
+            {
+              "token": " before",
+              "logprob": -3.8513031005859375
+            },
+            {
+              "token": " starting",
+              "logprob": -5.052645206451416
+            },
+            {
+              "token": " to",
+              "logprob": -0.4013823866844177
+            },
+            {
+              "token": " trim",
+              "logprob": -2.21492862701416
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.6652657985687256
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "6 Feet and a little smaller. The length of the stick is a few centimeters long.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -1.5474967956542969
+            },
+            {
+              "token": "6",
+              "logprob": -3.129711389541626
+            },
+            {
+              "token": " Feet",
+              "logprob": -3.0020318031311035
+            },
+            {
+              "token": " and",
+              "logprob": -4.261751174926758
+            },
+            {
+              "token": " a",
+              "logprob": -3.2243757247924805
+            },
+            {
+              "token": " little",
+              "logprob": -3.8319244384765625
+            },
+            {
+              "token": " smaller",
+              "logprob": -4.719600200653076
+            },
+            {
+              "token": ".",
+              "logprob": -1.2189053297042847
+            },
+            {
+              "token": " The",
+              "logprob": -3.046107053756714
+            },
+            {
+              "token": " length",
+              "logprob": -2.4674458503723145
+            },
+            {
+              "token": " of",
+              "logprob": -0.42379090189933777
+            },
+            {
+              "token": " the",
+              "logprob": -0.32543838024139404
+            },
+            {
+              "token": " stick",
+              "logprob": -1.7654552459716797
+            },
+            {
+              "token": " is",
+              "logprob": -2.266078233718872
+            },
+            {
+              "token": " a",
+              "logprob": -2.859691619873047
+            },
+            {
+              "token": " few",
+              "logprob": -4.49263334274292
+            },
+            {
+              "token": " cent",
+              "logprob": -3.2158384323120117
+            },
+            {
+              "token": "imeters",
+              "logprob": -0.07873319089412689
+            },
+            {
+              "token": " long",
+              "logprob": -4.609470367431641
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.1862781047821045
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Long: the branch trimmed a pocket knife, to make it shorter for our hike. B: Too long for our hiking plans.",
+          "token_data": [
+            {
+              "token": " Long",
+              "logprob": -4.470078468322754
+            },
+            {
+              "token": ":",
+              "logprob": -4.158855438232422
+            },
+            {
+              "token": " the",
+              "logprob": -3.732053756713867
+            },
+            {
+              "token": " branch",
+              "logprob": -1.4569065570831299
+            },
+            {
+              "token": " trimmed",
+              "logprob": -2.8680763244628906
+            },
+            {
+              "token": " a",
+              "logprob": -2.414396286010742
+            },
+            {
+              "token": " pocket",
+              "logprob": -1.2288942337036133
+            },
+            {
+              "token": " knife",
+              "logprob": -0.04955515265464783
+            },
+            {
+              "token": ",",
+              "logprob": -3.1026487350463867
+            },
+            {
+              "token": " to",
+              "logprob": -4.548844337463379
+            },
+            {
+              "token": " make",
+              "logprob": -1.8388285636901855
+            },
+            {
+              "token": " it",
+              "logprob": -3.8514082431793213
+            },
+            {
+              "token": " shorter",
+              "logprob": -1.5265445709228516
+            },
+            {
+              "token": " for",
+              "logprob": -3.480849027633667
+            },
+            {
+              "token": " our",
+              "logprob": -1.21751070022583
+            },
+            {
+              "token": " hike",
+              "logprob": -0.16371473670005798
+            },
+            {
+              "token": ".",
+              "logprob": -1.4066860675811768
+            },
+            {
+              "token": " B",
+              "logprob": -3.131403684616089
+            },
+            {
+              "token": ":",
+              "logprob": -0.020609166473150253
+            },
+            {
+              "token": " Too",
+              "logprob": -2.5531699657440186
+            },
+            {
+              "token": " long",
+              "logprob": -0.21437115967273712
+            },
+            {
+              "token": " for",
+              "logprob": -3.6384077072143555
+            },
+            {
+              "token": " our",
+              "logprob": -0.9671094417572021
+            },
+            {
+              "token": " hiking",
+              "logprob": -3.784080982208252
+            },
+            {
+              "token": " plans",
+              "logprob": -4.457339286804199
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.550612449645996
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "0.2m or 2m",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -1.5474967956542969
+            },
+            {
+              "token": "0",
+              "logprob": -3.2548506259918213
+            },
+            {
+              "token": ".",
+              "logprob": -0.9854041337966919
+            },
+            {
+              "token": "2",
+              "logprob": -3.0237035751342773
+            },
+            {
+              "token": "m",
+              "logprob": -2.993983507156372
+            },
+            {
+              "token": " or",
+              "logprob": -4.139338493347168
+            },
+            {
+              "token": " ",
+              "logprob": -0.17675065994262695
+            },
+            {
+              "token": "2",
+              "logprob": -2.275285482406616
+            },
+            {
+              "token": "m",
+              "logprob": -1.4123940467834473
+            },
+            {
+              "token": " \n",
+              "logprob": -4.370218753814697
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "a. one meter B: three feet. C: one foot and five inches.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.949148178100586
+            },
+            {
+              "token": ".",
+              "logprob": -2.0262691974639893
+            },
+            {
+              "token": " one",
+              "logprob": -3.936753749847412
+            },
+            {
+              "token": " meter",
+              "logprob": -1.3128273487091064
+            },
+            {
+              "token": " B",
+              "logprob": -1.0865660905838013
+            },
+            {
+              "token": ":",
+              "logprob": -0.16636940836906433
+            },
+            {
+              "token": " three",
+              "logprob": -3.2713446617126465
+            },
+            {
+              "token": " feet",
+              "logprob": -1.6983535289764404
+            },
+            {
+              "token": ".",
+              "logprob": -2.163292646408081
+            },
+            {
+              "token": " C",
+              "logprob": -0.18285293877124786
+            },
+            {
+              "token": ":",
+              "logprob": -0.05033183470368385
+            },
+            {
+              "token": " one",
+              "logprob": -1.6965892314910889
+            },
+            {
+              "token": " foot",
+              "logprob": -1.584328293800354
+            },
+            {
+              "token": " and",
+              "logprob": -3.333503484725952
+            },
+            {
+              "token": " five",
+              "logprob": -3.498607873916626
+            },
+            {
+              "token": " inches",
+              "logprob": -0.44891464710235596
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.8187716007232666
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "6 feet.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -1.5474967956542969
+            },
+            {
+              "token": "6",
+              "logprob": -3.129711389541626
+            },
+            {
+              "token": " feet",
+              "logprob": -1.4150729179382324
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.603175401687622
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "None (use text entry).",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.031083106994629
+            },
+            {
+              "token": " (",
+              "logprob": -3.9864532947540283
+            },
+            {
+              "token": "use",
+              "logprob": -4.740501880645752
+            },
+            {
+              "token": " text",
+              "logprob": -4.513032913208008
+            },
+            {
+              "token": " entry",
+              "logprob": -3.2859385013580322
+            },
+            {
+              "token": ").",
+              "logprob": -2.6354434490203857
+            },
+            {
+              "token": " \n",
+              "logprob": -1.273361086845398
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It is very long, about 15 feet in length.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.861347198486328
+            },
+            {
+              "token": " is",
+              "logprob": -3.0779945850372314
+            },
+            {
+              "token": " very",
+              "logprob": -3.72261381149292
+            },
+            {
+              "token": " long",
+              "logprob": -2.662053108215332
+            },
+            {
+              "token": ",",
+              "logprob": -2.1723151206970215
+            },
+            {
+              "token": " about",
+              "logprob": -2.812321662902832
+            },
+            {
+              "token": " ",
+              "logprob": -0.20162490010261536
+            },
+            {
+              "token": "15",
+              "logprob": -4.317705154418945
+            },
+            {
+              "token": " feet",
+              "logprob": -1.0513852834701538
+            },
+            {
+              "token": " in",
+              "logprob": -3.1961824893951416
+            },
+            {
+              "token": " length",
+              "logprob": -0.12572245299816132
+            },
+            {
+              "token": ".",
+              "logprob": -0.27886465191841125
+            },
+            {
+              "token": " Q",
+              "logprob": -2.012779951095581
+            },
+            {
+              "token": ":",
+              "logprob": -0.029179314151406288
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "None - Look it up yourself!",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.031083106994629
+            },
+            {
+              "token": " -",
+              "logprob": -3.9126551151275635
+            },
+            {
+              "token": " Look",
+              "logprob": -5.215441703796387
+            },
+            {
+              "token": " it",
+              "logprob": -1.227068543434143
+            },
+            {
+              "token": " up",
+              "logprob": -0.2654745280742645
+            },
+            {
+              "token": " yourself",
+              "logprob": -0.6873747110366821
+            },
+            {
+              "token": "!\n\n",
+              "logprob": -2.6148486137390137
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What was the length of the branch Zoe trimmed?",
+      "character": "Zoe",
+      "story": "One sunny day, Jordan and Zoe went to the park. Zoe sat on the grass and watched the clouds. Jordan picked up a big stick from the ground. It was too long, so Jordan trimmed a long branch with a pocket knife. Zoe smiled and said, \"What are you making?\" Jordan said, \"A walking stick for our hike tomorrow.\" Zoe liked the idea and nodded. They talked about the places they wanted to explore. After a while, Zoe stood up and stretched. She pointed to a butterfly flying nearby. Jordan put the stick down and watched the butterfly too. They both laughed when it landed on Zoe’s hand. Then Zoe said, \"Let’s go get ice cream.\" Jordan agreed and picked up the trimmed stick. They walked to the ice cream stand together, happy and excited for their hike the next day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "None",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.968046188354492
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.711742877960205
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "What were the lengths of the branches they trimmed? A: They trimmed a short one and a long one.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.847200393676758
+            },
+            {
+              "token": " were",
+              "logprob": -3.6544346809387207
+            },
+            {
+              "token": " the",
+              "logprob": -0.4682823419570923
+            },
+            {
+              "token": " lengths",
+              "logprob": -1.5830957889556885
+            },
+            {
+              "token": " of",
+              "logprob": -0.07846319675445557
+            },
+            {
+              "token": " the",
+              "logprob": -0.09788300842046738
+            },
+            {
+              "token": " branches",
+              "logprob": -0.629793643951416
+            },
+            {
+              "token": " they",
+              "logprob": -3.2799336910247803
+            },
+            {
+              "token": " trimmed",
+              "logprob": -0.0990215614438057
+            },
+            {
+              "token": "?",
+              "logprob": -0.27867528796195984
+            },
+            {
+              "token": " A",
+              "logprob": -3.511223077774048
+            },
+            {
+              "token": ":",
+              "logprob": -0.0990593284368515
+            },
+            {
+              "token": " They",
+              "logprob": -3.084224224090576
+            },
+            {
+              "token": " trimmed",
+              "logprob": -0.19246810674667358
+            },
+            {
+              "token": " a",
+              "logprob": -0.6094052791595459
+            },
+            {
+              "token": " short",
+              "logprob": -3.892378330230713
+            },
+            {
+              "token": " one",
+              "logprob": -2.7836968898773193
+            },
+            {
+              "token": " and",
+              "logprob": -1.4579838514328003
+            },
+            {
+              "token": " a",
+              "logprob": -0.10981244593858719
+            },
+            {
+              "token": " long",
+              "logprob": -0.4372138977050781
+            },
+            {
+              "token": " one",
+              "logprob": -0.04443473368883133
+            },
+            {
+              "token": ".",
+              "logprob": -0.27797606587409973
+            },
+            {
+              "token": " Q",
+              "logprob": -2.110164165496826
+            },
+            {
+              "token": ":",
+              "logprob": -0.03824589401483536
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Zoe trimmed the stick of about one meter in length.",
+          "token_data": [
+            {
+              "token": " Zoe",
+              "logprob": -3.777627944946289
+            },
+            {
+              "token": " trimmed",
+              "logprob": -0.3017638921737671
+            },
+            {
+              "token": " the",
+              "logprob": -1.818886637687683
+            },
+            {
+              "token": " stick",
+              "logprob": -2.105597496032715
+            },
+            {
+              "token": " of",
+              "logprob": -3.82041072845459
+            },
+            {
+              "token": " about",
+              "logprob": -1.7393853664398193
+            },
+            {
+              "token": " one",
+              "logprob": -2.9794881343841553
+            },
+            {
+              "token": " meter",
+              "logprob": -1.6558001041412354
+            },
+            {
+              "token": " in",
+              "logprob": -2.3489012718200684
+            },
+            {
+              "token": " length",
+              "logprob": -0.09392619132995605
+            },
+            {
+              "token": ".",
+              "logprob": -0.36592966318130493
+            },
+            {
+              "token": " Q",
+              "logprob": -1.7468640804290771
+            },
+            {
+              "token": ":",
+              "logprob": -0.030445968732237816
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "a one meter tall, 7.4 cm.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -4.080219268798828
+            },
+            {
+              "token": " one",
+              "logprob": -5.499424457550049
+            },
+            {
+              "token": " meter",
+              "logprob": -3.625566005706787
+            },
+            {
+              "token": " tall",
+              "logprob": -4.095486164093018
+            },
+            {
+              "token": ",",
+              "logprob": -2.672184705734253
+            },
+            {
+              "token": " ",
+              "logprob": -3.367518901824951
+            },
+            {
+              "token": "7",
+              "logprob": -3.9735636711120605
+            },
+            {
+              "token": ".",
+              "logprob": -1.5851447582244873
+            },
+            {
+              "token": "4",
+              "logprob": -3.1583988666534424
+            },
+            {
+              "token": " cm",
+              "logprob": -1.8697242736816406
+            },
+            {
+              "token": ".",
+              "logprob": -2.606743335723877
+            },
+            {
+              "token": " \n",
+              "logprob": -3.609220504760742
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.7580909729003906
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "(5-3) + (8 - 3) = 9, the next number up is 7, so Zoe trimmed a (7 - 3) meter stick.",
+          "token_data": [
+            {
+              "token": " (",
+              "logprob": -4.0898542404174805
+            },
+            {
+              "token": "5",
+              "logprob": -3.232036590576172
+            },
+            {
+              "token": "-",
+              "logprob": -4.237545013427734
+            },
+            {
+              "token": "3",
+              "logprob": -4.178244590759277
+            },
+            {
+              "token": ")",
+              "logprob": -0.8211356997489929
+            },
+            {
+              "token": " +",
+              "logprob": -4.520790100097656
+            },
+            {
+              "token": " (",
+              "logprob": -1.0785795450210571
+            },
+            {
+              "token": "8",
+              "logprob": -3.715529441833496
+            },
+            {
+              "token": " -",
+              "logprob": -2.666135311126709
+            },
+            {
+              "token": " ",
+              "logprob": -0.09936041384935379
+            },
+            {
+              "token": "3",
+              "logprob": -1.6501978635787964
+            },
+            {
+              "token": ")",
+              "logprob": -0.17182515561580658
+            },
+            {
+              "token": " =",
+              "logprob": -0.34442487359046936
+            },
+            {
+              "token": " ",
+              "logprob": -1.037243127822876
+            },
+            {
+              "token": "9",
+              "logprob": -3.8418827056884766
+            },
+            {
+              "token": ",",
+              "logprob": -3.80653977394104
+            },
+            {
+              "token": " the",
+              "logprob": -3.891939163208008
+            },
+            {
+              "token": " next",
+              "logprob": -4.5349812507629395
+            },
+            {
+              "token": " number",
+              "logprob": -3.0471880435943604
+            },
+            {
+              "token": " up",
+              "logprob": -3.3634395599365234
+            },
+            {
+              "token": " is",
+              "logprob": -0.7041704058647156
+            },
+            {
+              "token": " ",
+              "logprob": -0.17207299172878265
+            },
+            {
+              "token": "7",
+              "logprob": -3.517426013946533
+            },
+            {
+              "token": ",",
+              "logprob": -2.0086183547973633
+            },
+            {
+              "token": " so",
+              "logprob": -1.058342695236206
+            },
+            {
+              "token": " Zoe",
+              "logprob": -3.9491076469421387
+            },
+            {
+              "token": " trimmed",
+              "logprob": -0.2265661209821701
+            },
+            {
+              "token": " a",
+              "logprob": -1.0642280578613281
+            },
+            {
+              "token": " (",
+              "logprob": -1.712205171585083
+            },
+            {
+              "token": "7",
+              "logprob": -1.2707480192184448
+            },
+            {
+              "token": " -",
+              "logprob": -0.4174934923648834
+            },
+            {
+              "token": " ",
+              "logprob": -0.01603727973997593
+            },
+            {
+              "token": "3",
+              "logprob": -0.07947775721549988
+            },
+            {
+              "token": ")",
+              "logprob": -0.08120880275964737
+            },
+            {
+              "token": " meter",
+              "logprob": -3.676992654800415
+            },
+            {
+              "token": " stick",
+              "logprob": -1.0978257656097412
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.923765182495117
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "About as long as an adult trying to pick a 50 cm pole out of a tall tree.",
+          "token_data": [
+            {
+              "token": " About",
+              "logprob": -3.9530715942382812
+            },
+            {
+              "token": " as",
+              "logprob": -2.6172475814819336
+            },
+            {
+              "token": " long",
+              "logprob": -0.37713539600372314
+            },
+            {
+              "token": " as",
+              "logprob": -0.022572137415409088
+            },
+            {
+              "token": " an",
+              "logprob": -2.2943761348724365
+            },
+            {
+              "token": " adult",
+              "logprob": -3.4835028648376465
+            },
+            {
+              "token": " trying",
+              "logprob": -5.149293422698975
+            },
+            {
+              "token": " to",
+              "logprob": -0.04527316987514496
+            },
+            {
+              "token": " pick",
+              "logprob": -3.566202163696289
+            },
+            {
+              "token": " a",
+              "logprob": -2.6426079273223877
+            },
+            {
+              "token": " ",
+              "logprob": -4.143520355224609
+            },
+            {
+              "token": "50",
+              "logprob": -3.8287301063537598
+            },
+            {
+              "token": " cm",
+              "logprob": -2.517983913421631
+            },
+            {
+              "token": " pole",
+              "logprob": -3.3072471618652344
+            },
+            {
+              "token": " out",
+              "logprob": -1.4467778205871582
+            },
+            {
+              "token": " of",
+              "logprob": -0.017851751297712326
+            },
+            {
+              "token": " a",
+              "logprob": -0.29271388053894043
+            },
+            {
+              "token": " tall",
+              "logprob": -4.317652225494385
+            },
+            {
+              "token": " tree",
+              "logprob": -0.21758711338043213
+            },
+            {
+              "token": ".",
+              "logprob": -0.5322278738021851
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.4776206016540527
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "The answer for this question is a piece of wood.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.4158077239990234
+            },
+            {
+              "token": " answer",
+              "logprob": -2.8470702171325684
+            },
+            {
+              "token": " for",
+              "logprob": -3.3182942867279053
+            },
+            {
+              "token": " this",
+              "logprob": -0.3814607560634613
+            },
+            {
+              "token": " question",
+              "logprob": -0.36450958251953125
+            },
+            {
+              "token": " is",
+              "logprob": -0.4719523787498474
+            },
+            {
+              "token": " a",
+              "logprob": -2.2709550857543945
+            },
+            {
+              "token": " piece",
+              "logprob": -5.173732757568359
+            },
+            {
+              "token": " of",
+              "logprob": -0.022342512384057045
+            },
+            {
+              "token": " wood",
+              "logprob": -2.2624974250793457
+            },
+            {
+              "token": ".",
+              "logprob": -1.2963253259658813
+            },
+            {
+              "token": " \n",
+              "logprob": -2.1664552688598633
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It didn't have to be trimmed.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.5197362899780273
+            },
+            {
+              "token": " didn",
+              "logprob": -2.8634228706359863
+            },
+            {
+              "token": "'t",
+              "logprob": -0.4835563898086548
+            },
+            {
+              "token": " have",
+              "logprob": -3.127830982208252
+            },
+            {
+              "token": " to",
+              "logprob": -0.42216047644615173
+            },
+            {
+              "token": " be",
+              "logprob": -0.07901863753795624
+            },
+            {
+              "token": " trimmed",
+              "logprob": -2.0386624336242676
+            },
+            {
+              "token": ".",
+              "logprob": -1.1194427013397217
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.4348132610321045
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "4 feet long",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -1.6431828737258911
+            },
+            {
+              "token": "4",
+              "logprob": -2.8579931259155273
+            },
+            {
+              "token": " feet",
+              "logprob": -1.6991740465164185
+            },
+            {
+              "token": " long",
+              "logprob": -3.369901180267334
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.8731179237365723
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

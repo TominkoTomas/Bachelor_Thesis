@@ -1,0 +1,1423 @@
+{
+  "story": "Harper and Liam were best friends who loved to play outside. One sunny day, they went to the park together. Harper brought a red bouncing ball. Liam sat on the bench to watch. Harper kicked a bouncing ball as hard as she could. It flew high into the air and landed near a tree. Liam clapped and cheered for her. Harper ran to get the ball and kicked it again. This time, it went even farther. Liam laughed and told her she was getting better. They spent the whole afternoon playing and having fun. When the sun started to set, they decided to go home. Harper carried the ball, and Liam walked beside her. They talked about their favorite parts of the day. Harper said kicking the ball was her favorite. Liam agreed it was fun to watch. They promised to come back to the park soon. Harper and Liam were happy to have such a great day together.",
+  "characters": [
+    {
+      "question": "What movement was the ball making when Harper kicked it?",
+      "character": "Harper",
+      "story": "Harper and Liam were best friends who loved to play outside. One sunny day, they went to the park together. Harper brought a red bouncing ball. Liam sat on the bench to watch. Harper kicked a bouncing ball as hard as she could. It flew high into the air and landed near a tree. Liam clapped and cheered for her. Harper ran to get the ball and kicked it again. This time, it went even farther. Liam laughed and told her she was getting better. They spent the whole afternoon playing and having fun. When the sun started to set, they decided to go home. Harper carried the ball, and Liam walked beside her. They talked about their favorite parts of the day. Harper said kicking the ball was her favorite. Liam agreed it was fun to watch. They promised to come back to the park soon. Harper and Liam were happy to have such a great day together.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The ball was in the air and that is what movement.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -0.9272317886352539
+            },
+            {
+              "token": " ball",
+              "logprob": -0.30416667461395264
+            },
+            {
+              "token": " was",
+              "logprob": -0.20572008192539215
+            },
+            {
+              "token": " in",
+              "logprob": -2.9333550930023193
+            },
+            {
+              "token": " the",
+              "logprob": -0.508863627910614
+            },
+            {
+              "token": " air",
+              "logprob": -0.19349375367164612
+            },
+            {
+              "token": " and",
+              "logprob": -2.969269275665283
+            },
+            {
+              "token": " that",
+              "logprob": -3.600269317626953
+            },
+            {
+              "token": " is",
+              "logprob": -0.6692266464233398
+            },
+            {
+              "token": " what",
+              "logprob": -1.4723522663116455
+            },
+            {
+              "token": " movement",
+              "logprob": -2.3068838119506836
+            },
+            {
+              "token": ".",
+              "logprob": -2.860440731048584
+            },
+            {
+              "token": " ",
+              "logprob": -2.489948034286499
+            },
+            {
+              "token": " Q",
+              "logprob": -1.4455347061157227
+            },
+            {
+              "token": ":",
+              "logprob": -0.036294396966695786
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "What direction the ball moved in?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.18121600151062
+            },
+            {
+              "token": " direction",
+              "logprob": -3.256493091583252
+            },
+            {
+              "token": " the",
+              "logprob": -2.546051025390625
+            },
+            {
+              "token": " ball",
+              "logprob": -0.07796932756900787
+            },
+            {
+              "token": " moved",
+              "logprob": -3.214308500289917
+            },
+            {
+              "token": " in",
+              "logprob": -1.790126085281372
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -4.187231063842773
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "What movement?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.18121600151062
+            },
+            {
+              "token": " movement",
+              "logprob": -0.5353819131851196
+            },
+            {
+              "token": "?",
+              "logprob": -2.389981508255005
+            },
+            {
+              "token": " Q",
+              "logprob": -2.827152729034424
+            },
+            {
+              "token": ":",
+              "logprob": -0.023636825382709503
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Answer: Bounce",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -2.749816656112671
+            },
+            {
+              "token": ":",
+              "logprob": -2.545708656311035
+            },
+            {
+              "token": " B",
+              "logprob": -4.4119672775268555
+            },
+            {
+              "token": "ounce",
+              "logprob": -2.414158582687378
+            },
+            {
+              "token": " Q",
+              "logprob": -2.027883291244507
+            },
+            {
+              "token": ":",
+              "logprob": -0.029470808804035187
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The ball was moving in a circle, but this was only visible when seen from above.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -0.9355036616325378
+            },
+            {
+              "token": " ball",
+              "logprob": -0.29790201783180237
+            },
+            {
+              "token": " was",
+              "logprob": -0.20856928825378418
+            },
+            {
+              "token": " moving",
+              "logprob": -0.736460268497467
+            },
+            {
+              "token": " in",
+              "logprob": -2.122681140899658
+            },
+            {
+              "token": " a",
+              "logprob": -0.41271695494651794
+            },
+            {
+              "token": " circle",
+              "logprob": -2.1418073177337646
+            },
+            {
+              "token": ",",
+              "logprob": -3.316401958465576
+            },
+            {
+              "token": " but",
+              "logprob": -3.2642507553100586
+            },
+            {
+              "token": " this",
+              "logprob": -3.9183521270751953
+            },
+            {
+              "token": " was",
+              "logprob": -1.9883860349655151
+            },
+            {
+              "token": " only",
+              "logprob": -2.900543689727783
+            },
+            {
+              "token": " visible",
+              "logprob": -3.279073476791382
+            },
+            {
+              "token": " when",
+              "logprob": -2.9196791648864746
+            },
+            {
+              "token": " seen",
+              "logprob": -3.2310051918029785
+            },
+            {
+              "token": " from",
+              "logprob": -0.34230443835258484
+            },
+            {
+              "token": " above",
+              "logprob": -0.5828543305397034
+            },
+            {
+              "token": ".",
+              "logprob": -0.2923274338245392
+            },
+            {
+              "token": " \n",
+              "logprob": -2.8045830726623535
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A question",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.8429954051971436
+            },
+            {
+              "token": " question",
+              "logprob": -3.5181453227996826
+            },
+            {
+              "token": "\n",
+              "logprob": -4.388760566711426
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A ball is a",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.8429954051971436
+            },
+            {
+              "token": " ball",
+              "logprob": -1.849980115890503
+            },
+            {
+              "token": " is",
+              "logprob": -0.9801511764526367
+            },
+            {
+              "token": " a",
+              "logprob": -2.7365946769714355
+            },
+            {
+              "token": " \n",
+              "logprob": -4.932243347167969
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A bouncing ball is flying up into the sky.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.8429954051971436
+            },
+            {
+              "token": " bouncing",
+              "logprob": -1.6673171520233154
+            },
+            {
+              "token": " ball",
+              "logprob": -0.16167515516281128
+            },
+            {
+              "token": " is",
+              "logprob": -1.8184576034545898
+            },
+            {
+              "token": " flying",
+              "logprob": -4.726325035095215
+            },
+            {
+              "token": " up",
+              "logprob": -3.5822062492370605
+            },
+            {
+              "token": " into",
+              "logprob": -0.9674566984176636
+            },
+            {
+              "token": " the",
+              "logprob": -0.023650335147976875
+            },
+            {
+              "token": " sky",
+              "logprob": -2.066192626953125
+            },
+            {
+              "token": ".",
+              "logprob": -0.7235478162765503
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.577223777770996
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It was moving upwards into the sky. 2) How can you tell that the ball moved uprward in to the sky? A: Because Harper kicked it into the sky, and when Harper kicked it she kicked it as far as she could, which is good for me to see it fall. 3) How can you tell that the red bouncing ball was her favorite? A: Liam and I watched Harper kicking a ball and having fun. Then, they spent the whole day together.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.6264989376068115
+            },
+            {
+              "token": " was",
+              "logprob": -0.2313617318868637
+            },
+            {
+              "token": " moving",
+              "logprob": -1.4581198692321777
+            },
+            {
+              "token": " upwards",
+              "logprob": -2.841139793395996
+            },
+            {
+              "token": " into",
+              "logprob": -3.5457229614257812
+            },
+            {
+              "token": " the",
+              "logprob": -0.019807517528533936
+            },
+            {
+              "token": " sky",
+              "logprob": -1.8342251777648926
+            },
+            {
+              "token": ".",
+              "logprob": -0.32635003328323364
+            },
+            {
+              "token": " ",
+              "logprob": -2.385770797729492
+            },
+            {
+              "token": "2",
+              "logprob": -2.6690235137939453
+            },
+            {
+              "token": ")",
+              "logprob": -2.3329758644104004
+            },
+            {
+              "token": " How",
+              "logprob": -3.3156561851501465
+            },
+            {
+              "token": " can",
+              "logprob": -3.6612775325775146
+            },
+            {
+              "token": " you",
+              "logprob": -0.8516385555267334
+            },
+            {
+              "token": " tell",
+              "logprob": -0.715149462223053
+            },
+            {
+              "token": " that",
+              "logprob": -1.0593008995056152
+            },
+            {
+              "token": " the",
+              "logprob": -1.4849698543548584
+            },
+            {
+              "token": " ball",
+              "logprob": -0.12716762721538544
+            },
+            {
+              "token": " moved",
+              "logprob": -3.6892001628875732
+            },
+            {
+              "token": " up",
+              "logprob": -1.8377169370651245
+            },
+            {
+              "token": "r",
+              "logprob": -4.027264595031738
+            },
+            {
+              "token": "ward",
+              "logprob": -3.05975341796875
+            },
+            {
+              "token": " in",
+              "logprob": -3.470837116241455
+            },
+            {
+              "token": " to",
+              "logprob": -1.6088547706604004
+            },
+            {
+              "token": " the",
+              "logprob": -0.03010432794690132
+            },
+            {
+              "token": " sky",
+              "logprob": -0.06664490699768066
+            },
+            {
+              "token": "?",
+              "logprob": -0.18127389252185822
+            },
+            {
+              "token": " A",
+              "logprob": -0.605072557926178
+            },
+            {
+              "token": ":",
+              "logprob": -0.01809774711728096
+            },
+            {
+              "token": " Because",
+              "logprob": -2.433852434158325
+            },
+            {
+              "token": " Harper",
+              "logprob": -1.0441346168518066
+            },
+            {
+              "token": " kicked",
+              "logprob": -0.3198399245738983
+            },
+            {
+              "token": " it",
+              "logprob": -0.3899945318698883
+            },
+            {
+              "token": " into",
+              "logprob": -3.503692626953125
+            },
+            {
+              "token": " the",
+              "logprob": -0.033321596682071686
+            },
+            {
+              "token": " sky",
+              "logprob": -0.5279618501663208
+            },
+            {
+              "token": ",",
+              "logprob": -2.486311197280884
+            },
+            {
+              "token": " and",
+              "logprob": -1.3471187353134155
+            },
+            {
+              "token": " when",
+              "logprob": -3.6935060024261475
+            },
+            {
+              "token": " Harper",
+              "logprob": -2.3860905170440674
+            },
+            {
+              "token": " kicked",
+              "logprob": -0.11239033192396164
+            },
+            {
+              "token": " it",
+              "logprob": -0.5470696091651917
+            },
+            {
+              "token": " she",
+              "logprob": -3.0906362533569336
+            },
+            {
+              "token": " kicked",
+              "logprob": -1.6410839557647705
+            },
+            {
+              "token": " it",
+              "logprob": -0.4038057029247284
+            },
+            {
+              "token": " as",
+              "logprob": -2.0972023010253906
+            },
+            {
+              "token": " far",
+              "logprob": -2.3987464904785156
+            },
+            {
+              "token": " as",
+              "logprob": -0.08868562430143356
+            },
+            {
+              "token": " she",
+              "logprob": -0.2960686981678009
+            },
+            {
+              "token": " could",
+              "logprob": -0.05753646045923233
+            },
+            {
+              "token": ",",
+              "logprob": -2.7951154708862305
+            },
+            {
+              "token": " which",
+              "logprob": -2.7562918663024902
+            },
+            {
+              "token": " is",
+              "logprob": -1.7616430521011353
+            },
+            {
+              "token": " good",
+              "logprob": -3.992739677429199
+            },
+            {
+              "token": " for",
+              "logprob": -1.556284785270691
+            },
+            {
+              "token": " me",
+              "logprob": -4.039755821228027
+            },
+            {
+              "token": " to",
+              "logprob": -1.3971107006072998
+            },
+            {
+              "token": " see",
+              "logprob": -2.4031240940093994
+            },
+            {
+              "token": " it",
+              "logprob": -2.7018890380859375
+            },
+            {
+              "token": " fall",
+              "logprob": -4.647216796875
+            },
+            {
+              "token": ".",
+              "logprob": -1.0588701963424683
+            },
+            {
+              "token": " ",
+              "logprob": -0.5513267517089844
+            },
+            {
+              "token": "3",
+              "logprob": -0.061704713851213455
+            },
+            {
+              "token": ")",
+              "logprob": -0.03579522669315338
+            },
+            {
+              "token": " How",
+              "logprob": -1.660319447517395
+            },
+            {
+              "token": " can",
+              "logprob": -0.9123620986938477
+            },
+            {
+              "token": " you",
+              "logprob": -0.34285715222358704
+            },
+            {
+              "token": " tell",
+              "logprob": -0.21527326107025146
+            },
+            {
+              "token": " that",
+              "logprob": -0.3703327178955078
+            },
+            {
+              "token": " the",
+              "logprob": -1.127833366394043
+            },
+            {
+              "token": " red",
+              "logprob": -3.8319990634918213
+            },
+            {
+              "token": " bouncing",
+              "logprob": -1.5126137733459473
+            },
+            {
+              "token": " ball",
+              "logprob": -0.03025364875793457
+            },
+            {
+              "token": " was",
+              "logprob": -0.8713349103927612
+            },
+            {
+              "token": " her",
+              "logprob": -3.563995122909546
+            },
+            {
+              "token": " favorite",
+              "logprob": -0.20584776997566223
+            },
+            {
+              "token": "?",
+              "logprob": -0.260154664516449
+            },
+            {
+              "token": " A",
+              "logprob": -0.08739795535802841
+            },
+            {
+              "token": ":",
+              "logprob": -0.012106744572520256
+            },
+            {
+              "token": " Liam",
+              "logprob": -3.877743721008301
+            },
+            {
+              "token": " and",
+              "logprob": -2.39886212348938
+            },
+            {
+              "token": " I",
+              "logprob": -2.517711639404297
+            },
+            {
+              "token": " watched",
+              "logprob": -5.265737533569336
+            },
+            {
+              "token": " Harper",
+              "logprob": -1.7626296281814575
+            },
+            {
+              "token": " kicking",
+              "logprob": -2.3486392498016357
+            },
+            {
+              "token": " a",
+              "logprob": -2.54764986038208
+            },
+            {
+              "token": " ball",
+              "logprob": -2.7103636264801025
+            },
+            {
+              "token": " and",
+              "logprob": -2.131777048110962
+            },
+            {
+              "token": " having",
+              "logprob": -5.1177167892456055
+            },
+            {
+              "token": " fun",
+              "logprob": -0.18980570137500763
+            },
+            {
+              "token": ".",
+              "logprob": -0.7156047224998474
+            },
+            {
+              "token": " Then",
+              "logprob": -4.174099445343018
+            },
+            {
+              "token": ",",
+              "logprob": -1.867587924003601
+            },
+            {
+              "token": " they",
+              "logprob": -2.478691339492798
+            },
+            {
+              "token": " spent",
+              "logprob": -1.4352705478668213
+            },
+            {
+              "token": " the",
+              "logprob": -0.026573164388537407
+            },
+            {
+              "token": " whole",
+              "logprob": -0.012622701935470104
+            },
+            {
+              "token": " day",
+              "logprob": -2.488386392593384
+            },
+            {
+              "token": " together",
+              "logprob": -2.516061305999756
+            },
+            {
+              "token": ".",
+              "logprob": -1.1680692434310913
+            },
+            {
+              "token": " \n",
+              "logprob": -3.7345685958862305
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The ball was rising up in the air.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -0.9355036616325378
+            },
+            {
+              "token": " ball",
+              "logprob": -0.29790201783180237
+            },
+            {
+              "token": " was",
+              "logprob": -0.20856928825378418
+            },
+            {
+              "token": " rising",
+              "logprob": -3.714672565460205
+            },
+            {
+              "token": " up",
+              "logprob": -2.3412246704101562
+            },
+            {
+              "token": " in",
+              "logprob": -1.2603367567062378
+            },
+            {
+              "token": " the",
+              "logprob": -0.08054637908935547
+            },
+            {
+              "token": " air",
+              "logprob": -0.1561749130487442
+            },
+            {
+              "token": ".",
+              "logprob": -0.4366319179534912
+            },
+            {
+              "token": " \n",
+              "logprob": -2.425323009490967
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What movement was the ball making when Liam kicked it?",
+      "character": "Liam",
+      "story": "Harper and Liam were best friends who loved to play outside. One sunny day, they went to the park together. Harper brought a red bouncing ball. Liam sat on the bench to watch. Harper kicked a bouncing ball as hard as she could. It flew high into the air and landed near a tree. Liam clapped and cheered for her. Harper ran to get the ball and kicked it again. This time, it went even farther. Liam laughed and told her she was getting better. They spent the whole afternoon playing and having fun. When the sun started to set, they decided to go home. Harper carried the ball, and Liam walked beside her. They talked about their favorite parts of the day. Harper said kicking the ball was her favorite. Liam agreed it was fun to watch. They promised to come back to the park soon. Harper and Liam were happy to have such a great day together.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A. The ball was making a diagonal line toward the tree.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.864562749862671
+            },
+            {
+              "token": ".",
+              "logprob": -2.8746349811553955
+            },
+            {
+              "token": " The",
+              "logprob": -1.848644733428955
+            },
+            {
+              "token": " ball",
+              "logprob": -0.3060693144798279
+            },
+            {
+              "token": " was",
+              "logprob": -0.28986498713493347
+            },
+            {
+              "token": " making",
+              "logprob": -2.8734207153320312
+            },
+            {
+              "token": " a",
+              "logprob": -0.2631900906562805
+            },
+            {
+              "token": " diagonal",
+              "logprob": -4.056002140045166
+            },
+            {
+              "token": " line",
+              "logprob": -1.618761658668518
+            },
+            {
+              "token": " toward",
+              "logprob": -3.363363265991211
+            },
+            {
+              "token": " the",
+              "logprob": -0.6502377986907959
+            },
+            {
+              "token": " tree",
+              "logprob": -0.4494381546974182
+            },
+            {
+              "token": ".",
+              "logprob": -0.18408949673175812
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.890718460083008
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "A bouncing movement",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.805612325668335
+            },
+            {
+              "token": " bouncing",
+              "logprob": -1.6422630548477173
+            },
+            {
+              "token": " movement",
+              "logprob": -2.591546058654785
+            },
+            {
+              "token": "\n",
+              "logprob": -3.703017234802246
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A bouncing ball!",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.905665159225464
+            },
+            {
+              "token": " A",
+              "logprob": -3.588590145111084
+            },
+            {
+              "token": " bouncing",
+              "logprob": -1.572501540184021
+            },
+            {
+              "token": " ball",
+              "logprob": -0.19006596505641937
+            },
+            {
+              "token": "!",
+              "logprob": -3.9932727813720703
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0795600414276123
+            },
+            {
+              "token": ":",
+              "logprob": -0.029466526582837105
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "A bouncing ball is going up when Liam kicked it.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.905665159225464
+            },
+            {
+              "token": " A",
+              "logprob": -3.588590145111084
+            },
+            {
+              "token": " bouncing",
+              "logprob": -1.572501540184021
+            },
+            {
+              "token": " ball",
+              "logprob": -0.19006596505641937
+            },
+            {
+              "token": " is",
+              "logprob": -1.799923062324524
+            },
+            {
+              "token": " going",
+              "logprob": -4.001079559326172
+            },
+            {
+              "token": " up",
+              "logprob": -0.7509623765945435
+            },
+            {
+              "token": " when",
+              "logprob": -3.2182798385620117
+            },
+            {
+              "token": " Liam",
+              "logprob": -2.4936869144439697
+            },
+            {
+              "token": " kicked",
+              "logprob": -0.7068049907684326
+            },
+            {
+              "token": " it",
+              "logprob": -0.08095379173755646
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.0849111080169678
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The bouncing ball is moving upward because it's heavier than air. (No air needed)",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -0.9790361523628235
+            },
+            {
+              "token": " bouncing",
+              "logprob": -2.4150571823120117
+            },
+            {
+              "token": " ball",
+              "logprob": -0.06031513586640358
+            },
+            {
+              "token": " is",
+              "logprob": -2.9606728553771973
+            },
+            {
+              "token": " moving",
+              "logprob": -0.79124516248703
+            },
+            {
+              "token": " upward",
+              "logprob": -2.4430906772613525
+            },
+            {
+              "token": " because",
+              "logprob": -2.6398415565490723
+            },
+            {
+              "token": " it",
+              "logprob": -0.9606519937515259
+            },
+            {
+              "token": "'s",
+              "logprob": -2.7616825103759766
+            },
+            {
+              "token": " heavier",
+              "logprob": -4.971954345703125
+            },
+            {
+              "token": " than",
+              "logprob": -0.11423192918300629
+            },
+            {
+              "token": " air",
+              "logprob": -0.9274803996086121
+            },
+            {
+              "token": ".",
+              "logprob": -0.44708746671676636
+            },
+            {
+              "token": " (",
+              "logprob": -4.656861305236816
+            },
+            {
+              "token": "No",
+              "logprob": -5.341202735900879
+            },
+            {
+              "token": " air",
+              "logprob": -3.162047863006592
+            },
+            {
+              "token": " needed",
+              "logprob": -3.9887046813964844
+            },
+            {
+              "token": ")\n",
+              "logprob": -4.1366682052612305
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The ball was moving in the direction of the ground.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -0.9790361523628235
+            },
+            {
+              "token": " ball",
+              "logprob": -0.2794981896877289
+            },
+            {
+              "token": " was",
+              "logprob": -0.22759680449962616
+            },
+            {
+              "token": " moving",
+              "logprob": -0.7670317888259888
+            },
+            {
+              "token": " in",
+              "logprob": -2.104118824005127
+            },
+            {
+              "token": " the",
+              "logprob": -2.486708641052246
+            },
+            {
+              "token": " direction",
+              "logprob": -1.0849367380142212
+            },
+            {
+              "token": " of",
+              "logprob": -0.2868305742740631
+            },
+            {
+              "token": " the",
+              "logprob": -0.8586720824241638
+            },
+            {
+              "token": " ground",
+              "logprob": -2.706295967102051
+            },
+            {
+              "token": ".",
+              "logprob": -0.45691779255867004
+            },
+            {
+              "token": " Q",
+              "logprob": -1.5062065124511719
+            },
+            {
+              "token": ":",
+              "logprob": -0.022380514070391655
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Harper kicked it the first time.",
+          "token_data": [
+            {
+              "token": " Harper",
+              "logprob": -2.64630389213562
+            },
+            {
+              "token": " kicked",
+              "logprob": -1.5882493257522583
+            },
+            {
+              "token": " it",
+              "logprob": -1.297391653060913
+            },
+            {
+              "token": " the",
+              "logprob": -3.8022878170013428
+            },
+            {
+              "token": " first",
+              "logprob": -3.0064167976379395
+            },
+            {
+              "token": " time",
+              "logprob": -0.08764718472957611
+            },
+            {
+              "token": ".",
+              "logprob": -0.6030557155609131
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.229907989501953
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Harper and Liam were playing together. They took their red balls and kicked them up into the sky. Then they ran to get it and kicked it again. They did this a few times throughout the day. First they decided to go home.",
+          "token_data": [
+            {
+              "token": " Harper",
+              "logprob": -2.64630389213562
+            },
+            {
+              "token": " and",
+              "logprob": -2.3093948364257812
+            },
+            {
+              "token": " Liam",
+              "logprob": -0.04431898891925812
+            },
+            {
+              "token": " were",
+              "logprob": -0.5249782800674438
+            },
+            {
+              "token": " playing",
+              "logprob": -2.256354331970215
+            },
+            {
+              "token": " together",
+              "logprob": -2.970766544342041
+            },
+            {
+              "token": ".",
+              "logprob": -0.9861892461776733
+            },
+            {
+              "token": " They",
+              "logprob": -1.0495760440826416
+            },
+            {
+              "token": " took",
+              "logprob": -4.728693962097168
+            },
+            {
+              "token": " their",
+              "logprob": -3.2193989753723145
+            },
+            {
+              "token": " red",
+              "logprob": -1.6650505065917969
+            },
+            {
+              "token": " balls",
+              "logprob": -3.202385663986206
+            },
+            {
+              "token": " and",
+              "logprob": -1.2202343940734863
+            },
+            {
+              "token": " kicked",
+              "logprob": -0.9661626815795898
+            },
+            {
+              "token": " them",
+              "logprob": -0.2682689130306244
+            },
+            {
+              "token": " up",
+              "logprob": -3.257873058319092
+            },
+            {
+              "token": " into",
+              "logprob": -1.3600060939788818
+            },
+            {
+              "token": " the",
+              "logprob": -0.009647293947637081
+            },
+            {
+              "token": " sky",
+              "logprob": -1.8167152404785156
+            },
+            {
+              "token": ".",
+              "logprob": -0.24846836924552917
+            },
+            {
+              "token": " Then",
+              "logprob": -4.240923881530762
+            },
+            {
+              "token": " they",
+              "logprob": -0.5758179426193237
+            },
+            {
+              "token": " ran",
+              "logprob": -1.1373369693756104
+            },
+            {
+              "token": " to",
+              "logprob": -0.3941372036933899
+            },
+            {
+              "token": " get",
+              "logprob": -0.6187430620193481
+            },
+            {
+              "token": " it",
+              "logprob": -2.9891607761383057
+            },
+            {
+              "token": " and",
+              "logprob": -0.9606935381889343
+            },
+            {
+              "token": " kicked",
+              "logprob": -0.30287808179855347
+            },
+            {
+              "token": " it",
+              "logprob": -0.1538303643465042
+            },
+            {
+              "token": " again",
+              "logprob": -0.3101695477962494
+            },
+            {
+              "token": ".",
+              "logprob": -0.18341730535030365
+            },
+            {
+              "token": " They",
+              "logprob": -1.1854320764541626
+            },
+            {
+              "token": " did",
+              "logprob": -2.039407968521118
+            },
+            {
+              "token": " this",
+              "logprob": -0.2967192530632019
+            },
+            {
+              "token": " a",
+              "logprob": -3.3190739154815674
+            },
+            {
+              "token": " few",
+              "logprob": -0.3299654424190521
+            },
+            {
+              "token": " times",
+              "logprob": -0.46446341276168823
+            },
+            {
+              "token": " throughout",
+              "logprob": -4.3726911544799805
+            },
+            {
+              "token": " the",
+              "logprob": -0.034607887268066406
+            },
+            {
+              "token": " day",
+              "logprob": -0.14478684961795807
+            },
+            {
+              "token": ".",
+              "logprob": -0.2500370740890503
+            },
+            {
+              "token": " First",
+              "logprob": -5.242397308349609
+            },
+            {
+              "token": " they",
+              "logprob": -2.266589403152466
+            },
+            {
+              "token": " decided",
+              "logprob": -3.3075599670410156
+            },
+            {
+              "token": " to",
+              "logprob": -0.09641551971435547
+            },
+            {
+              "token": " go",
+              "logprob": -0.23492150008678436
+            },
+            {
+              "token": " home",
+              "logprob": -0.13085494935512543
+            },
+            {
+              "token": ".\n\n\n",
+              "logprob": -5.265117645263672
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Answer: Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -2.8037259578704834
+            },
+            {
+              "token": ":",
+              "logprob": -2.649392604827881
+            },
+            {
+              "token": " Answer",
+              "logprob": -3.1149892807006836
+            },
+            {
+              "token": " using",
+              "logprob": -1.167742371559143
+            },
+            {
+              "token": " one",
+              "logprob": -0.20033207535743713
+            },
+            {
+              "token": " whole",
+              "logprob": -0.12349013239145279
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.1400490254163742
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.607882022857666
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -2.8037259578704834
+            },
+            {
+              "token": " using",
+              "logprob": -0.3675379753112793
+            },
+            {
+              "token": " one",
+              "logprob": -0.2683905065059662
+            },
+            {
+              "token": " whole",
+              "logprob": -0.17345204949378967
+            },
+            {
+              "token": " sent",
+              "logprob": -2.1162829399108887
+            },
+            {
+              "token": "ence",
+              "logprob": -2.9282665252685547
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.636108636856079
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

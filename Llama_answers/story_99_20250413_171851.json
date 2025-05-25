@@ -1,0 +1,795 @@
+{
+  "story": "Ava and Taylor were best friends. One sunny day, they played in the garden. The garden had many colorful flowers. Ava loved the red roses. She wanted to give one to her mom. \"Ava cut a fresh flower,\" Taylor said, watching her. Ava smiled and held the rose carefully. Taylor was busy picking up stones. He liked to collect shiny ones. The two friends walked back home together. Ava gave the flower to her mom. Her mom was happy. Taylor showed his stones to Ava. They were not shiny but he liked them. The day ended with laughter. Ava and Taylor promised to play again tomorrow. They always had fun together. The garden was their favorite place. Every day brought a new adventure for them. Life was simple and full of joy. Their friendship was strong and bright, just like the flowers in the garden.",
+  "characters": [
+    {
+      "question": "What condition was the flower Ava cut?",
+      "character": "Ava",
+      "story": "Ava and Taylor were best friends. One sunny day, they played in the garden. The garden had many colorful flowers. Ava loved the red roses. She wanted to give one to her mom. \"Ava cut a fresh flower,\" Taylor said, watching her. Ava smiled and held the rose carefully. Taylor was busy picking up stones. He liked to collect shiny ones. The two friends walked back home together. Ava gave the flower to her mom. Her mom was happy. Taylor showed his stones to Ava. They were not shiny but he liked them. The day ended with laughter. Ava and Taylor promised to play again tomorrow. They always had fun together. The garden was their favorite place. Every day brought a new adventure for them. Life was simple and full of joy. Their friendship was strong and bright, just like the flowers in the garden.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "It was a rose, as beautiful and as bright as the ones in the garden.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.525871753692627
+            },
+            {
+              "token": " was",
+              "logprob": -0.24266964197158813
+            },
+            {
+              "token": " a",
+              "logprob": -1.2246510982513428
+            },
+            {
+              "token": " rose",
+              "logprob": -2.7507553100585938
+            },
+            {
+              "token": ",",
+              "logprob": -3.130370855331421
+            },
+            {
+              "token": " as",
+              "logprob": -4.309999465942383
+            },
+            {
+              "token": " beautiful",
+              "logprob": -2.9710423946380615
+            },
+            {
+              "token": " and",
+              "logprob": -2.256380796432495
+            },
+            {
+              "token": " as",
+              "logprob": -1.5855132341384888
+            },
+            {
+              "token": " bright",
+              "logprob": -2.671928882598877
+            },
+            {
+              "token": " as",
+              "logprob": -0.06318985670804977
+            },
+            {
+              "token": " the",
+              "logprob": -1.4305949211120605
+            },
+            {
+              "token": " ones",
+              "logprob": -3.661313772201538
+            },
+            {
+              "token": " in",
+              "logprob": -0.3497181236743927
+            },
+            {
+              "token": " the",
+              "logprob": -0.353762149810791
+            },
+            {
+              "token": " garden",
+              "logprob": -0.0805962011218071
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.785693407058716
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "It was for her Mom.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.5348870754241943
+            },
+            {
+              "token": " was",
+              "logprob": -0.2428738921880722
+            },
+            {
+              "token": " for",
+              "logprob": -3.6757078170776367
+            },
+            {
+              "token": " her",
+              "logprob": -0.1813437044620514
+            },
+            {
+              "token": " Mom",
+              "logprob": -3.0518386363983154
+            },
+            {
+              "token": ".",
+              "logprob": -0.7440711259841919
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.3318963050842285
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A fresh flower.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.5313527584075928
+            },
+            {
+              "token": " fresh",
+              "logprob": -3.580397844314575
+            },
+            {
+              "token": " flower",
+              "logprob": -0.2552374005317688
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.8658370971679688
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Ava loved the flowers.",
+          "token_data": [
+            {
+              "token": " Ava",
+              "logprob": -2.712877035140991
+            },
+            {
+              "token": " loved",
+              "logprob": -2.6596341133117676
+            },
+            {
+              "token": " the",
+              "logprob": -0.2497349977493286
+            },
+            {
+              "token": " flowers",
+              "logprob": -2.390793800354004
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.500741958618164
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Red Roses",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.1230132579803467
+            },
+            {
+              "token": " Roses",
+              "logprob": -1.1412934064865112
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.964066982269287
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Red Roses",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.1230132579803467
+            },
+            {
+              "token": " Roses",
+              "logprob": -1.1412934064865112
+            },
+            {
+              "token": " \n",
+              "logprob": -2.9647202491760254
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Red rose.",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.1230132579803467
+            },
+            {
+              "token": " rose",
+              "logprob": -3.1669845581054688
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.362797737121582
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Red.",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.1230132579803467
+            },
+            {
+              "token": ".",
+              "logprob": -2.5617246627807617
+            },
+            {
+              "token": " Q",
+              "logprob": -0.832027792930603
+            },
+            {
+              "token": ":",
+              "logprob": -0.025489402934908867
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The roses were very beautiful.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.6931674480438232
+            },
+            {
+              "token": " roses",
+              "logprob": -3.19403076171875
+            },
+            {
+              "token": " were",
+              "logprob": -1.021379828453064
+            },
+            {
+              "token": " very",
+              "logprob": -2.5182323455810547
+            },
+            {
+              "token": " beautiful",
+              "logprob": -1.3024548292160034
+            },
+            {
+              "token": ".",
+              "logprob": -0.5527786016464233
+            },
+            {
+              "token": " Q",
+              "logprob": -2.0259149074554443
+            },
+            {
+              "token": ":",
+              "logprob": -0.0291773471981287
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "She picked up one that was fresh and alive.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -3.5402944087982178
+            },
+            {
+              "token": " picked",
+              "logprob": -3.593247652053833
+            },
+            {
+              "token": " up",
+              "logprob": -2.6726982593536377
+            },
+            {
+              "token": " one",
+              "logprob": -2.35623836517334
+            },
+            {
+              "token": " that",
+              "logprob": -2.7487118244171143
+            },
+            {
+              "token": " was",
+              "logprob": -0.8417954444885254
+            },
+            {
+              "token": " fresh",
+              "logprob": -3.241772174835205
+            },
+            {
+              "token": " and",
+              "logprob": -2.1246254444122314
+            },
+            {
+              "token": " alive",
+              "logprob": -2.946906805038452
+            },
+            {
+              "token": ".",
+              "logprob": -0.4699188470840454
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.7135813236236572
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What condition was the flower Taylor cut?",
+      "character": "Taylor",
+      "story": "Ava and Taylor were best friends. One sunny day, they played in the garden. The garden had many colorful flowers. Ava loved the red roses. She wanted to give one to her mom. \"Ava cut a fresh flower,\" Taylor said, watching her. Ava smiled and held the rose carefully. Taylor was busy picking up stones. He liked to collect shiny ones. The two friends walked back home together. Ava gave the flower to her mom. Her mom was happy. Taylor showed his stones to Ava. They were not shiny but he liked them. The day ended with laughter. Ava and Taylor promised to play again tomorrow. They always had fun together. The garden was their favorite place. Every day brought a new adventure for them. Life was simple and full of joy. Their friendship was strong and bright, just like the flowers in the garden.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "To show Ava was listening to her mom.",
+          "token_data": [
+            {
+              "token": " To",
+              "logprob": -3.750415325164795
+            },
+            {
+              "token": " show",
+              "logprob": -1.9596353769302368
+            },
+            {
+              "token": " Ava",
+              "logprob": -3.758639335632324
+            },
+            {
+              "token": " was",
+              "logprob": -3.766718864440918
+            },
+            {
+              "token": " listening",
+              "logprob": -3.9595727920532227
+            },
+            {
+              "token": " to",
+              "logprob": -1.065810203552246
+            },
+            {
+              "token": " her",
+              "logprob": -0.6246920228004456
+            },
+            {
+              "token": " mom",
+              "logprob": -2.065868854522705
+            },
+            {
+              "token": ".",
+              "logprob": -0.5682842135429382
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.529090404510498
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "It had been in a vase.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.501295804977417
+            },
+            {
+              "token": " had",
+              "logprob": -3.1131644248962402
+            },
+            {
+              "token": " been",
+              "logprob": -2.4628944396972656
+            },
+            {
+              "token": " in",
+              "logprob": -3.4265568256378174
+            },
+            {
+              "token": " a",
+              "logprob": -1.9988129138946533
+            },
+            {
+              "token": " vase",
+              "logprob": -1.7552545070648193
+            },
+            {
+              "token": ".",
+              "logprob": -1.0844236612319946
+            },
+            {
+              "token": " \n",
+              "logprob": -1.896670937538147
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "To give one to his mom.",
+          "token_data": [
+            {
+              "token": " To",
+              "logprob": -3.7720630168914795
+            },
+            {
+              "token": " give",
+              "logprob": -1.4035483598709106
+            },
+            {
+              "token": " one",
+              "logprob": -0.7420775294303894
+            },
+            {
+              "token": " to",
+              "logprob": -0.068832166492939
+            },
+            {
+              "token": " his",
+              "logprob": -2.1151256561279297
+            },
+            {
+              "token": " mom",
+              "logprob": -0.22437123954296112
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.303607225418091
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.8211753368377686
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Taylor was very busy picking shiny ones up to collect. (B) He needed them to look for a hidden treasure in the garden.",
+          "token_data": [
+            {
+              "token": " Taylor",
+              "logprob": -2.720810651779175
+            },
+            {
+              "token": " was",
+              "logprob": -1.2513498067855835
+            },
+            {
+              "token": " very",
+              "logprob": -3.7777411937713623
+            },
+            {
+              "token": " busy",
+              "logprob": -0.6786091327667236
+            },
+            {
+              "token": " picking",
+              "logprob": -1.664209246635437
+            },
+            {
+              "token": " shiny",
+              "logprob": -2.096982002258301
+            },
+            {
+              "token": " ones",
+              "logprob": -1.465665340423584
+            },
+            {
+              "token": " up",
+              "logprob": -3.4743776321411133
+            },
+            {
+              "token": " to",
+              "logprob": -2.7581043243408203
+            },
+            {
+              "token": " collect",
+              "logprob": -2.369408130645752
+            },
+            {
+              "token": ".",
+              "logprob": -0.6332641839981079
+            },
+            {
+              "token": " (",
+              "logprob": -4.555794715881348
+            },
+            {
+              "token": "B",
+              "logprob": -5.129891395568848
+            },
+            {
+              "token": ")",
+              "logprob": -2.176123857498169
+            },
+            {
+              "token": " He",
+              "logprob": -2.9537124633789062
+            },
+            {
+              "token": " needed",
+              "logprob": -4.458150386810303
+            },
+            {
+              "token": " them",
+              "logprob": -4.113361835479736
+            },
+            {
+              "token": " to",
+              "logprob": -0.8389517068862915
+            },
+            {
+              "token": " look",
+              "logprob": -3.644263982772827
+            },
+            {
+              "token": " for",
+              "logprob": -3.121858835220337
+            },
+            {
+              "token": " a",
+              "logprob": -1.4918910264968872
+            },
+            {
+              "token": " hidden",
+              "logprob": -3.3734331130981445
+            },
+            {
+              "token": " treasure",
+              "logprob": -0.47930318117141724
+            },
+            {
+              "token": " in",
+              "logprob": -3.522998809814453
+            },
+            {
+              "token": " the",
+              "logprob": -0.6081622242927551
+            },
+            {
+              "token": " garden",
+              "logprob": -0.501590371131897
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.4416096210479736
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "0",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.105099678039551
+            },
+            {
+              "token": "0",
+              "logprob": -4.545633316040039
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.2823619842529297
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Red.",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.7881076335906982
+            },
+            {
+              "token": ".",
+              "logprob": -2.2889018058776855
+            },
+            {
+              "token": " ",
+              "logprob": -3.013127088546753
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "It was a rose. He thought the flower he picked up would make a good decoration for her mom.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.501295804977417
+            },
+            {
+              "token": " was",
+              "logprob": -0.272344172000885
+            },
+            {
+              "token": " a",
+              "logprob": -1.2528198957443237
+            },
+            {
+              "token": " rose",
+              "logprob": -2.9739184379577637
+            },
+            {
+              "token": ".",
+              "logprob": -0.4278855621814728
+            },
+            {
+              "token": " He",
+              "logprob": -3.7709803581237793
+            },
+            {
+              "token": " thought",
+              "logprob": -3.935354709625244
+            },
+            {
+              "token": " the",
+              "logprob": -2.7207272052764893
+            },
+            {
+              "token": " flower",
+              "logprob": -2.4525582790374756
+            },
+            {
+              "token": " he",
+              "logprob": -3.326598644256592
+            },
+            {
+              "token": " picked",
+              "logprob": -1.5565605163574219
+            },
+            {
+              "token": " up",
+              "logprob": -0.28816717863082886
+            },
+            {
+              "token": " would",
+              "logprob": -2.5884170532226562
+            },
+            {
+              "token": " make",
+              "logprob": -1.973938226699829
+            },
+            {
+              "token": " a",
+              "logprob": -0.6294437646865845
+            },
+            {
+              "token": " good",
+              "logprob": -1.3221404552459717
+            },
+            {
+              "token": " decoration",
+              "logprob": -3.543031930923462
+            },
+            {
+              "token": " for",
+              "logprob": -0.9690754413604736
+            },
+            {
+              "token": " her",
+              "logprob": -2.7721877098083496
+            },
+            {
+              "token": " mom",
+              "logprob": -1.1964912414550781
+            },
+            {
+              "token": ".",
+              "logprob": -1.2899234294891357
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.504967451095581
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Answer: Taylor wanted the flowers for their own. The roses were like friends.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.514439582824707
+            },
+            {
+              "token": ":",
+              "logprob": -1.9591268301010132
+            },
+            {
+              "token": " Taylor",
+              "logprob": -3.5775961875915527
+            },
+            {
+              "token": " wanted",
+              "logprob": -3.1637191772460938
+            },
+            {
+              "token": " the",
+              "logprob": -3.137160301208496
+            },
+            {
+              "token": " flowers",
+              "logprob": -2.187633514404297
+            },
+            {
+              "token": " for",
+              "logprob": -3.096559524536133
+            },
+            {
+              "token": " their",
+              "logprob": -2.681201696395874
+            },
+            {
+              "token": " own",
+              "logprob": -1.237093210220337
+            },
+            {
+              "token": ".",
+              "logprob": -1.5605401992797852
+            },
+            {
+              "token": " The",
+              "logprob": -2.704596757888794
+            },
+            {
+              "token": " roses",
+              "logprob": -3.4608540534973145
+            },
+            {
+              "token": " were",
+              "logprob": -0.4682760238647461
+            },
+            {
+              "token": " like",
+              "logprob": -4.749149799346924
+            },
+            {
+              "token": " friends",
+              "logprob": -2.233029842376709
+            },
+            {
+              "token": ".",
+              "logprob": -1.449265480041504
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.9618561267852783
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.105099678039551
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

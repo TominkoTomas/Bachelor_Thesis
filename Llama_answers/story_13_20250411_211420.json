@@ -1,0 +1,803 @@
+{
+  "story": "Zoe and Nathan were best friends. They did everything together. One day, they had to go to a fancy party. Zoe wore a nice shirt and pants. Nathan wore a suit but forgot his tie. \"I can help,\" Zoe said. She found a striped tie in her bag. Zoe tied a striped tie around Nathan’s neck. \"Now you look perfect,\" she said. Nathan smiled and thanked her. At the party, they ate cake and danced. Everyone liked Nathan’s tie. Zoe was happy she could help her friend. After the party, they walked home together. The stars were bright in the sky. \"That was fun,\" Nathan said. Zoe agreed. They promised to go to more parties together. The next day, Zoe saw the striped tie in her room. She put it away for next time. She knew Nathan would forget his tie again. But that was okay. She was always ready to help.",
+  "characters": [
+    {
+      "question": "What pattern was on Zoe's tie?",
+      "character": "Zoe",
+      "story": "Zoe and Nathan were best friends. They did everything together. One day, they had to go to a fancy party. Zoe wore a nice shirt and pants. Nathan wore a suit but forgot his tie. \"I can help,\" Zoe said. She found a striped tie in her bag. Zoe tied a striped tie around Nathan’s neck. \"Now you look perfect,\" she said. Nathan smiled and thanked her. At the party, they ate cake and danced. Everyone liked Nathan’s tie. Zoe was happy she could help her friend. After the party, they walked home together. The stars were bright in the sky. \"That was fun,\" Nathan said. Zoe agreed. They promised to go to more parties together. The next day, Zoe saw the striped tie in her room. She put it away for next time. She knew Nathan would forget his tie again. But that was okay. She was always ready to help.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Stripes",
+          "token_data": [
+            {
+              "token": " Str",
+              "logprob": -3.5906248092651367
+            },
+            {
+              "token": "ipes",
+              "logprob": -1.4019765853881836
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.823469877243042
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "One pattern.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -4.426668167114258
+            },
+            {
+              "token": " pattern",
+              "logprob": -3.502531051635742
+            },
+            {
+              "token": ".",
+              "logprob": -1.3464255332946777
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -4.423166275024414
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "What pattern was on Zoe's shirt?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.4637842178344727
+            },
+            {
+              "token": " pattern",
+              "logprob": -0.48408105969429016
+            },
+            {
+              "token": " was",
+              "logprob": -0.3587338924407959
+            },
+            {
+              "token": " on",
+              "logprob": -0.10787995159626007
+            },
+            {
+              "token": " Zoe",
+              "logprob": -1.0234596729278564
+            },
+            {
+              "token": "'s",
+              "logprob": -0.09632069617509842
+            },
+            {
+              "token": " shirt",
+              "logprob": -2.0629477500915527
+            },
+            {
+              "token": "?",
+              "logprob": -0.2802760601043701
+            },
+            {
+              "token": " Q",
+              "logprob": -3.124268054962158
+            },
+            {
+              "token": ":",
+              "logprob": -0.031202511861920357
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Striped.",
+          "token_data": [
+            {
+              "token": " Str",
+              "logprob": -3.6353864669799805
+            },
+            {
+              "token": "iped",
+              "logprob": -0.3100729286670685
+            },
+            {
+              "token": ".",
+              "logprob": -1.4064123630523682
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9661300182342529
+            },
+            {
+              "token": ":",
+              "logprob": -0.021859189495444298
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.788511276245117
+            },
+            {
+              "token": " Q",
+              "logprob": -4.954389572143555
+            },
+            {
+              "token": ":",
+              "logprob": -0.07762600481510162
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A stripe.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.5845783948898315
+            },
+            {
+              "token": " stripe",
+              "logprob": -1.801924228668213
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.899296283721924
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A: The pattern on Zoe's tie is an alligator.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.5845783948898315
+            },
+            {
+              "token": ":",
+              "logprob": -2.6752161979675293
+            },
+            {
+              "token": " The",
+              "logprob": -3.2560696601867676
+            },
+            {
+              "token": " pattern",
+              "logprob": -1.0585315227508545
+            },
+            {
+              "token": " on",
+              "logprob": -0.7458999156951904
+            },
+            {
+              "token": " Zoe",
+              "logprob": -0.7465963959693909
+            },
+            {
+              "token": "'s",
+              "logprob": -0.0955125093460083
+            },
+            {
+              "token": " tie",
+              "logprob": -0.07132638990879059
+            },
+            {
+              "token": " is",
+              "logprob": -2.6244986057281494
+            },
+            {
+              "token": " an",
+              "logprob": -4.236656665802002
+            },
+            {
+              "token": " all",
+              "logprob": -2.5339767932891846
+            },
+            {
+              "token": "igator",
+              "logprob": -0.9920467138290405
+            },
+            {
+              "token": ".",
+              "logprob": -0.8339301347732544
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.8549827337265015
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "None.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.4169578552246094
+            },
+            {
+              "token": ".",
+              "logprob": -0.9472097158432007
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.278806686401367
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "None. What pattern did Nathan's tie look like? A: He had a suit on but forgot his tie. Was anyone wearing stripes at the party? A: No one. How many answers were right to this question? 4",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.4169578552246094
+            },
+            {
+              "token": ".",
+              "logprob": -0.9472097158432007
+            },
+            {
+              "token": " What",
+              "logprob": -3.184778928756714
+            },
+            {
+              "token": " pattern",
+              "logprob": -0.3285626471042633
+            },
+            {
+              "token": " did",
+              "logprob": -2.6138384342193604
+            },
+            {
+              "token": " Nathan",
+              "logprob": -0.5717838406562805
+            },
+            {
+              "token": "'s",
+              "logprob": -1.1909557580947876
+            },
+            {
+              "token": " tie",
+              "logprob": -0.12112664431333542
+            },
+            {
+              "token": " look",
+              "logprob": -2.946959972381592
+            },
+            {
+              "token": " like",
+              "logprob": -0.10555140674114227
+            },
+            {
+              "token": "?",
+              "logprob": -0.09294674545526505
+            },
+            {
+              "token": " A",
+              "logprob": -0.32223403453826904
+            },
+            {
+              "token": ":",
+              "logprob": -0.014465932734310627
+            },
+            {
+              "token": " He",
+              "logprob": -4.6304826736450195
+            },
+            {
+              "token": " had",
+              "logprob": -1.4818238019943237
+            },
+            {
+              "token": " a",
+              "logprob": -0.67635178565979
+            },
+            {
+              "token": " suit",
+              "logprob": -2.1044371128082275
+            },
+            {
+              "token": " on",
+              "logprob": -1.0871078968048096
+            },
+            {
+              "token": " but",
+              "logprob": -2.2935595512390137
+            },
+            {
+              "token": " forgot",
+              "logprob": -0.5814498662948608
+            },
+            {
+              "token": " his",
+              "logprob": -0.16597284376621246
+            },
+            {
+              "token": " tie",
+              "logprob": -0.022427141666412354
+            },
+            {
+              "token": ".",
+              "logprob": -0.23195838928222656
+            },
+            {
+              "token": " Was",
+              "logprob": -3.637381076812744
+            },
+            {
+              "token": " anyone",
+              "logprob": -4.407715797424316
+            },
+            {
+              "token": " wearing",
+              "logprob": -2.8032546043395996
+            },
+            {
+              "token": " stripes",
+              "logprob": -3.3444526195526123
+            },
+            {
+              "token": " at",
+              "logprob": -1.8202553987503052
+            },
+            {
+              "token": " the",
+              "logprob": -0.0813271775841713
+            },
+            {
+              "token": " party",
+              "logprob": -0.06613332778215408
+            },
+            {
+              "token": "?",
+              "logprob": -0.03937472030520439
+            },
+            {
+              "token": " A",
+              "logprob": -0.1012442484498024
+            },
+            {
+              "token": ":",
+              "logprob": -0.003629289334639907
+            },
+            {
+              "token": " No",
+              "logprob": -0.9774500131607056
+            },
+            {
+              "token": " one",
+              "logprob": -2.2999284267425537
+            },
+            {
+              "token": ".",
+              "logprob": -0.4475078582763672
+            },
+            {
+              "token": " How",
+              "logprob": -3.1802845001220703
+            },
+            {
+              "token": " many",
+              "logprob": -1.7335021495819092
+            },
+            {
+              "token": " answers",
+              "logprob": -4.529086112976074
+            },
+            {
+              "token": " were",
+              "logprob": -1.5770471096038818
+            },
+            {
+              "token": " right",
+              "logprob": -3.4594271183013916
+            },
+            {
+              "token": " to",
+              "logprob": -2.674851655960083
+            },
+            {
+              "token": " this",
+              "logprob": -0.9256947040557861
+            },
+            {
+              "token": " question",
+              "logprob": -0.3583226799964905
+            },
+            {
+              "token": "?",
+              "logprob": -0.06740954518318176
+            },
+            {
+              "token": " ",
+              "logprob": -0.984770655632019
+            },
+            {
+              "token": "4",
+              "logprob": -2.8747057914733887
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.6314163208007812
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Striped.",
+          "token_data": [
+            {
+              "token": " Str",
+              "logprob": -3.6353864669799805
+            },
+            {
+              "token": "iped",
+              "logprob": -0.3100729286670685
+            },
+            {
+              "token": ".",
+              "logprob": -1.4064123630523682
+            },
+            {
+              "token": " \n",
+              "logprob": -1.7952392101287842
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What pattern was on Nathan's tie?",
+      "character": "Nathan",
+      "story": "Zoe and Nathan were best friends. They did everything together. One day, they had to go to a fancy party. Zoe wore a nice shirt and pants. Nathan wore a suit but forgot his tie. \"I can help,\" Zoe said. She found a striped tie in her bag. Zoe tied a striped tie around Nathan’s neck. \"Now you look perfect,\" she said. Nathan smiled and thanked her. At the party, they ate cake and danced. Everyone liked Nathan’s tie. Zoe was happy she could help her friend. After the party, they walked home together. The stars were bright in the sky. \"That was fun,\" Nathan said. Zoe agreed. They promised to go to more parties together. The next day, Zoe saw the striped tie in her room. She put it away for next time. She knew Nathan would forget his tie again. But that was okay. She was always ready to help.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.4194469451904297
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "A striped pattern.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.49954092502594
+            },
+            {
+              "token": " striped",
+              "logprob": -1.0814428329467773
+            },
+            {
+              "token": " pattern",
+              "logprob": -1.5447214841842651
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.9137415885925293
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "None.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.950075626373291
+            },
+            {
+              "token": ".",
+              "logprob": -0.746269166469574
+            },
+            {
+              "token": " Q",
+              "logprob": -2.6628432273864746
+            },
+            {
+              "token": ":",
+              "logprob": -0.027331480756402016
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.4071011543273926
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "A pattern called stripes.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.49954092502594
+            },
+            {
+              "token": " pattern",
+              "logprob": -3.527616500854492
+            },
+            {
+              "token": " called",
+              "logprob": -2.8490352630615234
+            },
+            {
+              "token": " stripes",
+              "logprob": -1.035538911819458
+            },
+            {
+              "token": ".",
+              "logprob": -0.5158933401107788
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.8762303590774536
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A: None.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.49954092502594
+            },
+            {
+              "token": ":",
+              "logprob": -2.876741409301758
+            },
+            {
+              "token": " None",
+              "logprob": -4.013270378112793
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.461489200592041
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n\n",
+              "logprob": -4.028769016265869
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Stripes.",
+          "token_data": [
+            {
+              "token": " Str",
+              "logprob": -3.382153034210205
+            },
+            {
+              "token": "ipes",
+              "logprob": -1.6527173519134521
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.8172712326049805
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n\n",
+              "logprob": -4.028769016265869
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "What color was Zoe's shirt? What color did Nathan wear? How many of these answers are wrong? Correct Answers: 2) Pink. The tie had a striped design, so the colors didn't really matter.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.6155076026916504
+            },
+            {
+              "token": " color",
+              "logprob": -2.082308769226074
+            },
+            {
+              "token": " was",
+              "logprob": -0.9480830430984497
+            },
+            {
+              "token": " Zoe",
+              "logprob": -3.0121254920959473
+            },
+            {
+              "token": "'s",
+              "logprob": -0.16358628869056702
+            },
+            {
+              "token": " shirt",
+              "logprob": -0.10470718145370483
+            },
+            {
+              "token": "?",
+              "logprob": -0.3218163847923279
+            },
+            {
+              "token": " What",
+              "logprob": -3.0905375480651855
+            },
+            {
+              "token": " color",
+              "logprob": -0.17228886485099792
+            },
+            {
+              "token": " did",
+              "logprob": -2.6103596687316895
+            },
+            {
+              "token": " Nathan",
+              "logprob": -0.09649313986301422
+            },
+            {
+              "token": " wear",
+              "logprob": -0.29191485047340393
+            },
+            {
+              "token": "?",
+              "logprob": -0.4106563925743103
+            },
+            {
+              "token": " How",
+              "logprob": -2.613184928894043
+            },
+            {
+              "token": " many",
+              "logprob": -1.8217190504074097
+            },
+            {
+              "token": " of",
+              "logprob": -3.606717109680176
+            },
+            {
+              "token": " these",
+              "logprob": -2.542884349822998
+            },
+            {
+              "token": " answers",
+              "logprob": -3.666463613510132
+            },
+            {
+              "token": " are",
+              "logprob": -1.2177622318267822
+            },
+            {
+              "token": " wrong",
+              "logprob": -2.4327516555786133
+            },
+            {
+              "token": "?",
+              "logprob": -0.3046923577785492
+            },
+            {
+              "token": " Correct",
+              "logprob": -5.5614094734191895
+            },
+            {
+              "token": " Answers",
+              "logprob": -2.8914105892181396
+            },
+            {
+              "token": ":",
+              "logprob": -0.37273523211479187
+            },
+            {
+              "token": " ",
+              "logprob": -1.754828929901123
+            },
+            {
+              "token": "2",
+              "logprob": -2.098361015319824
+            },
+            {
+              "token": ")",
+              "logprob": -3.9182896614074707
+            },
+            {
+              "token": " Pink",
+              "logprob": -5.157482624053955
+            },
+            {
+              "token": ".",
+              "logprob": -1.7390456199645996
+            },
+            {
+              "token": " The",
+              "logprob": -3.9873764514923096
+            },
+            {
+              "token": " tie",
+              "logprob": -1.875028133392334
+            },
+            {
+              "token": " had",
+              "logprob": -2.2034714221954346
+            },
+            {
+              "token": " a",
+              "logprob": -0.5597348809242249
+            },
+            {
+              "token": " striped",
+              "logprob": -2.4278833866119385
+            },
+            {
+              "token": " design",
+              "logprob": -3.048679828643799
+            },
+            {
+              "token": ",",
+              "logprob": -3.647383213043213
+            },
+            {
+              "token": " so",
+              "logprob": -1.934935212135315
+            },
+            {
+              "token": " the",
+              "logprob": -1.8734160661697388
+            },
+            {
+              "token": " colors",
+              "logprob": -3.5642173290252686
+            },
+            {
+              "token": " didn",
+              "logprob": -2.65266752243042
+            },
+            {
+              "token": "'t",
+              "logprob": -0.03274526074528694
+            },
+            {
+              "token": " really",
+              "logprob": -3.0923588275909424
+            },
+            {
+              "token": " matter",
+              "logprob": -0.1756184995174408
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.6145687103271484
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

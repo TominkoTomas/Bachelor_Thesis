@@ -1,0 +1,979 @@
+{
+  "story": "Nathan and Olivia were best friends. One day, they went to the park to play. Nathan brought his leather wallet because he wanted to buy ice cream later. They played on the swings and ran around the grass. After a while, Nathan checked his pocket and gasped. His wallet was gone! \"Nathan lost a leather wallet,\" Olivia said sadly. They looked everywhere but couldn’t find it. Olivia suggested they retrace their steps. They checked near the swings, under the bench, and even by the ice cream truck. Still no wallet. Nathan felt upset, but Olivia tried to cheer him up. \"Let’s play some more,\" she said. Nathan agreed, and they forgot about the wallet for a while. Later, Olivia found a dollar on the ground. \"Now we can share an ice cream!\" she said with a smile. Nathan smiled back, happy to have such a good friend. They bought one ice cream and took turns eating it. Even though Nathan lost his wallet, he still had a fun day with Olivia.",
+  "characters": [
+    {
+      "question": "What material was the wallet Nathan lost?",
+      "character": "Nathan",
+      "story": "Nathan and Olivia were best friends. One day, they went to the park to play. Nathan brought his leather wallet because he wanted to buy ice cream later. They played on the swings and ran around the grass. After a while, Nathan checked his pocket and gasped. His wallet was gone! \"Nathan lost a leather wallet,\" Olivia said sadly. They looked everywhere but couldn’t find it. Olivia suggested they retrace their steps. They checked near the swings, under the bench, and even by the ice cream truck. Still no wallet. Nathan felt upset, but Olivia tried to cheer him up. \"Let’s play some more,\" she said. Nathan agreed, and they forgot about the wallet for a while. Later, Olivia found a dollar on the ground. \"Now we can share an ice cream!\" she said with a smile. Nathan smiled back, happy to have such a good friend. They bought one ice cream and took turns eating it. Even though Nathan lost his wallet, he still had a fun day with Olivia.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Leather Wallets",
+          "token_data": [
+            {
+              "token": " Leather",
+              "logprob": -1.3056329488754272
+            },
+            {
+              "token": " Wallet",
+              "logprob": -1.8470803499221802
+            },
+            {
+              "token": "s",
+              "logprob": -2.5378599166870117
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "A. a wallet made of leather,",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.589785575866699
+            },
+            {
+              "token": ".",
+              "logprob": -2.8109679222106934
+            },
+            {
+              "token": " a",
+              "logprob": -4.2852888107299805
+            },
+            {
+              "token": " wallet",
+              "logprob": -3.384507894515991
+            },
+            {
+              "token": " made",
+              "logprob": -0.33218011260032654
+            },
+            {
+              "token": " of",
+              "logprob": -0.4746909439563751
+            },
+            {
+              "token": " leather",
+              "logprob": -0.2464764565229416
+            },
+            {
+              "token": ",",
+              "logprob": -3.9129910469055176
+            },
+            {
+              "token": " Q",
+              "logprob": -2.457503318786621
+            },
+            {
+              "token": ":",
+              "logprob": -0.2927328944206238
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Leather wallet.",
+          "token_data": [
+            {
+              "token": " Leather",
+              "logprob": -1.3871612548828125
+            },
+            {
+              "token": " wallet",
+              "logprob": -2.4219393730163574
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.695326328277588
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.3399620056152344
+            },
+            {
+              "token": ":",
+              "logprob": -0.3992895185947418
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "What material was the wallet that Nathan lost? A: The leather wallet B: A leather wallet C: It was a leather wallet D: That's a very good guess. E:",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -4.029223442077637
+            },
+            {
+              "token": " material",
+              "logprob": -0.10120599716901779
+            },
+            {
+              "token": " was",
+              "logprob": -0.17223477363586426
+            },
+            {
+              "token": " the",
+              "logprob": -0.07159166038036346
+            },
+            {
+              "token": " wallet",
+              "logprob": -0.057590704411268234
+            },
+            {
+              "token": " that",
+              "logprob": -3.0996382236480713
+            },
+            {
+              "token": " Nathan",
+              "logprob": -0.027116287499666214
+            },
+            {
+              "token": " lost",
+              "logprob": -0.029745791107416153
+            },
+            {
+              "token": "?",
+              "logprob": -0.19349029660224915
+            },
+            {
+              "token": " A",
+              "logprob": -2.7315266132354736
+            },
+            {
+              "token": ":",
+              "logprob": -0.1324688047170639
+            },
+            {
+              "token": " The",
+              "logprob": -2.827326774597168
+            },
+            {
+              "token": " leather",
+              "logprob": -1.0839825868606567
+            },
+            {
+              "token": " wallet",
+              "logprob": -0.14671826362609863
+            },
+            {
+              "token": " B",
+              "logprob": -3.2910990715026855
+            },
+            {
+              "token": ":",
+              "logprob": -0.012618816457688808
+            },
+            {
+              "token": " A",
+              "logprob": -0.9129515886306763
+            },
+            {
+              "token": " leather",
+              "logprob": -0.22857443988323212
+            },
+            {
+              "token": " wallet",
+              "logprob": -0.009025254286825657
+            },
+            {
+              "token": " C",
+              "logprob": -0.4094543159008026
+            },
+            {
+              "token": ":",
+              "logprob": -0.007162607274949551
+            },
+            {
+              "token": " It",
+              "logprob": -4.093698501586914
+            },
+            {
+              "token": " was",
+              "logprob": -0.07878243923187256
+            },
+            {
+              "token": " a",
+              "logprob": -0.18113474547863007
+            },
+            {
+              "token": " leather",
+              "logprob": -0.03514585644006729
+            },
+            {
+              "token": " wallet",
+              "logprob": -0.007871204987168312
+            },
+            {
+              "token": " D",
+              "logprob": -1.0155584812164307
+            },
+            {
+              "token": ":",
+              "logprob": -0.011917580850422382
+            },
+            {
+              "token": " That",
+              "logprob": -3.911511182785034
+            },
+            {
+              "token": "'s",
+              "logprob": -3.2262368202209473
+            },
+            {
+              "token": " a",
+              "logprob": -1.2190176248550415
+            },
+            {
+              "token": " very",
+              "logprob": -4.0840559005737305
+            },
+            {
+              "token": " good",
+              "logprob": -0.2841903269290924
+            },
+            {
+              "token": " guess",
+              "logprob": -1.3322962522506714
+            },
+            {
+              "token": ".",
+              "logprob": -0.6580028533935547
+            },
+            {
+              "token": " E",
+              "logprob": -0.815004825592041
+            },
+            {
+              "token": ":\n",
+              "logprob": -4.503124237060547
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "None.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.4428911209106445
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.297131061553955
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Leather.",
+          "token_data": [
+            {
+              "token": " Leather",
+              "logprob": -1.3871612548828125
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.6242594718933105
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "None",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.4428911209106445
+            },
+            {
+              "token": "\n",
+              "logprob": -2.386033535003662
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "A: leather",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.589785575866699
+            },
+            {
+              "token": ":",
+              "logprob": -0.9013962149620056
+            },
+            {
+              "token": " leather",
+              "logprob": -2.905818462371826
+            },
+            {
+              "token": "\n",
+              "logprob": -2.808858633041382
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.3399620056152344
+            },
+            {
+              "token": ":",
+              "logprob": -0.3992895185947418
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What material was the wallet Olivia lost?",
+      "character": "Olivia",
+      "story": "Nathan and Olivia were best friends. One day, they went to the park to play. Nathan brought his leather wallet because he wanted to buy ice cream later. They played on the swings and ran around the grass. After a while, Nathan checked his pocket and gasped. His wallet was gone! \"Nathan lost a leather wallet,\" Olivia said sadly. They looked everywhere but couldn’t find it. Olivia suggested they retrace their steps. They checked near the swings, under the bench, and even by the ice cream truck. Still no wallet. Nathan felt upset, but Olivia tried to cheer him up. \"Let’s play some more,\" she said. Nathan agreed, and they forgot about the wallet for a while. Later, Olivia found a dollar on the ground. \"Now we can share an ice cream!\" she said with a smile. Nathan smiled back, happy to have such a good friend. They bought one ice cream and took turns eating it. Even though Nathan lost his wallet, he still had a fun day with Olivia.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -2.563856601715088
+            },
+            {
+              "token": ":",
+              "logprob": -0.4742894768714905
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.212411880493164
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Leather",
+          "token_data": [
+            {
+              "token": " Leather",
+              "logprob": -1.9281100034713745
+            },
+            {
+              "token": " Q",
+              "logprob": -1.6713018417358398
+            },
+            {
+              "token": ":",
+              "logprob": -0.0324595682322979
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Wallet: Nathan lost a wallet, Wallet: Olivia lost her wallet, Wallets, Wallet, Leather wallet",
+          "token_data": [
+            {
+              "token": " Wallet",
+              "logprob": -4.829984664916992
+            },
+            {
+              "token": ":",
+              "logprob": -1.7398346662521362
+            },
+            {
+              "token": " Nathan",
+              "logprob": -3.759025812149048
+            },
+            {
+              "token": " lost",
+              "logprob": -1.2069342136383057
+            },
+            {
+              "token": " a",
+              "logprob": -0.24141855537891388
+            },
+            {
+              "token": " wallet",
+              "logprob": -1.571104884147644
+            },
+            {
+              "token": ",",
+              "logprob": -2.615945339202881
+            },
+            {
+              "token": " Wallet",
+              "logprob": -2.448547124862671
+            },
+            {
+              "token": ":",
+              "logprob": -0.44415152072906494
+            },
+            {
+              "token": " Olivia",
+              "logprob": -1.1348176002502441
+            },
+            {
+              "token": " lost",
+              "logprob": -0.20844289660453796
+            },
+            {
+              "token": " her",
+              "logprob": -1.7745051383972168
+            },
+            {
+              "token": " wallet",
+              "logprob": -0.11795457452535629
+            },
+            {
+              "token": ",",
+              "logprob": -1.0617085695266724
+            },
+            {
+              "token": " Wallet",
+              "logprob": -0.38798728585243225
+            },
+            {
+              "token": "s",
+              "logprob": -2.391869306564331
+            },
+            {
+              "token": ",",
+              "logprob": -2.557565212249756
+            },
+            {
+              "token": " Wallet",
+              "logprob": -0.35211431980133057
+            },
+            {
+              "token": ",",
+              "logprob": -2.0024430751800537
+            },
+            {
+              "token": " Leather",
+              "logprob": -4.663395404815674
+            },
+            {
+              "token": " wallet",
+              "logprob": -1.377692699432373
+            },
+            {
+              "token": " \n\n",
+              "logprob": -4.915460586547852
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "1 - the wallet is made of leather. 2 - it is called a purse in some parts of the country and sometimes called a bag in others. 3 - A bag that has been used as a container for a longer period is not included. What does Nathan mean when he says his \"wallet\"?",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.9924392700195312
+            },
+            {
+              "token": "1",
+              "logprob": -2.332671642303467
+            },
+            {
+              "token": " -",
+              "logprob": -4.538763046264648
+            },
+            {
+              "token": " the",
+              "logprob": -4.385223865509033
+            },
+            {
+              "token": " wallet",
+              "logprob": -0.5719163417816162
+            },
+            {
+              "token": " is",
+              "logprob": -3.0539276599884033
+            },
+            {
+              "token": " made",
+              "logprob": -0.6661311984062195
+            },
+            {
+              "token": " of",
+              "logprob": -0.4873799681663513
+            },
+            {
+              "token": " leather",
+              "logprob": -0.35184499621391296
+            },
+            {
+              "token": ".",
+              "logprob": -0.768791139125824
+            },
+            {
+              "token": " ",
+              "logprob": -0.5505229830741882
+            },
+            {
+              "token": "2",
+              "logprob": -0.09289676696062088
+            },
+            {
+              "token": " -",
+              "logprob": -0.06036541610956192
+            },
+            {
+              "token": " it",
+              "logprob": -2.555659532546997
+            },
+            {
+              "token": " is",
+              "logprob": -0.8217637538909912
+            },
+            {
+              "token": " called",
+              "logprob": -4.328830718994141
+            },
+            {
+              "token": " a",
+              "logprob": -1.0235968828201294
+            },
+            {
+              "token": " purse",
+              "logprob": -3.051159620285034
+            },
+            {
+              "token": " in",
+              "logprob": -3.4536805152893066
+            },
+            {
+              "token": " some",
+              "logprob": -3.0172038078308105
+            },
+            {
+              "token": " parts",
+              "logprob": -2.4949560165405273
+            },
+            {
+              "token": " of",
+              "logprob": -0.04660108685493469
+            },
+            {
+              "token": " the",
+              "logprob": -0.14009492099285126
+            },
+            {
+              "token": " country",
+              "logprob": -2.4682822227478027
+            },
+            {
+              "token": " and",
+              "logprob": -3.5886945724487305
+            },
+            {
+              "token": " sometimes",
+              "logprob": -3.7323269844055176
+            },
+            {
+              "token": " called",
+              "logprob": -1.8513801097869873
+            },
+            {
+              "token": " a",
+              "logprob": -0.14279042184352875
+            },
+            {
+              "token": " bag",
+              "logprob": -2.0215625762939453
+            },
+            {
+              "token": " in",
+              "logprob": -0.8944819569587708
+            },
+            {
+              "token": " others",
+              "logprob": -0.6644183993339539
+            },
+            {
+              "token": ".",
+              "logprob": -0.16375420987606049
+            },
+            {
+              "token": " ",
+              "logprob": -0.561506986618042
+            },
+            {
+              "token": "3",
+              "logprob": -0.09201633185148239
+            },
+            {
+              "token": " -",
+              "logprob": -0.036688633263111115
+            },
+            {
+              "token": " A",
+              "logprob": -3.6921534538269043
+            },
+            {
+              "token": " bag",
+              "logprob": -1.6410644054412842
+            },
+            {
+              "token": " that",
+              "logprob": -3.8646156787872314
+            },
+            {
+              "token": " has",
+              "logprob": -3.0108039379119873
+            },
+            {
+              "token": " been",
+              "logprob": -2.19606351852417
+            },
+            {
+              "token": " used",
+              "logprob": -1.7630499601364136
+            },
+            {
+              "token": " as",
+              "logprob": -2.7761237621307373
+            },
+            {
+              "token": " a",
+              "logprob": -0.18594643473625183
+            },
+            {
+              "token": " container",
+              "logprob": -2.6886062622070312
+            },
+            {
+              "token": " for",
+              "logprob": -0.46059495210647583
+            },
+            {
+              "token": " a",
+              "logprob": -1.8624202013015747
+            },
+            {
+              "token": " longer",
+              "logprob": -3.6510462760925293
+            },
+            {
+              "token": " period",
+              "logprob": -0.6566658020019531
+            },
+            {
+              "token": " is",
+              "logprob": -3.1937379837036133
+            },
+            {
+              "token": " not",
+              "logprob": -4.682778358459473
+            },
+            {
+              "token": " included",
+              "logprob": -5.433938980102539
+            },
+            {
+              "token": ".",
+              "logprob": -1.3694748878479004
+            },
+            {
+              "token": " What",
+              "logprob": -5.060537815093994
+            },
+            {
+              "token": " does",
+              "logprob": -3.839824676513672
+            },
+            {
+              "token": " Nathan",
+              "logprob": -3.4153571128845215
+            },
+            {
+              "token": " mean",
+              "logprob": -3.4777116775512695
+            },
+            {
+              "token": " when",
+              "logprob": -0.4552904963493347
+            },
+            {
+              "token": " he",
+              "logprob": -0.030285339802503586
+            },
+            {
+              "token": " says",
+              "logprob": -0.37144312262535095
+            },
+            {
+              "token": " his",
+              "logprob": -3.7658824920654297
+            },
+            {
+              "token": " \"",
+              "logprob": -2.8492259979248047
+            },
+            {
+              "token": "wallet",
+              "logprob": -1.7621897459030151
+            },
+            {
+              "token": "\"?",
+              "logprob": -1.9141830205917358
+            },
+            {
+              "token": " \n",
+              "logprob": -4.3942179679870605
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Answer: The Wallet Was Made of Leather",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.876166343688965
+            },
+            {
+              "token": ":",
+              "logprob": -2.1353232860565186
+            },
+            {
+              "token": " The",
+              "logprob": -2.4184672832489014
+            },
+            {
+              "token": " Wallet",
+              "logprob": -3.276116132736206
+            },
+            {
+              "token": " Was",
+              "logprob": -1.4197579622268677
+            },
+            {
+              "token": " Made",
+              "logprob": -1.1094088554382324
+            },
+            {
+              "token": " of",
+              "logprob": -1.8099838495254517
+            },
+            {
+              "token": " Leather",
+              "logprob": -0.20996293425559998
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.785461902618408
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.212411880493164
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Answer: (A) A leather wallet was made out of cow hide.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.876166343688965
+            },
+            {
+              "token": ":",
+              "logprob": -2.1353232860565186
+            },
+            {
+              "token": " (",
+              "logprob": -4.310512542724609
+            },
+            {
+              "token": "A",
+              "logprob": -2.5132713317871094
+            },
+            {
+              "token": ")",
+              "logprob": -0.33427125215530396
+            },
+            {
+              "token": " A",
+              "logprob": -3.3841562271118164
+            },
+            {
+              "token": " leather",
+              "logprob": -1.2321699857711792
+            },
+            {
+              "token": " wallet",
+              "logprob": -0.08751612901687622
+            },
+            {
+              "token": " was",
+              "logprob": -2.3728578090667725
+            },
+            {
+              "token": " made",
+              "logprob": -3.0402462482452393
+            },
+            {
+              "token": " out",
+              "logprob": -1.4807571172714233
+            },
+            {
+              "token": " of",
+              "logprob": -0.012888581492006779
+            },
+            {
+              "token": " cow",
+              "logprob": -2.404475688934326
+            },
+            {
+              "token": " hide",
+              "logprob": -1.7977052927017212
+            },
+            {
+              "token": ".",
+              "logprob": -0.8126354217529297
+            },
+            {
+              "token": " \n",
+              "logprob": -2.595283269882202
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The answer for this question should have at least 5 sentences or more.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.837100863456726
+            },
+            {
+              "token": " answer",
+              "logprob": -2.2899868488311768
+            },
+            {
+              "token": " for",
+              "logprob": -3.545764446258545
+            },
+            {
+              "token": " this",
+              "logprob": -0.5226820111274719
+            },
+            {
+              "token": " question",
+              "logprob": -0.28960615396499634
+            },
+            {
+              "token": " should",
+              "logprob": -3.1214771270751953
+            },
+            {
+              "token": " have",
+              "logprob": -3.3142526149749756
+            },
+            {
+              "token": " at",
+              "logprob": -4.1376752853393555
+            },
+            {
+              "token": " least",
+              "logprob": -0.10113036632537842
+            },
+            {
+              "token": " ",
+              "logprob": -0.917826771736145
+            },
+            {
+              "token": "5",
+              "logprob": -2.9248557090759277
+            },
+            {
+              "token": " sentences",
+              "logprob": -0.9862052202224731
+            },
+            {
+              "token": " or",
+              "logprob": -3.3580589294433594
+            },
+            {
+              "token": " more",
+              "logprob": -0.3183755874633789
+            },
+            {
+              "token": ".",
+              "logprob": -0.666141927242279
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.944624900817871
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The material is a leather wallet.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.837100863456726
+            },
+            {
+              "token": " material",
+              "logprob": -2.7491161823272705
+            },
+            {
+              "token": " is",
+              "logprob": -2.4502484798431396
+            },
+            {
+              "token": " a",
+              "logprob": -2.092082977294922
+            },
+            {
+              "token": " leather",
+              "logprob": -0.9283730983734131
+            },
+            {
+              "token": " wallet",
+              "logprob": -0.05471697449684143
+            },
+            {
+              "token": ".",
+              "logprob": -0.29918548464775085
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0129629373550415
+            },
+            {
+              "token": ":",
+              "logprob": -0.023143066093325615
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

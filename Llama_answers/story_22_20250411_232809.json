@@ -1,0 +1,731 @@
+{
+  "story": "Alexander and Liam were best friends. One sunny day, they went to the park to play. Alexander brought a small bag with him. Inside the bag was a tiny seed. He wanted to grow a plant. Alexander planted a tiny seed in a patch of dirt near the big oak tree. Liam watched but didn’t say anything about it. He was more interested in climbing the tree. Liam climbed up high while Alexander watered the seed. The two friends spent the whole afternoon at the park. Liam found a shiny rock and showed it to Alexander. Alexander smiled and told Liam about the plant he hoped would grow. Liam thought the rock was cooler but didn’t say it. As the sun started to set, they packed up to go home. Alexander promised to check on the seed tomorrow. Liam just waved and said, \"See you later!\" They both walked home, happy with their day.",
+  "characters": [
+    {
+      "question": "What did Alexander put in the soil?",
+      "character": "Alexander",
+      "story": "Alexander and Liam were best friends. One sunny day, they went to the park to play. Alexander brought a small bag with him. Inside the bag was a tiny seed. He wanted to grow a plant. Alexander planted a tiny seed in a patch of dirt near the big oak tree. Liam watched but didn’t say anything about it. He was more interested in climbing the tree. Liam climbed up high while Alexander watered the seed. The two friends spent the whole afternoon at the park. Liam found a shiny rock and showed it to Alexander. Alexander smiled and told Liam about the plant he hoped would grow. Liam thought the rock was cooler but didn’t say it. As the sun started to set, they packed up to go home. Alexander promised to check on the seed tomorrow. Liam just waved and said, \"See you later!\" They both walked home, happy with their day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "tiny seed.  What did Liam do at the park? A: He showed me a rock.",
+          "token_data": [
+            {
+              "token": " tiny",
+              "logprob": -3.5354905128479004
+            },
+            {
+              "token": " seed",
+              "logprob": -0.05902622267603874
+            },
+            {
+              "token": ".",
+              "logprob": -1.1345831155776978
+            },
+            {
+              "token": " ",
+              "logprob": -2.6676113605499268
+            },
+            {
+              "token": " What",
+              "logprob": -3.746384859085083
+            },
+            {
+              "token": " did",
+              "logprob": -0.553328812122345
+            },
+            {
+              "token": " Liam",
+              "logprob": -1.5032657384872437
+            },
+            {
+              "token": " do",
+              "logprob": -1.204525113105774
+            },
+            {
+              "token": " at",
+              "logprob": -3.333254337310791
+            },
+            {
+              "token": " the",
+              "logprob": -0.06252411007881165
+            },
+            {
+              "token": " park",
+              "logprob": -0.13796792924404144
+            },
+            {
+              "token": "?",
+              "logprob": -0.07565610110759735
+            },
+            {
+              "token": " A",
+              "logprob": -0.21763333678245544
+            },
+            {
+              "token": ":",
+              "logprob": -0.010658715851604939
+            },
+            {
+              "token": " He",
+              "logprob": -1.361548662185669
+            },
+            {
+              "token": " showed",
+              "logprob": -3.2738046646118164
+            },
+            {
+              "token": " me",
+              "logprob": -3.0133843421936035
+            },
+            {
+              "token": " a",
+              "logprob": -0.5872056484222412
+            },
+            {
+              "token": " rock",
+              "logprob": -0.8124929070472717
+            },
+            {
+              "token": ".",
+              "logprob": -0.2802185118198395
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.230504989624023
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "tiny seed B: seed",
+          "token_data": [
+            {
+              "token": " tiny",
+              "logprob": -3.478518486022949
+            },
+            {
+              "token": " seed",
+              "logprob": -0.05987071245908737
+            },
+            {
+              "token": " B",
+              "logprob": -3.979975461959839
+            },
+            {
+              "token": ":",
+              "logprob": -0.01574641838669777
+            },
+            {
+              "token": " seed",
+              "logprob": -3.045419692993164
+            },
+            {
+              "token": " Q",
+              "logprob": -1.7265205383300781
+            },
+            {
+              "token": ":",
+              "logprob": -0.03592553734779358
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.6245994567871094
+            },
+            {
+              "token": ":",
+              "logprob": -0.048918746411800385
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "seed. 2: How do I know if a plant grows? 3: What is a big oak tree?",
+          "token_data": [
+            {
+              "token": " seed",
+              "logprob": -2.896821975708008
+            },
+            {
+              "token": ".",
+              "logprob": -1.2804343700408936
+            },
+            {
+              "token": " ",
+              "logprob": -2.5864076614379883
+            },
+            {
+              "token": "2",
+              "logprob": -2.837130546569824
+            },
+            {
+              "token": ":",
+              "logprob": -2.380774974822998
+            },
+            {
+              "token": " How",
+              "logprob": -2.7391018867492676
+            },
+            {
+              "token": " do",
+              "logprob": -2.7939677238464355
+            },
+            {
+              "token": " I",
+              "logprob": -3.0419347286224365
+            },
+            {
+              "token": " know",
+              "logprob": -1.5110431909561157
+            },
+            {
+              "token": " if",
+              "logprob": -2.2268495559692383
+            },
+            {
+              "token": " a",
+              "logprob": -2.2952442169189453
+            },
+            {
+              "token": " plant",
+              "logprob": -0.3144761025905609
+            },
+            {
+              "token": " grows",
+              "logprob": -3.067051410675049
+            },
+            {
+              "token": "?",
+              "logprob": -0.23840084671974182
+            },
+            {
+              "token": " ",
+              "logprob": -2.3643205165863037
+            },
+            {
+              "token": "3",
+              "logprob": -0.41858533024787903
+            },
+            {
+              "token": ":",
+              "logprob": -0.06918240338563919
+            },
+            {
+              "token": " What",
+              "logprob": -0.913641631603241
+            },
+            {
+              "token": " is",
+              "logprob": -3.32873272895813
+            },
+            {
+              "token": " a",
+              "logprob": -2.083148956298828
+            },
+            {
+              "token": " big",
+              "logprob": -5.034205436706543
+            },
+            {
+              "token": " oak",
+              "logprob": -0.34916064143180847
+            },
+            {
+              "token": " tree",
+              "logprob": -0.04301019012928009
+            },
+            {
+              "token": "?",
+              "logprob": -0.17701216042041779
+            },
+            {
+              "token": " \n",
+              "logprob": -4.011760711669922
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "A seed.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.349471926689148
+            },
+            {
+              "token": " seed",
+              "logprob": -0.6294907927513123
+            },
+            {
+              "token": ".",
+              "logprob": -0.6561722755432129
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7003377079963684
+            },
+            {
+              "token": ":",
+              "logprob": -0.014487199485301971
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "a plant.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.0278472900390625
+            },
+            {
+              "token": " plant",
+              "logprob": -2.6593315601348877
+            },
+            {
+              "token": ".",
+              "logprob": -1.0593547821044922
+            },
+            {
+              "token": " ",
+              "logprob": -2.5852248668670654
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9150155186653137
+            },
+            {
+              "token": ":",
+              "logprob": -0.020981265231966972
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.153057098388672
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "What did Alexander put in the soil? A: None of the above.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.5243091583251953
+            },
+            {
+              "token": " did",
+              "logprob": -0.20145875215530396
+            },
+            {
+              "token": " Alexander",
+              "logprob": -0.10788358747959137
+            },
+            {
+              "token": " put",
+              "logprob": -0.1799721121788025
+            },
+            {
+              "token": " in",
+              "logprob": -0.014491782523691654
+            },
+            {
+              "token": " the",
+              "logprob": -0.013948459178209305
+            },
+            {
+              "token": " soil",
+              "logprob": -0.05318573862314224
+            },
+            {
+              "token": "?",
+              "logprob": -0.35029715299606323
+            },
+            {
+              "token": " A",
+              "logprob": -1.71500825881958
+            },
+            {
+              "token": ":",
+              "logprob": -0.1363680362701416
+            },
+            {
+              "token": " None",
+              "logprob": -4.5803728103637695
+            },
+            {
+              "token": " of",
+              "logprob": -0.9049407839775085
+            },
+            {
+              "token": " the",
+              "logprob": -0.14859682321548462
+            },
+            {
+              "token": " above",
+              "logprob": -0.09716381132602692
+            },
+            {
+              "token": ".",
+              "logprob": -0.7261225581169128
+            },
+            {
+              "token": " \n",
+              "logprob": -1.8406288623809814
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "a small bag",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.0278472900390625
+            },
+            {
+              "token": " small",
+              "logprob": -2.972303628921509
+            },
+            {
+              "token": " bag",
+              "logprob": -0.32420584559440613
+            },
+            {
+              "token": " \n",
+              "logprob": -3.8354554176330566
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Seed.",
+          "token_data": [
+            {
+              "token": " Seed",
+              "logprob": -4.254998207092285
+            },
+            {
+              "token": ".",
+              "logprob": -1.0431078672409058
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6214522123336792
+            },
+            {
+              "token": ":",
+              "logprob": -0.015593623742461205
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What did Liam put in the soil?",
+      "character": "Liam",
+      "story": "Alexander and Liam were best friends. One sunny day, they went to the park to play. Alexander brought a small bag with him. Inside the bag was a tiny seed. He wanted to grow a plant. Alexander planted a tiny seed in a patch of dirt near the big oak tree. Liam watched but didn’t say anything about it. He was more interested in climbing the tree. Liam climbed up high while Alexander watered the seed. The two friends spent the whole afternoon at the park. Liam found a shiny rock and showed it to Alexander. Alexander smiled and told Liam about the plant he hoped would grow. Liam thought the rock was cooler but didn’t say it. As the sun started to set, they packed up to go home. Alexander promised to check on the seed tomorrow. Liam just waved and said, \"See you later!\" They both walked home, happy with their day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "seed.",
+          "token_data": [
+            {
+              "token": " seed",
+              "logprob": -3.9536077976226807
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.0762195587158203
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "What did the boy put in his soil?  (2 Points)",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.2477195262908936
+            },
+            {
+              "token": " did",
+              "logprob": -0.2291231006383896
+            },
+            {
+              "token": " the",
+              "logprob": -3.4686691761016846
+            },
+            {
+              "token": " boy",
+              "logprob": -2.404784679412842
+            },
+            {
+              "token": " put",
+              "logprob": -0.9209319353103638
+            },
+            {
+              "token": " in",
+              "logprob": -0.13704201579093933
+            },
+            {
+              "token": " his",
+              "logprob": -3.5908148288726807
+            },
+            {
+              "token": " soil",
+              "logprob": -2.775376796722412
+            },
+            {
+              "token": "?",
+              "logprob": -0.2757705748081207
+            },
+            {
+              "token": " ",
+              "logprob": -3.248883008956909
+            },
+            {
+              "token": " (",
+              "logprob": -3.7791969776153564
+            },
+            {
+              "token": "2",
+              "logprob": -3.9483096599578857
+            },
+            {
+              "token": " Points",
+              "logprob": -1.6807265281677246
+            },
+            {
+              "token": ")\n\n",
+              "logprob": -2.6271228790283203
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "What did Alexander put in the bag?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.2477195262908936
+            },
+            {
+              "token": " did",
+              "logprob": -0.2291231006383896
+            },
+            {
+              "token": " Alexander",
+              "logprob": -0.8439380526542664
+            },
+            {
+              "token": " put",
+              "logprob": -0.9834377765655518
+            },
+            {
+              "token": " in",
+              "logprob": -0.04478074610233307
+            },
+            {
+              "token": " the",
+              "logprob": -0.22881637513637543
+            },
+            {
+              "token": " bag",
+              "logprob": -0.3264608383178711
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -3.0692508220672607
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "the seed",
+          "token_data": [
+            {
+              "token": " the",
+              "logprob": -4.359564781188965
+            },
+            {
+              "token": " seed",
+              "logprob": -0.44580525159835815
+            },
+            {
+              "token": " Q",
+              "logprob": -2.228018045425415
+            },
+            {
+              "token": ":",
+              "logprob": -0.021195102483034134
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The seed.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.214401960372925
+            },
+            {
+              "token": " seed",
+              "logprob": -0.5234152674674988
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.6399874687194824
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "a seed",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.0053279399871826
+            },
+            {
+              "token": " seed",
+              "logprob": -0.720496416091919
+            },
+            {
+              "token": "\n",
+              "logprob": -2.100052833557129
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.9257209300994873
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.0816943645477295
+            },
+            {
+              "token": ":",
+              "logprob": -0.05513966456055641
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.9257209300994873
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Nothing, the plant was still tiny and he hadn't put anything in it yet.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -4.040130615234375
+            },
+            {
+              "token": ",",
+              "logprob": -2.581465721130371
+            },
+            {
+              "token": " the",
+              "logprob": -3.150031089782715
+            },
+            {
+              "token": " plant",
+              "logprob": -1.935589075088501
+            },
+            {
+              "token": " was",
+              "logprob": -1.0264604091644287
+            },
+            {
+              "token": " still",
+              "logprob": -2.9332242012023926
+            },
+            {
+              "token": " tiny",
+              "logprob": -4.237590789794922
+            },
+            {
+              "token": " and",
+              "logprob": -2.1297380924224854
+            },
+            {
+              "token": " he",
+              "logprob": -1.5523854494094849
+            },
+            {
+              "token": " hadn",
+              "logprob": -3.9385640621185303
+            },
+            {
+              "token": "'t",
+              "logprob": -0.4262382984161377
+            },
+            {
+              "token": " put",
+              "logprob": -0.7815893888473511
+            },
+            {
+              "token": " anything",
+              "logprob": -0.798504650592804
+            },
+            {
+              "token": " in",
+              "logprob": -0.35457995533943176
+            },
+            {
+              "token": " it",
+              "logprob": -1.7087324857711792
+            },
+            {
+              "token": " yet",
+              "logprob": -0.5861881375312805
+            },
+            {
+              "token": ".",
+              "logprob": -0.30560004711151123
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0381965637207031
+            },
+            {
+              "token": ":",
+              "logprob": -0.019503256306052208
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

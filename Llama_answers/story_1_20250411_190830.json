@@ -1,0 +1,735 @@
+{
+  "story": "Evelyn and Chloe were best friends. One sunny day, they decided to go to the park. Evelyn wore a red shirt because it was her favorite color. Chloe brought a picnic basket with sandwiches and juice. They found a nice spot under a big tree. Evelyn spread out a blanket while Chloe set out the food. They talked and laughed as they ate. After lunch, they played on the swings. Evelyn pushed Chloe high into the air. Then Chloe pushed Evelyn even higher. They both giggled as the wind rushed past their faces. Later, they saw a butterfly and chased it around the flowers. The butterfly flew away, but they didn’t mind. They sat back down and watched the clouds. Evelyn pointed out shapes, like a dog and a castle. Chloe agreed and added her own ideas. As the sun began to set, they packed up their things. Walking home, they promised to do it again soon. It was a perfect day with good friends and fun memories.",
+  "characters": [
+    {
+      "question": "What color was Evelyn's shirt?",
+      "character": "Evelyn",
+      "story": "Evelyn and Chloe were best friends. One sunny day, they decided to go to the park. Evelyn wore a red shirt because it was her favorite color. Chloe brought a picnic basket with sandwiches and juice. They found a nice spot under a big tree. Evelyn spread out a blanket while Chloe set out the food. They talked and laughed as they ate. After lunch, they played on the swings. Evelyn pushed Chloe high into the air. Then Chloe pushed Evelyn even higher. They both giggled as the wind rushed past their faces. Later, they saw a butterfly and chased it around the flowers. The butterfly flew away, but they didn’t mind. They sat back down and watched the clouds. Evelyn pointed out shapes, like a dog and a castle. Chloe agreed and added her own ideas. As the sun began to set, they packed up their things. Walking home, they promised to do it again soon. It was a perfect day with good friends and fun memories.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "None of the above.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.575277090072632
+            },
+            {
+              "token": " of",
+              "logprob": -1.8475793600082397
+            },
+            {
+              "token": " the",
+              "logprob": -0.4779309928417206
+            },
+            {
+              "token": " above",
+              "logprob": -0.19652506709098816
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.257187604904175
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Her favorite color.",
+          "token_data": [
+            {
+              "token": " Her",
+              "logprob": -3.5096206665039062
+            },
+            {
+              "token": " favorite",
+              "logprob": -1.3756425380706787
+            },
+            {
+              "token": " color",
+              "logprob": -0.039957206696271896
+            },
+            {
+              "token": ".",
+              "logprob": -1.0580241680145264
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8923187255859375
+            },
+            {
+              "token": ":",
+              "logprob": -0.016537610441446304
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "What color is Evelyns shirt?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.8449058532714844
+            },
+            {
+              "token": " color",
+              "logprob": -0.131663516163826
+            },
+            {
+              "token": " is",
+              "logprob": -2.5794224739074707
+            },
+            {
+              "token": " Evelyn",
+              "logprob": -0.6852929592132568
+            },
+            {
+              "token": "s",
+              "logprob": -2.7040317058563232
+            },
+            {
+              "token": " shirt",
+              "logprob": -0.06584931164979935
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.3813323974609375
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Red",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -0.933804452419281
+            },
+            {
+              "token": " \n",
+              "logprob": -3.3093013763427734
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "red.",
+          "token_data": [
+            {
+              "token": " red",
+              "logprob": -3.065739631652832
+            },
+            {
+              "token": ".",
+              "logprob": -1.8937228918075562
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.234063148498535
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Red was the color of Evelyn's shirt.",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -0.933804452419281
+            },
+            {
+              "token": " was",
+              "logprob": -3.8309688568115234
+            },
+            {
+              "token": " the",
+              "logprob": -0.8164998292922974
+            },
+            {
+              "token": " color",
+              "logprob": -0.25637245178222656
+            },
+            {
+              "token": " of",
+              "logprob": -0.20893006026744843
+            },
+            {
+              "token": " Evelyn",
+              "logprob": -0.3503699004650116
+            },
+            {
+              "token": "'s",
+              "logprob": -0.10574597865343094
+            },
+            {
+              "token": " shirt",
+              "logprob": -0.023493148386478424
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.0052127838134766
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Her shirt color was red because she liked the color red.",
+          "token_data": [
+            {
+              "token": " Her",
+              "logprob": -3.5096206665039062
+            },
+            {
+              "token": " shirt",
+              "logprob": -0.395889014005661
+            },
+            {
+              "token": " color",
+              "logprob": -2.435950517654419
+            },
+            {
+              "token": " was",
+              "logprob": -0.09631376713514328
+            },
+            {
+              "token": " red",
+              "logprob": -0.45158979296684265
+            },
+            {
+              "token": " because",
+              "logprob": -2.5169055461883545
+            },
+            {
+              "token": " she",
+              "logprob": -1.8926513195037842
+            },
+            {
+              "token": " liked",
+              "logprob": -1.0959326028823853
+            },
+            {
+              "token": " the",
+              "logprob": -1.9636083841323853
+            },
+            {
+              "token": " color",
+              "logprob": -0.07162205874919891
+            },
+            {
+              "token": " red",
+              "logprob": -0.39810818433761597
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.5518808364868164
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Her shirt was red.",
+          "token_data": [
+            {
+              "token": " Her",
+              "logprob": -3.5096206665039062
+            },
+            {
+              "token": " shirt",
+              "logprob": -0.395889014005661
+            },
+            {
+              "token": " was",
+              "logprob": -0.16824661195278168
+            },
+            {
+              "token": " red",
+              "logprob": -0.6034712791442871
+            },
+            {
+              "token": ".",
+              "logprob": -0.48867982625961304
+            },
+            {
+              "token": " \n",
+              "logprob": -2.330517053604126
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "A red shirt.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.5711851119995117
+            },
+            {
+              "token": " red",
+              "logprob": -1.387393593788147
+            },
+            {
+              "token": " shirt",
+              "logprob": -0.04952395334839821
+            },
+            {
+              "token": ".",
+              "logprob": -0.7867165803909302
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6531429886817932
+            },
+            {
+              "token": ":",
+              "logprob": -0.016876066103577614
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Red .",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -0.933804452419281
+            },
+            {
+              "token": " ",
+              "logprob": -3.762228012084961
+            },
+            {
+              "token": ".\n\n\n",
+              "logprob": -2.78629469871521
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What color was Chloe's shirt?",
+      "character": "Chloe",
+      "story": "Evelyn and Chloe were best friends. One sunny day, they decided to go to the park. Evelyn wore a red shirt because it was her favorite color. Chloe brought a picnic basket with sandwiches and juice. They found a nice spot under a big tree. Evelyn spread out a blanket while Chloe set out the food. They talked and laughed as they ate. After lunch, they played on the swings. Evelyn pushed Chloe high into the air. Then Chloe pushed Evelyn even higher. They both giggled as the wind rushed past their faces. Later, they saw a butterfly and chased it around the flowers. The butterfly flew away, but they didn’t mind. They sat back down and watched the clouds. Evelyn pointed out shapes, like a dog and a castle. Chloe agreed and added her own ideas. As the sun began to set, they packed up their things. Walking home, they promised to do it again soon. It was a perfect day with good friends and fun memories.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Her shirt was the color blue, and there wasn’t any difference between what we imagined as she told us and how that made a difference to her friend’s life.",
+          "token_data": [
+            {
+              "token": " Her",
+              "logprob": -4.509657859802246
+            },
+            {
+              "token": " shirt",
+              "logprob": -0.19692477583885193
+            },
+            {
+              "token": " was",
+              "logprob": -0.1404375582933426
+            },
+            {
+              "token": " the",
+              "logprob": -3.09885311126709
+            },
+            {
+              "token": " color",
+              "logprob": -0.5883941650390625
+            },
+            {
+              "token": " blue",
+              "logprob": -2.653346300125122
+            },
+            {
+              "token": ",",
+              "logprob": -3.2443408966064453
+            },
+            {
+              "token": " and",
+              "logprob": -2.828345775604248
+            },
+            {
+              "token": " there",
+              "logprob": -4.451221466064453
+            },
+            {
+              "token": " wasn",
+              "logprob": -3.5395727157592773
+            },
+            {
+              "token": "’t",
+              "logprob": -2.4256279468536377
+            },
+            {
+              "token": " any",
+              "logprob": -0.533460259437561
+            },
+            {
+              "token": " difference",
+              "logprob": -4.69757604598999
+            },
+            {
+              "token": " between",
+              "logprob": -0.9554815292358398
+            },
+            {
+              "token": " what",
+              "logprob": -3.574711322784424
+            },
+            {
+              "token": " we",
+              "logprob": -2.5024423599243164
+            },
+            {
+              "token": " imagined",
+              "logprob": -4.912374496459961
+            },
+            {
+              "token": " as",
+              "logprob": -3.138826847076416
+            },
+            {
+              "token": " she",
+              "logprob": -4.699019908905029
+            },
+            {
+              "token": " told",
+              "logprob": -3.4678235054016113
+            },
+            {
+              "token": " us",
+              "logprob": -0.41502609848976135
+            },
+            {
+              "token": " and",
+              "logprob": -3.1128287315368652
+            },
+            {
+              "token": " how",
+              "logprob": -2.969700574874878
+            },
+            {
+              "token": " that",
+              "logprob": -4.609251022338867
+            },
+            {
+              "token": " made",
+              "logprob": -3.1956653594970703
+            },
+            {
+              "token": " a",
+              "logprob": -1.9498142004013062
+            },
+            {
+              "token": " difference",
+              "logprob": -0.12756487727165222
+            },
+            {
+              "token": " to",
+              "logprob": -1.9519847631454468
+            },
+            {
+              "token": " her",
+              "logprob": -2.2972159385681152
+            },
+            {
+              "token": " friend",
+              "logprob": -4.490724563598633
+            },
+            {
+              "token": "’s",
+              "logprob": -2.756246566772461
+            },
+            {
+              "token": " life",
+              "logprob": -4.412820816040039
+            },
+            {
+              "token": ".",
+              "logprob": -0.6861815452575684
+            },
+            {
+              "token": " Q",
+              "logprob": -2.337360382080078
+            },
+            {
+              "token": ":",
+              "logprob": -0.05229293182492256
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "5 points It was blue.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.02719783782959
+            },
+            {
+              "token": "5",
+              "logprob": -3.543832778930664
+            },
+            {
+              "token": " points",
+              "logprob": -1.187188982963562
+            },
+            {
+              "token": " It",
+              "logprob": -5.03195858001709
+            },
+            {
+              "token": " was",
+              "logprob": -0.28121331334114075
+            },
+            {
+              "token": " blue",
+              "logprob": -2.1818039417266846
+            },
+            {
+              "token": ".",
+              "logprob": -0.5776049494743347
+            },
+            {
+              "token": " Q",
+              "logprob": -0.491010457277298
+            },
+            {
+              "token": ":",
+              "logprob": -0.017751626670360565
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Blue",
+          "token_data": [
+            {
+              "token": " Blue",
+              "logprob": -3.185919761657715
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.5463833808898926
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "None, Chloe was a bit of an \"out\" when it comes to color.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.0789175033569336
+            },
+            {
+              "token": ",",
+              "logprob": -3.271571636199951
+            },
+            {
+              "token": " Chloe",
+              "logprob": -2.661489486694336
+            },
+            {
+              "token": " was",
+              "logprob": -2.811807632446289
+            },
+            {
+              "token": " a",
+              "logprob": -3.27016019821167
+            },
+            {
+              "token": " bit",
+              "logprob": -4.069819450378418
+            },
+            {
+              "token": " of",
+              "logprob": -0.8968985080718994
+            },
+            {
+              "token": " an",
+              "logprob": -1.9716073274612427
+            },
+            {
+              "token": " \"",
+              "logprob": -4.820043563842773
+            },
+            {
+              "token": "out",
+              "logprob": -3.193171977996826
+            },
+            {
+              "token": "\"",
+              "logprob": -3.1782140731811523
+            },
+            {
+              "token": " when",
+              "logprob": -2.8112645149230957
+            },
+            {
+              "token": " it",
+              "logprob": -0.8660780191421509
+            },
+            {
+              "token": " comes",
+              "logprob": -1.1612361669540405
+            },
+            {
+              "token": " to",
+              "logprob": -0.03573277220129967
+            },
+            {
+              "token": " color",
+              "logprob": -1.9895050525665283
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.2529821395874023
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Chloe's shirt was white.",
+          "token_data": [
+            {
+              "token": " Chloe",
+              "logprob": -2.942469596862793
+            },
+            {
+              "token": "'s",
+              "logprob": -0.8733922243118286
+            },
+            {
+              "token": " shirt",
+              "logprob": -0.04062051698565483
+            },
+            {
+              "token": " was",
+              "logprob": -0.11134208738803864
+            },
+            {
+              "token": " white",
+              "logprob": -4.161328315734863
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.4722516536712646
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Answer in one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.563290596008301
+            },
+            {
+              "token": " in",
+              "logprob": -3.0364952087402344
+            },
+            {
+              "token": " one",
+              "logprob": -0.4929084777832031
+            },
+            {
+              "token": " whole",
+              "logprob": -1.2499428987503052
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.20126868784427643
+            },
+            {
+              "token": ".",
+              "logprob": -0.43870601058006287
+            },
+            {
+              "token": " \n",
+              "logprob": -0.8060754537582397
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Yellow 3",
+          "token_data": [
+            {
+              "token": " Yellow",
+              "logprob": -4.226681709289551
+            },
+            {
+              "token": " ",
+              "logprob": -3.6368136405944824
+            },
+            {
+              "token": "3",
+              "logprob": -3.702265501022339
+            },
+            {
+              "token": " Q",
+              "logprob": -2.1527328491210938
+            },
+            {
+              "token": ":",
+              "logprob": -0.04141024127602577
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Green.",
+          "token_data": [
+            {
+              "token": " Green",
+              "logprob": -4.569428443908691
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.3227689266204834
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "None.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.0789175033569336
+            },
+            {
+              "token": ".",
+              "logprob": -1.2592235803604126
+            },
+            {
+              "token": " Q",
+              "logprob": -1.1561646461486816
+            },
+            {
+              "token": ":",
+              "logprob": -0.022004272788763046
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Orange.",
+          "token_data": [
+            {
+              "token": " Orange",
+              "logprob": -4.426394462585449
+            },
+            {
+              "token": ".",
+              "logprob": -0.8842464685440063
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.4360945224761963
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

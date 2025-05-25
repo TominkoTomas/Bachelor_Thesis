@@ -1,0 +1,110 @@
+
+    # prompt = """Create a fictional story long aorund 6 sentances long about two characters. Follow these guidelines:
+
+    #         1. Character Design:
+    #         - Create two characters with regular names
+    #         -One character has ONE simple detail from this list:
+    #             Color of clothing (red shirt)
+    #             Age (12 years old)  
+    #             Carried object (blue backpack)
+    #             Pet (black dog)
+
+    #         - Mention the detail just once naturally
+
+    #         2. Set in normal places like school/park/store or anything else.
+
+    #         3. Question Format:
+    #         - Create ONE ambiguous question about either character's trait using:
+    #         "What color..." / "How old..." / "What name... "
+
+
+    #         4. Output Format:
+    #         [Name1];[Name2];[Question Template]
+
+    #         Example 1:
+
+    #         Alex tied his neon green shoes while Lily waited. They raced to the ice cream truck before it left the playground.
+
+    #         ###
+    #         Alex;Lily;What color were {name}'s shoes?"?
+    #         """
+
+
+
+
+
+        prompt = f"""Create a fictional story about two characters. Follow these rules EXACTLY:
+
+    Story Requirements:
+        - Make the story about 10 sentences long.
+        - The two characters must be named {name1} and {name2}.
+        - Only one character must have a {chosen_object} as their detail. USE THIS EXACT OBJECT!
+        - Dont give the second person any specific detail.
+        - Mention the detail ONLY ONCE in the story.
+        - Mention of this detail doesn't have to be at the beginning.
+
+    Setting:
+        - Set the story in a normal, everyday place like a school, park, store, or similar.
+
+    Question Format:
+        - Create ONE question about the character's detail using:
+            "What color..."
+            "How old..."
+            "What was..."
+
+    Make the question simple and unambiguous.
+
+    Output Format:
+        End the story with this EXACT format:
+
+        ###
+        {name1};{name2};[Question Template with {{name}} placeholder]
+
+        Example of output:
+
+        ### (Very importan part of output!!! dont forget 3 #)
+        Charlotte;Wyatt;How old is {{name}}?
+    
+
+    IMPORTANT:
+        - Use the exact names {name1} and {name2} in both the story and metadata.
+        - Give the output exat format as defiend before.
+        - Separate name1 name2 and question template using semicolons and nothing else right after ###.
+        - Answer using English only!
+    """
+
+
+    prompt = f"""Create a short fictional story in English that STRICTLY follows these rules:
+
+    ### STORY REQUIREMENTS ###
+    1. Length: Exactly 10-12 sentences
+    2. Characters:
+    - {name1}: Must possess/use a {chosen_object} (mention ONLY ONCE, not necessarily at start)
+    - {name2}: No distinctive objects or features
+    3. Setting: Common everyday location (school, park, store, etc.)
+    4. Question: Generate ONE question using these formats similar to this:
+    "What color is {{name}}'s {chosen_object}?"
+    "How old is {{name}}'s {chosen_object}?"
+    "What was {{name}} doing with the {chosen_object}?"
+    
+
+    ### CRITICAL OUTPUT FORMAT ###
+    After story text, add EXACTLY:
+
+    ###
+    {name1};{name2};[SELECTED_QUESTION_TEMPLATE]
+
+    Example (follow precisely):
+    ###
+    Emma;Liam;What color is {{name}}'s backpack?
+
+    MANDATORY RULES ###
+    - Use {name1} and {name2} exactly as provided
+    - Mention {chosen_object} ONLY ONCE for {name1}
+    - NO details for {name2}
+    - Question must reference the {chosen_object}
+    - English only
+    - ABSOLUTELY NO MARKDOWN/FORMATTING
+    - Think about the question template the question doesnt match the object or the story change it.
+
+    Make the story natural but ensure strict rule adherence!"""

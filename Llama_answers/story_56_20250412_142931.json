@@ -1,0 +1,895 @@
+{
+  "story": "Grace and Harper were best friends. They loved to create things together. One day, Grace took out her colored pencils and paper. She wanted to design a logo for their secret club. Grace drew a circular logo with stars and a big letter \"H\" in the middle. Harper watched and smiled. \"That looks amazing!\" Harper said. Grace giggled and showed her the finished design. \"Now we need a name for our club,\" Grace said. Harper thought for a moment. \"How about the Star Hunters?\" she suggested. Grace clapped her hands. \"Perfect!\" she cheered. The two friends spent the afternoon drawing more logos and planning their club adventures. They even made a promise to meet every Saturday. Grace felt happy knowing Harper liked her design. Harper was excited to start their new club. The day ended with both friends laughing and dreaming big.",
+  "characters": [
+    {
+      "question": "What shape was the logo Grace drew?",
+      "character": "Grace",
+      "story": "Grace and Harper were best friends. They loved to create things together. One day, Grace took out her colored pencils and paper. She wanted to design a logo for their secret club. Grace drew a circular logo with stars and a big letter \"H\" in the middle. Harper watched and smiled. \"That looks amazing!\" Harper said. Grace giggled and showed her the finished design. \"Now we need a name for our club,\" Grace said. Harper thought for a moment. \"How about the Star Hunters?\" she suggested. Grace clapped her hands. \"Perfect!\" she cheered. The two friends spent the afternoon drawing more logos and planning their club adventures. They even made a promise to meet every Saturday. Grace felt happy knowing Harper liked her design. Harper was excited to start their new club. The day ended with both friends laughing and dreaming big.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A circle.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -0.9531549215316772
+            },
+            {
+              "token": " circle",
+              "logprob": -0.4527185559272766
+            },
+            {
+              "token": ".",
+              "logprob": -0.6690518260002136
+            },
+            {
+              "token": " \n",
+              "logprob": -1.6823956966400146
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Circle.",
+          "token_data": [
+            {
+              "token": " Circle",
+              "logprob": -3.229318141937256
+            },
+            {
+              "token": ".",
+              "logprob": -1.295647144317627
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0896263122558594
+            },
+            {
+              "token": ":",
+              "logprob": -0.016431841999292374
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "a circle",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.6006217002868652
+            },
+            {
+              "token": " circle",
+              "logprob": -0.3756386935710907
+            },
+            {
+              "token": " \n",
+              "logprob": -3.162703037261963
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It was a star with an 'H' inside.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.71159029006958
+            },
+            {
+              "token": " It",
+              "logprob": -3.4157450199127197
+            },
+            {
+              "token": " was",
+              "logprob": -0.2295728176832199
+            },
+            {
+              "token": " a",
+              "logprob": -0.25921010971069336
+            },
+            {
+              "token": " star",
+              "logprob": -3.2126851081848145
+            },
+            {
+              "token": " with",
+              "logprob": -1.9610538482666016
+            },
+            {
+              "token": " an",
+              "logprob": -2.737105131149292
+            },
+            {
+              "token": " '",
+              "logprob": -3.1495003700256348
+            },
+            {
+              "token": "H",
+              "logprob": -0.07730264216661453
+            },
+            {
+              "token": "'",
+              "logprob": -0.04111270606517792
+            },
+            {
+              "token": " inside",
+              "logprob": -2.3942813873291016
+            },
+            {
+              "token": ".",
+              "logprob": -1.1033644676208496
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.6857601404190063
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The circle.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.314516544342041
+            },
+            {
+              "token": " circle",
+              "logprob": -2.1859793663024902
+            },
+            {
+              "token": ".",
+              "logprob": -1.1783899068832397
+            },
+            {
+              "token": " ",
+              "logprob": -2.6827735900878906
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7985543012619019
+            },
+            {
+              "token": ":",
+              "logprob": -0.02344633638858795
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A circular logo.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -0.9803498983383179
+            },
+            {
+              "token": " circular",
+              "logprob": -2.143617630004883
+            },
+            {
+              "token": " logo",
+              "logprob": -0.5133028030395508
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.487858295440674
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Circle.",
+          "token_data": [
+            {
+              "token": " Circle",
+              "logprob": -3.229318141937256
+            },
+            {
+              "token": ".",
+              "logprob": -1.295647144317627
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0896263122558594
+            },
+            {
+              "token": ":",
+              "logprob": -0.016431841999292374
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A circle.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -0.9803498983383179
+            },
+            {
+              "token": " circle",
+              "logprob": -0.45648205280303955
+            },
+            {
+              "token": ".",
+              "logprob": -0.6805211901664734
+            },
+            {
+              "token": " \n",
+              "logprob": -1.7050591707229614
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It was a circular shape.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.707061290740967
+            },
+            {
+              "token": " was",
+              "logprob": -0.1337050050497055
+            },
+            {
+              "token": " a",
+              "logprob": -0.2543254792690277
+            },
+            {
+              "token": " circular",
+              "logprob": -1.5495209693908691
+            },
+            {
+              "token": " shape",
+              "logprob": -1.1123888492584229
+            },
+            {
+              "token": ".",
+              "logprob": -0.71454918384552
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.11308479309082
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Grace drew a circular logo. She made a big \"H\" in the middle of that circle and stars around the edge. That was her finished design for their secret club!  (5 pts)",
+          "token_data": [
+            {
+              "token": " Grace",
+              "logprob": -3.763505458831787
+            },
+            {
+              "token": " drew",
+              "logprob": -0.1758277863264084
+            },
+            {
+              "token": " a",
+              "logprob": -0.07236761599779129
+            },
+            {
+              "token": " circular",
+              "logprob": -0.27234944701194763
+            },
+            {
+              "token": " logo",
+              "logprob": -0.06782524287700653
+            },
+            {
+              "token": ".",
+              "logprob": -1.3299872875213623
+            },
+            {
+              "token": " She",
+              "logprob": -3.3294355869293213
+            },
+            {
+              "token": " made",
+              "logprob": -2.592745780944824
+            },
+            {
+              "token": " a",
+              "logprob": -0.6168732047080994
+            },
+            {
+              "token": " big",
+              "logprob": -1.2452253103256226
+            },
+            {
+              "token": " \"",
+              "logprob": -2.790919065475464
+            },
+            {
+              "token": "H",
+              "logprob": -0.08825178444385529
+            },
+            {
+              "token": "\"",
+              "logprob": -0.02109169401228428
+            },
+            {
+              "token": " in",
+              "logprob": -0.25104236602783203
+            },
+            {
+              "token": " the",
+              "logprob": -0.010203107260167599
+            },
+            {
+              "token": " middle",
+              "logprob": -0.04040129482746124
+            },
+            {
+              "token": " of",
+              "logprob": -1.8964529037475586
+            },
+            {
+              "token": " that",
+              "logprob": -4.18129825592041
+            },
+            {
+              "token": " circle",
+              "logprob": -1.3555102348327637
+            },
+            {
+              "token": " and",
+              "logprob": -2.6705973148345947
+            },
+            {
+              "token": " stars",
+              "logprob": -1.0263029336929321
+            },
+            {
+              "token": " around",
+              "logprob": -0.49234700202941895
+            },
+            {
+              "token": " the",
+              "logprob": -1.0049412250518799
+            },
+            {
+              "token": " edge",
+              "logprob": -1.5666617155075073
+            },
+            {
+              "token": ".",
+              "logprob": -0.32366541028022766
+            },
+            {
+              "token": " That",
+              "logprob": -3.529200553894043
+            },
+            {
+              "token": " was",
+              "logprob": -1.3832123279571533
+            },
+            {
+              "token": " her",
+              "logprob": -1.6862573623657227
+            },
+            {
+              "token": " finished",
+              "logprob": -2.7950568199157715
+            },
+            {
+              "token": " design",
+              "logprob": -0.15230008959770203
+            },
+            {
+              "token": " for",
+              "logprob": -4.009433746337891
+            },
+            {
+              "token": " their",
+              "logprob": -1.2018036842346191
+            },
+            {
+              "token": " secret",
+              "logprob": -0.5039737820625305
+            },
+            {
+              "token": " club",
+              "logprob": -0.011498017236590385
+            },
+            {
+              "token": "!",
+              "logprob": -2.64764666557312
+            },
+            {
+              "token": " ",
+              "logprob": -2.941000461578369
+            },
+            {
+              "token": " (",
+              "logprob": -3.964627742767334
+            },
+            {
+              "token": "5",
+              "logprob": -5.227643013000488
+            },
+            {
+              "token": " pts",
+              "logprob": -1.9996024370193481
+            },
+            {
+              "token": ")",
+              "logprob": -0.43072569370269775
+            },
+            {
+              "token": " \n",
+              "logprob": -2.096998929977417
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What shape was the logo Harper drew?",
+      "character": "Harper",
+      "story": "Grace and Harper were best friends. They loved to create things together. One day, Grace took out her colored pencils and paper. She wanted to design a logo for their secret club. Grace drew a circular logo with stars and a big letter \"H\" in the middle. Harper watched and smiled. \"That looks amazing!\" Harper said. Grace giggled and showed her the finished design. \"Now we need a name for our club,\" Grace said. Harper thought for a moment. \"How about the Star Hunters?\" she suggested. Grace clapped her hands. \"Perfect!\" she cheered. The two friends spent the afternoon drawing more logos and planning their club adventures. They even made a promise to meet every Saturday. Grace felt happy knowing Harper liked her design. Harper was excited to start their new club. The day ended with both friends laughing and dreaming big.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Circle. B: A triangle. C: An oval. Answer: C.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.899258613586426
+            },
+            {
+              "token": " Circle",
+              "logprob": -3.3110270500183105
+            },
+            {
+              "token": ".",
+              "logprob": -1.783423662185669
+            },
+            {
+              "token": " B",
+              "logprob": -3.9672389030456543
+            },
+            {
+              "token": ":",
+              "logprob": -0.011103742755949497
+            },
+            {
+              "token": " A",
+              "logprob": -2.912464141845703
+            },
+            {
+              "token": " triangle",
+              "logprob": -2.6589245796203613
+            },
+            {
+              "token": ".",
+              "logprob": -0.1397290676832199
+            },
+            {
+              "token": " C",
+              "logprob": -0.17147935926914215
+            },
+            {
+              "token": ":",
+              "logprob": -0.006638260092586279
+            },
+            {
+              "token": " An",
+              "logprob": -2.448457956314087
+            },
+            {
+              "token": " oval",
+              "logprob": -0.4572383761405945
+            },
+            {
+              "token": ".",
+              "logprob": -0.22923611104488373
+            },
+            {
+              "token": " Answer",
+              "logprob": -3.433519124984741
+            },
+            {
+              "token": ":",
+              "logprob": -0.12181445211172104
+            },
+            {
+              "token": " C",
+              "logprob": -3.834789276123047
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.788410186767578
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "It looks amazing!",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.933704376220703
+            },
+            {
+              "token": " looks",
+              "logprob": -3.098222017288208
+            },
+            {
+              "token": " amazing",
+              "logprob": -3.089061975479126
+            },
+            {
+              "token": "!\n",
+              "logprob": -3.0302486419677734
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A triangle",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.128116488456726
+            },
+            {
+              "token": " triangle",
+              "logprob": -3.510877847671509
+            },
+            {
+              "token": " Q",
+              "logprob": -3.3936820030212402
+            },
+            {
+              "token": ":",
+              "logprob": -0.017663318663835526
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Circle",
+          "token_data": [
+            {
+              "token": " Circle",
+              "logprob": -3.9472732543945312
+            },
+            {
+              "token": "\n",
+              "logprob": -2.109724998474121
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Circle.",
+          "token_data": [
+            {
+              "token": " Circle",
+              "logprob": -3.9472732543945312
+            },
+            {
+              "token": ".",
+              "logprob": -1.436610221862793
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.1081438064575195
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The logo Harper drew was a square. Grace took her colored pencils out and paper to start our design together. She started our first design by drawing a circle, a big star with an 'H' in the middle.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.8589457273483276
+            },
+            {
+              "token": " logo",
+              "logprob": -2.143646717071533
+            },
+            {
+              "token": " Harper",
+              "logprob": -0.5350738763809204
+            },
+            {
+              "token": " drew",
+              "logprob": -0.0781581923365593
+            },
+            {
+              "token": " was",
+              "logprob": -0.15514588356018066
+            },
+            {
+              "token": " a",
+              "logprob": -0.3110586106777191
+            },
+            {
+              "token": " square",
+              "logprob": -3.699759006500244
+            },
+            {
+              "token": ".",
+              "logprob": -0.5113093852996826
+            },
+            {
+              "token": " Grace",
+              "logprob": -3.606712818145752
+            },
+            {
+              "token": " took",
+              "logprob": -4.643026828765869
+            },
+            {
+              "token": " her",
+              "logprob": -2.2119386196136475
+            },
+            {
+              "token": " colored",
+              "logprob": -0.37462225556373596
+            },
+            {
+              "token": " pencils",
+              "logprob": -0.2699867784976959
+            },
+            {
+              "token": " out",
+              "logprob": -1.531445026397705
+            },
+            {
+              "token": " and",
+              "logprob": -0.44261571764945984
+            },
+            {
+              "token": " paper",
+              "logprob": -2.5522093772888184
+            },
+            {
+              "token": " to",
+              "logprob": -1.450341820716858
+            },
+            {
+              "token": " start",
+              "logprob": -3.147275686264038
+            },
+            {
+              "token": " our",
+              "logprob": -4.465785503387451
+            },
+            {
+              "token": " design",
+              "logprob": -2.5600671768188477
+            },
+            {
+              "token": " together",
+              "logprob": -4.080276966094971
+            },
+            {
+              "token": ".",
+              "logprob": -0.29744628071784973
+            },
+            {
+              "token": " She",
+              "logprob": -2.729903221130371
+            },
+            {
+              "token": " started",
+              "logprob": -3.325516700744629
+            },
+            {
+              "token": " our",
+              "logprob": -2.3884172439575195
+            },
+            {
+              "token": " first",
+              "logprob": -3.6707029342651367
+            },
+            {
+              "token": " design",
+              "logprob": -1.4706535339355469
+            },
+            {
+              "token": " by",
+              "logprob": -2.5663325786590576
+            },
+            {
+              "token": " drawing",
+              "logprob": -0.4180062711238861
+            },
+            {
+              "token": " a",
+              "logprob": -0.08280904591083527
+            },
+            {
+              "token": " circle",
+              "logprob": -1.3641808032989502
+            },
+            {
+              "token": ",",
+              "logprob": -3.7058708667755127
+            },
+            {
+              "token": " a",
+              "logprob": -1.6615571975708008
+            },
+            {
+              "token": " big",
+              "logprob": -0.8877553939819336
+            },
+            {
+              "token": " star",
+              "logprob": -2.16581130027771
+            },
+            {
+              "token": " with",
+              "logprob": -2.897641181945801
+            },
+            {
+              "token": " an",
+              "logprob": -2.6347339153289795
+            },
+            {
+              "token": " '",
+              "logprob": -3.5943164825439453
+            },
+            {
+              "token": "H",
+              "logprob": -0.07443839311599731
+            },
+            {
+              "token": "'",
+              "logprob": -0.042286526411771774
+            },
+            {
+              "token": " in",
+              "logprob": -0.1326194703578949
+            },
+            {
+              "token": " the",
+              "logprob": -0.0779515728354454
+            },
+            {
+              "token": " middle",
+              "logprob": -0.08280827105045319
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.109808444976807
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A square.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.128116488456726
+            },
+            {
+              "token": " square",
+              "logprob": -3.556666612625122
+            },
+            {
+              "token": ".",
+              "logprob": -0.7924997210502625
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.1704864501953125
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Circle",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.9213027954101562
+            },
+            {
+              "token": " Circle",
+              "logprob": -3.3462114334106445
+            },
+            {
+              "token": " \n",
+              "logprob": -3.51853609085083
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "A circular shape with the letter \"H\" in the middle.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.128116488456726
+            },
+            {
+              "token": " circular",
+              "logprob": -3.294506311416626
+            },
+            {
+              "token": " shape",
+              "logprob": -1.4840072393417358
+            },
+            {
+              "token": " with",
+              "logprob": -1.323885440826416
+            },
+            {
+              "token": " the",
+              "logprob": -3.1906936168670654
+            },
+            {
+              "token": " letter",
+              "logprob": -0.40628117322921753
+            },
+            {
+              "token": " \"",
+              "logprob": -0.3743304908275604
+            },
+            {
+              "token": "H",
+              "logprob": -0.027452338486909866
+            },
+            {
+              "token": "\"",
+              "logprob": -0.024960394948720932
+            },
+            {
+              "token": " in",
+              "logprob": -0.12689456343650818
+            },
+            {
+              "token": " the",
+              "logprob": -0.06460674852132797
+            },
+            {
+              "token": " middle",
+              "logprob": -0.056006040424108505
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.109299898147583
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "It was a circle.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.933704376220703
+            },
+            {
+              "token": " was",
+              "logprob": -0.23851130902767181
+            },
+            {
+              "token": " a",
+              "logprob": -0.25539514422416687
+            },
+            {
+              "token": " circle",
+              "logprob": -0.8978351354598999
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.2988648414611816
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

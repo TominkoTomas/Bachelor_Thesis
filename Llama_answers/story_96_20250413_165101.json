@@ -1,0 +1,1463 @@
+{
+  "story": "Ethan and Abigail were playing in the park one sunny afternoon. Ethan brought his favorite red rubber ball to bounce and roll around. He threw it gently, and it landed near Abigail, who picked it up and handed it back with a smile. Ethan threw the ball again, but this time it bounced too high and rolled into a bush. He ran to find it, but the ball was gone. Ethan lost a rubber ball. He felt sad because it was his only one. Abigail saw his frown and tried to cheer him up. \"Let’s play tag instead!\" she said. Ethan nodded, and soon they were running and laughing together. Even though he missed his ball, Ethan realized playing with Abigail was just as fun. They stayed at the park until the sun began to set, promising to meet again the next day for more games. Ethan forgot about his lost ball and went home happy.",
+  "characters": [
+    {
+      "question": "What material was the ball Ethan lost?",
+      "character": "Ethan",
+      "story": "Ethan and Abigail were playing in the park one sunny afternoon. Ethan brought his favorite red rubber ball to bounce and roll around. He threw it gently, and it landed near Abigail, who picked it up and handed it back with a smile. Ethan threw the ball again, but this time it bounced too high and rolled into a bush. He ran to find it, but the ball was gone. Ethan lost a rubber ball. He felt sad because it was his only one. Abigail saw his frown and tried to cheer him up. \"Let’s play tag instead!\" she said. Ethan nodded, and soon they were running and laughing together. Even though he missed his ball, Ethan realized playing with Abigail was just as fun. They stayed at the park until the sun began to set, promising to meet again the next day for more games. Ethan forgot about his lost ball and went home happy.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "a: What material was the ball Ethan lost? The answer for this is an adjective describing a word used to describe a specific material. In the text above, that material was rubber, but using this descriptive adjective should show that fact more clearly.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -4.4980788230896
+            },
+            {
+              "token": ":",
+              "logprob": -3.325371742248535
+            },
+            {
+              "token": " What",
+              "logprob": -4.254556655883789
+            },
+            {
+              "token": " material",
+              "logprob": -0.166476309299469
+            },
+            {
+              "token": " was",
+              "logprob": -0.15339136123657227
+            },
+            {
+              "token": " the",
+              "logprob": -0.037802111357450485
+            },
+            {
+              "token": " ball",
+              "logprob": -0.046289730817079544
+            },
+            {
+              "token": " Ethan",
+              "logprob": -0.28019005060195923
+            },
+            {
+              "token": " lost",
+              "logprob": -0.01806602254509926
+            },
+            {
+              "token": "?",
+              "logprob": -0.1404491513967514
+            },
+            {
+              "token": " The",
+              "logprob": -1.8189431428909302
+            },
+            {
+              "token": " answer",
+              "logprob": -3.2799463272094727
+            },
+            {
+              "token": " for",
+              "logprob": -3.6237802505493164
+            },
+            {
+              "token": " this",
+              "logprob": -0.39439621567726135
+            },
+            {
+              "token": " is",
+              "logprob": -3.363314151763916
+            },
+            {
+              "token": " an",
+              "logprob": -4.607090950012207
+            },
+            {
+              "token": " adjective",
+              "logprob": -3.0275111198425293
+            },
+            {
+              "token": " describing",
+              "logprob": -2.9745235443115234
+            },
+            {
+              "token": " a",
+              "logprob": -1.9767355918884277
+            },
+            {
+              "token": " word",
+              "logprob": -3.813885450363159
+            },
+            {
+              "token": " used",
+              "logprob": -3.7192559242248535
+            },
+            {
+              "token": " to",
+              "logprob": -1.0113497972488403
+            },
+            {
+              "token": " describe",
+              "logprob": -0.23547489941120148
+            },
+            {
+              "token": " a",
+              "logprob": -1.481518268585205
+            },
+            {
+              "token": " specific",
+              "logprob": -3.950211763381958
+            },
+            {
+              "token": " material",
+              "logprob": -2.016921043395996
+            },
+            {
+              "token": ".",
+              "logprob": -0.7277919054031372
+            },
+            {
+              "token": " In",
+              "logprob": -3.670219898223877
+            },
+            {
+              "token": " the",
+              "logprob": -2.71947979927063
+            },
+            {
+              "token": " text",
+              "logprob": -4.462813377380371
+            },
+            {
+              "token": " above",
+              "logprob": -3.0676474571228027
+            },
+            {
+              "token": ",",
+              "logprob": -0.43639251589775085
+            },
+            {
+              "token": " that",
+              "logprob": -4.2549614906311035
+            },
+            {
+              "token": " material",
+              "logprob": -0.6794115900993347
+            },
+            {
+              "token": " was",
+              "logprob": -1.3898369073867798
+            },
+            {
+              "token": " rubber",
+              "logprob": -1.5053635835647583
+            },
+            {
+              "token": ",",
+              "logprob": -3.202303647994995
+            },
+            {
+              "token": " but",
+              "logprob": -2.824880599975586
+            },
+            {
+              "token": " using",
+              "logprob": -5.20363712310791
+            },
+            {
+              "token": " this",
+              "logprob": -2.5450034141540527
+            },
+            {
+              "token": " descriptive",
+              "logprob": -5.021402835845947
+            },
+            {
+              "token": " adjective",
+              "logprob": -0.8512222766876221
+            },
+            {
+              "token": " should",
+              "logprob": -4.291049003601074
+            },
+            {
+              "token": " show",
+              "logprob": -4.329143524169922
+            },
+            {
+              "token": " that",
+              "logprob": -1.7235404253005981
+            },
+            {
+              "token": " fact",
+              "logprob": -4.087178707122803
+            },
+            {
+              "token": " more",
+              "logprob": -3.9224367141723633
+            },
+            {
+              "token": " clearly",
+              "logprob": -0.42995473742485046
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.224944829940796
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The answer to this question would be very interesting if I asked a group of parents to estimate the percent of grade school students in a given year who misplace their balls. It’s kind of like saying, “Do you think I will bring a flashlight and two weeks worth of milk?”, which might cause more trouble than good.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.63327956199646
+            },
+            {
+              "token": " answer",
+              "logprob": -2.8845977783203125
+            },
+            {
+              "token": " to",
+              "logprob": -1.832872986793518
+            },
+            {
+              "token": " this",
+              "logprob": -0.20837970077991486
+            },
+            {
+              "token": " question",
+              "logprob": -0.2027890384197235
+            },
+            {
+              "token": " would",
+              "logprob": -3.39492130279541
+            },
+            {
+              "token": " be",
+              "logprob": -0.5171683430671692
+            },
+            {
+              "token": " very",
+              "logprob": -4.591498851776123
+            },
+            {
+              "token": " interesting",
+              "logprob": -3.8630714416503906
+            },
+            {
+              "token": " if",
+              "logprob": -3.576101303100586
+            },
+            {
+              "token": " I",
+              "logprob": -3.49868106842041
+            },
+            {
+              "token": " asked",
+              "logprob": -4.776878356933594
+            },
+            {
+              "token": " a",
+              "logprob": -2.775211811065674
+            },
+            {
+              "token": " group",
+              "logprob": -2.9478797912597656
+            },
+            {
+              "token": " of",
+              "logprob": -0.11124952882528305
+            },
+            {
+              "token": " parents",
+              "logprob": -3.561998128890991
+            },
+            {
+              "token": " to",
+              "logprob": -2.4267544746398926
+            },
+            {
+              "token": " estimate",
+              "logprob": -4.124995231628418
+            },
+            {
+              "token": " the",
+              "logprob": -0.6917450428009033
+            },
+            {
+              "token": " percent",
+              "logprob": -4.146002769470215
+            },
+            {
+              "token": " of",
+              "logprob": -0.13351693749427795
+            },
+            {
+              "token": " grade",
+              "logprob": -5.015470504760742
+            },
+            {
+              "token": " school",
+              "logprob": -0.3902048170566559
+            },
+            {
+              "token": " students",
+              "logprob": -2.1276865005493164
+            },
+            {
+              "token": " in",
+              "logprob": -3.2828643321990967
+            },
+            {
+              "token": " a",
+              "logprob": -3.2004470825195312
+            },
+            {
+              "token": " given",
+              "logprob": -2.5333871841430664
+            },
+            {
+              "token": " year",
+              "logprob": -2.531181573867798
+            },
+            {
+              "token": " who",
+              "logprob": -0.5931957960128784
+            },
+            {
+              "token": " mis",
+              "logprob": -5.048165321350098
+            },
+            {
+              "token": "place",
+              "logprob": -0.05214674770832062
+            },
+            {
+              "token": " their",
+              "logprob": -0.7309553623199463
+            },
+            {
+              "token": " balls",
+              "logprob": -2.125333547592163
+            },
+            {
+              "token": ".",
+              "logprob": -0.5526919960975647
+            },
+            {
+              "token": " It",
+              "logprob": -3.219784736633301
+            },
+            {
+              "token": "’s",
+              "logprob": -2.4929165840148926
+            },
+            {
+              "token": " kind",
+              "logprob": -5.063056945800781
+            },
+            {
+              "token": " of",
+              "logprob": -0.007815850898623466
+            },
+            {
+              "token": " like",
+              "logprob": -0.39248645305633545
+            },
+            {
+              "token": " saying",
+              "logprob": -3.584705352783203
+            },
+            {
+              "token": ",",
+              "logprob": -2.023717164993286
+            },
+            {
+              "token": " “",
+              "logprob": -0.6636975407600403
+            },
+            {
+              "token": "Do",
+              "logprob": -3.884697914123535
+            },
+            {
+              "token": " you",
+              "logprob": -0.31151485443115234
+            },
+            {
+              "token": " think",
+              "logprob": -0.6142538189888
+            },
+            {
+              "token": " I",
+              "logprob": -2.6171059608459473
+            },
+            {
+              "token": " will",
+              "logprob": -4.446446895599365
+            },
+            {
+              "token": " bring",
+              "logprob": -5.123307228088379
+            },
+            {
+              "token": " a",
+              "logprob": -2.081239700317383
+            },
+            {
+              "token": " flashlight",
+              "logprob": -5.046604633331299
+            },
+            {
+              "token": " and",
+              "logprob": -2.7863378524780273
+            },
+            {
+              "token": " two",
+              "logprob": -5.336405277252197
+            },
+            {
+              "token": " weeks",
+              "logprob": -4.834923267364502
+            },
+            {
+              "token": " worth",
+              "logprob": -2.42231822013855
+            },
+            {
+              "token": " of",
+              "logprob": -0.013770107179880142
+            },
+            {
+              "token": " milk",
+              "logprob": -3.8263039588928223
+            },
+            {
+              "token": "?",
+              "logprob": -3.0364091396331787
+            },
+            {
+              "token": "”,",
+              "logprob": -2.871108293533325
+            },
+            {
+              "token": " which",
+              "logprob": -2.284468173980713
+            },
+            {
+              "token": " might",
+              "logprob": -3.6836211681365967
+            },
+            {
+              "token": " cause",
+              "logprob": -4.09208345413208
+            },
+            {
+              "token": " more",
+              "logprob": -4.663740158081055
+            },
+            {
+              "token": " trouble",
+              "logprob": -2.886837959289551
+            },
+            {
+              "token": " than",
+              "logprob": -0.15058425068855286
+            },
+            {
+              "token": " good",
+              "logprob": -2.4751338958740234
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.651703119277954
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "a. a ball that was red b. A Red ball c. an expensive ball d. rubber Ball",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -4.497356414794922
+            },
+            {
+              "token": ".",
+              "logprob": -2.788745641708374
+            },
+            {
+              "token": " a",
+              "logprob": -2.313088893890381
+            },
+            {
+              "token": " ball",
+              "logprob": -3.6057024002075195
+            },
+            {
+              "token": " that",
+              "logprob": -4.17110013961792
+            },
+            {
+              "token": " was",
+              "logprob": -0.7466935515403748
+            },
+            {
+              "token": " red",
+              "logprob": -2.64218807220459
+            },
+            {
+              "token": " b",
+              "logprob": -1.2594597339630127
+            },
+            {
+              "token": ".",
+              "logprob": -0.05510593205690384
+            },
+            {
+              "token": " A",
+              "logprob": -3.8406972885131836
+            },
+            {
+              "token": " Red",
+              "logprob": -4.280609607696533
+            },
+            {
+              "token": " ball",
+              "logprob": -1.4535067081451416
+            },
+            {
+              "token": " c",
+              "logprob": -0.330051451921463
+            },
+            {
+              "token": ".",
+              "logprob": -0.03801834583282471
+            },
+            {
+              "token": " an",
+              "logprob": -5.020271301269531
+            },
+            {
+              "token": " expensive",
+              "logprob": -4.671777725219727
+            },
+            {
+              "token": " ball",
+              "logprob": -0.9167889952659607
+            },
+            {
+              "token": " d",
+              "logprob": -0.3603217601776123
+            },
+            {
+              "token": ".",
+              "logprob": -0.027158981189131737
+            },
+            {
+              "token": " rubber",
+              "logprob": -3.4585485458374023
+            },
+            {
+              "token": " Ball",
+              "logprob": -4.023982048034668
+            },
+            {
+              "token": "\n",
+              "logprob": -2.2334413528442383
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The answer should include one whole sentence about what material the ball is and that it is red. The sentence you write does not have to contain all the words in the question; but at least 7 words.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.63327956199646
+            },
+            {
+              "token": " answer",
+              "logprob": -2.8845977783203125
+            },
+            {
+              "token": " should",
+              "logprob": -2.024609088897705
+            },
+            {
+              "token": " include",
+              "logprob": -3.309709072113037
+            },
+            {
+              "token": " one",
+              "logprob": -2.5078577995300293
+            },
+            {
+              "token": " whole",
+              "logprob": -1.891499400138855
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.2455306351184845
+            },
+            {
+              "token": " about",
+              "logprob": -3.3927454948425293
+            },
+            {
+              "token": " what",
+              "logprob": -2.0649709701538086
+            },
+            {
+              "token": " material",
+              "logprob": -0.5079817175865173
+            },
+            {
+              "token": " the",
+              "logprob": -0.3953665494918823
+            },
+            {
+              "token": " ball",
+              "logprob": -0.13710074126720428
+            },
+            {
+              "token": " is",
+              "logprob": -2.5479705333709717
+            },
+            {
+              "token": " and",
+              "logprob": -3.376953601837158
+            },
+            {
+              "token": " that",
+              "logprob": -2.9091429710388184
+            },
+            {
+              "token": " it",
+              "logprob": -1.0494036674499512
+            },
+            {
+              "token": " is",
+              "logprob": -1.1183061599731445
+            },
+            {
+              "token": " red",
+              "logprob": -3.5231306552886963
+            },
+            {
+              "token": ".",
+              "logprob": -0.41582441329956055
+            },
+            {
+              "token": " The",
+              "logprob": -2.2191171646118164
+            },
+            {
+              "token": " sentence",
+              "logprob": -2.476637840270996
+            },
+            {
+              "token": " you",
+              "logprob": -3.8981285095214844
+            },
+            {
+              "token": " write",
+              "logprob": -1.1432832479476929
+            },
+            {
+              "token": " does",
+              "logprob": -4.5051069259643555
+            },
+            {
+              "token": " not",
+              "logprob": -0.082573302090168
+            },
+            {
+              "token": " have",
+              "logprob": -0.8612244129180908
+            },
+            {
+              "token": " to",
+              "logprob": -0.01815054565668106
+            },
+            {
+              "token": " contain",
+              "logprob": -3.630290985107422
+            },
+            {
+              "token": " all",
+              "logprob": -1.9393155574798584
+            },
+            {
+              "token": " the",
+              "logprob": -0.6500229835510254
+            },
+            {
+              "token": " words",
+              "logprob": -2.025028705596924
+            },
+            {
+              "token": " in",
+              "logprob": -0.9365719556808472
+            },
+            {
+              "token": " the",
+              "logprob": -0.3815244734287262
+            },
+            {
+              "token": " question",
+              "logprob": -1.5043270587921143
+            },
+            {
+              "token": ";",
+              "logprob": -4.177762031555176
+            },
+            {
+              "token": " but",
+              "logprob": -4.062392234802246
+            },
+            {
+              "token": " at",
+              "logprob": -4.750645637512207
+            },
+            {
+              "token": " least",
+              "logprob": -0.16003680229187012
+            },
+            {
+              "token": " ",
+              "logprob": -2.3738293647766113
+            },
+            {
+              "token": "7",
+              "logprob": -3.9170169830322266
+            },
+            {
+              "token": " words",
+              "logprob": -1.478821039199829
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.8690123558044434
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.56406569480896
+            },
+            {
+              "token": ":",
+              "logprob": -0.2632751166820526
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Latex: red ball",
+          "token_data": [
+            {
+              "token": " Lat",
+              "logprob": -4.582798004150391
+            },
+            {
+              "token": "ex",
+              "logprob": -0.020301060751080513
+            },
+            {
+              "token": ":",
+              "logprob": -4.704255104064941
+            },
+            {
+              "token": " red",
+              "logprob": -4.372134208679199
+            },
+            {
+              "token": " ball",
+              "logprob": -2.4471797943115234
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.056272268295288
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A:",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.731107473373413
+            },
+            {
+              "token": ":",
+              "logprob": -2.6071271896362305
+            },
+            {
+              "token": " \n",
+              "logprob": -4.109616279602051
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "a rubber ball.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -4.497356414794922
+            },
+            {
+              "token": " rubber",
+              "logprob": -2.0047643184661865
+            },
+            {
+              "token": " ball",
+              "logprob": -0.1108265295624733
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.219543933868408
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.8277604579925537
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Red Rubber Ball.",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.79988169670105
+            },
+            {
+              "token": " Rubber",
+              "logprob": -2.2267115116119385
+            },
+            {
+              "token": " Ball",
+              "logprob": -0.8017331957817078
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.081206798553467
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What material was the ball Abigail lost?",
+      "character": "Abigail",
+      "story": "Ethan and Abigail were playing in the park one sunny afternoon. Ethan brought his favorite red rubber ball to bounce and roll around. He threw it gently, and it landed near Abigail, who picked it up and handed it back with a smile. Ethan threw the ball again, but this time it bounced too high and rolled into a bush. He ran to find it, but the ball was gone. Ethan lost a rubber ball. He felt sad because it was his only one. Abigail saw his frown and tried to cheer him up. \"Let’s play tag instead!\" she said. Ethan nodded, and soon they were running and laughing together. Even though he missed his ball, Ethan realized playing with Abigail was just as fun. They stayed at the park until the sun began to set, promising to meet again the next day for more games. Ethan forgot about his lost ball and went home happy.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A Rubber Ball.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.41070818901062
+            },
+            {
+              "token": " Rubber",
+              "logprob": -4.007154941558838
+            },
+            {
+              "token": " Ball",
+              "logprob": -0.057070985436439514
+            },
+            {
+              "token": ".",
+              "logprob": -1.690291166305542
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "What material did Abigail lose?  What material is it made out of?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.1821751594543457
+            },
+            {
+              "token": " material",
+              "logprob": -0.1512700617313385
+            },
+            {
+              "token": " did",
+              "logprob": -2.565995454788208
+            },
+            {
+              "token": " Ab",
+              "logprob": -1.5939104557037354
+            },
+            {
+              "token": "igail",
+              "logprob": -0.01727580465376377
+            },
+            {
+              "token": " lose",
+              "logprob": -0.5181488394737244
+            },
+            {
+              "token": "?",
+              "logprob": -0.4017298221588135
+            },
+            {
+              "token": " ",
+              "logprob": -3.339137554168701
+            },
+            {
+              "token": " What",
+              "logprob": -3.2421860694885254
+            },
+            {
+              "token": " material",
+              "logprob": -0.1411173939704895
+            },
+            {
+              "token": " is",
+              "logprob": -3.5974738597869873
+            },
+            {
+              "token": " it",
+              "logprob": -2.7847206592559814
+            },
+            {
+              "token": " made",
+              "logprob": -1.0112673044204712
+            },
+            {
+              "token": " out",
+              "logprob": -1.6781708002090454
+            },
+            {
+              "token": " of",
+              "logprob": -0.04094703495502472
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -3.1592283248901367
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "None",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -4.08651876449585
+            },
+            {
+              "token": " \n",
+              "logprob": -3.9854440689086914
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "What material was the ball? - Abigail lost a ball, a red rubber ball. She threw it gently, but this time it bounced too high and rolled into a bush. He felt sad because it was his only one.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.1821751594543457
+            },
+            {
+              "token": " material",
+              "logprob": -0.1512700617313385
+            },
+            {
+              "token": " was",
+              "logprob": -0.30909475684165955
+            },
+            {
+              "token": " the",
+              "logprob": -0.08414856344461441
+            },
+            {
+              "token": " ball",
+              "logprob": -0.08937310427427292
+            },
+            {
+              "token": "?",
+              "logprob": -2.1016273498535156
+            },
+            {
+              "token": " -",
+              "logprob": -4.7400031089782715
+            },
+            {
+              "token": " Ab",
+              "logprob": -4.180988311767578
+            },
+            {
+              "token": "igail",
+              "logprob": -0.048303283751010895
+            },
+            {
+              "token": " lost",
+              "logprob": -0.9245750308036804
+            },
+            {
+              "token": " a",
+              "logprob": -0.4009178578853607
+            },
+            {
+              "token": " ball",
+              "logprob": -1.335815191268921
+            },
+            {
+              "token": ",",
+              "logprob": -2.759003162384033
+            },
+            {
+              "token": " a",
+              "logprob": -2.5463342666625977
+            },
+            {
+              "token": " red",
+              "logprob": -1.007107138633728
+            },
+            {
+              "token": " rubber",
+              "logprob": -1.3562397956848145
+            },
+            {
+              "token": " ball",
+              "logprob": -0.09954571723937988
+            },
+            {
+              "token": ".",
+              "logprob": -0.37097451090812683
+            },
+            {
+              "token": " She",
+              "logprob": -4.157610893249512
+            },
+            {
+              "token": " threw",
+              "logprob": -3.0556368827819824
+            },
+            {
+              "token": " it",
+              "logprob": -0.1651056706905365
+            },
+            {
+              "token": " gently",
+              "logprob": -0.3314129710197449
+            },
+            {
+              "token": ",",
+              "logprob": -0.2568717896938324
+            },
+            {
+              "token": " but",
+              "logprob": -2.7346434593200684
+            },
+            {
+              "token": " this",
+              "logprob": -2.743380546569824
+            },
+            {
+              "token": " time",
+              "logprob": -0.029918072745203972
+            },
+            {
+              "token": " it",
+              "logprob": -0.17131856083869934
+            },
+            {
+              "token": " bounced",
+              "logprob": -0.1418713629245758
+            },
+            {
+              "token": " too",
+              "logprob": -0.09252256155014038
+            },
+            {
+              "token": " high",
+              "logprob": -0.004651440307497978
+            },
+            {
+              "token": " and",
+              "logprob": -0.12610682845115662
+            },
+            {
+              "token": " rolled",
+              "logprob": -0.05278676003217697
+            },
+            {
+              "token": " into",
+              "logprob": -0.03957904502749443
+            },
+            {
+              "token": " a",
+              "logprob": -0.035117894411087036
+            },
+            {
+              "token": " bush",
+              "logprob": -0.0076151080429553986
+            },
+            {
+              "token": ".",
+              "logprob": -0.081184521317482
+            },
+            {
+              "token": " He",
+              "logprob": -0.8835797905921936
+            },
+            {
+              "token": " felt",
+              "logprob": -2.543195962905884
+            },
+            {
+              "token": " sad",
+              "logprob": -0.0165040772408247
+            },
+            {
+              "token": " because",
+              "logprob": -0.10768451541662216
+            },
+            {
+              "token": " it",
+              "logprob": -0.05720733106136322
+            },
+            {
+              "token": " was",
+              "logprob": -0.011092898435890675
+            },
+            {
+              "token": " his",
+              "logprob": -0.016763418912887573
+            },
+            {
+              "token": " only",
+              "logprob": -0.025572489947080612
+            },
+            {
+              "token": " one",
+              "logprob": -0.019468534737825394
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.744231939315796
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Rubber",
+          "token_data": [
+            {
+              "token": " Rubber",
+              "logprob": -3.2752232551574707
+            },
+            {
+              "token": "\n",
+              "logprob": -2.3811869621276855
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "rubber B: wool C: metal",
+          "token_data": [
+            {
+              "token": " rubber",
+              "logprob": -3.8800148963928223
+            },
+            {
+              "token": " B",
+              "logprob": -2.584346294403076
+            },
+            {
+              "token": ":",
+              "logprob": -0.031301066279411316
+            },
+            {
+              "token": " wool",
+              "logprob": -4.669877052307129
+            },
+            {
+              "token": " C",
+              "logprob": -0.07053052634000778
+            },
+            {
+              "token": ":",
+              "logprob": -0.012890464626252651
+            },
+            {
+              "token": " metal",
+              "logprob": -3.2730391025543213
+            },
+            {
+              "token": " \n",
+              "logprob": -3.24642276763916
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.5993943214416504
+            },
+            {
+              "token": " using",
+              "logprob": -0.4198134243488312
+            },
+            {
+              "token": " one",
+              "logprob": -0.20406673848628998
+            },
+            {
+              "token": " whole",
+              "logprob": -0.15181700885295868
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.2803047299385071
+            },
+            {
+              "token": ".",
+              "logprob": -0.38605690002441406
+            },
+            {
+              "token": " \n",
+              "logprob": -1.1931874752044678
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "The ball Abigail lost was rubber. It had gotten the chance to roll and bounce, as well as thrown at it by Ethan, before finally falling into a bush.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.8530640602111816
+            },
+            {
+              "token": " ball",
+              "logprob": -0.4782567620277405
+            },
+            {
+              "token": " Ab",
+              "logprob": -1.6161484718322754
+            },
+            {
+              "token": "igail",
+              "logprob": -0.005744732450693846
+            },
+            {
+              "token": " lost",
+              "logprob": -0.05814412608742714
+            },
+            {
+              "token": " was",
+              "logprob": -0.20265111327171326
+            },
+            {
+              "token": " rubber",
+              "logprob": -3.3849377632141113
+            },
+            {
+              "token": ".",
+              "logprob": -0.39247533679008484
+            },
+            {
+              "token": " It",
+              "logprob": -2.7535171508789062
+            },
+            {
+              "token": " had",
+              "logprob": -3.861090660095215
+            },
+            {
+              "token": " gotten",
+              "logprob": -3.633425712585449
+            },
+            {
+              "token": " the",
+              "logprob": -4.254870414733887
+            },
+            {
+              "token": " chance",
+              "logprob": -4.774981498718262
+            },
+            {
+              "token": " to",
+              "logprob": -0.0638614222407341
+            },
+            {
+              "token": " roll",
+              "logprob": -1.9321653842926025
+            },
+            {
+              "token": " and",
+              "logprob": -2.5426981449127197
+            },
+            {
+              "token": " bounce",
+              "logprob": -0.25393083691596985
+            },
+            {
+              "token": ",",
+              "logprob": -2.8576622009277344
+            },
+            {
+              "token": " as",
+              "logprob": -3.4253740310668945
+            },
+            {
+              "token": " well",
+              "logprob": -0.8183062076568604
+            },
+            {
+              "token": " as",
+              "logprob": -0.032231274992227554
+            },
+            {
+              "token": " thrown",
+              "logprob": -4.992450714111328
+            },
+            {
+              "token": " at",
+              "logprob": -4.94600772857666
+            },
+            {
+              "token": " it",
+              "logprob": -4.735374450683594
+            },
+            {
+              "token": " by",
+              "logprob": -2.5325663089752197
+            },
+            {
+              "token": " Ethan",
+              "logprob": -1.08393394947052
+            },
+            {
+              "token": ",",
+              "logprob": -2.392533302307129
+            },
+            {
+              "token": " before",
+              "logprob": -3.4572572708129883
+            },
+            {
+              "token": " finally",
+              "logprob": -4.38560152053833
+            },
+            {
+              "token": " falling",
+              "logprob": -3.2172200679779053
+            },
+            {
+              "token": " into",
+              "logprob": -1.0223724842071533
+            },
+            {
+              "token": " a",
+              "logprob": -0.3289790749549866
+            },
+            {
+              "token": " bush",
+              "logprob": -0.08173559606075287
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.0983240604400635
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Red",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -3.142406940460205
+            },
+            {
+              "token": " \n",
+              "logprob": -3.905120372772217
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "What material was the ball made out of?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.1821751594543457
+            },
+            {
+              "token": " material",
+              "logprob": -0.1512700617313385
+            },
+            {
+              "token": " was",
+              "logprob": -0.30909475684165955
+            },
+            {
+              "token": " the",
+              "logprob": -0.08414856344461441
+            },
+            {
+              "token": " ball",
+              "logprob": -0.08937310427427292
+            },
+            {
+              "token": " made",
+              "logprob": -3.05141544342041
+            },
+            {
+              "token": " out",
+              "logprob": -1.3897395133972168
+            },
+            {
+              "token": " of",
+              "logprob": -0.03950352966785431
+            },
+            {
+              "token": "?",
+              "logprob": -0.1515885889530182
+            },
+            {
+              "token": " Q",
+              "logprob": -3.3263940811157227
+            },
+            {
+              "token": ":",
+              "logprob": -0.05670677870512009
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

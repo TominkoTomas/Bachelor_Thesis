@@ -1,0 +1,879 @@
+{
+  "story": "Chloe and Alexander were best friends who loved adventures. One sunny day, they decided to climb a small hill near their town. Chloe brought her sketchbook because she liked drawing places they visited. Alexander packed snacks and a map. When they reached the top, Chloe sat on a rock and looked at the view. She saw a big mountain far away with sharp edges. Chloe sketched a jagged mountain while Alexander checked the map to plan their next trip. Alexander pointed to a forest on the map and said, \"Let’s go here next time!\" Chloe smiled and agreed. They enjoyed their time talking and laughing. When the sun started to set, they packed their things and walked home. Chloe showed Alexander her drawing, and he said it looked great. They couldn’t wait for their next adventure together.",
+  "characters": [
+    {
+      "question": "What was the shape of the mountain Chloe sketched?",
+      "character": "Chloe",
+      "story": "Chloe and Alexander were best friends who loved adventures. One sunny day, they decided to climb a small hill near their town. Chloe brought her sketchbook because she liked drawing places they visited. Alexander packed snacks and a map. When they reached the top, Chloe sat on a rock and looked at the view. She saw a big mountain far away with sharp edges. Chloe sketched a jagged mountain while Alexander checked the map to plan their next trip. Alexander pointed to a forest on the map and said, \"Let’s go here next time!\" Chloe smiled and agreed. They enjoyed their time talking and laughing. When the sun started to set, they packed their things and walked home. Chloe showed Alexander her drawing, and he said it looked great. They couldn’t wait for their next adventure together.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The shape of the mountain was jagged.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.2030189037323
+            },
+            {
+              "token": " shape",
+              "logprob": -1.6178374290466309
+            },
+            {
+              "token": " of",
+              "logprob": -0.05652901902794838
+            },
+            {
+              "token": " the",
+              "logprob": -0.10148974508047104
+            },
+            {
+              "token": " mountain",
+              "logprob": -0.058736249804496765
+            },
+            {
+              "token": " was",
+              "logprob": -1.6028354167938232
+            },
+            {
+              "token": " jag",
+              "logprob": -2.401153087615967
+            },
+            {
+              "token": "ged",
+              "logprob": -0.0021535796113312244
+            },
+            {
+              "token": ".",
+              "logprob": -0.49358928203582764
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -4.5676116943359375
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Mountain.",
+          "token_data": [
+            {
+              "token": " Mountain",
+              "logprob": -3.0524096488952637
+            },
+            {
+              "token": ".",
+              "logprob": -3.0985918045043945
+            },
+            {
+              "token": " \n",
+              "logprob": -2.535339593887329
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Mountain Peak Shape:",
+          "token_data": [
+            {
+              "token": " Mountain",
+              "logprob": -3.0524096488952637
+            },
+            {
+              "token": " Peak",
+              "logprob": -3.620577812194824
+            },
+            {
+              "token": " Shape",
+              "logprob": -1.9666411876678467
+            },
+            {
+              "token": ":\n",
+              "logprob": -3.8424720764160156
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The shape of the mountain Chloe sketched is a .",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.2032227516174316
+            },
+            {
+              "token": " shape",
+              "logprob": -1.6306240558624268
+            },
+            {
+              "token": " of",
+              "logprob": -0.05856188386678696
+            },
+            {
+              "token": " the",
+              "logprob": -0.09946877509355545
+            },
+            {
+              "token": " mountain",
+              "logprob": -0.05932723358273506
+            },
+            {
+              "token": " Chloe",
+              "logprob": -0.5703469514846802
+            },
+            {
+              "token": " sk",
+              "logprob": -0.048951439559459686
+            },
+            {
+              "token": "etched",
+              "logprob": -0.014106796123087406
+            },
+            {
+              "token": " is",
+              "logprob": -1.4755936861038208
+            },
+            {
+              "token": " a",
+              "logprob": -0.7657055258750916
+            },
+            {
+              "token": " .",
+              "logprob": -5.08160924911499
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.4437445402145386
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "A sharp mountain was in the distance.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.5365864038467407
+            },
+            {
+              "token": " sharp",
+              "logprob": -3.120847702026367
+            },
+            {
+              "token": " mountain",
+              "logprob": -1.6344430446624756
+            },
+            {
+              "token": " was",
+              "logprob": -3.88146710395813
+            },
+            {
+              "token": " in",
+              "logprob": -2.666252613067627
+            },
+            {
+              "token": " the",
+              "logprob": -0.3803061544895172
+            },
+            {
+              "token": " distance",
+              "logprob": -0.7906444072723389
+            },
+            {
+              "token": ".",
+              "logprob": -0.4056292176246643
+            },
+            {
+              "token": " Q",
+              "logprob": -1.6688965559005737
+            },
+            {
+              "token": ":",
+              "logprob": -0.01788313314318657
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.008157253265381
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A sharp peak.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.5365864038467407
+            },
+            {
+              "token": " sharp",
+              "logprob": -3.120847702026367
+            },
+            {
+              "token": " peak",
+              "logprob": -3.439216375350952
+            },
+            {
+              "token": ".",
+              "logprob": -0.9829890727996826
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.6743760108947754
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.008157253265381
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "a triangle.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.9792075157165527
+            },
+            {
+              "token": " triangle",
+              "logprob": -2.405989170074463
+            },
+            {
+              "token": ".",
+              "logprob": -1.1584606170654297
+            },
+            {
+              "token": " \n",
+              "logprob": -2.004176139831543
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "C",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.06892728805542
+            },
+            {
+              "token": " C",
+              "logprob": -5.53834342956543
+            },
+            {
+              "token": "\n",
+              "logprob": -3.7488348484039307
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What was the shape of the mountain Alexander sketched?",
+      "character": "Alexander",
+      "story": "Chloe and Alexander were best friends who loved adventures. One sunny day, they decided to climb a small hill near their town. Chloe brought her sketchbook because she liked drawing places they visited. Alexander packed snacks and a map. When they reached the top, Chloe sat on a rock and looked at the view. She saw a big mountain far away with sharp edges. Chloe sketched a jagged mountain while Alexander checked the map to plan their next trip. Alexander pointed to a forest on the map and said, \"Let’s go here next time!\" Chloe smiled and agreed. They enjoyed their time talking and laughing. When the sun started to set, they packed their things and walked home. Chloe showed Alexander her drawing, and he said it looked great. They couldn’t wait for their next adventure together.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "An octopus.",
+          "token_data": [
+            {
+              "token": " An",
+              "logprob": -4.128353595733643
+            },
+            {
+              "token": " oct",
+              "logprob": -3.913984537124634
+            },
+            {
+              "token": "opus",
+              "logprob": -1.7521976232528687
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.105396270751953
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "(mountain shaped) B: None of the above, because mountains don't have the shape of the sketch they are drawn.",
+          "token_data": [
+            {
+              "token": " (",
+              "logprob": -4.519704341888428
+            },
+            {
+              "token": "mount",
+              "logprob": -4.520293235778809
+            },
+            {
+              "token": "ain",
+              "logprob": -0.13513919711112976
+            },
+            {
+              "token": " shaped",
+              "logprob": -4.071791648864746
+            },
+            {
+              "token": ")",
+              "logprob": -0.9928957223892212
+            },
+            {
+              "token": " B",
+              "logprob": -1.8156154155731201
+            },
+            {
+              "token": ":",
+              "logprob": -0.03501211479306221
+            },
+            {
+              "token": " None",
+              "logprob": -3.714204788208008
+            },
+            {
+              "token": " of",
+              "logprob": -0.49643707275390625
+            },
+            {
+              "token": " the",
+              "logprob": -0.12351753562688828
+            },
+            {
+              "token": " above",
+              "logprob": -0.053742729127407074
+            },
+            {
+              "token": ",",
+              "logprob": -3.6961097717285156
+            },
+            {
+              "token": " because",
+              "logprob": -4.033002853393555
+            },
+            {
+              "token": " mountains",
+              "logprob": -3.5437891483306885
+            },
+            {
+              "token": " don",
+              "logprob": -2.544161319732666
+            },
+            {
+              "token": "'t",
+              "logprob": -0.5186724662780762
+            },
+            {
+              "token": " have",
+              "logprob": -0.6114522218704224
+            },
+            {
+              "token": " the",
+              "logprob": -2.6203713417053223
+            },
+            {
+              "token": " shape",
+              "logprob": -1.9057106971740723
+            },
+            {
+              "token": " of",
+              "logprob": -0.22955699265003204
+            },
+            {
+              "token": " the",
+              "logprob": -2.2040371894836426
+            },
+            {
+              "token": " sketch",
+              "logprob": -3.2168023586273193
+            },
+            {
+              "token": " they",
+              "logprob": -4.0208330154418945
+            },
+            {
+              "token": " are",
+              "logprob": -2.3881635665893555
+            },
+            {
+              "token": " drawn",
+              "logprob": -1.946792483329773
+            },
+            {
+              "token": ".",
+              "logprob": -1.053934097290039
+            },
+            {
+              "token": " \n",
+              "logprob": -2.162936210632324
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A jagged peak B: A pointy mountain.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.5899252891540527
+            },
+            {
+              "token": " jag",
+              "logprob": -1.4158252477645874
+            },
+            {
+              "token": "ged",
+              "logprob": -0.010190009139478207
+            },
+            {
+              "token": " peak",
+              "logprob": -2.591463804244995
+            },
+            {
+              "token": " B",
+              "logprob": -2.63779354095459
+            },
+            {
+              "token": ":",
+              "logprob": -0.009306383319199085
+            },
+            {
+              "token": " A",
+              "logprob": -0.1618419736623764
+            },
+            {
+              "token": " point",
+              "logprob": -4.416057586669922
+            },
+            {
+              "token": "y",
+              "logprob": -0.10872931778430939
+            },
+            {
+              "token": " mountain",
+              "logprob": -2.307173013687134
+            },
+            {
+              "token": ".",
+              "logprob": -2.611591339111328
+            },
+            {
+              "token": " \n",
+              "logprob": -2.9683356285095215
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "mountain",
+          "token_data": [
+            {
+              "token": " mountain",
+              "logprob": -3.4114584922790527
+            },
+            {
+              "token": "\n",
+              "logprob": -2.4226152896881104
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The mountain looked like a triangle shape, so he would be the base of a triangle.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.442399501800537
+            },
+            {
+              "token": " mountain",
+              "logprob": -0.559587836265564
+            },
+            {
+              "token": " looked",
+              "logprob": -2.212514877319336
+            },
+            {
+              "token": " like",
+              "logprob": -0.2416706085205078
+            },
+            {
+              "token": " a",
+              "logprob": -0.28964945673942566
+            },
+            {
+              "token": " triangle",
+              "logprob": -2.435969114303589
+            },
+            {
+              "token": " shape",
+              "logprob": -3.324214458465576
+            },
+            {
+              "token": ",",
+              "logprob": -3.0015957355499268
+            },
+            {
+              "token": " so",
+              "logprob": -2.165294885635376
+            },
+            {
+              "token": " he",
+              "logprob": -2.8208017349243164
+            },
+            {
+              "token": " would",
+              "logprob": -3.7553210258483887
+            },
+            {
+              "token": " be",
+              "logprob": -3.5997281074523926
+            },
+            {
+              "token": " the",
+              "logprob": -4.454555988311768
+            },
+            {
+              "token": " base",
+              "logprob": -4.331743240356445
+            },
+            {
+              "token": " of",
+              "logprob": -0.6321637630462646
+            },
+            {
+              "token": " a",
+              "logprob": -1.578310489654541
+            },
+            {
+              "token": " triangle",
+              "logprob": -0.5858729481697083
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.140000581741333
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.355685710906982
+            },
+            {
+              "token": " using",
+              "logprob": -0.6496171951293945
+            },
+            {
+              "token": " one",
+              "logprob": -0.20677486062049866
+            },
+            {
+              "token": " whole",
+              "logprob": -0.12318117171525955
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.12381543964147568
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.77976131439209
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "(1) The jagged mountain shape was the one of a cone. (2) The mountain shape sketched by Alexander was a cone.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.803737163543701
+            },
+            {
+              "token": " (",
+              "logprob": -4.533217906951904
+            },
+            {
+              "token": "1",
+              "logprob": -3.134599447250366
+            },
+            {
+              "token": ")",
+              "logprob": -0.7229037284851074
+            },
+            {
+              "token": " The",
+              "logprob": -3.2142019271850586
+            },
+            {
+              "token": " jag",
+              "logprob": -2.3247392177581787
+            },
+            {
+              "token": "ged",
+              "logprob": -0.013261565938591957
+            },
+            {
+              "token": " mountain",
+              "logprob": -0.37950918078422546
+            },
+            {
+              "token": " shape",
+              "logprob": -3.1082277297973633
+            },
+            {
+              "token": " was",
+              "logprob": -2.200345516204834
+            },
+            {
+              "token": " the",
+              "logprob": -2.0656142234802246
+            },
+            {
+              "token": " one",
+              "logprob": -3.2446813583374023
+            },
+            {
+              "token": " of",
+              "logprob": -3.529277801513672
+            },
+            {
+              "token": " a",
+              "logprob": -1.4625940322875977
+            },
+            {
+              "token": " cone",
+              "logprob": -5.469765663146973
+            },
+            {
+              "token": ".",
+              "logprob": -0.6124480366706848
+            },
+            {
+              "token": " (",
+              "logprob": -1.7652924060821533
+            },
+            {
+              "token": "2",
+              "logprob": -0.17509201169013977
+            },
+            {
+              "token": ")",
+              "logprob": -0.030640214681625366
+            },
+            {
+              "token": " The",
+              "logprob": -0.6460411548614502
+            },
+            {
+              "token": " mountain",
+              "logprob": -1.465883493423462
+            },
+            {
+              "token": " shape",
+              "logprob": -0.275096595287323
+            },
+            {
+              "token": " sk",
+              "logprob": -3.9534192085266113
+            },
+            {
+              "token": "etched",
+              "logprob": -0.00047970228479243815
+            },
+            {
+              "token": " by",
+              "logprob": -0.48115724325180054
+            },
+            {
+              "token": " Alexander",
+              "logprob": -0.0479564405977726
+            },
+            {
+              "token": " was",
+              "logprob": -0.21907740831375122
+            },
+            {
+              "token": " a",
+              "logprob": -0.7213619351387024
+            },
+            {
+              "token": " cone",
+              "logprob": -0.7238430976867676
+            },
+            {
+              "token": ".",
+              "logprob": -0.38166624307632446
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Answer using one sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.355685710906982
+            },
+            {
+              "token": " using",
+              "logprob": -0.6496171951293945
+            },
+            {
+              "token": " one",
+              "logprob": -0.20677486062049866
+            },
+            {
+              "token": " sentence",
+              "logprob": -3.068466901779175
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.3816041946411133
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Mountain shaped with a big triangle on the top of the mountain. B: A triangle, as the peak of a pyramid.",
+          "token_data": [
+            {
+              "token": " Mountain",
+              "logprob": -3.342589855194092
+            },
+            {
+              "token": " shaped",
+              "logprob": -3.8442862033843994
+            },
+            {
+              "token": " with",
+              "logprob": -4.13413667678833
+            },
+            {
+              "token": " a",
+              "logprob": -1.3388781547546387
+            },
+            {
+              "token": " big",
+              "logprob": -3.0662317276000977
+            },
+            {
+              "token": " triangle",
+              "logprob": -3.7948217391967773
+            },
+            {
+              "token": " on",
+              "logprob": -2.0781593322753906
+            },
+            {
+              "token": " the",
+              "logprob": -0.9711891412734985
+            },
+            {
+              "token": " top",
+              "logprob": -0.6381283402442932
+            },
+            {
+              "token": " of",
+              "logprob": -1.8665090799331665
+            },
+            {
+              "token": " the",
+              "logprob": -0.4394998252391815
+            },
+            {
+              "token": " mountain",
+              "logprob": -0.38519740104675293
+            },
+            {
+              "token": ".",
+              "logprob": -0.6654528379440308
+            },
+            {
+              "token": " B",
+              "logprob": -3.4112038612365723
+            },
+            {
+              "token": ":",
+              "logprob": -0.02344575710594654
+            },
+            {
+              "token": " A",
+              "logprob": -2.2466039657592773
+            },
+            {
+              "token": " triangle",
+              "logprob": -2.485933542251587
+            },
+            {
+              "token": ",",
+              "logprob": -4.1193928718566895
+            },
+            {
+              "token": " as",
+              "logprob": -4.2762908935546875
+            },
+            {
+              "token": " the",
+              "logprob": -1.800306797027588
+            },
+            {
+              "token": " peak",
+              "logprob": -2.8368077278137207
+            },
+            {
+              "token": " of",
+              "logprob": -0.4804520606994629
+            },
+            {
+              "token": " a",
+              "logprob": -1.7505323886871338
+            },
+            {
+              "token": " pyramid",
+              "logprob": -3.2658298015594482
+            },
+            {
+              "token": ".",
+              "logprob": -1.0024235248565674
+            },
+            {
+              "token": " \n",
+              "logprob": -2.3289055824279785
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "mountain",
+          "token_data": [
+            {
+              "token": " mountain",
+              "logprob": -3.4114584922790527
+            },
+            {
+              "token": "\n",
+              "logprob": -2.4226152896881104
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

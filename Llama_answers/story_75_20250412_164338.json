@@ -1,0 +1,723 @@
+{
+  "story": "Evelyn and Ava were best friends who loved having picnics together. One sunny afternoon, they packed a basket with sandwiches, fruit, and cookies. Evelyn folded a square napkin and placed it neatly under the plates. Ava spread out the blanket on the grass while Evelyn set up the food. They talked and laughed as they ate, enjoying the warm breeze. After lunch, Ava suggested they play a game of tag. Evelyn agreed, and they ran around the park, dodging trees and giggling. When they got tired, they sat back down on the blanket to rest. Evelyn picked up the napkin and wiped her hands clean. Ava leaned back and looked at the clouds, pointing out funny shapes. As the sun began to set, they packed up their things and walked home, happy after a fun day together. Evelyn carried the basket, and Ava hummed a little tune. They promised to have another picnic soon.",
+  "characters": [
+    {
+      "question": "What shape did Evelyn create with the napkin?",
+      "character": "Evelyn",
+      "story": "Evelyn and Ava were best friends who loved having picnics together. One sunny afternoon, they packed a basket with sandwiches, fruit, and cookies. Evelyn folded a square napkin and placed it neatly under the plates. Ava spread out the blanket on the grass while Evelyn set up the food. They talked and laughed as they ate, enjoying the warm breeze. After lunch, Ava suggested they play a game of tag. Evelyn agreed, and they ran around the park, dodging trees and giggling. When they got tired, they sat back down on the blanket to rest. Evelyn picked up the napkin and wiped her hands clean. Ava leaned back and looked at the clouds, pointing out funny shapes. As the sun began to set, they packed up their things and walked home, happy after a fun day together. Evelyn carried the basket, and Ava hummed a little tune. They promised to have another picnic soon.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The square shape.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.1681246757507324
+            },
+            {
+              "token": " square",
+              "logprob": -2.261131763458252
+            },
+            {
+              "token": " shape",
+              "logprob": -1.7088375091552734
+            },
+            {
+              "token": ".",
+              "logprob": -2.4768714904785156
+            },
+            {
+              "token": " \n",
+              "logprob": -1.464713454246521
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "What was the color of the fruit?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.4802536964416504
+            },
+            {
+              "token": " was",
+              "logprob": -2.9704089164733887
+            },
+            {
+              "token": " the",
+              "logprob": -0.30883970856666565
+            },
+            {
+              "token": " color",
+              "logprob": -4.158323287963867
+            },
+            {
+              "token": " of",
+              "logprob": -0.109193816781044
+            },
+            {
+              "token": " the",
+              "logprob": -0.09648674726486206
+            },
+            {
+              "token": " fruit",
+              "logprob": -4.014246940612793
+            },
+            {
+              "token": "?\n",
+              "logprob": -3.2748570442199707
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "She made the napkin in the shape of a star, or star.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -3.174595355987549
+            },
+            {
+              "token": " made",
+              "logprob": -2.042315721511841
+            },
+            {
+              "token": " the",
+              "logprob": -2.423994779586792
+            },
+            {
+              "token": " nap",
+              "logprob": -0.6644752025604248
+            },
+            {
+              "token": "kin",
+              "logprob": -0.04243770241737366
+            },
+            {
+              "token": " in",
+              "logprob": -2.4444289207458496
+            },
+            {
+              "token": " the",
+              "logprob": -0.6854500770568848
+            },
+            {
+              "token": " shape",
+              "logprob": -0.1251821666955948
+            },
+            {
+              "token": " of",
+              "logprob": -0.028059203177690506
+            },
+            {
+              "token": " a",
+              "logprob": -0.1956419199705124
+            },
+            {
+              "token": " star",
+              "logprob": -3.9115843772888184
+            },
+            {
+              "token": ",",
+              "logprob": -2.482318162918091
+            },
+            {
+              "token": " or",
+              "logprob": -3.314945936203003
+            },
+            {
+              "token": " star",
+              "logprob": -3.6945128440856934
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.0516982078552246
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "square",
+          "token_data": [
+            {
+              "token": " square",
+              "logprob": -2.4514756202697754
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.0060882568359375
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "A square napkin.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.6856846809387207
+            },
+            {
+              "token": " square",
+              "logprob": -0.8550127744674683
+            },
+            {
+              "token": " nap",
+              "logprob": -1.6932837963104248
+            },
+            {
+              "token": "kin",
+              "logprob": -0.02933468483388424
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.4973273277282715
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n\n",
+              "logprob": -4.477884769439697
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n\n",
+              "logprob": -4.477884769439697
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n\n",
+              "logprob": -4.477884769439697
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "A rectangle.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.6856846809387207
+            },
+            {
+              "token": " rectangle",
+              "logprob": -3.3975257873535156
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.5653958320617676
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "a triangle.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.0677847862243652
+            },
+            {
+              "token": " triangle",
+              "logprob": -2.8929200172424316
+            },
+            {
+              "token": ".",
+              "logprob": -1.1101917028427124
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9550992250442505
+            },
+            {
+              "token": ":",
+              "logprob": -0.02393447794020176
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What shape did Ava create with the napkin?",
+      "character": "Ava",
+      "story": "Evelyn and Ava were best friends who loved having picnics together. One sunny afternoon, they packed a basket with sandwiches, fruit, and cookies. Evelyn folded a square napkin and placed it neatly under the plates. Ava spread out the blanket on the grass while Evelyn set up the food. They talked and laughed as they ate, enjoying the warm breeze. After lunch, Ava suggested they play a game of tag. Evelyn agreed, and they ran around the park, dodging trees and giggling. When they got tired, they sat back down on the blanket to rest. Evelyn picked up the napkin and wiped her hands clean. Ava leaned back and looked at the clouds, pointing out funny shapes. As the sun began to set, they packed up their things and walked home, happy after a fun day together. Evelyn carried the basket, and Ava hummed a little tune. They promised to have another picnic soon.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "a star",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.0071287155151367
+            },
+            {
+              "token": " star",
+              "logprob": -3.725037097930908
+            },
+            {
+              "token": " Q",
+              "logprob": -2.559777021408081
+            },
+            {
+              "token": ":",
+              "logprob": -0.04234091937541962
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "A circle.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.5873603820800781
+            },
+            {
+              "token": " circle",
+              "logprob": -2.3109917640686035
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.5331311225891113
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "She was in the form of a heart.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -2.978146553039551
+            },
+            {
+              "token": " was",
+              "logprob": -3.8710858821868896
+            },
+            {
+              "token": " in",
+              "logprob": -4.35750675201416
+            },
+            {
+              "token": " the",
+              "logprob": -0.5336007475852966
+            },
+            {
+              "token": " form",
+              "logprob": -2.812112331390381
+            },
+            {
+              "token": " of",
+              "logprob": -0.08762414753437042
+            },
+            {
+              "token": " a",
+              "logprob": -0.26947009563446045
+            },
+            {
+              "token": " heart",
+              "logprob": -2.9978184700012207
+            },
+            {
+              "token": ".",
+              "logprob": -0.7809491157531738
+            },
+            {
+              "token": " ",
+              "logprob": -3.1194686889648438
+            },
+            {
+              "token": " Q",
+              "logprob": -1.5655518770217896
+            },
+            {
+              "token": ":",
+              "logprob": -0.03889589384198189
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The Napkin was the same size as a picture frame.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.975940704345703
+            },
+            {
+              "token": " Nap",
+              "logprob": -3.6711888313293457
+            },
+            {
+              "token": "kin",
+              "logprob": -0.09418076276779175
+            },
+            {
+              "token": " was",
+              "logprob": -1.3770310878753662
+            },
+            {
+              "token": " the",
+              "logprob": -3.4525856971740723
+            },
+            {
+              "token": " same",
+              "logprob": -2.953213691711426
+            },
+            {
+              "token": " size",
+              "logprob": -1.0240890979766846
+            },
+            {
+              "token": " as",
+              "logprob": -0.8326525092124939
+            },
+            {
+              "token": " a",
+              "logprob": -2.291184425354004
+            },
+            {
+              "token": " picture",
+              "logprob": -4.148013114929199
+            },
+            {
+              "token": " frame",
+              "logprob": -1.3418259620666504
+            },
+            {
+              "token": ".",
+              "logprob": -0.6079679131507874
+            },
+            {
+              "token": " \n",
+              "logprob": -2.1872291564941406
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "square B: rectangle C: a diamond",
+          "token_data": [
+            {
+              "token": " square",
+              "logprob": -2.845083236694336
+            },
+            {
+              "token": " B",
+              "logprob": -4.529229640960693
+            },
+            {
+              "token": ":",
+              "logprob": -0.033762410283088684
+            },
+            {
+              "token": " rectangle",
+              "logprob": -3.2440013885498047
+            },
+            {
+              "token": " C",
+              "logprob": -0.18162815272808075
+            },
+            {
+              "token": ":",
+              "logprob": -0.026657667011022568
+            },
+            {
+              "token": " a",
+              "logprob": -3.7604246139526367
+            },
+            {
+              "token": " diamond",
+              "logprob": -3.447889804840088
+            },
+            {
+              "token": " Q",
+              "logprob": -2.349264621734619
+            },
+            {
+              "token": ":\n",
+              "logprob": -4.492748260498047
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A heart, as Ava looked at her shape with a grin.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.5873603820800781
+            },
+            {
+              "token": " heart",
+              "logprob": -3.311845302581787
+            },
+            {
+              "token": ",",
+              "logprob": -3.182309627532959
+            },
+            {
+              "token": " as",
+              "logprob": -2.696044921875
+            },
+            {
+              "token": " Ava",
+              "logprob": -2.885652780532837
+            },
+            {
+              "token": " looked",
+              "logprob": -4.621088027954102
+            },
+            {
+              "token": " at",
+              "logprob": -0.8017266988754272
+            },
+            {
+              "token": " her",
+              "logprob": -2.359875202178955
+            },
+            {
+              "token": " shape",
+              "logprob": -3.7823729515075684
+            },
+            {
+              "token": " with",
+              "logprob": -2.9335155487060547
+            },
+            {
+              "token": " a",
+              "logprob": -1.530248761177063
+            },
+            {
+              "token": " grin",
+              "logprob": -3.7749838829040527
+            },
+            {
+              "token": ".",
+              "logprob": -1.0769716501235962
+            },
+            {
+              "token": " \n",
+              "logprob": -1.4120283126831055
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A triangle",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.5873603820800781
+            },
+            {
+              "token": " triangle",
+              "logprob": -3.0138840675354004
+            },
+            {
+              "token": "\n",
+              "logprob": -2.642012596130371
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "What color napkin would Evelyn use to protect their friendship?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.9879188537597656
+            },
+            {
+              "token": " color",
+              "logprob": -3.694479465484619
+            },
+            {
+              "token": " nap",
+              "logprob": -1.8302401304244995
+            },
+            {
+              "token": "kin",
+              "logprob": -0.7190205454826355
+            },
+            {
+              "token": " would",
+              "logprob": -3.2612416744232178
+            },
+            {
+              "token": " Evelyn",
+              "logprob": -2.138439178466797
+            },
+            {
+              "token": " use",
+              "logprob": -1.1515896320343018
+            },
+            {
+              "token": " to",
+              "logprob": -0.6318961977958679
+            },
+            {
+              "token": " protect",
+              "logprob": -4.236225128173828
+            },
+            {
+              "token": " their",
+              "logprob": -3.8159048557281494
+            },
+            {
+              "token": " friendship",
+              "logprob": -3.5890884399414062
+            },
+            {
+              "token": "?",
+              "logprob": -0.4726914167404175
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.7426211833953857
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The napkin created a perfect square, making Ava feel as happy as she felt when eating on the blanket.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.975940704345703
+            },
+            {
+              "token": " nap",
+              "logprob": -0.9776730537414551
+            },
+            {
+              "token": "kin",
+              "logprob": -0.013005551882088184
+            },
+            {
+              "token": " created",
+              "logprob": -3.606825828552246
+            },
+            {
+              "token": " a",
+              "logprob": -0.2872496247291565
+            },
+            {
+              "token": " perfect",
+              "logprob": -2.5820374488830566
+            },
+            {
+              "token": " square",
+              "logprob": -0.3617350161075592
+            },
+            {
+              "token": ",",
+              "logprob": -2.8848190307617188
+            },
+            {
+              "token": " making",
+              "logprob": -4.438623428344727
+            },
+            {
+              "token": " Ava",
+              "logprob": -3.5384788513183594
+            },
+            {
+              "token": " feel",
+              "logprob": -2.9688925743103027
+            },
+            {
+              "token": " as",
+              "logprob": -4.156219959259033
+            },
+            {
+              "token": " happy",
+              "logprob": -1.7883775234222412
+            },
+            {
+              "token": " as",
+              "logprob": -0.11211083829402924
+            },
+            {
+              "token": " she",
+              "logprob": -1.9783376455307007
+            },
+            {
+              "token": " felt",
+              "logprob": -2.2037127017974854
+            },
+            {
+              "token": " when",
+              "logprob": -1.7383469343185425
+            },
+            {
+              "token": " eating",
+              "logprob": -3.7045695781707764
+            },
+            {
+              "token": " on",
+              "logprob": -4.010663032531738
+            },
+            {
+              "token": " the",
+              "logprob": -0.5330265760421753
+            },
+            {
+              "token": " blanket",
+              "logprob": -0.279832124710083
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.4342336654663086
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "What did Ava think of?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.9879188537597656
+            },
+            {
+              "token": " did",
+              "logprob": -2.8812413215637207
+            },
+            {
+              "token": " Ava",
+              "logprob": -1.0047966241836548
+            },
+            {
+              "token": " think",
+              "logprob": -4.370532989501953
+            },
+            {
+              "token": " of",
+              "logprob": -1.0816965103149414
+            },
+            {
+              "token": "?\n",
+              "logprob": -3.7762136459350586
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1259 @@
+{
+  "story": "Emma and Abigail were best friends who loved playing together. One day, they decided to explore the old treehouse in Emma’s backyard. The treehouse was fun, but the door squeaked every time they opened or closed it. Emma grabbed a toolbox and found some oil. She oiled the hinges, and just like that, Emma fixed a squeaky door. Abigail clapped and smiled, happy the noise was gone. After that, they played pretend games in the treehouse all afternoon. They imagined they were pirates searching for treasure. Abigail found a wooden stick and called it her magic wand. Emma laughed and pretended to be a dragon. The sun began to set, and they knew it was time to go home. Both girls promised to meet again the next day for more adventures. They waved goodbye, already excited for fun tomorrow. The treehouse was now their special place, thanks to Emma’s quick fix.",
+  "characters": [
+    {
+      "question": "What sound did the door Emma fixed make?",
+      "character": "Emma",
+      "story": "Emma and Abigail were best friends who loved playing together. One day, they decided to explore the old treehouse in Emma’s backyard. The treehouse was fun, but the door squeaked every time they opened or closed it. Emma grabbed a toolbox and found some oil. She oiled the hinges, and just like that, Emma fixed a squeaky door. Abigail clapped and smiled, happy the noise was gone. After that, they played pretend games in the treehouse all afternoon. They imagined they were pirates searching for treasure. Abigail found a wooden stick and called it her magic wand. Emma laughed and pretended to be a dragon. The sun began to set, and they knew it was time to go home. Both girls promised to meet again the next day for more adventures. They waved goodbye, already excited for fun tomorrow. The treehouse was now their special place, thanks to Emma’s quick fix.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "It didn't make any sound at all, which was what the door did. But now that noise is a thing of the past.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.213778495788574
+            },
+            {
+              "token": " didn",
+              "logprob": -2.4540390968322754
+            },
+            {
+              "token": "'t",
+              "logprob": -0.44931694865226746
+            },
+            {
+              "token": " make",
+              "logprob": -0.24761813879013062
+            },
+            {
+              "token": " any",
+              "logprob": -0.781526505947113
+            },
+            {
+              "token": " sound",
+              "logprob": -0.380622923374176
+            },
+            {
+              "token": " at",
+              "logprob": -2.984186887741089
+            },
+            {
+              "token": " all",
+              "logprob": -0.021511917933821678
+            },
+            {
+              "token": ",",
+              "logprob": -2.514575719833374
+            },
+            {
+              "token": " which",
+              "logprob": -3.0021584033966064
+            },
+            {
+              "token": " was",
+              "logprob": -1.7138028144836426
+            },
+            {
+              "token": " what",
+              "logprob": -3.595550060272217
+            },
+            {
+              "token": " the",
+              "logprob": -3.0298805236816406
+            },
+            {
+              "token": " door",
+              "logprob": -1.72992742061615
+            },
+            {
+              "token": " did",
+              "logprob": -1.5423587560653687
+            },
+            {
+              "token": ".",
+              "logprob": -1.7367357015609741
+            },
+            {
+              "token": " But",
+              "logprob": -4.380552291870117
+            },
+            {
+              "token": " now",
+              "logprob": -2.1059436798095703
+            },
+            {
+              "token": " that",
+              "logprob": -2.7460060119628906
+            },
+            {
+              "token": " noise",
+              "logprob": -5.0463690757751465
+            },
+            {
+              "token": " is",
+              "logprob": -0.922565221786499
+            },
+            {
+              "token": " a",
+              "logprob": -3.1461873054504395
+            },
+            {
+              "token": " thing",
+              "logprob": -1.938246250152588
+            },
+            {
+              "token": " of",
+              "logprob": -0.14095206558704376
+            },
+            {
+              "token": " the",
+              "logprob": -0.01387239620089531
+            },
+            {
+              "token": " past",
+              "logprob": -0.01276500802487135
+            },
+            {
+              "token": ".",
+              "logprob": -0.7513433694839478
+            },
+            {
+              "token": " \n",
+              "logprob": -2.1613337993621826
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "none.",
+          "token_data": [
+            {
+              "token": " none",
+              "logprob": -3.958137273788452
+            },
+            {
+              "token": ".",
+              "logprob": -1.845140814781189
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.899646282196045
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "It would now be quiet, but still.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.246872663497925
+            },
+            {
+              "token": " would",
+              "logprob": -3.397226333618164
+            },
+            {
+              "token": " now",
+              "logprob": -3.3816304206848145
+            },
+            {
+              "token": " be",
+              "logprob": -1.408984661102295
+            },
+            {
+              "token": " quiet",
+              "logprob": -1.3730826377868652
+            },
+            {
+              "token": ",",
+              "logprob": -2.074650764465332
+            },
+            {
+              "token": " but",
+              "logprob": -1.8508957624435425
+            },
+            {
+              "token": " still",
+              "logprob": -2.7607200145721436
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.7004029750823975
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "A: nothing B: a little bit louder. C: loud as heck!",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.907330274581909
+            },
+            {
+              "token": ":",
+              "logprob": -3.3575797080993652
+            },
+            {
+              "token": " nothing",
+              "logprob": -4.789923191070557
+            },
+            {
+              "token": " B",
+              "logprob": -3.202235221862793
+            },
+            {
+              "token": ":",
+              "logprob": -0.015344895422458649
+            },
+            {
+              "token": " a",
+              "logprob": -1.5712618827819824
+            },
+            {
+              "token": " little",
+              "logprob": -2.9148082733154297
+            },
+            {
+              "token": " bit",
+              "logprob": -2.5177161693573
+            },
+            {
+              "token": " louder",
+              "logprob": -2.6425578594207764
+            },
+            {
+              "token": ".",
+              "logprob": -2.3877503871917725
+            },
+            {
+              "token": " C",
+              "logprob": -0.4001244604587555
+            },
+            {
+              "token": ":",
+              "logprob": -0.016825662925839424
+            },
+            {
+              "token": " loud",
+              "logprob": -4.679381847381592
+            },
+            {
+              "token": " as",
+              "logprob": -3.053110122680664
+            },
+            {
+              "token": " heck",
+              "logprob": -3.3804306983947754
+            },
+            {
+              "token": "!",
+              "logprob": -2.743117570877075
+            },
+            {
+              "token": " ",
+              "logprob": -3.7742199897766113
+            },
+            {
+              "token": " Q",
+              "logprob": -3.7866973876953125
+            },
+            {
+              "token": ":",
+              "logprob": -0.09125450253486633
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Click.",
+          "token_data": [
+            {
+              "token": " Click",
+              "logprob": -3.7076470851898193
+            },
+            {
+              "token": ".",
+              "logprob": -1.2760812044143677
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8897480368614197
+            },
+            {
+              "token": ":",
+              "logprob": -0.023949261754751205
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.8923919200897217
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "What sound did Emma fix the squeaky door? (One whole sentence)",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.1206510066986084
+            },
+            {
+              "token": " sound",
+              "logprob": -0.20154373347759247
+            },
+            {
+              "token": " did",
+              "logprob": -0.21835525333881378
+            },
+            {
+              "token": " Emma",
+              "logprob": -2.1716980934143066
+            },
+            {
+              "token": " fix",
+              "logprob": -0.6448062658309937
+            },
+            {
+              "token": " the",
+              "logprob": -1.8072340488433838
+            },
+            {
+              "token": " sque",
+              "logprob": -1.9135791063308716
+            },
+            {
+              "token": "aky",
+              "logprob": -0.12049953639507294
+            },
+            {
+              "token": " door",
+              "logprob": -0.033722300082445145
+            },
+            {
+              "token": "?",
+              "logprob": -1.481675148010254
+            },
+            {
+              "token": " (",
+              "logprob": -3.67522931098938
+            },
+            {
+              "token": "One",
+              "logprob": -3.288097858428955
+            },
+            {
+              "token": " whole",
+              "logprob": -0.9099497199058533
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.18404845893383026
+            },
+            {
+              "token": ")",
+              "logprob": -0.9150545597076416
+            },
+            {
+              "token": " \n",
+              "logprob": -1.439693808555603
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "What did Emma fix? A: How do you fix a squeaky door? A: What does oil do to the door hinges?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.1206510066986084
+            },
+            {
+              "token": " did",
+              "logprob": -3.008176803588867
+            },
+            {
+              "token": " Emma",
+              "logprob": -1.1708600521087646
+            },
+            {
+              "token": " fix",
+              "logprob": -1.540745735168457
+            },
+            {
+              "token": "?",
+              "logprob": -0.7021940350532532
+            },
+            {
+              "token": " A",
+              "logprob": -1.7484304904937744
+            },
+            {
+              "token": ":",
+              "logprob": -0.08664745837450027
+            },
+            {
+              "token": " How",
+              "logprob": -3.250509262084961
+            },
+            {
+              "token": " do",
+              "logprob": -3.587409257888794
+            },
+            {
+              "token": " you",
+              "logprob": -0.30322039127349854
+            },
+            {
+              "token": " fix",
+              "logprob": -0.7180076837539673
+            },
+            {
+              "token": " a",
+              "logprob": -0.19536085426807404
+            },
+            {
+              "token": " sque",
+              "logprob": -0.2042464315891266
+            },
+            {
+              "token": "aky",
+              "logprob": -0.017048591747879982
+            },
+            {
+              "token": " door",
+              "logprob": -0.022035637870430946
+            },
+            {
+              "token": "?",
+              "logprob": -0.13579340279102325
+            },
+            {
+              "token": " A",
+              "logprob": -0.2603897452354431
+            },
+            {
+              "token": ":",
+              "logprob": -0.024491365998983383
+            },
+            {
+              "token": " What",
+              "logprob": -0.8244354724884033
+            },
+            {
+              "token": " does",
+              "logprob": -4.254268646240234
+            },
+            {
+              "token": " oil",
+              "logprob": -3.47394061088562
+            },
+            {
+              "token": " do",
+              "logprob": -0.20867495238780975
+            },
+            {
+              "token": " to",
+              "logprob": -1.377565622329712
+            },
+            {
+              "token": " the",
+              "logprob": -2.2813405990600586
+            },
+            {
+              "token": " door",
+              "logprob": -1.7004517316818237
+            },
+            {
+              "token": " hinges",
+              "logprob": -1.001326084136963
+            },
+            {
+              "token": "?\n",
+              "logprob": -3.0604302883148193
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "What sound did the door Emma fix squeaky?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.1206510066986084
+            },
+            {
+              "token": " sound",
+              "logprob": -0.20154373347759247
+            },
+            {
+              "token": " did",
+              "logprob": -0.21835525333881378
+            },
+            {
+              "token": " the",
+              "logprob": -0.25520360469818115
+            },
+            {
+              "token": " door",
+              "logprob": -0.102828249335289
+            },
+            {
+              "token": " Emma",
+              "logprob": -1.4628548622131348
+            },
+            {
+              "token": " fix",
+              "logprob": -0.9690261483192444
+            },
+            {
+              "token": " sque",
+              "logprob": -2.789146900177002
+            },
+            {
+              "token": "aky",
+              "logprob": -1.4419366121292114
+            },
+            {
+              "token": "?",
+              "logprob": -2.1805477142333984
+            },
+            {
+              "token": " \n",
+              "logprob": -2.262880802154541
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Squeaky",
+          "token_data": [
+            {
+              "token": " S",
+              "logprob": -3.9956166744232178
+            },
+            {
+              "token": "que",
+              "logprob": -0.08568939566612244
+            },
+            {
+              "token": "aky",
+              "logprob": -0.2926892936229706
+            },
+            {
+              "token": " \n",
+              "logprob": -3.6382012367248535
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What sound did the door Abigail fixed make?",
+      "character": "Abigail",
+      "story": "Emma and Abigail were best friends who loved playing together. One day, they decided to explore the old treehouse in Emma’s backyard. The treehouse was fun, but the door squeaked every time they opened or closed it. Emma grabbed a toolbox and found some oil. She oiled the hinges, and just like that, Emma fixed a squeaky door. Abigail clapped and smiled, happy the noise was gone. After that, they played pretend games in the treehouse all afternoon. They imagined they were pirates searching for treasure. Abigail found a wooden stick and called it her magic wand. Emma laughed and pretended to be a dragon. The sun began to set, and they knew it was time to go home. Both girls promised to meet again the next day for more adventures. They waved goodbye, already excited for fun tomorrow. The treehouse was now their special place, thanks to Emma’s quick fix.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Click here to print and use in class.",
+          "token_data": [
+            {
+              "token": " Click",
+              "logprob": -3.588071823120117
+            },
+            {
+              "token": " here",
+              "logprob": -3.233664035797119
+            },
+            {
+              "token": " to",
+              "logprob": -0.6351717710494995
+            },
+            {
+              "token": " print",
+              "logprob": -4.8716654777526855
+            },
+            {
+              "token": " and",
+              "logprob": -3.5880937576293945
+            },
+            {
+              "token": " use",
+              "logprob": -3.9232826232910156
+            },
+            {
+              "token": " in",
+              "logprob": -2.7900218963623047
+            },
+            {
+              "token": " class",
+              "logprob": -2.320721387863159
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.726156234741211
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "A loud and clear BANG.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.8917765617370605
+            },
+            {
+              "token": " loud",
+              "logprob": -3.2126712799072266
+            },
+            {
+              "token": " and",
+              "logprob": -3.009042263031006
+            },
+            {
+              "token": " clear",
+              "logprob": -3.9232470989227295
+            },
+            {
+              "token": " B",
+              "logprob": -4.294972896575928
+            },
+            {
+              "token": "ANG",
+              "logprob": -3.1258275508880615
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.4881887435913086
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "answer with 2 complete sentences.",
+          "token_data": [
+            {
+              "token": " answer",
+              "logprob": -5.3441338539123535
+            },
+            {
+              "token": " with",
+              "logprob": -3.4012913703918457
+            },
+            {
+              "token": " ",
+              "logprob": -2.8732423782348633
+            },
+            {
+              "token": "2",
+              "logprob": -1.5068570375442505
+            },
+            {
+              "token": " complete",
+              "logprob": -3.3636622428894043
+            },
+            {
+              "token": " sentences",
+              "logprob": -0.10224327445030212
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.158862829208374
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It squeaked, but it didn’t make it a louder. What would you say? Answer by talking about how to use language is effective for communicating an appropriate tone, and then using that information to develop the next step. (In other words: If we tell a person how you feel about their feelings, they will be happy.)",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.2110133171081543
+            },
+            {
+              "token": " sque",
+              "logprob": -1.5236915349960327
+            },
+            {
+              "token": "aked",
+              "logprob": -0.05986779183149338
+            },
+            {
+              "token": ",",
+              "logprob": -3.5240867137908936
+            },
+            {
+              "token": " but",
+              "logprob": -1.4339077472686768
+            },
+            {
+              "token": " it",
+              "logprob": -1.4584386348724365
+            },
+            {
+              "token": " didn",
+              "logprob": -1.6981903314590454
+            },
+            {
+              "token": "’t",
+              "logprob": -1.0477718114852905
+            },
+            {
+              "token": " make",
+              "logprob": -1.6584962606430054
+            },
+            {
+              "token": " it",
+              "logprob": -2.665097951889038
+            },
+            {
+              "token": " a",
+              "logprob": -3.7311105728149414
+            },
+            {
+              "token": " louder",
+              "logprob": -3.462639808654785
+            },
+            {
+              "token": ".",
+              "logprob": -2.114163637161255
+            },
+            {
+              "token": " What",
+              "logprob": -4.963055610656738
+            },
+            {
+              "token": " would",
+              "logprob": -3.778611660003662
+            },
+            {
+              "token": " you",
+              "logprob": -0.9661132097244263
+            },
+            {
+              "token": " say",
+              "logprob": -2.0518009662628174
+            },
+            {
+              "token": "?",
+              "logprob": -2.1249613761901855
+            },
+            {
+              "token": " Answer",
+              "logprob": -4.238173007965088
+            },
+            {
+              "token": " by",
+              "logprob": -3.206808567047119
+            },
+            {
+              "token": " talking",
+              "logprob": -4.677245140075684
+            },
+            {
+              "token": " about",
+              "logprob": -0.2596410810947418
+            },
+            {
+              "token": " how",
+              "logprob": -2.43215274810791
+            },
+            {
+              "token": " to",
+              "logprob": -2.917658805847168
+            },
+            {
+              "token": " use",
+              "logprob": -3.7060415744781494
+            },
+            {
+              "token": " language",
+              "logprob": -3.52482533454895
+            },
+            {
+              "token": " is",
+              "logprob": -4.827273368835449
+            },
+            {
+              "token": " effective",
+              "logprob": -3.4908814430236816
+            },
+            {
+              "token": " for",
+              "logprob": -2.214193344116211
+            },
+            {
+              "token": " communicating",
+              "logprob": -2.649888038635254
+            },
+            {
+              "token": " an",
+              "logprob": -4.890627861022949
+            },
+            {
+              "token": " appropriate",
+              "logprob": -3.3053159713745117
+            },
+            {
+              "token": " tone",
+              "logprob": -2.644554376602173
+            },
+            {
+              "token": ",",
+              "logprob": -2.3761820793151855
+            },
+            {
+              "token": " and",
+              "logprob": -1.1428062915802002
+            },
+            {
+              "token": " then",
+              "logprob": -3.3721165657043457
+            },
+            {
+              "token": " using",
+              "logprob": -3.797008752822876
+            },
+            {
+              "token": " that",
+              "logprob": -1.990951657295227
+            },
+            {
+              "token": " information",
+              "logprob": -3.5234410762786865
+            },
+            {
+              "token": " to",
+              "logprob": -0.2300254851579666
+            },
+            {
+              "token": " develop",
+              "logprob": -4.834593772888184
+            },
+            {
+              "token": " the",
+              "logprob": -2.256929397583008
+            },
+            {
+              "token": " next",
+              "logprob": -1.9170304536819458
+            },
+            {
+              "token": " step",
+              "logprob": -2.9342117309570312
+            },
+            {
+              "token": ".",
+              "logprob": -1.383859395980835
+            },
+            {
+              "token": " (",
+              "logprob": -3.4523861408233643
+            },
+            {
+              "token": "In",
+              "logprob": -5.119729042053223
+            },
+            {
+              "token": " other",
+              "logprob": -1.8219506740570068
+            },
+            {
+              "token": " words",
+              "logprob": -0.06350550800561905
+            },
+            {
+              "token": ":",
+              "logprob": -2.843744993209839
+            },
+            {
+              "token": " If",
+              "logprob": -3.930986166000366
+            },
+            {
+              "token": " we",
+              "logprob": -4.046292781829834
+            },
+            {
+              "token": " tell",
+              "logprob": -5.2728776931762695
+            },
+            {
+              "token": " a",
+              "logprob": -2.254537582397461
+            },
+            {
+              "token": " person",
+              "logprob": -2.0881240367889404
+            },
+            {
+              "token": " how",
+              "logprob": -3.703738212585449
+            },
+            {
+              "token": " you",
+              "logprob": -3.30715274810791
+            },
+            {
+              "token": " feel",
+              "logprob": -1.5274534225463867
+            },
+            {
+              "token": " about",
+              "logprob": -0.92970871925354
+            },
+            {
+              "token": " their",
+              "logprob": -2.528545379638672
+            },
+            {
+              "token": " feelings",
+              "logprob": -1.8957120180130005
+            },
+            {
+              "token": ",",
+              "logprob": -0.2789444625377655
+            },
+            {
+              "token": " they",
+              "logprob": -0.8931068181991577
+            },
+            {
+              "token": " will",
+              "logprob": -1.0476032495498657
+            },
+            {
+              "token": " be",
+              "logprob": -2.517489194869995
+            },
+            {
+              "token": " happy",
+              "logprob": -1.7108031511306763
+            },
+            {
+              "token": ".",
+              "logprob": -1.7774686813354492
+            },
+            {
+              "token": ")\n\n\n",
+              "logprob": -3.249187707901001
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "\"Shhh!\" - A lot of noise.",
+          "token_data": [
+            {
+              "token": " \"",
+              "logprob": -4.468898296356201
+            },
+            {
+              "token": "Sh",
+              "logprob": -5.284413814544678
+            },
+            {
+              "token": "hh",
+              "logprob": -0.9875649809837341
+            },
+            {
+              "token": "!\"",
+              "logprob": -2.787071466445923
+            },
+            {
+              "token": " -",
+              "logprob": -3.924614429473877
+            },
+            {
+              "token": " A",
+              "logprob": -4.529135704040527
+            },
+            {
+              "token": " lot",
+              "logprob": -4.941654205322266
+            },
+            {
+              "token": " of",
+              "logprob": -0.16380156576633453
+            },
+            {
+              "token": " noise",
+              "logprob": -3.1607818603515625
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.3402719497680664
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The squeaky sound made it harder to open. It did not work, but was funny how loud it was.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.5783143043518066
+            },
+            {
+              "token": " sque",
+              "logprob": -2.569469928741455
+            },
+            {
+              "token": "aky",
+              "logprob": -0.5500202775001526
+            },
+            {
+              "token": " sound",
+              "logprob": -1.582763433456421
+            },
+            {
+              "token": " made",
+              "logprob": -2.3914122581481934
+            },
+            {
+              "token": " it",
+              "logprob": -2.476419687271118
+            },
+            {
+              "token": " harder",
+              "logprob": -3.1401283740997314
+            },
+            {
+              "token": " to",
+              "logprob": -0.5154504776000977
+            },
+            {
+              "token": " open",
+              "logprob": -0.5689882040023804
+            },
+            {
+              "token": ".",
+              "logprob": -3.8188157081604004
+            },
+            {
+              "token": " It",
+              "logprob": -4.019613265991211
+            },
+            {
+              "token": " did",
+              "logprob": -3.9821596145629883
+            },
+            {
+              "token": " not",
+              "logprob": -0.42621302604675293
+            },
+            {
+              "token": " work",
+              "logprob": -3.404834270477295
+            },
+            {
+              "token": ",",
+              "logprob": -4.4980878829956055
+            },
+            {
+              "token": " but",
+              "logprob": -1.2064675092697144
+            },
+            {
+              "token": " was",
+              "logprob": -3.968979835510254
+            },
+            {
+              "token": " funny",
+              "logprob": -4.927504062652588
+            },
+            {
+              "token": " how",
+              "logprob": -4.693703651428223
+            },
+            {
+              "token": " loud",
+              "logprob": -1.226104736328125
+            },
+            {
+              "token": " it",
+              "logprob": -0.3232463300228119
+            },
+            {
+              "token": " was",
+              "logprob": -1.066490888595581
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.9808688163757324
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "the sound did not make a noise anymore, or the door had less squeaks.",
+          "token_data": [
+            {
+              "token": " the",
+              "logprob": -4.64409875869751
+            },
+            {
+              "token": " sound",
+              "logprob": -2.354449987411499
+            },
+            {
+              "token": " did",
+              "logprob": -3.3316988945007324
+            },
+            {
+              "token": " not",
+              "logprob": -0.28507083654403687
+            },
+            {
+              "token": " make",
+              "logprob": -0.2898954153060913
+            },
+            {
+              "token": " a",
+              "logprob": -1.0987846851348877
+            },
+            {
+              "token": " noise",
+              "logprob": -2.381429672241211
+            },
+            {
+              "token": " anymore",
+              "logprob": -3.73592209815979
+            },
+            {
+              "token": ",",
+              "logprob": -2.6540474891662598
+            },
+            {
+              "token": " or",
+              "logprob": -3.793491840362549
+            },
+            {
+              "token": " the",
+              "logprob": -1.7942917346954346
+            },
+            {
+              "token": " door",
+              "logprob": -1.9101245403289795
+            },
+            {
+              "token": " had",
+              "logprob": -4.560089588165283
+            },
+            {
+              "token": " less",
+              "logprob": -4.403558254241943
+            },
+            {
+              "token": " sque",
+              "logprob": -2.4722976684570312
+            },
+            {
+              "token": "aks",
+              "logprob": -1.1267465353012085
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.358598232269287
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.883023738861084
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The door squeaked.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.5783143043518066
+            },
+            {
+              "token": " door",
+              "logprob": -0.8925652503967285
+            },
+            {
+              "token": " sque",
+              "logprob": -2.0077412128448486
+            },
+            {
+              "token": "aked",
+              "logprob": -0.11869454383850098
+            },
+            {
+              "token": ".",
+              "logprob": -0.8898693919181824
+            },
+            {
+              "token": " ",
+              "logprob": -2.9433908462524414
+            },
+            {
+              "token": " Q",
+              "logprob": -1.2398983240127563
+            },
+            {
+              "token": ":",
+              "logprob": -0.036035239696502686
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "A squeak. 2.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.8917765617370605
+            },
+            {
+              "token": " sque",
+              "logprob": -0.73155677318573
+            },
+            {
+              "token": "ak",
+              "logprob": -0.9088724255561829
+            },
+            {
+              "token": ".",
+              "logprob": -1.1808174848556519
+            },
+            {
+              "token": " ",
+              "logprob": -2.989564895629883
+            },
+            {
+              "token": "2",
+              "logprob": -3.083928346633911
+            },
+            {
+              "token": ".",
+              "logprob": -0.7786802053451538
+            },
+            {
+              "token": " \n",
+              "logprob": -3.5646886825561523
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "story": "Wyatt and Alexander were best friends. One sunny day, they decided to spend the afternoon in Wyatt’s backyard. Alexander brought his favorite ball to play catch, while Wyatt set up a small table with paints and paper. \"I want to paint something pretty,\" Wyatt said. Alexander nodded and started tossing his ball in the air. Wyatt dipped his brush into pink paint and carefully stroked the paper. Wyatt painted a pink flower with green leaves. It looked bright and happy, just like the day. Alexander watched the ball fly up and down, not paying much attention to the painting. After a while, Wyatt showed his artwork to Alexander. \"It’s nice,\" Alexander said, then went back to playing with his ball. Wyatt smiled and hung the painting on the fence to dry. The two friends enjoyed the rest of the day together, each doing what they liked best.",
+  "characters": [
+    {
+      "question": "What color was the flower Wyatt painted?",
+      "character": "Wyatt",
+      "story": "Wyatt and Alexander were best friends. One sunny day, they decided to spend the afternoon in Wyatt’s backyard. Alexander brought his favorite ball to play catch, while Wyatt set up a small table with paints and paper. \"I want to paint something pretty,\" Wyatt said. Alexander nodded and started tossing his ball in the air. Wyatt dipped his brush into pink paint and carefully stroked the paper. Wyatt painted a pink flower with green leaves. It looked bright and happy, just like the day. Alexander watched the ball fly up and down, not paying much attention to the painting. After a while, Wyatt showed his artwork to Alexander. \"It’s nice,\" Alexander said, then went back to playing with his ball. Wyatt smiled and hung the painting on the fence to dry. The two friends enjoyed the rest of the day together, each doing what they liked best.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Pink. 2.",
+          "token_data": [
+            {
+              "token": " Pink",
+              "logprob": -1.6509344577789307
+            },
+            {
+              "token": ".",
+              "logprob": -1.4189695119857788
+            },
+            {
+              "token": " ",
+              "logprob": -2.4575483798980713
+            },
+            {
+              "token": "2",
+              "logprob": -3.162040948867798
+            },
+            {
+              "token": ".",
+              "logprob": -0.7340680956840515
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8942760229110718
+            },
+            {
+              "token": ":",
+              "logprob": -0.01943708397448063
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.4863524436950684
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "5 points",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.6734700202941895
+            },
+            {
+              "token": "5",
+              "logprob": -3.9124951362609863
+            },
+            {
+              "token": " points",
+              "logprob": -2.38997745513916
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.3915512561798096
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It was pink.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.9563517570495605
+            },
+            {
+              "token": " was",
+              "logprob": -0.20045256614685059
+            },
+            {
+              "token": " pink",
+              "logprob": -0.7330203056335449
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.0398192405700684
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Red",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.410926342010498
+            },
+            {
+              "token": " \n",
+              "logprob": -3.342963218688965
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "pink B: purple C: blue",
+          "token_data": [
+            {
+              "token": " pink",
+              "logprob": -2.2696900367736816
+            },
+            {
+              "token": " B",
+              "logprob": -3.2929704189300537
+            },
+            {
+              "token": ":",
+              "logprob": -0.018021296709775925
+            },
+            {
+              "token": " purple",
+              "logprob": -2.507343292236328
+            },
+            {
+              "token": " C",
+              "logprob": -0.056689098477363586
+            },
+            {
+              "token": ":",
+              "logprob": -0.009129801765084267
+            },
+            {
+              "token": " blue",
+              "logprob": -1.4502460956573486
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.168687105178833
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Red",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.410926342010498
+            },
+            {
+              "token": " Q",
+              "logprob": -2.646040916442871
+            },
+            {
+              "token": ":",
+              "logprob": -0.020533492788672447
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "What color was the flower? I want to paint something pretty. The two friends enjoyed the rest of the day together, each doing what they like best.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.1008353233337402
+            },
+            {
+              "token": " color",
+              "logprob": -0.12937384843826294
+            },
+            {
+              "token": " was",
+              "logprob": -0.8813861012458801
+            },
+            {
+              "token": " the",
+              "logprob": -0.03191437944769859
+            },
+            {
+              "token": " flower",
+              "logprob": -0.03851892799139023
+            },
+            {
+              "token": "?",
+              "logprob": -2.7290966510772705
+            },
+            {
+              "token": " I",
+              "logprob": -4.124946594238281
+            },
+            {
+              "token": " want",
+              "logprob": -3.157975912094116
+            },
+            {
+              "token": " to",
+              "logprob": -0.017229171469807625
+            },
+            {
+              "token": " paint",
+              "logprob": -0.09538085758686066
+            },
+            {
+              "token": " something",
+              "logprob": -0.27525612711906433
+            },
+            {
+              "token": " pretty",
+              "logprob": -0.2941547632217407
+            },
+            {
+              "token": ".",
+              "logprob": -0.40426379442214966
+            },
+            {
+              "token": " The",
+              "logprob": -3.3692972660064697
+            },
+            {
+              "token": " two",
+              "logprob": -0.926098108291626
+            },
+            {
+              "token": " friends",
+              "logprob": -0.028597809374332428
+            },
+            {
+              "token": " enjoyed",
+              "logprob": -0.08747156709432602
+            },
+            {
+              "token": " the",
+              "logprob": -0.011928417719900608
+            },
+            {
+              "token": " rest",
+              "logprob": -0.021178413182497025
+            },
+            {
+              "token": " of",
+              "logprob": -0.0036963967140764
+            },
+            {
+              "token": " the",
+              "logprob": -0.004908060654997826
+            },
+            {
+              "token": " day",
+              "logprob": -0.010124516673386097
+            },
+            {
+              "token": " together",
+              "logprob": -0.0405881293118
+            },
+            {
+              "token": ",",
+              "logprob": -0.10273434221744537
+            },
+            {
+              "token": " each",
+              "logprob": -0.027300739660859108
+            },
+            {
+              "token": " doing",
+              "logprob": -0.008453892543911934
+            },
+            {
+              "token": " what",
+              "logprob": -0.011735920794308186
+            },
+            {
+              "token": " they",
+              "logprob": -0.047121159732341766
+            },
+            {
+              "token": " like",
+              "logprob": -2.826080322265625
+            },
+            {
+              "token": " best",
+              "logprob": -0.3687288165092468
+            },
+            {
+              "token": ".",
+              "logprob": -0.3934294581413269
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.8046249151229858
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "pink B: white C: red D: green",
+          "token_data": [
+            {
+              "token": " pink",
+              "logprob": -2.2696900367736816
+            },
+            {
+              "token": " B",
+              "logprob": -3.2929704189300537
+            },
+            {
+              "token": ":",
+              "logprob": -0.018021296709775925
+            },
+            {
+              "token": " white",
+              "logprob": -3.621875762939453
+            },
+            {
+              "token": " C",
+              "logprob": -0.0638337954878807
+            },
+            {
+              "token": ":",
+              "logprob": -0.008963938802480698
+            },
+            {
+              "token": " red",
+              "logprob": -2.287860870361328
+            },
+            {
+              "token": " D",
+              "logprob": -0.7636250257492065
+            },
+            {
+              "token": ":",
+              "logprob": -0.011963403783738613
+            },
+            {
+              "token": " green",
+              "logprob": -1.5783576965332031
+            },
+            {
+              "token": " ",
+              "logprob": -2.9185853004455566
+            },
+            {
+              "token": " Q",
+              "logprob": -1.576001763343811
+            },
+            {
+              "token": ":",
+              "logprob": -0.019755158573389053
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Answer should say \"red\"",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.241562366485596
+            },
+            {
+              "token": " should",
+              "logprob": -2.8752152919769287
+            },
+            {
+              "token": " say",
+              "logprob": -2.3567798137664795
+            },
+            {
+              "token": " \"",
+              "logprob": -1.744350790977478
+            },
+            {
+              "token": "red",
+              "logprob": -2.2705423831939697
+            },
+            {
+              "token": "\"\n",
+              "logprob": -2.749133586883545
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What color was the flower Alexander painted?",
+      "character": "Alexander",
+      "story": "Wyatt and Alexander were best friends. One sunny day, they decided to spend the afternoon in Wyatt’s backyard. Alexander brought his favorite ball to play catch, while Wyatt set up a small table with paints and paper. \"I want to paint something pretty,\" Wyatt said. Alexander nodded and started tossing his ball in the air. Wyatt dipped his brush into pink paint and carefully stroked the paper. Wyatt painted a pink flower with green leaves. It looked bright and happy, just like the day. Alexander watched the ball fly up and down, not paying much attention to the painting. After a while, Wyatt showed his artwork to Alexander. \"It’s nice,\" Alexander said, then went back to playing with his ball. Wyatt smiled and hung the painting on the fence to dry. The two friends enjoyed the rest of the day together, each doing what they liked best.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "pink",
+          "token_data": [
+            {
+              "token": " pink",
+              "logprob": -3.489858388900757
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.9822819232940674
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "pink",
+          "token_data": [
+            {
+              "token": " pink",
+              "logprob": -3.5280351638793945
+            },
+            {
+              "token": "\n",
+              "logprob": -2.1260671615600586
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "This question requires information.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.645430564880371
+            },
+            {
+              "token": " This",
+              "logprob": -4.899443626403809
+            },
+            {
+              "token": " question",
+              "logprob": -1.5073643922805786
+            },
+            {
+              "token": " requires",
+              "logprob": -3.0455620288848877
+            },
+            {
+              "token": " information",
+              "logprob": -3.673689365386963
+            },
+            {
+              "token": ".",
+              "logprob": -3.7013370990753174
+            },
+            {
+              "token": " \n",
+              "logprob": -2.076925754547119
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Blue",
+          "token_data": [
+            {
+              "token": " Blue",
+              "logprob": -4.544929504394531
+            },
+            {
+              "token": "\n",
+              "logprob": -2.462705612182617
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The flower that Alexander painted was the same color as the ball he tossed up. He had a little difficulty finding the exact shade of pink that he was looking for.   - This is where we could say,",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.3063011169433594
+            },
+            {
+              "token": " flower",
+              "logprob": -0.26985326409339905
+            },
+            {
+              "token": " that",
+              "logprob": -2.987037181854248
+            },
+            {
+              "token": " Alexander",
+              "logprob": -0.05657149851322174
+            },
+            {
+              "token": " painted",
+              "logprob": -0.02487214095890522
+            },
+            {
+              "token": " was",
+              "logprob": -0.12344567477703094
+            },
+            {
+              "token": " the",
+              "logprob": -4.251989364624023
+            },
+            {
+              "token": " same",
+              "logprob": -2.325514316558838
+            },
+            {
+              "token": " color",
+              "logprob": -0.26291823387145996
+            },
+            {
+              "token": " as",
+              "logprob": -0.19505557417869568
+            },
+            {
+              "token": " the",
+              "logprob": -0.42721468210220337
+            },
+            {
+              "token": " ball",
+              "logprob": -1.5690504312515259
+            },
+            {
+              "token": " he",
+              "logprob": -1.0745930671691895
+            },
+            {
+              "token": " tossed",
+              "logprob": -1.9406194686889648
+            },
+            {
+              "token": " up",
+              "logprob": -1.7470626831054688
+            },
+            {
+              "token": ".",
+              "logprob": -1.9717611074447632
+            },
+            {
+              "token": " He",
+              "logprob": -3.585402011871338
+            },
+            {
+              "token": " had",
+              "logprob": -3.7695891857147217
+            },
+            {
+              "token": " a",
+              "logprob": -1.5584182739257812
+            },
+            {
+              "token": " little",
+              "logprob": -2.127072334289551
+            },
+            {
+              "token": " difficulty",
+              "logprob": -3.0799267292022705
+            },
+            {
+              "token": " finding",
+              "logprob": -2.3235621452331543
+            },
+            {
+              "token": " the",
+              "logprob": -0.5166187286376953
+            },
+            {
+              "token": " exact",
+              "logprob": -2.491332530975342
+            },
+            {
+              "token": " shade",
+              "logprob": -0.7143252491950989
+            },
+            {
+              "token": " of",
+              "logprob": -0.35596731305122375
+            },
+            {
+              "token": " pink",
+              "logprob": -0.3231172263622284
+            },
+            {
+              "token": " that",
+              "logprob": -1.724449634552002
+            },
+            {
+              "token": " he",
+              "logprob": -0.80002760887146
+            },
+            {
+              "token": " was",
+              "logprob": -1.5515421628952026
+            },
+            {
+              "token": " looking",
+              "logprob": -0.2355259358882904
+            },
+            {
+              "token": " for",
+              "logprob": -0.01402110606431961
+            },
+            {
+              "token": ".",
+              "logprob": -0.5258374214172363
+            },
+            {
+              "token": "  ",
+              "logprob": -5.398524284362793
+            },
+            {
+              "token": " -",
+              "logprob": -4.258465766906738
+            },
+            {
+              "token": " This",
+              "logprob": -3.8078718185424805
+            },
+            {
+              "token": " is",
+              "logprob": -0.8668630123138428
+            },
+            {
+              "token": " where",
+              "logprob": -4.864110469818115
+            },
+            {
+              "token": " we",
+              "logprob": -3.581343173980713
+            },
+            {
+              "token": " could",
+              "logprob": -4.568354606628418
+            },
+            {
+              "token": " say",
+              "logprob": -2.920651435852051
+            },
+            {
+              "token": ",",
+              "logprob": -3.668870687484741
+            },
+            {
+              "token": " ",
+              "logprob": -3.8077402114868164
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.6587772369384766
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "red.",
+          "token_data": [
+            {
+              "token": " red",
+              "logprob": -3.1274003982543945
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.450372695922852
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "PINK - It was a shade of pink.",
+          "token_data": [
+            {
+              "token": " P",
+              "logprob": -5.153451919555664
+            },
+            {
+              "token": "INK",
+              "logprob": -0.5899198651313782
+            },
+            {
+              "token": " -",
+              "logprob": -4.488435745239258
+            },
+            {
+              "token": " It",
+              "logprob": -3.1142327785491943
+            },
+            {
+              "token": " was",
+              "logprob": -0.9927763938903809
+            },
+            {
+              "token": " a",
+              "logprob": -0.6695660352706909
+            },
+            {
+              "token": " shade",
+              "logprob": -3.734748125076294
+            },
+            {
+              "token": " of",
+              "logprob": -0.030431512743234634
+            },
+            {
+              "token": " pink",
+              "logprob": -0.38605764508247375
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.2407445907592773
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "green",
+          "token_data": [
+            {
+              "token": " green",
+              "logprob": -3.391482353210449
+            },
+            {
+              "token": " \n",
+              "logprob": -2.9379758834838867
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Green.",
+          "token_data": [
+            {
+              "token": " Green",
+              "logprob": -3.3839025497436523
+            },
+            {
+              "token": ".",
+              "logprob": -1.7137539386749268
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.1881465911865234
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

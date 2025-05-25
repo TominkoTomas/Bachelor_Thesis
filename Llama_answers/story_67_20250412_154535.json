@@ -1,0 +1,967 @@
+{
+  "story": "Ethan and Amelia were walking home from school. The sun was bright, and the sidewalk was cracked. Ethan kicked a dented can that was lying on the ground. It clattered loudly, making Amelia jump. \"Why did you do that?\" she asked. Ethan shrugged. \"I was bored,\" he said. Amelia rolled her eyes but didn’t say anything else. They kept walking until they reached the park. Amelia sat on a bench and took out a book. Ethan picked up a stick and poked at the dirt. After a while, Amelia looked up. \"Do you want to go to the store?\" she asked. Ethan nodded, and they left the park. At the store, Amelia bought a candy bar. Ethan got a soda. They sat outside and ate their snacks. The day was quiet, but neither of them minded. When it was time to go home, they walked side by side, not saying much. The dented can was still on the sidewalk, but this time Ethan left it alone.",
+  "characters": [
+    {
+      "question": "What condition was the can Ethan kicked?",
+      "character": "Ethan",
+      "story": "Ethan and Amelia were walking home from school. The sun was bright, and the sidewalk was cracked. Ethan kicked a dented can that was lying on the ground. It clattered loudly, making Amelia jump. \"Why did you do that?\" she asked. Ethan shrugged. \"I was bored,\" he said. Amelia rolled her eyes but didn’t say anything else. They kept walking until they reached the park. Amelia sat on a bench and took out a book. Ethan picked up a stick and poked at the dirt. After a while, Amelia looked up. \"Do you want to go to the store?\" she asked. Ethan nodded, and they left the park. At the store, Amelia bought a candy bar. Ethan got a soda. They sat outside and ate their snacks. The day was quiet, but neither of them minded. When it was time to go home, they walked side by side, not saying much. The dented can was still on the sidewalk, but this time Ethan left it alone.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A dented can is not allowed by rules.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.394972085952759
+            },
+            {
+              "token": " d",
+              "logprob": -2.3135030269622803
+            },
+            {
+              "token": "ented",
+              "logprob": -0.008504603058099747
+            },
+            {
+              "token": " can",
+              "logprob": -0.12054233253002167
+            },
+            {
+              "token": " is",
+              "logprob": -1.3088220357894897
+            },
+            {
+              "token": " not",
+              "logprob": -2.174129009246826
+            },
+            {
+              "token": " allowed",
+              "logprob": -2.500047206878662
+            },
+            {
+              "token": " by",
+              "logprob": -3.8666670322418213
+            },
+            {
+              "token": " rules",
+              "logprob": -3.7660109996795654
+            },
+            {
+              "token": ".",
+              "logprob": -0.6648937463760376
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.016049861907959
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "A large one.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.367560625076294
+            },
+            {
+              "token": " large",
+              "logprob": -5.264588832855225
+            },
+            {
+              "token": " one",
+              "logprob": -2.943298816680908
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.096004009246826
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A weather condition B: A chemical condition C: No chemical condition was met. D: A heat condition was not met.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.367560625076294
+            },
+            {
+              "token": " weather",
+              "logprob": -4.729938983917236
+            },
+            {
+              "token": " condition",
+              "logprob": -0.5132538080215454
+            },
+            {
+              "token": " B",
+              "logprob": -3.0676968097686768
+            },
+            {
+              "token": ":",
+              "logprob": -0.03467778488993645
+            },
+            {
+              "token": " A",
+              "logprob": -0.3772414028644562
+            },
+            {
+              "token": " chemical",
+              "logprob": -4.677329063415527
+            },
+            {
+              "token": " condition",
+              "logprob": -0.10082023590803146
+            },
+            {
+              "token": " C",
+              "logprob": -0.14147932827472687
+            },
+            {
+              "token": ":",
+              "logprob": -0.011804959736764431
+            },
+            {
+              "token": " No",
+              "logprob": -4.450223445892334
+            },
+            {
+              "token": " chemical",
+              "logprob": -3.648259401321411
+            },
+            {
+              "token": " condition",
+              "logprob": -0.41083502769470215
+            },
+            {
+              "token": " was",
+              "logprob": -3.522592306137085
+            },
+            {
+              "token": " met",
+              "logprob": -3.002831220626831
+            },
+            {
+              "token": ".",
+              "logprob": -1.0030081272125244
+            },
+            {
+              "token": " D",
+              "logprob": -1.133194923400879
+            },
+            {
+              "token": ":",
+              "logprob": -0.021748267114162445
+            },
+            {
+              "token": " A",
+              "logprob": -0.8812446594238281
+            },
+            {
+              "token": " heat",
+              "logprob": -5.3037109375
+            },
+            {
+              "token": " condition",
+              "logprob": -0.1038183867931366
+            },
+            {
+              "token": " was",
+              "logprob": -1.31691575050354
+            },
+            {
+              "token": " not",
+              "logprob": -1.9077630043029785
+            },
+            {
+              "token": " met",
+              "logprob": -0.19161109626293182
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.5578839778900146
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "What did Ethan kick?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.4357235431671143
+            },
+            {
+              "token": " did",
+              "logprob": -3.143383502960205
+            },
+            {
+              "token": " Ethan",
+              "logprob": -1.3237777948379517
+            },
+            {
+              "token": " kick",
+              "logprob": -1.9059722423553467
+            },
+            {
+              "token": "?",
+              "logprob": -0.25651341676712036
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.7409684658050537
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The ground was wet.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.521618127822876
+            },
+            {
+              "token": " ground",
+              "logprob": -3.3712379932403564
+            },
+            {
+              "token": " was",
+              "logprob": -1.4114232063293457
+            },
+            {
+              "token": " wet",
+              "logprob": -2.4387290477752686
+            },
+            {
+              "token": ".",
+              "logprob": -0.7841192483901978
+            },
+            {
+              "token": " ",
+              "logprob": -3.0368235111236572
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8078271150588989
+            },
+            {
+              "token": ":",
+              "logprob": -0.02627420425415039
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "It was bent because he kicked it.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.5513203144073486
+            },
+            {
+              "token": " was",
+              "logprob": -0.24136312305927277
+            },
+            {
+              "token": " bent",
+              "logprob": -4.506102085113525
+            },
+            {
+              "token": " because",
+              "logprob": -2.9876868724823
+            },
+            {
+              "token": " he",
+              "logprob": -1.8110300302505493
+            },
+            {
+              "token": " kicked",
+              "logprob": -0.6257454752922058
+            },
+            {
+              "token": " it",
+              "logprob": -0.14234201610088348
+            },
+            {
+              "token": ".",
+              "logprob": -0.5654571056365967
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.5046908855438232
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A crack, a split or some sort of damage.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.367560625076294
+            },
+            {
+              "token": " crack",
+              "logprob": -2.8194174766540527
+            },
+            {
+              "token": ",",
+              "logprob": -3.5429983139038086
+            },
+            {
+              "token": " a",
+              "logprob": -1.451448917388916
+            },
+            {
+              "token": " split",
+              "logprob": -4.215426921844482
+            },
+            {
+              "token": " or",
+              "logprob": -2.6318397521972656
+            },
+            {
+              "token": " some",
+              "logprob": -3.850674629211426
+            },
+            {
+              "token": " sort",
+              "logprob": -3.4878878593444824
+            },
+            {
+              "token": " of",
+              "logprob": -0.026749014854431152
+            },
+            {
+              "token": " damage",
+              "logprob": -1.213088035583496
+            },
+            {
+              "token": ".",
+              "logprob": -0.7437765598297119
+            },
+            {
+              "token": " \n",
+              "logprob": -1.109681248664856
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A crack in the sidewalk",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.367560625076294
+            },
+            {
+              "token": " crack",
+              "logprob": -2.8194174766540527
+            },
+            {
+              "token": " in",
+              "logprob": -1.2764588594436646
+            },
+            {
+              "token": " the",
+              "logprob": -0.11289743334054947
+            },
+            {
+              "token": " sidewalk",
+              "logprob": -0.05821363627910614
+            },
+            {
+              "token": " Q",
+              "logprob": -3.1263813972473145
+            },
+            {
+              "token": ":",
+              "logprob": -0.021059008315205574
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Nothing.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -4.489686965942383
+            },
+            {
+              "token": ".",
+              "logprob": -0.921273946762085
+            },
+            {
+              "token": " ",
+              "logprob": -2.777933359146118
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "None, just to make the can rattle.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.250715494155884
+            },
+            {
+              "token": ",",
+              "logprob": -3.4759018421173096
+            },
+            {
+              "token": " just",
+              "logprob": -3.7381699085235596
+            },
+            {
+              "token": " to",
+              "logprob": -2.4462218284606934
+            },
+            {
+              "token": " make",
+              "logprob": -2.497184991836548
+            },
+            {
+              "token": " the",
+              "logprob": -2.1463446617126465
+            },
+            {
+              "token": " can",
+              "logprob": -2.344182014465332
+            },
+            {
+              "token": " r",
+              "logprob": -3.933079242706299
+            },
+            {
+              "token": "attle",
+              "logprob": -0.008891867473721504
+            },
+            {
+              "token": ".",
+              "logprob": -0.9393129944801331
+            },
+            {
+              "token": " \n",
+              "logprob": -1.6837739944458008
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What condition was the can Amelia kicked?",
+      "character": "Amelia",
+      "story": "Ethan and Amelia were walking home from school. The sun was bright, and the sidewalk was cracked. Ethan kicked a dented can that was lying on the ground. It clattered loudly, making Amelia jump. \"Why did you do that?\" she asked. Ethan shrugged. \"I was bored,\" he said. Amelia rolled her eyes but didn’t say anything else. They kept walking until they reached the park. Amelia sat on a bench and took out a book. Ethan picked up a stick and poked at the dirt. After a while, Amelia looked up. \"Do you want to go to the store?\" she asked. Ethan nodded, and they left the park. At the store, Amelia bought a candy bar. Ethan got a soda. They sat outside and ate their snacks. The day was quiet, but neither of them minded. When it was time to go home, they walked side by side, not saying much. The dented can was still on the sidewalk, but this time Ethan left it alone.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "When you kick the can.",
+          "token_data": [
+            {
+              "token": " When",
+              "logprob": -4.420897960662842
+            },
+            {
+              "token": " you",
+              "logprob": -2.814656972885132
+            },
+            {
+              "token": " kick",
+              "logprob": -1.3298654556274414
+            },
+            {
+              "token": " the",
+              "logprob": -2.922254800796509
+            },
+            {
+              "token": " can",
+              "logprob": -0.13311703503131866
+            },
+            {
+              "token": ".",
+              "logprob": -2.8723368644714355
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.074814796447754
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "None of these, The can was just laying there, but it did make a noise when Amelia kicked it.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.9695327281951904
+            },
+            {
+              "token": " of",
+              "logprob": -1.0650779008865356
+            },
+            {
+              "token": " these",
+              "logprob": -2.0541486740112305
+            },
+            {
+              "token": ",",
+              "logprob": -3.438732147216797
+            },
+            {
+              "token": " The",
+              "logprob": -3.666898488998413
+            },
+            {
+              "token": " can",
+              "logprob": -0.8221171498298645
+            },
+            {
+              "token": " was",
+              "logprob": -0.40870022773742676
+            },
+            {
+              "token": " just",
+              "logprob": -4.066620826721191
+            },
+            {
+              "token": " laying",
+              "logprob": -2.418647527694702
+            },
+            {
+              "token": " there",
+              "logprob": -0.5334174036979675
+            },
+            {
+              "token": ",",
+              "logprob": -2.187542676925659
+            },
+            {
+              "token": " but",
+              "logprob": -4.3729777336120605
+            },
+            {
+              "token": " it",
+              "logprob": -1.6703050136566162
+            },
+            {
+              "token": " did",
+              "logprob": -3.1993329524993896
+            },
+            {
+              "token": " make",
+              "logprob": -2.336125373840332
+            },
+            {
+              "token": " a",
+              "logprob": -0.3269135057926178
+            },
+            {
+              "token": " noise",
+              "logprob": -2.0030665397644043
+            },
+            {
+              "token": " when",
+              "logprob": -2.5911216735839844
+            },
+            {
+              "token": " Amelia",
+              "logprob": -2.2374939918518066
+            },
+            {
+              "token": " kicked",
+              "logprob": -0.09878160804510117
+            },
+            {
+              "token": " it",
+              "logprob": -0.06189589947462082
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.631361484527588
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Why did you kick that can?",
+          "token_data": [
+            {
+              "token": " Why",
+              "logprob": -3.820446729660034
+            },
+            {
+              "token": " did",
+              "logprob": -0.495719313621521
+            },
+            {
+              "token": " you",
+              "logprob": -0.5273025035858154
+            },
+            {
+              "token": " kick",
+              "logprob": -2.8134374618530273
+            },
+            {
+              "token": " that",
+              "logprob": -2.8879635334014893
+            },
+            {
+              "token": " can",
+              "logprob": -0.12206422537565231
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.676825761795044
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Nothing, a place, a state.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -4.311776161193848
+            },
+            {
+              "token": ",",
+              "logprob": -2.2767772674560547
+            },
+            {
+              "token": " a",
+              "logprob": -3.7062950134277344
+            },
+            {
+              "token": " place",
+              "logprob": -5.447169780731201
+            },
+            {
+              "token": ",",
+              "logprob": -1.8897252082824707
+            },
+            {
+              "token": " a",
+              "logprob": -1.06753671169281
+            },
+            {
+              "token": " state",
+              "logprob": -4.123499393463135
+            },
+            {
+              "token": ".",
+              "logprob": -1.8576686382293701
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0900514125823975
+            },
+            {
+              "token": ":",
+              "logprob": -0.02419702336192131
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.1715497970581055
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "It was broken.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.7072484493255615
+            },
+            {
+              "token": " was",
+              "logprob": -0.34299272298812866
+            },
+            {
+              "token": " broken",
+              "logprob": -2.638704776763916
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.5098705291748047
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A dent can.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.6880786418914795
+            },
+            {
+              "token": " dent",
+              "logprob": -2.685903787612915
+            },
+            {
+              "token": " can",
+              "logprob": -1.694648027420044
+            },
+            {
+              "token": ".",
+              "logprob": -1.6461904048919678
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8969637751579285
+            },
+            {
+              "token": ":",
+              "logprob": -0.022412104532122612
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "None. She rolled her eyes but didn’t say anything else.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.9695327281951904
+            },
+            {
+              "token": ".",
+              "logprob": -1.2222167253494263
+            },
+            {
+              "token": " She",
+              "logprob": -4.287708759307861
+            },
+            {
+              "token": " rolled",
+              "logprob": -4.615660667419434
+            },
+            {
+              "token": " her",
+              "logprob": -0.028872564435005188
+            },
+            {
+              "token": " eyes",
+              "logprob": -0.03000507317483425
+            },
+            {
+              "token": " but",
+              "logprob": -1.0834461450576782
+            },
+            {
+              "token": " didn",
+              "logprob": -0.3087993562221527
+            },
+            {
+              "token": "’t",
+              "logprob": -1.1694272756576538
+            },
+            {
+              "token": " say",
+              "logprob": -0.08936537057161331
+            },
+            {
+              "token": " anything",
+              "logprob": -0.08755228668451309
+            },
+            {
+              "token": " else",
+              "logprob": -0.10057651251554489
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.903748035430908
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "They kicked it on purpose to cause a distraction.",
+          "token_data": [
+            {
+              "token": " They",
+              "logprob": -4.737860679626465
+            },
+            {
+              "token": " kicked",
+              "logprob": -3.191728353500366
+            },
+            {
+              "token": " it",
+              "logprob": -0.818574070930481
+            },
+            {
+              "token": " on",
+              "logprob": -3.509251594543457
+            },
+            {
+              "token": " purpose",
+              "logprob": -0.8188235759735107
+            },
+            {
+              "token": " to",
+              "logprob": -1.7135639190673828
+            },
+            {
+              "token": " cause",
+              "logprob": -4.181230545043945
+            },
+            {
+              "token": " a",
+              "logprob": -1.2015153169631958
+            },
+            {
+              "token": " distraction",
+              "logprob": -2.8641669750213623
+            },
+            {
+              "token": ".",
+              "logprob": -0.7254161834716797
+            },
+            {
+              "token": " \n",
+              "logprob": -1.9107420444488525
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Ethan had broken wind, so he couldn't not touch it. B: Ethan didn't have enough to keep the air out of a balloon.",
+          "token_data": [
+            {
+              "token": " Ethan",
+              "logprob": -4.13584041595459
+            },
+            {
+              "token": " had",
+              "logprob": -3.002176284790039
+            },
+            {
+              "token": " broken",
+              "logprob": -3.8284449577331543
+            },
+            {
+              "token": " wind",
+              "logprob": -4.395988464355469
+            },
+            {
+              "token": ",",
+              "logprob": -3.3628671169281006
+            },
+            {
+              "token": " so",
+              "logprob": -2.602492570877075
+            },
+            {
+              "token": " he",
+              "logprob": -0.9833738803863525
+            },
+            {
+              "token": " couldn",
+              "logprob": -4.232608795166016
+            },
+            {
+              "token": "'t",
+              "logprob": -0.2460910528898239
+            },
+            {
+              "token": " not",
+              "logprob": -5.209743499755859
+            },
+            {
+              "token": " touch",
+              "logprob": -5.150938987731934
+            },
+            {
+              "token": " it",
+              "logprob": -1.4986194372177124
+            },
+            {
+              "token": ".",
+              "logprob": -0.7147136926651001
+            },
+            {
+              "token": " B",
+              "logprob": -3.978407621383667
+            },
+            {
+              "token": ":",
+              "logprob": -0.023791074752807617
+            },
+            {
+              "token": " Ethan",
+              "logprob": -1.4505085945129395
+            },
+            {
+              "token": " didn",
+              "logprob": -2.814551830291748
+            },
+            {
+              "token": "'t",
+              "logprob": -0.07373911887407303
+            },
+            {
+              "token": " have",
+              "logprob": -2.3829212188720703
+            },
+            {
+              "token": " enough",
+              "logprob": -1.905517578125
+            },
+            {
+              "token": " to",
+              "logprob": -3.419294834136963
+            },
+            {
+              "token": " keep",
+              "logprob": -5.154143810272217
+            },
+            {
+              "token": " the",
+              "logprob": -1.8698421716690063
+            },
+            {
+              "token": " air",
+              "logprob": -3.7110185623168945
+            },
+            {
+              "token": " out",
+              "logprob": -2.30393648147583
+            },
+            {
+              "token": " of",
+              "logprob": -1.2792096138000488
+            },
+            {
+              "token": " a",
+              "logprob": -3.602884292602539
+            },
+            {
+              "token": " balloon",
+              "logprob": -2.3374581336975098
+            },
+            {
+              "token": ".",
+              "logprob": -0.4308845102787018
+            },
+            {
+              "token": " \n",
+              "logprob": -3.002131700515747
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

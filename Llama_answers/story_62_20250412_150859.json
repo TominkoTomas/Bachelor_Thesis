@@ -1,0 +1,847 @@
+{
+  "story": "Sophia and Mason were best friends. One day, they went to the store together. Sophia bought a fuzzy blanket because she got cold at night. Mason picked out a toy car instead. They paid for their things and left. Outside, it started to rain. Sophia wrapped herself in her new blanket to stay dry. Mason ran ahead because he didn’t like the rain. They met up again under a big tree. Sophia shared her blanket with Mason so he wouldn’t get wet. Mason smiled and said thank you. The rain stopped, and they walked home together. Sophia was happy with her fuzzy blanket, and Mason was happy with his toy car. That night, Sophia slept cozy under her new blanket. Mason played with his car until bedtime. They both had a good day. The end.",
+  "characters": [
+    {
+      "question": "What texture was Sophia's new blanket?",
+      "character": "Sophia",
+      "story": "Sophia and Mason were best friends. One day, they went to the store together. Sophia bought a fuzzy blanket because she got cold at night. Mason picked out a toy car instead. They paid for their things and left. Outside, it started to rain. Sophia wrapped herself in her new blanket to stay dry. Mason ran ahead because he didn’t like the rain. They met up again under a big tree. Sophia shared her blanket with Mason so he wouldn’t get wet. Mason smiled and said thank you. The rain stopped, and they walked home together. Sophia was happy with her fuzzy blanket, and Mason was happy with his toy car. That night, Sophia slept cozy under her new blanket. Mason played with his car until bedtime. They both had a good day. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "fuzzy",
+          "token_data": [
+            {
+              "token": " fuzzy",
+              "logprob": -3.3701164722442627
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.9204320907592773
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Sofya wrapped herself in her fuzzy blanket to stay dry.",
+          "token_data": [
+            {
+              "token": " Sof",
+              "logprob": -4.8149518966674805
+            },
+            {
+              "token": "ya",
+              "logprob": -4.651247978210449
+            },
+            {
+              "token": " wrapped",
+              "logprob": -2.3172850608825684
+            },
+            {
+              "token": " herself",
+              "logprob": -0.1943759024143219
+            },
+            {
+              "token": " in",
+              "logprob": -0.13202930986881256
+            },
+            {
+              "token": " her",
+              "logprob": -0.8174147009849548
+            },
+            {
+              "token": " fuzzy",
+              "logprob": -2.5021555423736572
+            },
+            {
+              "token": " blanket",
+              "logprob": -0.1815127283334732
+            },
+            {
+              "token": " to",
+              "logprob": -0.7444632649421692
+            },
+            {
+              "token": " stay",
+              "logprob": -0.10859724879264832
+            },
+            {
+              "token": " dry",
+              "logprob": -0.09889424592256546
+            },
+            {
+              "token": ".",
+              "logprob": -0.4329965114593506
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.093078851699829
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "None",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -4.171963691711426
+            },
+            {
+              "token": "\n",
+              "logprob": -2.378141403198242
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It was a fuzzy, fluffy blanket with a little hoodie on it! .",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.3689472675323486
+            },
+            {
+              "token": " was",
+              "logprob": -0.15805932879447937
+            },
+            {
+              "token": " a",
+              "logprob": -0.406758576631546
+            },
+            {
+              "token": " fuzzy",
+              "logprob": -0.311840295791626
+            },
+            {
+              "token": ",",
+              "logprob": -2.8002443313598633
+            },
+            {
+              "token": " fluffy",
+              "logprob": -2.7925920486450195
+            },
+            {
+              "token": " blanket",
+              "logprob": -0.9990437626838684
+            },
+            {
+              "token": " with",
+              "logprob": -3.4085352420806885
+            },
+            {
+              "token": " a",
+              "logprob": -0.6737304925918579
+            },
+            {
+              "token": " little",
+              "logprob": -3.6908533573150635
+            },
+            {
+              "token": " hood",
+              "logprob": -4.306061267852783
+            },
+            {
+              "token": "ie",
+              "logprob": -2.9683737754821777
+            },
+            {
+              "token": " on",
+              "logprob": -1.7128618955612183
+            },
+            {
+              "token": " it",
+              "logprob": -0.2772173285484314
+            },
+            {
+              "token": "!",
+              "logprob": -2.9441890716552734
+            },
+            {
+              "token": " ",
+              "logprob": -3.2184886932373047
+            },
+            {
+              "token": ".\n\n\n",
+              "logprob": -3.765871286392212
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "wool",
+          "token_data": [
+            {
+              "token": " wool",
+              "logprob": -5.027568817138672
+            },
+            {
+              "token": " ",
+              "logprob": -3.6834654808044434
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7118889689445496
+            },
+            {
+              "token": ":",
+              "logprob": -0.047822125256061554
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "What type was the texture of Sophia's new blanket?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.6407320499420166
+            },
+            {
+              "token": " type",
+              "logprob": -3.7320685386657715
+            },
+            {
+              "token": " was",
+              "logprob": -2.456328868865967
+            },
+            {
+              "token": " the",
+              "logprob": -3.2061924934387207
+            },
+            {
+              "token": " texture",
+              "logprob": -3.2192301750183105
+            },
+            {
+              "token": " of",
+              "logprob": -0.22964181005954742
+            },
+            {
+              "token": " Sophia",
+              "logprob": -0.4712914824485779
+            },
+            {
+              "token": "'s",
+              "logprob": -0.07893017679452896
+            },
+            {
+              "token": " new",
+              "logprob": -0.05757281184196472
+            },
+            {
+              "token": " blanket",
+              "logprob": -0.10990577936172485
+            },
+            {
+              "token": "?",
+              "logprob": -0.17260056734085083
+            },
+            {
+              "token": " Q",
+              "logprob": -1.9358923435211182
+            },
+            {
+              "token": ":",
+              "logprob": -0.027179749682545662
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A fluffy one",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.6783201694488525
+            },
+            {
+              "token": " fluffy",
+              "logprob": -2.9754390716552734
+            },
+            {
+              "token": " one",
+              "logprob": -1.3534085750579834
+            },
+            {
+              "token": " Q",
+              "logprob": -2.793631076812744
+            },
+            {
+              "token": ":",
+              "logprob": -0.03533792868256569
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "It was fuzzy.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.3689472675323486
+            },
+            {
+              "token": " was",
+              "logprob": -0.15805932879447937
+            },
+            {
+              "token": " fuzzy",
+              "logprob": -2.1682064533233643
+            },
+            {
+              "token": ".",
+              "logprob": -0.7563567161560059
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.169590711593628
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It was a fuzzy one.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.054994583129883
+            },
+            {
+              "token": " It",
+              "logprob": -3.152963161468506
+            },
+            {
+              "token": " was",
+              "logprob": -0.27866610884666443
+            },
+            {
+              "token": " a",
+              "logprob": -0.525660514831543
+            },
+            {
+              "token": " fuzzy",
+              "logprob": -0.39441725611686707
+            },
+            {
+              "token": " one",
+              "logprob": -2.4171268939971924
+            },
+            {
+              "token": ".",
+              "logprob": -0.672066867351532
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.0300004482269287
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "soft and fluffy",
+          "token_data": [
+            {
+              "token": " soft",
+              "logprob": -4.587657928466797
+            },
+            {
+              "token": " and",
+              "logprob": -3.319941997528076
+            },
+            {
+              "token": " fluffy",
+              "logprob": -1.8383196592330933
+            },
+            {
+              "token": "\n",
+              "logprob": -3.0343704223632812
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What texture was Mason's new blanket?",
+      "character": "Mason",
+      "story": "Sophia and Mason were best friends. One day, they went to the store together. Sophia bought a fuzzy blanket because she got cold at night. Mason picked out a toy car instead. They paid for their things and left. Outside, it started to rain. Sophia wrapped herself in her new blanket to stay dry. Mason ran ahead because he didn’t like the rain. They met up again under a big tree. Sophia shared her blanket with Mason so he wouldn’t get wet. Mason smiled and said thank you. The rain stopped, and they walked home together. Sophia was happy with her fuzzy blanket, and Mason was happy with his toy car. That night, Sophia slept cozy under her new blanket. Mason played with his car until bedtime. They both had a good day. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A fluffy blanket",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.7482597827911377
+            },
+            {
+              "token": " fluffy",
+              "logprob": -3.4539647102355957
+            },
+            {
+              "token": " blanket",
+              "logprob": -2.854332447052002
+            },
+            {
+              "token": "\n",
+              "logprob": -3.833822727203369
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "N/A.",
+          "token_data": [
+            {
+              "token": " N",
+              "logprob": -5.36873197555542
+            },
+            {
+              "token": "/A",
+              "logprob": -0.10467755049467087
+            },
+            {
+              "token": ".",
+              "logprob": -2.9833996295928955
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "It was a fluffy, fuzzy one.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.3986563682556152
+            },
+            {
+              "token": " was",
+              "logprob": -0.21876278519630432
+            },
+            {
+              "token": " a",
+              "logprob": -0.6330389976501465
+            },
+            {
+              "token": " fluffy",
+              "logprob": -3.2221598625183105
+            },
+            {
+              "token": ",",
+              "logprob": -1.638527750968933
+            },
+            {
+              "token": " fuzzy",
+              "logprob": -0.9330019950866699
+            },
+            {
+              "token": " one",
+              "logprob": -2.9206840991973877
+            },
+            {
+              "token": ".",
+              "logprob": -0.6542686820030212
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7639567255973816
+            },
+            {
+              "token": ":",
+              "logprob": -0.02403619885444641
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The answer is fuzzy.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.334136486053467
+            },
+            {
+              "token": " answer",
+              "logprob": -1.547531247138977
+            },
+            {
+              "token": " is",
+              "logprob": -1.1204155683517456
+            },
+            {
+              "token": " fuzzy",
+              "logprob": -3.7043795585632324
+            },
+            {
+              "token": ".",
+              "logprob": -0.7007876038551331
+            },
+            {
+              "token": " \n",
+              "logprob": -1.9387803077697754
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "No. 6 Nylon? What do you mean by that, and why do you want to know it?",
+          "token_data": [
+            {
+              "token": " No",
+              "logprob": -4.820044040679932
+            },
+            {
+              "token": ".",
+              "logprob": -3.58890438079834
+            },
+            {
+              "token": " ",
+              "logprob": -3.598517417907715
+            },
+            {
+              "token": "6",
+              "logprob": -4.316535472869873
+            },
+            {
+              "token": " Nylon",
+              "logprob": -5.406368732452393
+            },
+            {
+              "token": "?",
+              "logprob": -5.084029674530029
+            },
+            {
+              "token": " What",
+              "logprob": -3.5006089210510254
+            },
+            {
+              "token": " do",
+              "logprob": -3.2661490440368652
+            },
+            {
+              "token": " you",
+              "logprob": -0.05894710123538971
+            },
+            {
+              "token": " mean",
+              "logprob": -1.0109533071517944
+            },
+            {
+              "token": " by",
+              "logprob": -1.3503999710083008
+            },
+            {
+              "token": " that",
+              "logprob": -1.4368759393692017
+            },
+            {
+              "token": ",",
+              "logprob": -3.9992690086364746
+            },
+            {
+              "token": " and",
+              "logprob": -4.192100524902344
+            },
+            {
+              "token": " why",
+              "logprob": -1.8246963024139404
+            },
+            {
+              "token": " do",
+              "logprob": -1.863695502281189
+            },
+            {
+              "token": " you",
+              "logprob": -0.2313595414161682
+            },
+            {
+              "token": " want",
+              "logprob": -2.636723518371582
+            },
+            {
+              "token": " to",
+              "logprob": -0.10905838757753372
+            },
+            {
+              "token": " know",
+              "logprob": -0.11377423256635666
+            },
+            {
+              "token": " it",
+              "logprob": -4.300172328948975
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -4.031615734100342
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A fluffy blanket with a smooth texture",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.793191432952881
+            },
+            {
+              "token": " fluffy",
+              "logprob": -3.4833168983459473
+            },
+            {
+              "token": " blanket",
+              "logprob": -2.9073896408081055
+            },
+            {
+              "token": " with",
+              "logprob": -3.0430140495300293
+            },
+            {
+              "token": " a",
+              "logprob": -0.6605799198150635
+            },
+            {
+              "token": " smooth",
+              "logprob": -4.078012466430664
+            },
+            {
+              "token": " texture",
+              "logprob": -1.2905876636505127
+            },
+            {
+              "token": " Q",
+              "logprob": -2.4273910522460938
+            },
+            {
+              "token": ":",
+              "logprob": -0.04175730422139168
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "None.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.5590224266052246
+            },
+            {
+              "token": ".",
+              "logprob": -1.9083781242370605
+            },
+            {
+              "token": " Q",
+              "logprob": -1.069392204284668
+            },
+            {
+              "token": ":",
+              "logprob": -0.02673380821943283
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Why did the blanket come back from the store with him?",
+          "token_data": [
+            {
+              "token": " Why",
+              "logprob": -5.296351909637451
+            },
+            {
+              "token": " did",
+              "logprob": -0.7538031935691833
+            },
+            {
+              "token": " the",
+              "logprob": -3.1949691772460938
+            },
+            {
+              "token": " blanket",
+              "logprob": -2.888279914855957
+            },
+            {
+              "token": " come",
+              "logprob": -4.046611785888672
+            },
+            {
+              "token": " back",
+              "logprob": -3.312972068786621
+            },
+            {
+              "token": " from",
+              "logprob": -1.399265170097351
+            },
+            {
+              "token": " the",
+              "logprob": -0.18921619653701782
+            },
+            {
+              "token": " store",
+              "logprob": -0.12033572047948837
+            },
+            {
+              "token": " with",
+              "logprob": -2.9464848041534424
+            },
+            {
+              "token": " him",
+              "logprob": -1.1435668468475342
+            },
+            {
+              "token": "?",
+              "logprob": -0.15778325498104095
+            },
+            {
+              "token": " Q",
+              "logprob": -4.2962260246276855
+            },
+            {
+              "token": ":",
+              "logprob": -0.04873618856072426
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Mason got a soft, plush, fuzzy, yarn-covered fabric of the comfort.",
+          "token_data": [
+            {
+              "token": " Mason",
+              "logprob": -3.288369655609131
+            },
+            {
+              "token": " got",
+              "logprob": -3.0447638034820557
+            },
+            {
+              "token": " a",
+              "logprob": -0.24492260813713074
+            },
+            {
+              "token": " soft",
+              "logprob": -2.948018789291382
+            },
+            {
+              "token": ",",
+              "logprob": -1.418717861175537
+            },
+            {
+              "token": " plush",
+              "logprob": -2.7768898010253906
+            },
+            {
+              "token": ",",
+              "logprob": -2.3693389892578125
+            },
+            {
+              "token": " fuzzy",
+              "logprob": -0.697564959526062
+            },
+            {
+              "token": ",",
+              "logprob": -1.7606561183929443
+            },
+            {
+              "token": " yarn",
+              "logprob": -3.953155755996704
+            },
+            {
+              "token": "-covered",
+              "logprob": -2.496149778366089
+            },
+            {
+              "token": " fabric",
+              "logprob": -3.3241958618164062
+            },
+            {
+              "token": " of",
+              "logprob": -3.7183265686035156
+            },
+            {
+              "token": " the",
+              "logprob": -3.563833475112915
+            },
+            {
+              "token": " comfort",
+              "logprob": -5.225288391113281
+            },
+            {
+              "token": ".",
+              "logprob": -1.9984683990478516
+            },
+            {
+              "token": " \n",
+              "logprob": -2.177288770675659
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Was Mason's new blanket fuzzy or a soft car? Answer: B",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.217762470245361
+            },
+            {
+              "token": " Was",
+              "logprob": -4.846091270446777
+            },
+            {
+              "token": " Mason",
+              "logprob": -1.237524390220642
+            },
+            {
+              "token": "'s",
+              "logprob": -0.19889751076698303
+            },
+            {
+              "token": " new",
+              "logprob": -0.08380407840013504
+            },
+            {
+              "token": " blanket",
+              "logprob": -0.10032347589731216
+            },
+            {
+              "token": " fuzzy",
+              "logprob": -2.404484987258911
+            },
+            {
+              "token": " or",
+              "logprob": -2.7050576210021973
+            },
+            {
+              "token": " a",
+              "logprob": -4.071837425231934
+            },
+            {
+              "token": " soft",
+              "logprob": -3.0771431922912598
+            },
+            {
+              "token": " car",
+              "logprob": -3.5775961875915527
+            },
+            {
+              "token": "?",
+              "logprob": -0.39175498485565186
+            },
+            {
+              "token": " Answer",
+              "logprob": -4.09045934677124
+            },
+            {
+              "token": ":",
+              "logprob": -1.5904572010040283
+            },
+            {
+              "token": " B",
+              "logprob": -4.6098103523254395
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

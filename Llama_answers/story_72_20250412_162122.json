@@ -1,0 +1,663 @@
+{
+  "story": "Oliver and Alexander were best friends. One sunny day, they decided to go to the park. Oliver brought a backpack with snacks and drinks. Alexander brought a football to play with. They found a nice spot under a big tree. Oliver sat down and opened his backpack. He took out a cold can of soda. Oliver drank fizzy soda and smiled. Alexander picked up the football and threw it to Oliver. Oliver caught the ball and put the soda down. They played catch for a while. Then they ate their snacks and talked about school. It was a fun day at the park. They promised to come back again soon. The sun started to go down, so they packed up their things. Oliver and Alexander walked home together, laughing and joking. They were happy to spend time with each other. It was a simple but perfect day.",
+  "characters": [
+    {
+      "question": "What type of drink did Oliver consume?",
+      "character": "Oliver",
+      "story": "Oliver and Alexander were best friends. One sunny day, they decided to go to the park. Oliver brought a backpack with snacks and drinks. Alexander brought a football to play with. They found a nice spot under a big tree. Oliver sat down and opened his backpack. He took out a cold can of soda. Oliver drank fizzy soda and smiled. Alexander picked up the football and threw it to Oliver. Oliver caught the ball and put the soda down. They played catch for a while. Then they ate their snacks and talked about school. It was a fun day at the park. They promised to come back again soon. The sun started to go down, so they packed up their things. Oliver and Alexander walked home together, laughing and joking. They were happy to spend time with each other. It was a simple but perfect day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Fizzled Drink.",
+          "token_data": [
+            {
+              "token": " F",
+              "logprob": -1.784913182258606
+            },
+            {
+              "token": "izz",
+              "logprob": -2.1006622314453125
+            },
+            {
+              "token": "led",
+              "logprob": -0.7042259573936462
+            },
+            {
+              "token": " Drink",
+              "logprob": -4.527978897094727
+            },
+            {
+              "token": ".",
+              "logprob": -1.580386757850647
+            },
+            {
+              "token": " \n",
+              "logprob": -1.7400978803634644
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Fizzy soda.",
+          "token_data": [
+            {
+              "token": " F",
+              "logprob": -1.7829411029815674
+            },
+            {
+              "token": "iz",
+              "logprob": -2.026304244995117
+            },
+            {
+              "token": "zy",
+              "logprob": -0.01824513077735901
+            },
+            {
+              "token": " soda",
+              "logprob": -1.2127336263656616
+            },
+            {
+              "token": ".",
+              "logprob": -1.1634904146194458
+            },
+            {
+              "token": " ",
+              "logprob": -3.0514602661132812
+            },
+            {
+              "token": " Q",
+              "logprob": -1.003083348274231
+            },
+            {
+              "token": ":",
+              "logprob": -0.02211306430399418
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.9983904361724854
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "He drank a fizzy can.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -2.7747576236724854
+            },
+            {
+              "token": " drank",
+              "logprob": -0.6050752997398376
+            },
+            {
+              "token": " a",
+              "logprob": -1.5849664211273193
+            },
+            {
+              "token": " fiz",
+              "logprob": -0.7613431811332703
+            },
+            {
+              "token": "zy",
+              "logprob": -0.002260869136080146
+            },
+            {
+              "token": " can",
+              "logprob": -2.4601502418518066
+            },
+            {
+              "token": ".",
+              "logprob": -2.300051689147949
+            },
+            {
+              "token": " Q",
+              "logprob": -1.3722201585769653
+            },
+            {
+              "token": ":",
+              "logprob": -0.014846079982817173
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "fizzy.",
+          "token_data": [
+            {
+              "token": " fiz",
+              "logprob": -1.7171146869659424
+            },
+            {
+              "token": "zy",
+              "logprob": -0.0015142414486035705
+            },
+            {
+              "token": ".",
+              "logprob": -2.9515624046325684
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.848030686378479
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Oliver drank fizzy soda.",
+          "token_data": [
+            {
+              "token": " Oliver",
+              "logprob": -1.1724865436553955
+            },
+            {
+              "token": " drank",
+              "logprob": -0.6679829359054565
+            },
+            {
+              "token": " fiz",
+              "logprob": -0.4474290907382965
+            },
+            {
+              "token": "zy",
+              "logprob": -0.0011868582805618644
+            },
+            {
+              "token": " soda",
+              "logprob": -0.1845114529132843
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.224400520324707
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A fizzy drink.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.6971590518951416
+            },
+            {
+              "token": " fiz",
+              "logprob": -1.6489850282669067
+            },
+            {
+              "token": "zy",
+              "logprob": -0.0018129594391211867
+            },
+            {
+              "token": " drink",
+              "logprob": -0.685588538646698
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.419766902923584
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "fizzy soda",
+          "token_data": [
+            {
+              "token": " fiz",
+              "logprob": -1.7171146869659424
+            },
+            {
+              "token": "zy",
+              "logprob": -0.0015142414486035705
+            },
+            {
+              "token": " soda",
+              "logprob": -0.6284060478210449
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.81337833404541
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The answer can either be fizzy or regular.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -4.06036376953125
+            },
+            {
+              "token": " answer",
+              "logprob": -2.655953884124756
+            },
+            {
+              "token": " can",
+              "logprob": -3.9792520999908447
+            },
+            {
+              "token": " either",
+              "logprob": -2.9371864795684814
+            },
+            {
+              "token": " be",
+              "logprob": -0.12097042798995972
+            },
+            {
+              "token": " fiz",
+              "logprob": -1.8203151226043701
+            },
+            {
+              "token": "zy",
+              "logprob": -0.0010598048102110624
+            },
+            {
+              "token": " or",
+              "logprob": -0.967508852481842
+            },
+            {
+              "token": " regular",
+              "logprob": -5.169267654418945
+            },
+            {
+              "token": ".",
+              "logprob": -0.5393028259277344
+            },
+            {
+              "token": " \n",
+              "logprob": -1.3028348684310913
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Oliver consumed a fizzy soda.",
+          "token_data": [
+            {
+              "token": " Oliver",
+              "logprob": -1.1724865436553955
+            },
+            {
+              "token": " consumed",
+              "logprob": -1.0396355390548706
+            },
+            {
+              "token": " a",
+              "logprob": -0.947256863117218
+            },
+            {
+              "token": " fiz",
+              "logprob": -1.0425443649291992
+            },
+            {
+              "token": "zy",
+              "logprob": -0.0012954423436895013
+            },
+            {
+              "token": " soda",
+              "logprob": -1.3299379348754883
+            },
+            {
+              "token": ".",
+              "logprob": -0.5019173622131348
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.466296672821045
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What type of drink did Alexander consume?",
+      "character": "Alexander",
+      "story": "Oliver and Alexander were best friends. One sunny day, they decided to go to the park. Oliver brought a backpack with snacks and drinks. Alexander brought a football to play with. They found a nice spot under a big tree. Oliver sat down and opened his backpack. He took out a cold can of soda. Oliver drank fizzy soda and smiled. Alexander picked up the football and threw it to Oliver. Oliver caught the ball and put the soda down. They played catch for a while. Then they ate their snacks and talked about school. It was a fun day at the park. They promised to come back again soon. The sun started to go down, so they packed up their things. Oliver and Alexander walked home together, laughing and joking. They were happy to spend time with each other. It was a simple but perfect day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "He ate a fizzy soda.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -2.5134518146514893
+            },
+            {
+              "token": " ate",
+              "logprob": -3.8373234272003174
+            },
+            {
+              "token": " a",
+              "logprob": -0.29935428500175476
+            },
+            {
+              "token": " fiz",
+              "logprob": -3.47377347946167
+            },
+            {
+              "token": "zy",
+              "logprob": -0.001527453656308353
+            },
+            {
+              "token": " soda",
+              "logprob": -1.3505585193634033
+            },
+            {
+              "token": ".",
+              "logprob": -0.5954275727272034
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.8742423057556152
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Alexander consumed a can of fizzy drink.",
+          "token_data": [
+            {
+              "token": " Alexander",
+              "logprob": -1.1047608852386475
+            },
+            {
+              "token": " consumed",
+              "logprob": -0.7658901810646057
+            },
+            {
+              "token": " a",
+              "logprob": -0.4316152036190033
+            },
+            {
+              "token": " can",
+              "logprob": -1.6664092540740967
+            },
+            {
+              "token": " of",
+              "logprob": -0.02661820314824581
+            },
+            {
+              "token": " fiz",
+              "logprob": -1.3004529476165771
+            },
+            {
+              "token": "zy",
+              "logprob": -0.0008910498581826687
+            },
+            {
+              "token": " drink",
+              "logprob": -0.7248204350471497
+            },
+            {
+              "token": ".",
+              "logprob": -0.4132506549358368
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.643184781074524
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.3587682247161865
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "fizzy.",
+          "token_data": [
+            {
+              "token": " fiz",
+              "logprob": -2.9633777141571045
+            },
+            {
+              "token": "zy",
+              "logprob": -0.0014353219885379076
+            },
+            {
+              "token": ".",
+              "logprob": -3.3414969444274902
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8009494543075562
+            },
+            {
+              "token": ":",
+              "logprob": -0.013468470424413681
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "fizzy soda",
+          "token_data": [
+            {
+              "token": " fiz",
+              "logprob": -2.9633777141571045
+            },
+            {
+              "token": "zy",
+              "logprob": -0.0014353219885379076
+            },
+            {
+              "token": " soda",
+              "logprob": -0.7115455269813538
+            },
+            {
+              "token": " ",
+              "logprob": -3.860766887664795
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6704652905464172
+            },
+            {
+              "token": ":",
+              "logprob": -0.02055789902806282
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "He took out a cold can of soda.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -2.5010411739349365
+            },
+            {
+              "token": " took",
+              "logprob": -3.3358263969421387
+            },
+            {
+              "token": " out",
+              "logprob": -0.7284203171730042
+            },
+            {
+              "token": " a",
+              "logprob": -0.12674932181835175
+            },
+            {
+              "token": " cold",
+              "logprob": -0.40748703479766846
+            },
+            {
+              "token": " can",
+              "logprob": -0.19867685437202454
+            },
+            {
+              "token": " of",
+              "logprob": -0.03407331183552742
+            },
+            {
+              "token": " soda",
+              "logprob": -0.40182510018348694
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.151930093765259
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "He drank a can of Fizz Soda.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -2.5010411739349365
+            },
+            {
+              "token": " drank",
+              "logprob": -1.1684222221374512
+            },
+            {
+              "token": " a",
+              "logprob": -0.6694939732551575
+            },
+            {
+              "token": " can",
+              "logprob": -1.8361269235610962
+            },
+            {
+              "token": " of",
+              "logprob": -0.037573546171188354
+            },
+            {
+              "token": " F",
+              "logprob": -3.0022053718566895
+            },
+            {
+              "token": "izz",
+              "logprob": -1.3655412197113037
+            },
+            {
+              "token": " Soda",
+              "logprob": -2.9846081733703613
+            },
+            {
+              "token": ".",
+              "logprob": -0.6149667501449585
+            },
+            {
+              "token": " \n",
+              "logprob": -1.6477628946304321
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Fizzy",
+          "token_data": [
+            {
+              "token": " F",
+              "logprob": -3.348341703414917
+            },
+            {
+              "token": "iz",
+              "logprob": -2.8590211868286133
+            },
+            {
+              "token": "zy",
+              "logprob": -0.013810082338750362
+            },
+            {
+              "token": " Q",
+              "logprob": -2.0995171070098877
+            },
+            {
+              "token": ":",
+              "logprob": -0.06397905945777893
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Alexander consumed a cold can of soda.",
+          "token_data": [
+            {
+              "token": " Alexander",
+              "logprob": -1.1047608852386475
+            },
+            {
+              "token": " consumed",
+              "logprob": -0.7658901810646057
+            },
+            {
+              "token": " a",
+              "logprob": -0.4316152036190033
+            },
+            {
+              "token": " cold",
+              "logprob": -1.030339002609253
+            },
+            {
+              "token": " can",
+              "logprob": -0.3081209659576416
+            },
+            {
+              "token": " of",
+              "logprob": -0.03223381191492081
+            },
+            {
+              "token": " soda",
+              "logprob": -0.21051879227161407
+            },
+            {
+              "token": ".",
+              "logprob": -0.3953218162059784
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.5479445457458496
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Fizzled drink.",
+          "token_data": [
+            {
+              "token": " F",
+              "logprob": -3.348341703414917
+            },
+            {
+              "token": "izz",
+              "logprob": -1.6368341445922852
+            },
+            {
+              "token": "led",
+              "logprob": -0.6199452877044678
+            },
+            {
+              "token": " drink",
+              "logprob": -1.9077917337417603
+            },
+            {
+              "token": ".",
+              "logprob": -0.9285274147987366
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.8441146612167358
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

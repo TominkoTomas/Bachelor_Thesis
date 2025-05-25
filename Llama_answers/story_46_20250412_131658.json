@@ -1,0 +1,1627 @@
+{
+  "story": "Oliver and Liam were best friends. One day, they decided to have a picnic in the park. Oliver packed sandwiches, and Liam brought juice. They sat on a blanket under a big tree. Oliver was very hungry, so he grabbed a plastic spoon to eat his pudding. He pressed too hard, and Oliver broke a plastic spoon. Liam laughed because Oliver looked surprised. \"Now how will you eat your pudding?\" Liam asked. Oliver shrugged and used his fingers instead. Liam shook his head but kept laughing. After eating, they played soccer. Oliver was good at running, and Liam was good at kicking the ball. They had so much fun that they didn’t notice the sun going down. When it got dark, they packed up and went home. Oliver still had the broken spoon in his pocket. He showed it to his mom and said, \"Look what happened!\" She just smiled and told him to be careful next time. Oliver and Liam promised to have another picnic soon.",
+  "characters": [
+    {
+      "question": "What material was the spoon Oliver broke?",
+      "character": "Oliver",
+      "story": "Oliver and Liam were best friends. One day, they decided to have a picnic in the park. Oliver packed sandwiches, and Liam brought juice. They sat on a blanket under a big tree. Oliver was very hungry, so he grabbed a plastic spoon to eat his pudding. He pressed too hard, and Oliver broke a plastic spoon. Liam laughed because Oliver looked surprised. \"Now how will you eat your pudding?\" Liam asked. Oliver shrugged and used his fingers instead. Liam shook his head but kept laughing. After eating, they played soccer. Oliver was good at running, and Liam was good at kicking the ball. They had so much fun that they didn’t notice the sun going down. When it got dark, they packed up and went home. Oliver still had the broken spoon in his pocket. He showed it to his mom and said, \"Look what happened!\" She just smiled and told him to be careful next time. Oliver and Liam promised to have another picnic soon.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Metal .",
+          "token_data": [
+            {
+              "token": " Metal",
+              "logprob": -4.551423072814941
+            },
+            {
+              "token": " ",
+              "logprob": -3.811030626296997
+            },
+            {
+              "token": ".\n\n\n",
+              "logprob": -2.279376745223999
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "None",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.062486410140991
+            },
+            {
+              "token": " Q",
+              "logprob": -3.4209349155426025
+            },
+            {
+              "token": ":",
+              "logprob": -0.03096272237598896
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "a plastic spoon B: a glass of lemonade",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -4.757412910461426
+            },
+            {
+              "token": " plastic",
+              "logprob": -0.4265609681606293
+            },
+            {
+              "token": " spoon",
+              "logprob": -0.09432092308998108
+            },
+            {
+              "token": " B",
+              "logprob": -3.1791436672210693
+            },
+            {
+              "token": ":",
+              "logprob": -0.021701376885175705
+            },
+            {
+              "token": " a",
+              "logprob": -0.29071012139320374
+            },
+            {
+              "token": " glass",
+              "logprob": -3.682994842529297
+            },
+            {
+              "token": " of",
+              "logprob": -2.4683315753936768
+            },
+            {
+              "token": " lemon",
+              "logprob": -2.61407470703125
+            },
+            {
+              "token": "ade",
+              "logprob": -0.08676310628652573
+            },
+            {
+              "token": "\n",
+              "logprob": -3.489320755004883
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Answer: FINGERS, PAPER, A PLASTIC SPOON",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.142851829528809
+            },
+            {
+              "token": ":",
+              "logprob": -1.605973720550537
+            },
+            {
+              "token": " F",
+              "logprob": -4.934342384338379
+            },
+            {
+              "token": "ING",
+              "logprob": -3.2370617389678955
+            },
+            {
+              "token": "ERS",
+              "logprob": -0.010214081965386868
+            },
+            {
+              "token": ",",
+              "logprob": -4.453855991363525
+            },
+            {
+              "token": " P",
+              "logprob": -3.8747503757476807
+            },
+            {
+              "token": "APER",
+              "logprob": -0.30822739005088806
+            },
+            {
+              "token": ",",
+              "logprob": -1.2204880714416504
+            },
+            {
+              "token": " A",
+              "logprob": -3.4919328689575195
+            },
+            {
+              "token": " PL",
+              "logprob": -2.356635332107544
+            },
+            {
+              "token": "AST",
+              "logprob": -0.0030714739114046097
+            },
+            {
+              "token": "IC",
+              "logprob": -0.003257922362536192
+            },
+            {
+              "token": " S",
+              "logprob": -0.776732861995697
+            },
+            {
+              "token": "PO",
+              "logprob": -0.000929400441236794
+            },
+            {
+              "token": "ON",
+              "logprob": -0.0020074949134141207
+            },
+            {
+              "token": " Q",
+              "logprob": -2.957566261291504
+            },
+            {
+              "token": ":",
+              "logprob": -0.04330795630812645
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "None. The material is in your hand. (If you press too hard you will break it)",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.062486410140991
+            },
+            {
+              "token": ".",
+              "logprob": -1.17824387550354
+            },
+            {
+              "token": " The",
+              "logprob": -2.0979738235473633
+            },
+            {
+              "token": " material",
+              "logprob": -2.750901699066162
+            },
+            {
+              "token": " is",
+              "logprob": -2.0361149311065674
+            },
+            {
+              "token": " in",
+              "logprob": -3.394329786300659
+            },
+            {
+              "token": " your",
+              "logprob": -2.78243350982666
+            },
+            {
+              "token": " hand",
+              "logprob": -3.095797061920166
+            },
+            {
+              "token": ".",
+              "logprob": -0.4661334753036499
+            },
+            {
+              "token": " (",
+              "logprob": -5.115049362182617
+            },
+            {
+              "token": "If",
+              "logprob": -4.480631351470947
+            },
+            {
+              "token": " you",
+              "logprob": -0.39360904693603516
+            },
+            {
+              "token": " press",
+              "logprob": -4.006303310394287
+            },
+            {
+              "token": " too",
+              "logprob": -0.6334957480430603
+            },
+            {
+              "token": " hard",
+              "logprob": -0.028676234185695648
+            },
+            {
+              "token": " you",
+              "logprob": -2.615664482116699
+            },
+            {
+              "token": " will",
+              "logprob": -0.8615479469299316
+            },
+            {
+              "token": " break",
+              "logprob": -0.22609150409698486
+            },
+            {
+              "token": " it",
+              "logprob": -0.8805073499679565
+            },
+            {
+              "token": ")\n\n",
+              "logprob": -3.9098477363586426
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A plastic spoon.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.591404676437378
+            },
+            {
+              "token": " plastic",
+              "logprob": -0.4836938977241516
+            },
+            {
+              "token": " spoon",
+              "logprob": -0.10519672185182571
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.7356700897216797
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The material doesn't matter because there is only one way it could have been broken. It would be important to figure out what could have broke it but not likely given the other examples. If something else than Oliver caused a broken spoon, they are still responsible for causing the breakage. (Hint: Not responsible as a synonym)",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.5798652172088623
+            },
+            {
+              "token": " material",
+              "logprob": -2.2774763107299805
+            },
+            {
+              "token": " doesn",
+              "logprob": -3.4923672676086426
+            },
+            {
+              "token": "'t",
+              "logprob": -0.3219093382358551
+            },
+            {
+              "token": " matter",
+              "logprob": -0.32903268933296204
+            },
+            {
+              "token": " because",
+              "logprob": -2.1311299800872803
+            },
+            {
+              "token": " there",
+              "logprob": -3.699047565460205
+            },
+            {
+              "token": " is",
+              "logprob": -0.9176956415176392
+            },
+            {
+              "token": " only",
+              "logprob": -2.252861976623535
+            },
+            {
+              "token": " one",
+              "logprob": -0.11218426376581192
+            },
+            {
+              "token": " way",
+              "logprob": -3.0602023601531982
+            },
+            {
+              "token": " it",
+              "logprob": -3.548872709274292
+            },
+            {
+              "token": " could",
+              "logprob": -1.2634663581848145
+            },
+            {
+              "token": " have",
+              "logprob": -0.6924225687980652
+            },
+            {
+              "token": " been",
+              "logprob": -2.327244758605957
+            },
+            {
+              "token": " broken",
+              "logprob": -0.46342992782592773
+            },
+            {
+              "token": ".",
+              "logprob": -0.4372127056121826
+            },
+            {
+              "token": " It",
+              "logprob": -3.065945625305176
+            },
+            {
+              "token": " would",
+              "logprob": -3.1997106075286865
+            },
+            {
+              "token": " be",
+              "logprob": -1.483344316482544
+            },
+            {
+              "token": " important",
+              "logprob": -4.070565223693848
+            },
+            {
+              "token": " to",
+              "logprob": -0.35356462001800537
+            },
+            {
+              "token": " figure",
+              "logprob": -4.025565147399902
+            },
+            {
+              "token": " out",
+              "logprob": -0.07047130912542343
+            },
+            {
+              "token": " what",
+              "logprob": -1.6342743635177612
+            },
+            {
+              "token": " could",
+              "logprob": -2.790618658065796
+            },
+            {
+              "token": " have",
+              "logprob": -0.16237600147724152
+            },
+            {
+              "token": " broke",
+              "logprob": -3.6166832447052
+            },
+            {
+              "token": " it",
+              "logprob": -0.6597577929496765
+            },
+            {
+              "token": " but",
+              "logprob": -4.067910194396973
+            },
+            {
+              "token": " not",
+              "logprob": -2.1490559577941895
+            },
+            {
+              "token": " likely",
+              "logprob": -4.732741355895996
+            },
+            {
+              "token": " given",
+              "logprob": -5.0859222412109375
+            },
+            {
+              "token": " the",
+              "logprob": -0.6745961308479309
+            },
+            {
+              "token": " other",
+              "logprob": -3.1868982315063477
+            },
+            {
+              "token": " examples",
+              "logprob": -5.096322059631348
+            },
+            {
+              "token": ".",
+              "logprob": -0.7156521677970886
+            },
+            {
+              "token": " If",
+              "logprob": -4.099948883056641
+            },
+            {
+              "token": " something",
+              "logprob": -3.6713528633117676
+            },
+            {
+              "token": " else",
+              "logprob": -1.9395310878753662
+            },
+            {
+              "token": " than",
+              "logprob": -4.2401509284973145
+            },
+            {
+              "token": " Oliver",
+              "logprob": -1.6723334789276123
+            },
+            {
+              "token": " caused",
+              "logprob": -4.41230583190918
+            },
+            {
+              "token": " a",
+              "logprob": -4.471856117248535
+            },
+            {
+              "token": " broken",
+              "logprob": -1.626698613166809
+            },
+            {
+              "token": " spoon",
+              "logprob": -0.10607549548149109
+            },
+            {
+              "token": ",",
+              "logprob": -0.5102835297584534
+            },
+            {
+              "token": " they",
+              "logprob": -4.797661304473877
+            },
+            {
+              "token": " are",
+              "logprob": -2.941274642944336
+            },
+            {
+              "token": " still",
+              "logprob": -3.796668767929077
+            },
+            {
+              "token": " responsible",
+              "logprob": -2.070279836654663
+            },
+            {
+              "token": " for",
+              "logprob": -0.3216143846511841
+            },
+            {
+              "token": " causing",
+              "logprob": -3.859989643096924
+            },
+            {
+              "token": " the",
+              "logprob": -0.8513306975364685
+            },
+            {
+              "token": " break",
+              "logprob": -1.80678129196167
+            },
+            {
+              "token": "age",
+              "logprob": -0.5907536745071411
+            },
+            {
+              "token": ".",
+              "logprob": -0.5618408918380737
+            },
+            {
+              "token": " (",
+              "logprob": -4.996091842651367
+            },
+            {
+              "token": "Hint",
+              "logprob": -4.207464694976807
+            },
+            {
+              "token": ":",
+              "logprob": -0.17315293848514557
+            },
+            {
+              "token": " Not",
+              "logprob": -5.535036563873291
+            },
+            {
+              "token": " responsible",
+              "logprob": -3.5926637649536133
+            },
+            {
+              "token": " as",
+              "logprob": -4.6131744384765625
+            },
+            {
+              "token": " a",
+              "logprob": -1.9659209251403809
+            },
+            {
+              "token": " synonym",
+              "logprob": -3.949213981628418
+            },
+            {
+              "token": ")",
+              "logprob": -4.005539894104004
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.939774513244629
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "What material is the spoon Oliver broke?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.903306722640991
+            },
+            {
+              "token": " material",
+              "logprob": -0.12338129431009293
+            },
+            {
+              "token": " is",
+              "logprob": -2.4950668811798096
+            },
+            {
+              "token": " the",
+              "logprob": -0.12302371114492416
+            },
+            {
+              "token": " spoon",
+              "logprob": -0.10814350098371506
+            },
+            {
+              "token": " Oliver",
+              "logprob": -0.11472044885158539
+            },
+            {
+              "token": " broke",
+              "logprob": -0.08360826224088669
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.6588597297668457
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Plastic B: Bread C: Concrete",
+          "token_data": [
+            {
+              "token": " Plastic",
+              "logprob": -2.0779998302459717
+            },
+            {
+              "token": " B",
+              "logprob": -3.142192840576172
+            },
+            {
+              "token": ":",
+              "logprob": -0.01149189006537199
+            },
+            {
+              "token": " Bread",
+              "logprob": -4.520931720733643
+            },
+            {
+              "token": " C",
+              "logprob": -0.1432906985282898
+            },
+            {
+              "token": ":",
+              "logprob": -0.004596857354044914
+            },
+            {
+              "token": " Concrete",
+              "logprob": -4.975240707397461
+            },
+            {
+              "token": " Q",
+              "logprob": -1.8256423473358154
+            },
+            {
+              "token": ":",
+              "logprob": -0.0708823949098587
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "What material was Oliver’s broken spoon? (use this format)",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.903306722640991
+            },
+            {
+              "token": " material",
+              "logprob": -0.12338129431009293
+            },
+            {
+              "token": " was",
+              "logprob": -0.3073245584964752
+            },
+            {
+              "token": " Oliver",
+              "logprob": -2.4683148860931396
+            },
+            {
+              "token": "’s",
+              "logprob": -1.2504420280456543
+            },
+            {
+              "token": " broken",
+              "logprob": -1.0574134588241577
+            },
+            {
+              "token": " spoon",
+              "logprob": -0.05861686170101166
+            },
+            {
+              "token": "?",
+              "logprob": -0.36012396216392517
+            },
+            {
+              "token": " (",
+              "logprob": -3.5818657875061035
+            },
+            {
+              "token": "use",
+              "logprob": -5.019927024841309
+            },
+            {
+              "token": " this",
+              "logprob": -3.275294780731201
+            },
+            {
+              "token": " format",
+              "logprob": -3.0172817707061768
+            },
+            {
+              "token": ")",
+              "logprob": -1.591725468635559
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.0386273860931396
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What material was the spoon Liam broke?",
+      "character": "Liam",
+      "story": "Oliver and Liam were best friends. One day, they decided to have a picnic in the park. Oliver packed sandwiches, and Liam brought juice. They sat on a blanket under a big tree. Oliver was very hungry, so he grabbed a plastic spoon to eat his pudding. He pressed too hard, and Oliver broke a plastic spoon. Liam laughed because Oliver looked surprised. \"Now how will you eat your pudding?\" Liam asked. Oliver shrugged and used his fingers instead. Liam shook his head but kept laughing. After eating, they played soccer. Oliver was good at running, and Liam was good at kicking the ball. They had so much fun that they didn’t notice the sun going down. When it got dark, they packed up and went home. Oliver still had the broken spoon in his pocket. He showed it to his mom and said, \"Look what happened!\" She just smiled and told him to be careful next time. Oliver and Liam promised to have another picnic soon.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "He is using the broken spoon to show you what happened. The next sentence will use this new knowledge!  Look what happened to Oliver! Oliver broke his spoon as a warning sign so he could not be careless and make it clear to his family not to have another picnic in that park but instead somewhere safer.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.4443817138671875
+            },
+            {
+              "token": " He",
+              "logprob": -5.020907402038574
+            },
+            {
+              "token": " is",
+              "logprob": -4.001191139221191
+            },
+            {
+              "token": " using",
+              "logprob": -3.8783555030822754
+            },
+            {
+              "token": " the",
+              "logprob": -3.0293827056884766
+            },
+            {
+              "token": " broken",
+              "logprob": -4.009838581085205
+            },
+            {
+              "token": " spoon",
+              "logprob": -0.15209421515464783
+            },
+            {
+              "token": " to",
+              "logprob": -1.1669007539749146
+            },
+            {
+              "token": " show",
+              "logprob": -2.899320125579834
+            },
+            {
+              "token": " you",
+              "logprob": -3.2052676677703857
+            },
+            {
+              "token": " what",
+              "logprob": -1.0370622873306274
+            },
+            {
+              "token": " happened",
+              "logprob": -0.09592480212450027
+            },
+            {
+              "token": ".",
+              "logprob": -0.5800789594650269
+            },
+            {
+              "token": " The",
+              "logprob": -3.7565622329711914
+            },
+            {
+              "token": " next",
+              "logprob": -4.344839572906494
+            },
+            {
+              "token": " sentence",
+              "logprob": -2.2599740028381348
+            },
+            {
+              "token": " will",
+              "logprob": -1.7194517850875854
+            },
+            {
+              "token": " use",
+              "logprob": -4.641183376312256
+            },
+            {
+              "token": " this",
+              "logprob": -1.507411003112793
+            },
+            {
+              "token": " new",
+              "logprob": -4.811101913452148
+            },
+            {
+              "token": " knowledge",
+              "logprob": -2.845632553100586
+            },
+            {
+              "token": "!",
+              "logprob": -4.190073013305664
+            },
+            {
+              "token": " ",
+              "logprob": -2.5248770713806152
+            },
+            {
+              "token": " Look",
+              "logprob": -4.0665130615234375
+            },
+            {
+              "token": " what",
+              "logprob": -0.36442622542381287
+            },
+            {
+              "token": " happened",
+              "logprob": -0.057232096791267395
+            },
+            {
+              "token": " to",
+              "logprob": -3.3648197650909424
+            },
+            {
+              "token": " Oliver",
+              "logprob": -0.850948691368103
+            },
+            {
+              "token": "!",
+              "logprob": -1.6216442584991455
+            },
+            {
+              "token": " Oliver",
+              "logprob": -3.1305413246154785
+            },
+            {
+              "token": " broke",
+              "logprob": -2.255253791809082
+            },
+            {
+              "token": " his",
+              "logprob": -2.60807728767395
+            },
+            {
+              "token": " spoon",
+              "logprob": -0.3476657569408417
+            },
+            {
+              "token": " as",
+              "logprob": -4.82051420211792
+            },
+            {
+              "token": " a",
+              "logprob": -1.7082808017730713
+            },
+            {
+              "token": " warning",
+              "logprob": -3.9223666191101074
+            },
+            {
+              "token": " sign",
+              "logprob": -4.159377098083496
+            },
+            {
+              "token": " so",
+              "logprob": -4.837581157684326
+            },
+            {
+              "token": " he",
+              "logprob": -1.3274428844451904
+            },
+            {
+              "token": " could",
+              "logprob": -2.289914846420288
+            },
+            {
+              "token": " not",
+              "logprob": -1.4533342123031616
+            },
+            {
+              "token": " be",
+              "logprob": -3.1017394065856934
+            },
+            {
+              "token": " careless",
+              "logprob": -3.5224101543426514
+            },
+            {
+              "token": " and",
+              "logprob": -2.9715347290039062
+            },
+            {
+              "token": " make",
+              "logprob": -4.286314487457275
+            },
+            {
+              "token": " it",
+              "logprob": -4.151512145996094
+            },
+            {
+              "token": " clear",
+              "logprob": -3.1265249252319336
+            },
+            {
+              "token": " to",
+              "logprob": -1.5355206727981567
+            },
+            {
+              "token": " his",
+              "logprob": -1.6512953042984009
+            },
+            {
+              "token": " family",
+              "logprob": -3.130702018737793
+            },
+            {
+              "token": " not",
+              "logprob": -3.1865234375
+            },
+            {
+              "token": " to",
+              "logprob": -0.020958155393600464
+            },
+            {
+              "token": " have",
+              "logprob": -4.1976141929626465
+            },
+            {
+              "token": " another",
+              "logprob": -1.3399215936660767
+            },
+            {
+              "token": " picnic",
+              "logprob": -0.02236081473529339
+            },
+            {
+              "token": " in",
+              "logprob": -4.012052536010742
+            },
+            {
+              "token": " that",
+              "logprob": -4.1561102867126465
+            },
+            {
+              "token": " park",
+              "logprob": -0.8061476945877075
+            },
+            {
+              "token": " but",
+              "logprob": -3.689399480819702
+            },
+            {
+              "token": " instead",
+              "logprob": -1.7682979106903076
+            },
+            {
+              "token": " somewhere",
+              "logprob": -4.414855003356934
+            },
+            {
+              "token": " safer",
+              "logprob": -2.479818344116211
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.8473918437957764
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Plastic",
+          "token_data": [
+            {
+              "token": " Plastic",
+              "logprob": -2.0445945262908936
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.0759243965148926
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "It is easy to clean the table at home. But if you work with a lot of people, there are two ways to clean up after the meeting: Use the plastic spoon as a knife (e.g., pressing too hard), which Oliver broke while eating.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -4.168381690979004
+            },
+            {
+              "token": " is",
+              "logprob": -2.756859302520752
+            },
+            {
+              "token": " easy",
+              "logprob": -4.112563133239746
+            },
+            {
+              "token": " to",
+              "logprob": -0.1289399117231369
+            },
+            {
+              "token": " clean",
+              "logprob": -4.144039154052734
+            },
+            {
+              "token": " the",
+              "logprob": -3.3098721504211426
+            },
+            {
+              "token": " table",
+              "logprob": -4.303528785705566
+            },
+            {
+              "token": " at",
+              "logprob": -4.5651397705078125
+            },
+            {
+              "token": " home",
+              "logprob": -0.7222120761871338
+            },
+            {
+              "token": ".",
+              "logprob": -0.737940788269043
+            },
+            {
+              "token": " But",
+              "logprob": -4.327600479125977
+            },
+            {
+              "token": " if",
+              "logprob": -3.1009175777435303
+            },
+            {
+              "token": " you",
+              "logprob": -0.4666896462440491
+            },
+            {
+              "token": " work",
+              "logprob": -4.695224761962891
+            },
+            {
+              "token": " with",
+              "logprob": -2.3943116664886475
+            },
+            {
+              "token": " a",
+              "logprob": -1.7180602550506592
+            },
+            {
+              "token": " lot",
+              "logprob": -0.9786619544029236
+            },
+            {
+              "token": " of",
+              "logprob": -0.020302575081586838
+            },
+            {
+              "token": " people",
+              "logprob": -0.6115930676460266
+            },
+            {
+              "token": ",",
+              "logprob": -0.5633957982063293
+            },
+            {
+              "token": " there",
+              "logprob": -4.038753032684326
+            },
+            {
+              "token": " are",
+              "logprob": -1.6013504266738892
+            },
+            {
+              "token": " two",
+              "logprob": -4.44548225402832
+            },
+            {
+              "token": " ways",
+              "logprob": -1.1780835390090942
+            },
+            {
+              "token": " to",
+              "logprob": -0.3663271963596344
+            },
+            {
+              "token": " clean",
+              "logprob": -0.843124508857727
+            },
+            {
+              "token": " up",
+              "logprob": -1.5155291557312012
+            },
+            {
+              "token": " after",
+              "logprob": -2.097588539123535
+            },
+            {
+              "token": " the",
+              "logprob": -2.36853289604187
+            },
+            {
+              "token": " meeting",
+              "logprob": -1.6075422763824463
+            },
+            {
+              "token": ":",
+              "logprob": -2.0625393390655518
+            },
+            {
+              "token": " Use",
+              "logprob": -4.723210334777832
+            },
+            {
+              "token": " the",
+              "logprob": -1.2524340152740479
+            },
+            {
+              "token": " plastic",
+              "logprob": -4.965258598327637
+            },
+            {
+              "token": " spoon",
+              "logprob": -0.2711009383201599
+            },
+            {
+              "token": " as",
+              "logprob": -2.8446836471557617
+            },
+            {
+              "token": " a",
+              "logprob": -0.5201404690742493
+            },
+            {
+              "token": " knife",
+              "logprob": -3.50575852394104
+            },
+            {
+              "token": " (",
+              "logprob": -3.8437678813934326
+            },
+            {
+              "token": "e",
+              "logprob": -5.317275047302246
+            },
+            {
+              "token": ".g",
+              "logprob": -0.25350525975227356
+            },
+            {
+              "token": ".,",
+              "logprob": -1.088780403137207
+            },
+            {
+              "token": " pressing",
+              "logprob": -4.737054824829102
+            },
+            {
+              "token": " too",
+              "logprob": -1.711453914642334
+            },
+            {
+              "token": " hard",
+              "logprob": -0.022550459951162338
+            },
+            {
+              "token": "),",
+              "logprob": -2.3553833961486816
+            },
+            {
+              "token": " which",
+              "logprob": -2.7520546913146973
+            },
+            {
+              "token": " Oliver",
+              "logprob": -3.5504541397094727
+            },
+            {
+              "token": " broke",
+              "logprob": -0.9700635671615601
+            },
+            {
+              "token": " while",
+              "logprob": -4.818325996398926
+            },
+            {
+              "token": " eating",
+              "logprob": -0.9027878642082214
+            },
+            {
+              "token": ".",
+              "logprob": -2.1045103073120117
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.4816415309906006
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "What material was the spoon that Oliver broke? The answer is both A and B. (1 point)",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.3431432247161865
+            },
+            {
+              "token": " material",
+              "logprob": -0.1322350949048996
+            },
+            {
+              "token": " was",
+              "logprob": -0.3327714204788208
+            },
+            {
+              "token": " the",
+              "logprob": -0.11842582374811172
+            },
+            {
+              "token": " spoon",
+              "logprob": -0.08441932499408722
+            },
+            {
+              "token": " that",
+              "logprob": -2.1603851318359375
+            },
+            {
+              "token": " Oliver",
+              "logprob": -0.38648369908332825
+            },
+            {
+              "token": " broke",
+              "logprob": -0.07920565456151962
+            },
+            {
+              "token": "?",
+              "logprob": -0.21971188485622406
+            },
+            {
+              "token": " The",
+              "logprob": -3.246253252029419
+            },
+            {
+              "token": " answer",
+              "logprob": -3.4099178314208984
+            },
+            {
+              "token": " is",
+              "logprob": -0.8131844997406006
+            },
+            {
+              "token": " both",
+              "logprob": -4.091038703918457
+            },
+            {
+              "token": " A",
+              "logprob": -3.728404998779297
+            },
+            {
+              "token": " and",
+              "logprob": -0.2524580955505371
+            },
+            {
+              "token": " B",
+              "logprob": -0.2527749538421631
+            },
+            {
+              "token": ".",
+              "logprob": -0.5931159853935242
+            },
+            {
+              "token": " (",
+              "logprob": -4.875770568847656
+            },
+            {
+              "token": "1",
+              "logprob": -3.9935860633850098
+            },
+            {
+              "token": " point",
+              "logprob": -0.5722864270210266
+            },
+            {
+              "token": ")\n",
+              "logprob": -2.2567856311798096
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "A plastic spoon.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.448633909225464
+            },
+            {
+              "token": " plastic",
+              "logprob": -0.5219287276268005
+            },
+            {
+              "token": " spoon",
+              "logprob": -0.10110127925872803
+            },
+            {
+              "token": ".",
+              "logprob": -0.8133677840232849
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6054050326347351
+            },
+            {
+              "token": ":",
+              "logprob": -0.023819131776690483
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.286384582519531
+            },
+            {
+              "token": ":",
+              "logprob": -0.6039415001869202
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The spoon was broken plastic, and the spoon material was glass. Why did Oliver break a spoon?",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.6717565059661865
+            },
+            {
+              "token": " spoon",
+              "logprob": -0.9171565771102905
+            },
+            {
+              "token": " was",
+              "logprob": -0.9823122620582581
+            },
+            {
+              "token": " broken",
+              "logprob": -3.2491941452026367
+            },
+            {
+              "token": " plastic",
+              "logprob": -2.7418599128723145
+            },
+            {
+              "token": ",",
+              "logprob": -2.979457139968872
+            },
+            {
+              "token": " and",
+              "logprob": -2.368917942047119
+            },
+            {
+              "token": " the",
+              "logprob": -2.301349639892578
+            },
+            {
+              "token": " spoon",
+              "logprob": -2.1924564838409424
+            },
+            {
+              "token": " material",
+              "logprob": -3.984570026397705
+            },
+            {
+              "token": " was",
+              "logprob": -0.6170521974563599
+            },
+            {
+              "token": " glass",
+              "logprob": -4.774946212768555
+            },
+            {
+              "token": ".",
+              "logprob": -0.3517018258571625
+            },
+            {
+              "token": " Why",
+              "logprob": -3.8751394748687744
+            },
+            {
+              "token": " did",
+              "logprob": -1.6941734552383423
+            },
+            {
+              "token": " Oliver",
+              "logprob": -0.6816683411598206
+            },
+            {
+              "token": " break",
+              "logprob": -1.6371800899505615
+            },
+            {
+              "token": " a",
+              "logprob": -1.0345616340637207
+            },
+            {
+              "token": " spoon",
+              "logprob": -1.7940300703048706
+            },
+            {
+              "token": "?",
+              "logprob": -0.590563178062439
+            },
+            {
+              "token": " Q",
+              "logprob": -3.802708148956299
+            },
+            {
+              "token": ":",
+              "logprob": -0.04330304637551308
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "He said that he had so much fun, they didn't notice the sun going down when it got dark and they packed up to go home.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -4.835843086242676
+            },
+            {
+              "token": " said",
+              "logprob": -4.041848182678223
+            },
+            {
+              "token": " that",
+              "logprob": -2.401102066040039
+            },
+            {
+              "token": " he",
+              "logprob": -1.4596686363220215
+            },
+            {
+              "token": " had",
+              "logprob": -2.446213722229004
+            },
+            {
+              "token": " so",
+              "logprob": -3.1145219802856445
+            },
+            {
+              "token": " much",
+              "logprob": -0.046724528074264526
+            },
+            {
+              "token": " fun",
+              "logprob": -0.02524905651807785
+            },
+            {
+              "token": ",",
+              "logprob": -3.1061668395996094
+            },
+            {
+              "token": " they",
+              "logprob": -3.023209571838379
+            },
+            {
+              "token": " didn",
+              "logprob": -0.3868521749973297
+            },
+            {
+              "token": "'t",
+              "logprob": -0.6727103590965271
+            },
+            {
+              "token": " notice",
+              "logprob": -0.253268837928772
+            },
+            {
+              "token": " the",
+              "logprob": -0.3963042199611664
+            },
+            {
+              "token": " sun",
+              "logprob": -0.13354969024658203
+            },
+            {
+              "token": " going",
+              "logprob": -0.13108627498149872
+            },
+            {
+              "token": " down",
+              "logprob": -0.03899288922548294
+            },
+            {
+              "token": " when",
+              "logprob": -2.5004613399505615
+            },
+            {
+              "token": " it",
+              "logprob": -0.18938696384429932
+            },
+            {
+              "token": " got",
+              "logprob": -0.2135826051235199
+            },
+            {
+              "token": " dark",
+              "logprob": -0.08497244119644165
+            },
+            {
+              "token": " and",
+              "logprob": -2.1629879474639893
+            },
+            {
+              "token": " they",
+              "logprob": -0.4500642418861389
+            },
+            {
+              "token": " packed",
+              "logprob": -0.3359319567680359
+            },
+            {
+              "token": " up",
+              "logprob": -0.07048731297254562
+            },
+            {
+              "token": " to",
+              "logprob": -3.3328616619110107
+            },
+            {
+              "token": " go",
+              "logprob": -0.11070135980844498
+            },
+            {
+              "token": " home",
+              "logprob": -0.061892203986644745
+            },
+            {
+              "token": ".",
+              "logprob": -0.3226200342178345
+            },
+            {
+              "token": " \n",
+              "logprob": -3.558645009994507
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "He showed it to his mom and said, Look what happened!\"",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -4.835843086242676
+            },
+            {
+              "token": " showed",
+              "logprob": -2.7667906284332275
+            },
+            {
+              "token": " it",
+              "logprob": -0.22988927364349365
+            },
+            {
+              "token": " to",
+              "logprob": -0.024401908740401268
+            },
+            {
+              "token": " his",
+              "logprob": -0.03480558842420578
+            },
+            {
+              "token": " mom",
+              "logprob": -0.05823950469493866
+            },
+            {
+              "token": " and",
+              "logprob": -0.3589707612991333
+            },
+            {
+              "token": " said",
+              "logprob": -0.13063561916351318
+            },
+            {
+              "token": ",",
+              "logprob": -0.17968229949474335
+            },
+            {
+              "token": " Look",
+              "logprob": -3.0653584003448486
+            },
+            {
+              "token": " what",
+              "logprob": -0.059346891939640045
+            },
+            {
+              "token": " happened",
+              "logprob": -0.04173500835895538
+            },
+            {
+              "token": "!\"",
+              "logprob": -2.3862051963806152
+            },
+            {
+              "token": " \n",
+              "logprob": -2.9053895473480225
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.286384582519531
+            },
+            {
+              "token": ":",
+              "logprob": -0.6039415001869202
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

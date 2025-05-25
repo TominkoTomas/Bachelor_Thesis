@@ -1,0 +1,1631 @@
+{
+  "story": "James and Taylor were best friends. One day, James wanted to do something nice for Taylor. He decided to bake a cake because Taylor loved sweet treats. James baked a chocolate cake. It was his first time baking, so he was very careful. He mixed the flour, sugar, and cocoa powder. He added eggs and milk. Then he baked it in the oven. The smell filled the house. Taylor was outside playing but didn’t know about the cake. James waited for the cake to cool. He put icing on top and added sprinkles. When Taylor came inside, James surprised him with the cake. Taylor was happy and thanked James. They ate the cake together and laughed. It was a little messy, but it tasted great. James was proud of his baking. Taylor said it was the best cake he ever had. They promised to bake together next time. The day ended with full stomachs and big smiles.",
+  "characters": [
+    {
+      "question": "What flavor was the cake James baked?",
+      "character": "James",
+      "story": "James and Taylor were best friends. One day, James wanted to do something nice for Taylor. He decided to bake a cake because Taylor loved sweet treats. James baked a chocolate cake. It was his first time baking, so he was very careful. He mixed the flour, sugar, and cocoa powder. He added eggs and milk. Then he baked it in the oven. The smell filled the house. Taylor was outside playing but didn’t know about the cake. James waited for the cake to cool. He put icing on top and added sprinkles. When Taylor came inside, James surprised him with the cake. Taylor was happy and thanked James. They ate the cake together and laughed. It was a little messy, but it tasted great. James was proud of his baking. Taylor said it was the best cake he ever had. They promised to bake together next time. The day ended with full stomachs and big smiles.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The cake that James baked was chocolate.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.916934609413147
+            },
+            {
+              "token": " cake",
+              "logprob": -0.20898889005184174
+            },
+            {
+              "token": " that",
+              "logprob": -3.2477192878723145
+            },
+            {
+              "token": " James",
+              "logprob": -0.030138103291392326
+            },
+            {
+              "token": " baked",
+              "logprob": -0.09630098938941956
+            },
+            {
+              "token": " was",
+              "logprob": -0.2375234067440033
+            },
+            {
+              "token": " chocolate",
+              "logprob": -1.056479811668396
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.1601192951202393
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "None",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.6204166412353516
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.7608823776245117
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "None of the above.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.6204166412353516
+            },
+            {
+              "token": " of",
+              "logprob": -0.768854022026062
+            },
+            {
+              "token": " the",
+              "logprob": -0.2217475324869156
+            },
+            {
+              "token": " above",
+              "logprob": -0.1319814771413803
+            },
+            {
+              "token": ".",
+              "logprob": -0.523822009563446
+            },
+            {
+              "token": " \n",
+              "logprob": -1.8727073669433594
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "chocolate.",
+          "token_data": [
+            {
+              "token": " chocolate",
+              "logprob": -3.4215517044067383
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.9779181480407715
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The cake James baked was a chocolate cake. The next sentence must have chocolate cake in it.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.891943097114563
+            },
+            {
+              "token": " cake",
+              "logprob": -0.20930783450603485
+            },
+            {
+              "token": " James",
+              "logprob": -0.8360760807991028
+            },
+            {
+              "token": " baked",
+              "logprob": -0.040008749812841415
+            },
+            {
+              "token": " was",
+              "logprob": -0.21142825484275818
+            },
+            {
+              "token": " a",
+              "logprob": -0.7753902673721313
+            },
+            {
+              "token": " chocolate",
+              "logprob": -0.18023933470249176
+            },
+            {
+              "token": " cake",
+              "logprob": -0.05050990730524063
+            },
+            {
+              "token": ".",
+              "logprob": -0.24531136453151703
+            },
+            {
+              "token": " The",
+              "logprob": -3.359173059463501
+            },
+            {
+              "token": " next",
+              "logprob": -4.436919212341309
+            },
+            {
+              "token": " sentence",
+              "logprob": -3.6387977600097656
+            },
+            {
+              "token": " must",
+              "logprob": -2.275374412536621
+            },
+            {
+              "token": " have",
+              "logprob": -3.716137409210205
+            },
+            {
+              "token": " chocolate",
+              "logprob": -1.8445961475372314
+            },
+            {
+              "token": " cake",
+              "logprob": -1.5565407276153564
+            },
+            {
+              "token": " in",
+              "logprob": -0.503481924533844
+            },
+            {
+              "token": " it",
+              "logprob": -0.05098818987607956
+            },
+            {
+              "token": ".",
+              "logprob": -0.36744818091392517
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.6602778434753418
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Taylor didn’t know what to do because he wanted to help but wasn’t sure what he could do.",
+          "token_data": [
+            {
+              "token": " Taylor",
+              "logprob": -4.044125556945801
+            },
+            {
+              "token": " didn",
+              "logprob": -3.4240827560424805
+            },
+            {
+              "token": "’t",
+              "logprob": -0.7883639335632324
+            },
+            {
+              "token": " know",
+              "logprob": -0.5506431460380554
+            },
+            {
+              "token": " what",
+              "logprob": -2.451796054840088
+            },
+            {
+              "token": " to",
+              "logprob": -2.856807231903076
+            },
+            {
+              "token": " do",
+              "logprob": -1.2210543155670166
+            },
+            {
+              "token": " because",
+              "logprob": -2.5464162826538086
+            },
+            {
+              "token": " he",
+              "logprob": -0.5536620616912842
+            },
+            {
+              "token": " wanted",
+              "logprob": -2.8266000747680664
+            },
+            {
+              "token": " to",
+              "logprob": -0.07308335602283478
+            },
+            {
+              "token": " help",
+              "logprob": -2.55389666557312
+            },
+            {
+              "token": " but",
+              "logprob": -1.894942045211792
+            },
+            {
+              "token": " wasn",
+              "logprob": -4.267357349395752
+            },
+            {
+              "token": "’t",
+              "logprob": -0.056380413472652435
+            },
+            {
+              "token": " sure",
+              "logprob": -0.539232611656189
+            },
+            {
+              "token": " what",
+              "logprob": -1.5392752885818481
+            },
+            {
+              "token": " he",
+              "logprob": -2.064117670059204
+            },
+            {
+              "token": " could",
+              "logprob": -0.32619020342826843
+            },
+            {
+              "token": " do",
+              "logprob": -0.1592261642217636
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.4952211380004883
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Taylor was happy because the cake made a mess of it. But, that didn't make it any less good! James's baking wasn't great yet, but it sure did a lot for their friendship.",
+          "token_data": [
+            {
+              "token": " Taylor",
+              "logprob": -4.044125556945801
+            },
+            {
+              "token": " was",
+              "logprob": -2.673768997192383
+            },
+            {
+              "token": " happy",
+              "logprob": -2.1130175590515137
+            },
+            {
+              "token": " because",
+              "logprob": -1.9458973407745361
+            },
+            {
+              "token": " the",
+              "logprob": -2.017117977142334
+            },
+            {
+              "token": " cake",
+              "logprob": -0.14153490960597992
+            },
+            {
+              "token": " made",
+              "logprob": -3.735542058944702
+            },
+            {
+              "token": " a",
+              "logprob": -1.8040857315063477
+            },
+            {
+              "token": " mess",
+              "logprob": -1.7874538898468018
+            },
+            {
+              "token": " of",
+              "logprob": -3.7155797481536865
+            },
+            {
+              "token": " it",
+              "logprob": -3.3283615112304688
+            },
+            {
+              "token": ".",
+              "logprob": -0.8033275008201599
+            },
+            {
+              "token": " But",
+              "logprob": -4.855146408081055
+            },
+            {
+              "token": ",",
+              "logprob": -1.7607988119125366
+            },
+            {
+              "token": " that",
+              "logprob": -3.8876912593841553
+            },
+            {
+              "token": " didn",
+              "logprob": -2.6948561668395996
+            },
+            {
+              "token": "'t",
+              "logprob": -0.8708164691925049
+            },
+            {
+              "token": " make",
+              "logprob": -2.669761896133423
+            },
+            {
+              "token": " it",
+              "logprob": -0.9283830523490906
+            },
+            {
+              "token": " any",
+              "logprob": -0.43792858719825745
+            },
+            {
+              "token": " less",
+              "logprob": -0.05275328829884529
+            },
+            {
+              "token": " good",
+              "logprob": -3.0570125579833984
+            },
+            {
+              "token": "!",
+              "logprob": -2.4775447845458984
+            },
+            {
+              "token": " James",
+              "logprob": -2.426692008972168
+            },
+            {
+              "token": "'s",
+              "logprob": -4.397953510284424
+            },
+            {
+              "token": " baking",
+              "logprob": -2.16021990776062
+            },
+            {
+              "token": " wasn",
+              "logprob": -3.882978916168213
+            },
+            {
+              "token": "'t",
+              "logprob": -0.01851022243499756
+            },
+            {
+              "token": " great",
+              "logprob": -3.25551438331604
+            },
+            {
+              "token": " yet",
+              "logprob": -4.726355075836182
+            },
+            {
+              "token": ",",
+              "logprob": -0.8825724124908447
+            },
+            {
+              "token": " but",
+              "logprob": -0.4230824112892151
+            },
+            {
+              "token": " it",
+              "logprob": -1.619077205657959
+            },
+            {
+              "token": " sure",
+              "logprob": -2.206329345703125
+            },
+            {
+              "token": " did",
+              "logprob": -2.824169158935547
+            },
+            {
+              "token": " a",
+              "logprob": -2.706343650817871
+            },
+            {
+              "token": " lot",
+              "logprob": -3.7124438285827637
+            },
+            {
+              "token": " for",
+              "logprob": -3.2118468284606934
+            },
+            {
+              "token": " their",
+              "logprob": -3.2494444847106934
+            },
+            {
+              "token": " friendship",
+              "logprob": -0.3192981481552124
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.4657187461853027
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Taylor loved chocolate, but that was because James mixed the flour, sugar and cocoa powder. It was James's first time baking.",
+          "token_data": [
+            {
+              "token": " Taylor",
+              "logprob": -4.044125556945801
+            },
+            {
+              "token": " loved",
+              "logprob": -1.3286458253860474
+            },
+            {
+              "token": " chocolate",
+              "logprob": -0.6834028959274292
+            },
+            {
+              "token": ",",
+              "logprob": -2.1850099563598633
+            },
+            {
+              "token": " but",
+              "logprob": -2.3494439125061035
+            },
+            {
+              "token": " that",
+              "logprob": -3.432621479034424
+            },
+            {
+              "token": " was",
+              "logprob": -1.5007809400558472
+            },
+            {
+              "token": " because",
+              "logprob": -3.9750404357910156
+            },
+            {
+              "token": " James",
+              "logprob": -1.8095629215240479
+            },
+            {
+              "token": " mixed",
+              "logprob": -3.9168620109558105
+            },
+            {
+              "token": " the",
+              "logprob": -0.7960689067840576
+            },
+            {
+              "token": " flour",
+              "logprob": -0.8351352214813232
+            },
+            {
+              "token": ",",
+              "logprob": -0.030909206718206406
+            },
+            {
+              "token": " sugar",
+              "logprob": -0.014062954112887383
+            },
+            {
+              "token": " and",
+              "logprob": -2.8982596397399902
+            },
+            {
+              "token": " cocoa",
+              "logprob": -0.06659561395645142
+            },
+            {
+              "token": " powder",
+              "logprob": -0.1766432523727417
+            },
+            {
+              "token": ".",
+              "logprob": -0.8494938015937805
+            },
+            {
+              "token": " It",
+              "logprob": -2.0499606132507324
+            },
+            {
+              "token": " was",
+              "logprob": -0.21641625463962555
+            },
+            {
+              "token": " James",
+              "logprob": -1.8587926626205444
+            },
+            {
+              "token": "'s",
+              "logprob": -1.113403558731079
+            },
+            {
+              "token": " first",
+              "logprob": -0.030507370829582214
+            },
+            {
+              "token": " time",
+              "logprob": -0.02335771918296814
+            },
+            {
+              "token": " baking",
+              "logprob": -0.059373173862695694
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.123794078826904
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "James didn't put in icing.",
+          "token_data": [
+            {
+              "token": " James",
+              "logprob": -1.9884978532791138
+            },
+            {
+              "token": " didn",
+              "logprob": -2.973656177520752
+            },
+            {
+              "token": "'t",
+              "logprob": -0.5980475544929504
+            },
+            {
+              "token": " put",
+              "logprob": -3.3963072299957275
+            },
+            {
+              "token": " in",
+              "logprob": -3.481619119644165
+            },
+            {
+              "token": " icing",
+              "logprob": -4.079319953918457
+            },
+            {
+              "token": ".",
+              "logprob": -1.5895897150039673
+            },
+            {
+              "token": " \n",
+              "logprob": -2.9424450397491455
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Chocolate. James baked a chocolate cake. It was his first time baking, so he was very careful. He mixed the flour, sugar, and cocoa powder. He added eggs and milk. Then he baked it in the oven. The smell filled the house.",
+          "token_data": [
+            {
+              "token": " Chocolate",
+              "logprob": -1.5562764406204224
+            },
+            {
+              "token": ".",
+              "logprob": -1.0503363609313965
+            },
+            {
+              "token": " James",
+              "logprob": -3.4636199474334717
+            },
+            {
+              "token": " baked",
+              "logprob": -3.37656307220459
+            },
+            {
+              "token": " a",
+              "logprob": -0.19336888194084167
+            },
+            {
+              "token": " chocolate",
+              "logprob": -0.31703147292137146
+            },
+            {
+              "token": " cake",
+              "logprob": -0.006937701255083084
+            },
+            {
+              "token": ".",
+              "logprob": -0.433840274810791
+            },
+            {
+              "token": " It",
+              "logprob": -0.3330064117908478
+            },
+            {
+              "token": " was",
+              "logprob": -0.025553086772561073
+            },
+            {
+              "token": " his",
+              "logprob": -0.0529768280684948
+            },
+            {
+              "token": " first",
+              "logprob": -0.008507558144629002
+            },
+            {
+              "token": " time",
+              "logprob": -0.0025572238955646753
+            },
+            {
+              "token": " baking",
+              "logprob": -0.006858734879642725
+            },
+            {
+              "token": ",",
+              "logprob": -0.03457092121243477
+            },
+            {
+              "token": " so",
+              "logprob": -0.002496342407539487
+            },
+            {
+              "token": " he",
+              "logprob": -0.015292183496057987
+            },
+            {
+              "token": " was",
+              "logprob": -0.009745283983647823
+            },
+            {
+              "token": " very",
+              "logprob": -0.010761087760329247
+            },
+            {
+              "token": " careful",
+              "logprob": -0.030812347307801247
+            },
+            {
+              "token": ".",
+              "logprob": -0.046596650034189224
+            },
+            {
+              "token": " He",
+              "logprob": -0.06293892115354538
+            },
+            {
+              "token": " mixed",
+              "logprob": -0.040584463626146317
+            },
+            {
+              "token": " the",
+              "logprob": -0.006891410797834396
+            },
+            {
+              "token": " flour",
+              "logprob": -0.008178199641406536
+            },
+            {
+              "token": ",",
+              "logprob": -0.005481214262545109
+            },
+            {
+              "token": " sugar",
+              "logprob": -0.004290423821657896
+            },
+            {
+              "token": ",",
+              "logprob": -0.010698463767766953
+            },
+            {
+              "token": " and",
+              "logprob": -0.002788110403344035
+            },
+            {
+              "token": " cocoa",
+              "logprob": -0.009011786431074142
+            },
+            {
+              "token": " powder",
+              "logprob": -0.019162649288773537
+            },
+            {
+              "token": ".",
+              "logprob": -0.025931714102625847
+            },
+            {
+              "token": " He",
+              "logprob": -0.10111194103956223
+            },
+            {
+              "token": " added",
+              "logprob": -0.016091007739305496
+            },
+            {
+              "token": " eggs",
+              "logprob": -0.005553412716835737
+            },
+            {
+              "token": " and",
+              "logprob": -0.0032285728957504034
+            },
+            {
+              "token": " milk",
+              "logprob": -0.001492934999987483
+            },
+            {
+              "token": ".",
+              "logprob": -0.017455289140343666
+            },
+            {
+              "token": " Then",
+              "logprob": -0.1115468367934227
+            },
+            {
+              "token": " he",
+              "logprob": -0.006128685083240271
+            },
+            {
+              "token": " baked",
+              "logprob": -0.00413645850494504
+            },
+            {
+              "token": " it",
+              "logprob": -0.03076726756989956
+            },
+            {
+              "token": " in",
+              "logprob": -0.0011965027078986168
+            },
+            {
+              "token": " the",
+              "logprob": -0.0013728251215070486
+            },
+            {
+              "token": " oven",
+              "logprob": -0.008295484818518162
+            },
+            {
+              "token": ".",
+              "logprob": -0.024510325863957405
+            },
+            {
+              "token": " The",
+              "logprob": -0.06347506493330002
+            },
+            {
+              "token": " smell",
+              "logprob": -0.02157503552734852
+            },
+            {
+              "token": " filled",
+              "logprob": -0.0032556646037846804
+            },
+            {
+              "token": " the",
+              "logprob": -0.005512986332178116
+            },
+            {
+              "token": " house",
+              "logprob": -0.009336027316749096
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.968693733215332
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What flavor was the cake Taylor baked?",
+      "character": "Taylor",
+      "story": "James and Taylor were best friends. One day, James wanted to do something nice for Taylor. He decided to bake a cake because Taylor loved sweet treats. James baked a chocolate cake. It was his first time baking, so he was very careful. He mixed the flour, sugar, and cocoa powder. He added eggs and milk. Then he baked it in the oven. The smell filled the house. Taylor was outside playing but didn’t know about the cake. James waited for the cake to cool. He put icing on top and added sprinkles. When Taylor came inside, James surprised him with the cake. Taylor was happy and thanked James. They ate the cake together and laughed. It was a little messy, but it tasted great. James was proud of his baking. Taylor said it was the best cake he ever had. They promised to bake together next time. The day ended with full stomachs and big smiles.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "This sentence is incorrect.",
+          "token_data": [
+            {
+              "token": " This",
+              "logprob": -4.838964462280273
+            },
+            {
+              "token": " sentence",
+              "logprob": -3.34126615524292
+            },
+            {
+              "token": " is",
+              "logprob": -1.4439661502838135
+            },
+            {
+              "token": " incorrect",
+              "logprob": -3.7338638305664062
+            },
+            {
+              "token": ".",
+              "logprob": -0.3056689202785492
+            },
+            {
+              "token": " Q",
+              "logprob": -3.1269068717956543
+            },
+            {
+              "token": ":",
+              "logprob": -0.06478284299373627
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "N/A (They baked chocolate)",
+          "token_data": [
+            {
+              "token": " N",
+              "logprob": -4.8248677253723145
+            },
+            {
+              "token": "/A",
+              "logprob": -0.2888295352458954
+            },
+            {
+              "token": " (",
+              "logprob": -4.467937469482422
+            },
+            {
+              "token": "They",
+              "logprob": -5.446054458618164
+            },
+            {
+              "token": " baked",
+              "logprob": -3.148838996887207
+            },
+            {
+              "token": " chocolate",
+              "logprob": -2.881148099899292
+            },
+            {
+              "token": ")",
+              "logprob": -3.194138526916504
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.6825580596923828
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Caramel",
+          "token_data": [
+            {
+              "token": " C",
+              "logprob": -5.064382076263428
+            },
+            {
+              "token": "aramel",
+              "logprob": -2.456331253051758
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.0441598892211914
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Cakes are typically not named after themselves, so James decided to make a cake to thank Taylor for the way they had made an impact. You are then given clues of which flavors of sweeteners to use in order to recreate their baked good.",
+          "token_data": [
+            {
+              "token": " C",
+              "logprob": -5.064382076263428
+            },
+            {
+              "token": "akes",
+              "logprob": -2.54818058013916
+            },
+            {
+              "token": " are",
+              "logprob": -0.868638277053833
+            },
+            {
+              "token": " typically",
+              "logprob": -3.1068315505981445
+            },
+            {
+              "token": " not",
+              "logprob": -3.4298460483551025
+            },
+            {
+              "token": " named",
+              "logprob": -4.529617786407471
+            },
+            {
+              "token": " after",
+              "logprob": -1.7758077383041382
+            },
+            {
+              "token": " themselves",
+              "logprob": -2.9852185249328613
+            },
+            {
+              "token": ",",
+              "logprob": -1.544792890548706
+            },
+            {
+              "token": " so",
+              "logprob": -2.5805740356445312
+            },
+            {
+              "token": " James",
+              "logprob": -4.121461868286133
+            },
+            {
+              "token": " decided",
+              "logprob": -3.928149938583374
+            },
+            {
+              "token": " to",
+              "logprob": -0.055504780262708664
+            },
+            {
+              "token": " make",
+              "logprob": -2.989079475402832
+            },
+            {
+              "token": " a",
+              "logprob": -0.6137659549713135
+            },
+            {
+              "token": " cake",
+              "logprob": -0.668862521648407
+            },
+            {
+              "token": " to",
+              "logprob": -3.1425318717956543
+            },
+            {
+              "token": " thank",
+              "logprob": -3.5759763717651367
+            },
+            {
+              "token": " Taylor",
+              "logprob": -0.1681627780199051
+            },
+            {
+              "token": " for",
+              "logprob": -0.6579169631004333
+            },
+            {
+              "token": " the",
+              "logprob": -3.6490731239318848
+            },
+            {
+              "token": " way",
+              "logprob": -4.196298122406006
+            },
+            {
+              "token": " they",
+              "logprob": -1.6626379489898682
+            },
+            {
+              "token": " had",
+              "logprob": -2.144514799118042
+            },
+            {
+              "token": " made",
+              "logprob": -4.982402801513672
+            },
+            {
+              "token": " an",
+              "logprob": -2.670854091644287
+            },
+            {
+              "token": " impact",
+              "logprob": -0.8640467524528503
+            },
+            {
+              "token": ".",
+              "logprob": -2.166649580001831
+            },
+            {
+              "token": " You",
+              "logprob": -5.09714412689209
+            },
+            {
+              "token": " are",
+              "logprob": -2.7691354751586914
+            },
+            {
+              "token": " then",
+              "logprob": -4.808676242828369
+            },
+            {
+              "token": " given",
+              "logprob": -3.2229018211364746
+            },
+            {
+              "token": " clues",
+              "logprob": -4.88775634765625
+            },
+            {
+              "token": " of",
+              "logprob": -3.6179423332214355
+            },
+            {
+              "token": " which",
+              "logprob": -4.22329044342041
+            },
+            {
+              "token": " flavors",
+              "logprob": -2.2192907333374023
+            },
+            {
+              "token": " of",
+              "logprob": -3.543818950653076
+            },
+            {
+              "token": " sweet",
+              "logprob": -4.761390686035156
+            },
+            {
+              "token": "eners",
+              "logprob": -3.638845205307007
+            },
+            {
+              "token": " to",
+              "logprob": -2.07865047454834
+            },
+            {
+              "token": " use",
+              "logprob": -0.2893306314945221
+            },
+            {
+              "token": " in",
+              "logprob": -2.161748170852661
+            },
+            {
+              "token": " order",
+              "logprob": -2.5093533992767334
+            },
+            {
+              "token": " to",
+              "logprob": -0.02971755340695381
+            },
+            {
+              "token": " recreate",
+              "logprob": -4.943095684051514
+            },
+            {
+              "token": " their",
+              "logprob": -3.621290683746338
+            },
+            {
+              "token": " baked",
+              "logprob": -4.022830486297607
+            },
+            {
+              "token": " good",
+              "logprob": -2.6676652431488037
+            },
+            {
+              "token": ".",
+              "logprob": -0.4564974904060364
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.8638648986816406
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The chocolate cake. It was a little messy but it tasted great. James and Taylor promised to bake together the next time and laughed because of how good their meal had been and full stomachs and big smiles. The end of the story.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.2095751762390137
+            },
+            {
+              "token": " chocolate",
+              "logprob": -2.9352686405181885
+            },
+            {
+              "token": " cake",
+              "logprob": -0.22627443075180054
+            },
+            {
+              "token": ".",
+              "logprob": -1.2337332963943481
+            },
+            {
+              "token": " It",
+              "logprob": -1.8060517311096191
+            },
+            {
+              "token": " was",
+              "logprob": -0.21676501631736755
+            },
+            {
+              "token": " a",
+              "logprob": -1.3260525465011597
+            },
+            {
+              "token": " little",
+              "logprob": -0.6278858780860901
+            },
+            {
+              "token": " messy",
+              "logprob": -0.05547647178173065
+            },
+            {
+              "token": " but",
+              "logprob": -1.693989634513855
+            },
+            {
+              "token": " it",
+              "logprob": -1.4464826583862305
+            },
+            {
+              "token": " tasted",
+              "logprob": -0.12469811737537384
+            },
+            {
+              "token": " great",
+              "logprob": -0.08336304873228073
+            },
+            {
+              "token": ".",
+              "logprob": -0.34914347529411316
+            },
+            {
+              "token": " James",
+              "logprob": -2.8939547538757324
+            },
+            {
+              "token": " and",
+              "logprob": -4.016299247741699
+            },
+            {
+              "token": " Taylor",
+              "logprob": -0.013708493672311306
+            },
+            {
+              "token": " promised",
+              "logprob": -2.1655027866363525
+            },
+            {
+              "token": " to",
+              "logprob": -0.09131947159767151
+            },
+            {
+              "token": " bake",
+              "logprob": -0.033612921833992004
+            },
+            {
+              "token": " together",
+              "logprob": -0.05626695230603218
+            },
+            {
+              "token": " the",
+              "logprob": -2.593308687210083
+            },
+            {
+              "token": " next",
+              "logprob": -0.029179664328694344
+            },
+            {
+              "token": " time",
+              "logprob": -0.017803506925702095
+            },
+            {
+              "token": " and",
+              "logprob": -3.702308177947998
+            },
+            {
+              "token": " laughed",
+              "logprob": -2.1856796741485596
+            },
+            {
+              "token": " because",
+              "logprob": -4.314505577087402
+            },
+            {
+              "token": " of",
+              "logprob": -2.5812838077545166
+            },
+            {
+              "token": " how",
+              "logprob": -2.188364267349243
+            },
+            {
+              "token": " good",
+              "logprob": -1.3348643779754639
+            },
+            {
+              "token": " their",
+              "logprob": -3.39595365524292
+            },
+            {
+              "token": " meal",
+              "logprob": -3.2239153385162354
+            },
+            {
+              "token": " had",
+              "logprob": -3.557706832885742
+            },
+            {
+              "token": " been",
+              "logprob": -0.9956498146057129
+            },
+            {
+              "token": " and",
+              "logprob": -3.3608486652374268
+            },
+            {
+              "token": " full",
+              "logprob": -3.9829211235046387
+            },
+            {
+              "token": " stomach",
+              "logprob": -0.07221102714538574
+            },
+            {
+              "token": "s",
+              "logprob": -0.047428276389837265
+            },
+            {
+              "token": " and",
+              "logprob": -1.4320158958435059
+            },
+            {
+              "token": " big",
+              "logprob": -0.0745098739862442
+            },
+            {
+              "token": " smiles",
+              "logprob": -0.016943814232945442
+            },
+            {
+              "token": ".",
+              "logprob": -0.4146233797073364
+            },
+            {
+              "token": " The",
+              "logprob": -3.336726188659668
+            },
+            {
+              "token": " end",
+              "logprob": -3.1199655532836914
+            },
+            {
+              "token": " of",
+              "logprob": -0.13216041028499603
+            },
+            {
+              "token": " the",
+              "logprob": -0.10780183225870132
+            },
+            {
+              "token": " story",
+              "logprob": -2.6731152534484863
+            },
+            {
+              "token": ".",
+              "logprob": -2.051743984222412
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.5909854173660278
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The cake was chocolate flavor. It was a good day and it worked for him. I can tell he is good friend to give the other one something for his birthday.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.2095751762390137
+            },
+            {
+              "token": " cake",
+              "logprob": -0.2575971782207489
+            },
+            {
+              "token": " was",
+              "logprob": -0.5705230832099915
+            },
+            {
+              "token": " chocolate",
+              "logprob": -0.7268346548080444
+            },
+            {
+              "token": " flavor",
+              "logprob": -3.4594662189483643
+            },
+            {
+              "token": ".",
+              "logprob": -0.39846035838127136
+            },
+            {
+              "token": " It",
+              "logprob": -2.6800150871276855
+            },
+            {
+              "token": " was",
+              "logprob": -0.3235224485397339
+            },
+            {
+              "token": " a",
+              "logprob": -1.3134821653366089
+            },
+            {
+              "token": " good",
+              "logprob": -3.9054930210113525
+            },
+            {
+              "token": " day",
+              "logprob": -2.5240607261657715
+            },
+            {
+              "token": " and",
+              "logprob": -3.6953859329223633
+            },
+            {
+              "token": " it",
+              "logprob": -3.508301258087158
+            },
+            {
+              "token": " worked",
+              "logprob": -4.484816074371338
+            },
+            {
+              "token": " for",
+              "logprob": -3.105015754699707
+            },
+            {
+              "token": " him",
+              "logprob": -3.978149890899658
+            },
+            {
+              "token": ".",
+              "logprob": -0.5784022212028503
+            },
+            {
+              "token": " I",
+              "logprob": -3.6263070106506348
+            },
+            {
+              "token": " can",
+              "logprob": -4.200699806213379
+            },
+            {
+              "token": " tell",
+              "logprob": -3.327763795852661
+            },
+            {
+              "token": " he",
+              "logprob": -2.969818115234375
+            },
+            {
+              "token": " is",
+              "logprob": -1.6962586641311646
+            },
+            {
+              "token": " good",
+              "logprob": -4.074623107910156
+            },
+            {
+              "token": " friend",
+              "logprob": -2.07302188873291
+            },
+            {
+              "token": " to",
+              "logprob": -2.645733594894409
+            },
+            {
+              "token": " give",
+              "logprob": -5.053421974182129
+            },
+            {
+              "token": " the",
+              "logprob": -2.732771396636963
+            },
+            {
+              "token": " other",
+              "logprob": -2.552942991256714
+            },
+            {
+              "token": " one",
+              "logprob": -1.635146141052246
+            },
+            {
+              "token": " something",
+              "logprob": -3.020601272583008
+            },
+            {
+              "token": " for",
+              "logprob": -3.25209903717041
+            },
+            {
+              "token": " his",
+              "logprob": -2.065603733062744
+            },
+            {
+              "token": " birthday",
+              "logprob": -0.39267128705978394
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.2346599102020264
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.674046039581299
+            },
+            {
+              "token": ":",
+              "logprob": -0.13746745884418488
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Answer using one whole sentance.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.480320453643799
+            },
+            {
+              "token": " Answer",
+              "logprob": -4.356949806213379
+            },
+            {
+              "token": " using",
+              "logprob": -0.7766932845115662
+            },
+            {
+              "token": " one",
+              "logprob": -0.1696949452161789
+            },
+            {
+              "token": " whole",
+              "logprob": -0.10613886266946793
+            },
+            {
+              "token": " sent",
+              "logprob": -2.090804100036621
+            },
+            {
+              "token": "ance",
+              "logprob": -0.2199442982673645
+            },
+            {
+              "token": ".",
+              "logprob": -0.32578715682029724
+            },
+            {
+              "token": " \n",
+              "logprob": -0.980435848236084
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "What is your answer? a chocolate cake b: chocolate B: an apple cake.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.740845203399658
+            },
+            {
+              "token": " is",
+              "logprob": -3.280989408493042
+            },
+            {
+              "token": " your",
+              "logprob": -2.694883346557617
+            },
+            {
+              "token": " answer",
+              "logprob": -2.883446216583252
+            },
+            {
+              "token": "?",
+              "logprob": -0.40550628304481506
+            },
+            {
+              "token": " a",
+              "logprob": -4.277615547180176
+            },
+            {
+              "token": " chocolate",
+              "logprob": -2.4913411140441895
+            },
+            {
+              "token": " cake",
+              "logprob": -0.04044903814792633
+            },
+            {
+              "token": " b",
+              "logprob": -2.88407039642334
+            },
+            {
+              "token": ":",
+              "logprob": -0.0657980889081955
+            },
+            {
+              "token": " chocolate",
+              "logprob": -2.7143096923828125
+            },
+            {
+              "token": " B",
+              "logprob": -2.6750330924987793
+            },
+            {
+              "token": ":",
+              "logprob": -0.10169155895709991
+            },
+            {
+              "token": " an",
+              "logprob": -4.79324197769165
+            },
+            {
+              "token": " apple",
+              "logprob": -1.0511940717697144
+            },
+            {
+              "token": " cake",
+              "logprob": -1.4042223691940308
+            },
+            {
+              "token": ".",
+              "logprob": -2.4026384353637695
+            },
+            {
+              "token": " \n",
+              "logprob": -2.8339695930480957
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "A: Cake Flavor Name",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.675940990447998
+            },
+            {
+              "token": ":",
+              "logprob": -2.86995267868042
+            },
+            {
+              "token": " Cake",
+              "logprob": -4.350109577178955
+            },
+            {
+              "token": " Flavor",
+              "logprob": -4.843912601470947
+            },
+            {
+              "token": " Name",
+              "logprob": -4.949272632598877
+            },
+            {
+              "token": " Q",
+              "logprob": -4.358221054077148
+            },
+            {
+              "token": ":",
+              "logprob": -0.0838250070810318
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

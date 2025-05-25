@@ -1,0 +1,771 @@
+{
+  "story": "Henry and Emma were best friends. They liked to play in the backyard together. One sunny afternoon, they decided to clean the old shed. Henry saw a dusty shelf with jars. He reached for one but slipped. Henry broke a glass jar. The sound was loud. Emma turned around. \"Are you okay?\" she asked. Henry nodded but felt bad. \"I didn’t mean to,\" he said. Emma smiled. \"It’s just a jar,\" she said. She picked up a broom to help clean. Henry sighed and picked up the big pieces. They worked together until the mess was gone. After that, they sat under a tree. Henry still felt a little guilty. Emma told him a funny story to cheer him up. Soon, Henry was laughing too. They promised to be more careful next time. The day ended well, and they went home happy.",
+  "characters": [
+    {
+      "question": "What item did Henry shatter?",
+      "character": "Henry",
+      "story": "Henry and Emma were best friends. They liked to play in the backyard together. One sunny afternoon, they decided to clean the old shed. Henry saw a dusty shelf with jars. He reached for one but slipped. Henry broke a glass jar. The sound was loud. Emma turned around. \"Are you okay?\" she asked. Henry nodded but felt bad. \"I didn’t mean to,\" he said. Emma smiled. \"It’s just a jar,\" she said. She picked up a broom to help clean. Henry sighed and picked up the big pieces. They worked together until the mess was gone. After that, they sat under a tree. Henry still felt a little guilty. Emma told him a funny story to cheer him up. Soon, Henry was laughing too. They promised to be more careful next time. The day ended well, and they went home happy.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Jar.",
+          "token_data": [
+            {
+              "token": " Jar",
+              "logprob": -3.106417655944824
+            },
+            {
+              "token": ".",
+              "logprob": -1.8913543224334717
+            },
+            {
+              "token": " ",
+              "logprob": -2.7458033561706543
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "a bottle",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.9219632148742676
+            },
+            {
+              "token": " bottle",
+              "logprob": -3.564627170562744
+            },
+            {
+              "token": " Q",
+              "logprob": -3.4288558959960938
+            },
+            {
+              "token": ":",
+              "logprob": -0.022215552628040314
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "jar",
+          "token_data": [
+            {
+              "token": " jar",
+              "logprob": -3.438354969024658
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.7971415519714355
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "One jar",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -3.759310245513916
+            },
+            {
+              "token": " jar",
+              "logprob": -0.6627099514007568
+            },
+            {
+              "token": "\n",
+              "logprob": -2.9573473930358887
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The jar",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.4378647804260254
+            },
+            {
+              "token": " jar",
+              "logprob": -0.8050331473350525
+            },
+            {
+              "token": " Q",
+              "logprob": -2.1453328132629395
+            },
+            {
+              "token": ":",
+              "logprob": -0.03974895179271698
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Glass",
+          "token_data": [
+            {
+              "token": " Glass",
+              "logprob": -3.3598999977111816
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.884579658508301
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A window.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.68656587600708
+            },
+            {
+              "token": " window",
+              "logprob": -3.480445623397827
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.1035633087158203
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "jar of spaghetti",
+          "token_data": [
+            {
+              "token": " jar",
+              "logprob": -3.438354969024658
+            },
+            {
+              "token": " of",
+              "logprob": -1.820191740989685
+            },
+            {
+              "token": " spaghetti",
+              "logprob": -4.051176071166992
+            },
+            {
+              "token": " \n",
+              "logprob": -2.8757433891296387
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.516350269317627
+            },
+            {
+              "token": " using",
+              "logprob": -0.4918034076690674
+            },
+            {
+              "token": " one",
+              "logprob": -0.17961397767066956
+            },
+            {
+              "token": " whole",
+              "logprob": -0.14197231829166412
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.3390960097312927
+            },
+            {
+              "token": ".",
+              "logprob": -0.31011244654655457
+            },
+            {
+              "token": " \n",
+              "logprob": -0.8501638174057007
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "jar B: broom C: both.",
+          "token_data": [
+            {
+              "token": " jar",
+              "logprob": -3.438354969024658
+            },
+            {
+              "token": " B",
+              "logprob": -3.3504042625427246
+            },
+            {
+              "token": ":",
+              "logprob": -0.017598900943994522
+            },
+            {
+              "token": " bro",
+              "logprob": -1.6779836416244507
+            },
+            {
+              "token": "om",
+              "logprob": -0.021839480847120285
+            },
+            {
+              "token": " C",
+              "logprob": -0.4220981299877167
+            },
+            {
+              "token": ":",
+              "logprob": -0.014924772083759308
+            },
+            {
+              "token": " both",
+              "logprob": -2.616128444671631
+            },
+            {
+              "token": ".",
+              "logprob": -2.431472063064575
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What item did Emma shatter?",
+      "character": "Emma",
+      "story": "Henry and Emma were best friends. They liked to play in the backyard together. One sunny afternoon, they decided to clean the old shed. Henry saw a dusty shelf with jars. He reached for one but slipped. Henry broke a glass jar. The sound was loud. Emma turned around. \"Are you okay?\" she asked. Henry nodded but felt bad. \"I didn’t mean to,\" he said. Emma smiled. \"It’s just a jar,\" she said. She picked up a broom to help clean. Henry sighed and picked up the big pieces. They worked together until the mess was gone. After that, they sat under a tree. Henry still felt a little guilty. Emma told him a funny story to cheer him up. Soon, Henry was laughing too. They promised to be more careful next time. The day ended well, and they went home happy.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "What item did Henry shatter?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.2086355686187744
+            },
+            {
+              "token": " item",
+              "logprob": -0.47670498490333557
+            },
+            {
+              "token": " did",
+              "logprob": -0.11442194133996964
+            },
+            {
+              "token": " Henry",
+              "logprob": -1.7016048431396484
+            },
+            {
+              "token": " sh",
+              "logprob": -0.6784915328025818
+            },
+            {
+              "token": "atter",
+              "logprob": -0.0005287918029353023
+            },
+            {
+              "token": "?",
+              "logprob": -0.14733488857746124
+            },
+            {
+              "token": " ",
+              "logprob": -3.062941074371338
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.123598098754883
+            },
+            {
+              "token": ":",
+              "logprob": -0.17548976838588715
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "a broken glass jar",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.1098105907440186
+            },
+            {
+              "token": " broken",
+              "logprob": -2.992452621459961
+            },
+            {
+              "token": " glass",
+              "logprob": -1.515733003616333
+            },
+            {
+              "token": " jar",
+              "logprob": -0.07808323204517365
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.3596062660217285
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "jar",
+          "token_data": [
+            {
+              "token": " jar",
+              "logprob": -3.4246938228607178
+            },
+            {
+              "token": "\n",
+              "logprob": -1.9734914302825928
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "jar,",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.360339164733887
+            },
+            {
+              "token": " jar",
+              "logprob": -3.0760035514831543
+            },
+            {
+              "token": ",",
+              "logprob": -3.893785238265991
+            },
+            {
+              "token": " \n",
+              "logprob": -3.957557201385498
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The jar.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.353210210800171
+            },
+            {
+              "token": " jar",
+              "logprob": -0.863676905632019
+            },
+            {
+              "token": ".",
+              "logprob": -1.3584926128387451
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6632956862449646
+            },
+            {
+              "token": ":",
+              "logprob": -0.015891097486019135
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.4406392574310303
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A jar of water.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.7274806499481201
+            },
+            {
+              "token": " jar",
+              "logprob": -0.9868364334106445
+            },
+            {
+              "token": " of",
+              "logprob": -0.8505568504333496
+            },
+            {
+              "token": " water",
+              "logprob": -4.096302509307861
+            },
+            {
+              "token": ".",
+              "logprob": -0.8696161508560181
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7815529704093933
+            },
+            {
+              "token": ":",
+              "logprob": -0.01658967137336731
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Nothing, since she had the idea to pick up a broom and start cleaning.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -4.697315216064453
+            },
+            {
+              "token": ",",
+              "logprob": -1.8289647102355957
+            },
+            {
+              "token": " since",
+              "logprob": -4.409412384033203
+            },
+            {
+              "token": " she",
+              "logprob": -1.3040236234664917
+            },
+            {
+              "token": " had",
+              "logprob": -3.6456308364868164
+            },
+            {
+              "token": " the",
+              "logprob": -3.4265284538269043
+            },
+            {
+              "token": " idea",
+              "logprob": -3.4919276237487793
+            },
+            {
+              "token": " to",
+              "logprob": -0.9870632886886597
+            },
+            {
+              "token": " pick",
+              "logprob": -2.3403849601745605
+            },
+            {
+              "token": " up",
+              "logprob": -0.10851448774337769
+            },
+            {
+              "token": " a",
+              "logprob": -0.8516918420791626
+            },
+            {
+              "token": " bro",
+              "logprob": -0.2902647852897644
+            },
+            {
+              "token": "om",
+              "logprob": -0.01584181748330593
+            },
+            {
+              "token": " and",
+              "logprob": -2.826310157775879
+            },
+            {
+              "token": " start",
+              "logprob": -3.479893445968628
+            },
+            {
+              "token": " cleaning",
+              "logprob": -0.6768953204154968
+            },
+            {
+              "token": ".",
+              "logprob": -0.6285151839256287
+            },
+            {
+              "token": " \n",
+              "logprob": -1.1943302154541016
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "What item did Emma shatter?  The jar and what caused her to drop it. The jar caused Emma to shatter. (What was the reason for the breaking of glass, or cause of damage). (What could I learn about my reasons, and how those were all related, why there is damage?)",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.1826703548431396
+            },
+            {
+              "token": " item",
+              "logprob": -0.46495193243026733
+            },
+            {
+              "token": " did",
+              "logprob": -0.10978669673204422
+            },
+            {
+              "token": " Emma",
+              "logprob": -0.28649774193763733
+            },
+            {
+              "token": " sh",
+              "logprob": -0.2882462739944458
+            },
+            {
+              "token": "atter",
+              "logprob": -0.0010177675867453218
+            },
+            {
+              "token": "?",
+              "logprob": -0.2467946857213974
+            },
+            {
+              "token": " ",
+              "logprob": -3.3425190448760986
+            },
+            {
+              "token": " The",
+              "logprob": -4.30682373046875
+            },
+            {
+              "token": " jar",
+              "logprob": -1.289574384689331
+            },
+            {
+              "token": " and",
+              "logprob": -4.632437229156494
+            },
+            {
+              "token": " what",
+              "logprob": -2.822603464126587
+            },
+            {
+              "token": " caused",
+              "logprob": -3.8295087814331055
+            },
+            {
+              "token": " her",
+              "logprob": -2.5017528533935547
+            },
+            {
+              "token": " to",
+              "logprob": -0.361722856760025
+            },
+            {
+              "token": " drop",
+              "logprob": -2.423945903778076
+            },
+            {
+              "token": " it",
+              "logprob": -0.6525275111198425
+            },
+            {
+              "token": ".",
+              "logprob": -0.477229505777359
+            },
+            {
+              "token": " The",
+              "logprob": -2.593144416809082
+            },
+            {
+              "token": " jar",
+              "logprob": -0.27595871686935425
+            },
+            {
+              "token": " caused",
+              "logprob": -3.1972246170043945
+            },
+            {
+              "token": " Emma",
+              "logprob": -2.639307737350464
+            },
+            {
+              "token": " to",
+              "logprob": -0.042382508516311646
+            },
+            {
+              "token": " sh",
+              "logprob": -3.040144443511963
+            },
+            {
+              "token": "atter",
+              "logprob": -0.00033670957782305777
+            },
+            {
+              "token": ".",
+              "logprob": -2.149843454360962
+            },
+            {
+              "token": " (",
+              "logprob": -4.628695487976074
+            },
+            {
+              "token": "What",
+              "logprob": -5.3460917472839355
+            },
+            {
+              "token": " was",
+              "logprob": -3.529404640197754
+            },
+            {
+              "token": " the",
+              "logprob": -0.6931904554367065
+            },
+            {
+              "token": " reason",
+              "logprob": -2.2115352153778076
+            },
+            {
+              "token": " for",
+              "logprob": -0.9908781051635742
+            },
+            {
+              "token": " the",
+              "logprob": -1.0076016187667847
+            },
+            {
+              "token": " breaking",
+              "logprob": -4.911030292510986
+            },
+            {
+              "token": " of",
+              "logprob": -0.48482540249824524
+            },
+            {
+              "token": " glass",
+              "logprob": -4.046377658843994
+            },
+            {
+              "token": ",",
+              "logprob": -4.7884931564331055
+            },
+            {
+              "token": " or",
+              "logprob": -2.7718749046325684
+            },
+            {
+              "token": " cause",
+              "logprob": -5.466748237609863
+            },
+            {
+              "token": " of",
+              "logprob": -0.9441289901733398
+            },
+            {
+              "token": " damage",
+              "logprob": -4.08236026763916
+            },
+            {
+              "token": ").",
+              "logprob": -4.407963275909424
+            },
+            {
+              "token": " (",
+              "logprob": -3.6389150619506836
+            },
+            {
+              "token": "What",
+              "logprob": -1.1138567924499512
+            },
+            {
+              "token": " could",
+              "logprob": -4.968148708343506
+            },
+            {
+              "token": " I",
+              "logprob": -4.406780242919922
+            },
+            {
+              "token": " learn",
+              "logprob": -3.531379222869873
+            },
+            {
+              "token": " about",
+              "logprob": -1.802478551864624
+            },
+            {
+              "token": " my",
+              "logprob": -3.13161039352417
+            },
+            {
+              "token": " reasons",
+              "logprob": -4.620877742767334
+            },
+            {
+              "token": ",",
+              "logprob": -2.341442823410034
+            },
+            {
+              "token": " and",
+              "logprob": -2.316246747970581
+            },
+            {
+              "token": " how",
+              "logprob": -2.566922426223755
+            },
+            {
+              "token": " those",
+              "logprob": -5.683459281921387
+            },
+            {
+              "token": " were",
+              "logprob": -4.518242359161377
+            },
+            {
+              "token": " all",
+              "logprob": -4.782459259033203
+            },
+            {
+              "token": " related",
+              "logprob": -2.8918745517730713
+            },
+            {
+              "token": ",",
+              "logprob": -2.9904208183288574
+            },
+            {
+              "token": " why",
+              "logprob": -3.7951037883758545
+            },
+            {
+              "token": " there",
+              "logprob": -3.8439950942993164
+            },
+            {
+              "token": " is",
+              "logprob": -2.281214714050293
+            },
+            {
+              "token": " damage",
+              "logprob": -2.1838536262512207
+            },
+            {
+              "token": "?)",
+              "logprob": -4.389711380004883
+            },
+            {
+              "token": " Q",
+              "logprob": -2.9622175693511963
+            },
+            {
+              "token": ":",
+              "logprob": -0.05778459459543228
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

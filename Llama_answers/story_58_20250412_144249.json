@@ -1,0 +1,787 @@
+{
+  "story": "Ella and Emma were best friends. One day, they went to the park for a picnic. Ella brought a basket full of fruits, and Emma brought sandwiches. They sat under a big tree and started eating. Ella saw a yellow lemon in the basket. She picked it up and took a big bite. Her face twisted into a funny shape. \"Ella ate a sour lemon,\" Emma said, laughing. Ella drank water quickly to wash away the sour taste. Emma smiled and handed her a sweet apple instead. Ella felt better and they kept eating their food. After lunch, they played on the swings and talked about their favorite things. The sun was shining, and they enjoyed their time together. When it was time to go home, they packed their things and waved goodbye. Ella and Emma agreed to have another picnic soon. They both had a great day.",
+  "characters": [
+    {
+      "question": "What taste did the fruit Ella ate have?",
+      "character": "Ella",
+      "story": "Ella and Emma were best friends. One day, they went to the park for a picnic. Ella brought a basket full of fruits, and Emma brought sandwiches. They sat under a big tree and started eating. Ella saw a yellow lemon in the basket. She picked it up and took a big bite. Her face twisted into a funny shape. \"Ella ate a sour lemon,\" Emma said, laughing. Ella drank water quickly to wash away the sour taste. Emma smiled and handed her a sweet apple instead. Ella felt better and they kept eating their food. After lunch, they played on the swings and talked about their favorite things. The sun was shining, and they enjoyed their time together. When it was time to go home, they packed their things and waved goodbye. Ella and Emma agreed to have another picnic soon. They both had a great day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A lemon, which means it was very sour.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.205620050430298
+            },
+            {
+              "token": " lemon",
+              "logprob": -2.347339153289795
+            },
+            {
+              "token": ",",
+              "logprob": -3.4058666229248047
+            },
+            {
+              "token": " which",
+              "logprob": -1.8416850566864014
+            },
+            {
+              "token": " means",
+              "logprob": -3.1541433334350586
+            },
+            {
+              "token": " it",
+              "logprob": -1.1285688877105713
+            },
+            {
+              "token": " was",
+              "logprob": -0.8227906823158264
+            },
+            {
+              "token": " very",
+              "logprob": -2.529714584350586
+            },
+            {
+              "token": " sour",
+              "logprob": -0.174134761095047
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.1549997329711914
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "What taste did the fruit Ella ate have? \"Ella ate a sour lemon,\" Emma said, laughing.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.0773210525512695
+            },
+            {
+              "token": " taste",
+              "logprob": -0.521618127822876
+            },
+            {
+              "token": " did",
+              "logprob": -0.18447129428386688
+            },
+            {
+              "token": " the",
+              "logprob": -0.4215453565120697
+            },
+            {
+              "token": " fruit",
+              "logprob": -0.09068645536899567
+            },
+            {
+              "token": " Ella",
+              "logprob": -0.2425260692834854
+            },
+            {
+              "token": " ate",
+              "logprob": -0.037380751222372055
+            },
+            {
+              "token": " have",
+              "logprob": -0.15537072718143463
+            },
+            {
+              "token": "?",
+              "logprob": -0.3020389676094055
+            },
+            {
+              "token": " \"",
+              "logprob": -5.020467758178711
+            },
+            {
+              "token": "E",
+              "logprob": -0.2724744379520416
+            },
+            {
+              "token": "lla",
+              "logprob": -0.00780733535066247
+            },
+            {
+              "token": " ate",
+              "logprob": -0.013147920370101929
+            },
+            {
+              "token": " a",
+              "logprob": -0.018848830834031105
+            },
+            {
+              "token": " sour",
+              "logprob": -0.09066522121429443
+            },
+            {
+              "token": " lemon",
+              "logprob": -0.021314136683940887
+            },
+            {
+              "token": ",\"",
+              "logprob": -0.827130913734436
+            },
+            {
+              "token": " Emma",
+              "logprob": -0.03254241868853569
+            },
+            {
+              "token": " said",
+              "logprob": -0.0622827522456646
+            },
+            {
+              "token": ",",
+              "logprob": -0.07484088093042374
+            },
+            {
+              "token": " laughing",
+              "logprob": -0.012385008856654167
+            },
+            {
+              "token": ".",
+              "logprob": -0.32193517684936523
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "It tasted good.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.1316938400268555
+            },
+            {
+              "token": " tasted",
+              "logprob": -2.1704862117767334
+            },
+            {
+              "token": " good",
+              "logprob": -3.3519012928009033
+            },
+            {
+              "token": ".",
+              "logprob": -0.7557463049888611
+            },
+            {
+              "token": " \n",
+              "logprob": -1.9168378114700317
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The yellow lemons were a bit sour, so Ella took a bite to change that.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.495115280151367
+            },
+            {
+              "token": " yellow",
+              "logprob": -2.685864210128784
+            },
+            {
+              "token": " le",
+              "logprob": -2.700166940689087
+            },
+            {
+              "token": "mons",
+              "logprob": -0.17431282997131348
+            },
+            {
+              "token": " were",
+              "logprob": -1.6091889142990112
+            },
+            {
+              "token": " a",
+              "logprob": -2.6396336555480957
+            },
+            {
+              "token": " bit",
+              "logprob": -1.4465223550796509
+            },
+            {
+              "token": " sour",
+              "logprob": -0.36016255617141724
+            },
+            {
+              "token": ",",
+              "logprob": -1.5147544145584106
+            },
+            {
+              "token": " so",
+              "logprob": -1.6233296394348145
+            },
+            {
+              "token": " Ella",
+              "logprob": -0.5768458247184753
+            },
+            {
+              "token": " took",
+              "logprob": -2.566457986831665
+            },
+            {
+              "token": " a",
+              "logprob": -0.09271620959043503
+            },
+            {
+              "token": " bite",
+              "logprob": -1.3334870338439941
+            },
+            {
+              "token": " to",
+              "logprob": -2.396670341491699
+            },
+            {
+              "token": " change",
+              "logprob": -4.322815895080566
+            },
+            {
+              "token": " that",
+              "logprob": -2.8508787155151367
+            },
+            {
+              "token": ".",
+              "logprob": -0.38095706701278687
+            },
+            {
+              "token": " \n",
+              "logprob": -2.0956530570983887
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Sour lemon",
+          "token_data": [
+            {
+              "token": " Sour",
+              "logprob": -1.936600685119629
+            },
+            {
+              "token": " lemon",
+              "logprob": -1.163036584854126
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.4951863288879395
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Sour",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.128514289855957
+            },
+            {
+              "token": " Sour",
+              "logprob": -1.2388567924499512
+            },
+            {
+              "token": " Q",
+              "logprob": -2.414870023727417
+            },
+            {
+              "token": ":",
+              "logprob": -0.02387220971286297
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Sour lemon",
+          "token_data": [
+            {
+              "token": " Sour",
+              "logprob": -1.936600685119629
+            },
+            {
+              "token": " lemon",
+              "logprob": -1.163036584854126
+            },
+            {
+              "token": "\n\n\n",
+              "logprob": -4.192999362945557
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "The fruit she picked was sour lemon, because she ate the first bite.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.495115280151367
+            },
+            {
+              "token": " fruit",
+              "logprob": -0.838482677936554
+            },
+            {
+              "token": " she",
+              "logprob": -3.1949265003204346
+            },
+            {
+              "token": " picked",
+              "logprob": -1.5941953659057617
+            },
+            {
+              "token": " was",
+              "logprob": -1.1469814777374268
+            },
+            {
+              "token": " sour",
+              "logprob": -1.868309497833252
+            },
+            {
+              "token": " lemon",
+              "logprob": -1.686223030090332
+            },
+            {
+              "token": ",",
+              "logprob": -2.630838394165039
+            },
+            {
+              "token": " because",
+              "logprob": -3.64243483543396
+            },
+            {
+              "token": " she",
+              "logprob": -1.2905619144439697
+            },
+            {
+              "token": " ate",
+              "logprob": -0.99837327003479
+            },
+            {
+              "token": " the",
+              "logprob": -2.391406774520874
+            },
+            {
+              "token": " first",
+              "logprob": -3.6682190895080566
+            },
+            {
+              "token": " bite",
+              "logprob": -2.2306909561157227
+            },
+            {
+              "token": ".",
+              "logprob": -0.721531331539154
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It's sour.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.1316938400268555
+            },
+            {
+              "token": "'s",
+              "logprob": -3.8685243129730225
+            },
+            {
+              "token": " sour",
+              "logprob": -2.9951510429382324
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.3180220127105713
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The first fruit Ella ate was sour lemon.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.128514289855957
+            },
+            {
+              "token": " The",
+              "logprob": -3.093010425567627
+            },
+            {
+              "token": " first",
+              "logprob": -3.7373640537261963
+            },
+            {
+              "token": " fruit",
+              "logprob": -2.1650922298431396
+            },
+            {
+              "token": " Ella",
+              "logprob": -0.6549151539802551
+            },
+            {
+              "token": " ate",
+              "logprob": -0.213626429438591
+            },
+            {
+              "token": " was",
+              "logprob": -0.7951720356941223
+            },
+            {
+              "token": " sour",
+              "logprob": -2.1839964389801025
+            },
+            {
+              "token": " lemon",
+              "logprob": -0.8904954195022583
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.1447176933288574
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What taste did the fruit Emma ate have?",
+      "character": "Emma",
+      "story": "Ella and Emma were best friends. One day, they went to the park for a picnic. Ella brought a basket full of fruits, and Emma brought sandwiches. They sat under a big tree and started eating. Ella saw a yellow lemon in the basket. She picked it up and took a big bite. Her face twisted into a funny shape. \"Ella ate a sour lemon,\" Emma said, laughing. Ella drank water quickly to wash away the sour taste. Emma smiled and handed her a sweet apple instead. Ella felt better and they kept eating their food. After lunch, they played on the swings and talked about their favorite things. The sun was shining, and they enjoyed their time together. When it was time to go home, they packed their things and waved goodbye. Ella and Emma agreed to have another picnic soon. They both had a great day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.644405364990234
+            },
+            {
+              "token": " Q",
+              "logprob": -3.5465075969696045
+            },
+            {
+              "token": ":",
+              "logprob": -0.07207927107810974
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Emma picked up a yellow lemon.",
+          "token_data": [
+            {
+              "token": " Emma",
+              "logprob": -3.60794997215271
+            },
+            {
+              "token": " picked",
+              "logprob": -3.2414050102233887
+            },
+            {
+              "token": " up",
+              "logprob": -1.8011107444763184
+            },
+            {
+              "token": " a",
+              "logprob": -0.270263671875
+            },
+            {
+              "token": " yellow",
+              "logprob": -1.552924394607544
+            },
+            {
+              "token": " lemon",
+              "logprob": -0.06931600719690323
+            },
+            {
+              "token": ".",
+              "logprob": -1.0474058389663696
+            },
+            {
+              "token": " \n",
+              "logprob": -2.5260894298553467
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "lemon.",
+          "token_data": [
+            {
+              "token": " lemon",
+              "logprob": -4.167677879333496
+            },
+            {
+              "token": ".",
+              "logprob": -1.442332148551941
+            },
+            {
+              "token": " \n",
+              "logprob": -1.5642176866531372
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Yellow lemon",
+          "token_data": [
+            {
+              "token": " Yellow",
+              "logprob": -5.0619401931762695
+            },
+            {
+              "token": " lemon",
+              "logprob": -0.48382753133773804
+            },
+            {
+              "token": " \n",
+              "logprob": -2.7865920066833496
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Apple",
+          "token_data": [
+            {
+              "token": " Apple",
+              "logprob": -5.440018653869629
+            },
+            {
+              "token": "\n\n\n",
+              "logprob": -4.466753959655762
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Apple.",
+          "token_data": [
+            {
+              "token": " Apple",
+              "logprob": -5.440018653869629
+            },
+            {
+              "token": ".",
+              "logprob": -1.4874427318572998
+            },
+            {
+              "token": " \n",
+              "logprob": -1.7345465421676636
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A sour lemon.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.5031020641326904
+            },
+            {
+              "token": " sour",
+              "logprob": -1.4142165184020996
+            },
+            {
+              "token": " lemon",
+              "logprob": -0.08160199224948883
+            },
+            {
+              "token": ".",
+              "logprob": -0.8269014954566956
+            },
+            {
+              "token": " Q",
+              "logprob": -1.6601049900054932
+            },
+            {
+              "token": ":",
+              "logprob": -0.014935340732336044
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Eatable.",
+          "token_data": [
+            {
+              "token": " E",
+              "logprob": -4.758963584899902
+            },
+            {
+              "token": "atable",
+              "logprob": -4.230842113494873
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.005096435546875
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "BORROWING: I assume a fruit.",
+          "token_data": [
+            {
+              "token": " B",
+              "logprob": -4.752612113952637
+            },
+            {
+              "token": "OR",
+              "logprob": -4.356148719787598
+            },
+            {
+              "token": "ROW",
+              "logprob": -3.029238700866699
+            },
+            {
+              "token": "ING",
+              "logprob": -0.7992185354232788
+            },
+            {
+              "token": ":",
+              "logprob": -3.181635618209839
+            },
+            {
+              "token": " I",
+              "logprob": -4.5351176261901855
+            },
+            {
+              "token": " assume",
+              "logprob": -5.381326675415039
+            },
+            {
+              "token": " a",
+              "logprob": -3.6600489616394043
+            },
+            {
+              "token": " fruit",
+              "logprob": -3.9537510871887207
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.853921890258789
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "What did Ella say after eating a sour lemon? A: Why did the lemon make Ella feel unhappy? (1 point)",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.38227915763855
+            },
+            {
+              "token": " did",
+              "logprob": -2.331824541091919
+            },
+            {
+              "token": " Ella",
+              "logprob": -0.8849996328353882
+            },
+            {
+              "token": " say",
+              "logprob": -3.708974599838257
+            },
+            {
+              "token": " after",
+              "logprob": -1.9823224544525146
+            },
+            {
+              "token": " eating",
+              "logprob": -1.892554759979248
+            },
+            {
+              "token": " a",
+              "logprob": -1.1983287334442139
+            },
+            {
+              "token": " sour",
+              "logprob": -0.27292197942733765
+            },
+            {
+              "token": " lemon",
+              "logprob": -0.06042803078889847
+            },
+            {
+              "token": "?",
+              "logprob": -0.1365644931793213
+            },
+            {
+              "token": " A",
+              "logprob": -1.102835774421692
+            },
+            {
+              "token": ":",
+              "logprob": -0.030042553320527077
+            },
+            {
+              "token": " Why",
+              "logprob": -2.4136486053466797
+            },
+            {
+              "token": " did",
+              "logprob": -0.23315651714801788
+            },
+            {
+              "token": " the",
+              "logprob": -3.129729986190796
+            },
+            {
+              "token": " lemon",
+              "logprob": -1.466133713722229
+            },
+            {
+              "token": " make",
+              "logprob": -1.3802210092544556
+            },
+            {
+              "token": " Ella",
+              "logprob": -0.47036054730415344
+            },
+            {
+              "token": " feel",
+              "logprob": -1.2504949569702148
+            },
+            {
+              "token": " unhappy",
+              "logprob": -3.097078323364258
+            },
+            {
+              "token": "?",
+              "logprob": -0.05773688107728958
+            },
+            {
+              "token": " (",
+              "logprob": -3.4590630531311035
+            },
+            {
+              "token": "1",
+              "logprob": -1.5976171493530273
+            },
+            {
+              "token": " point",
+              "logprob": -0.5196481347084045
+            },
+            {
+              "token": ")",
+              "logprob": -0.12557588517665863
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.8918309211730957
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

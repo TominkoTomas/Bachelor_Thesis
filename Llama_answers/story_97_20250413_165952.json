@@ -1,0 +1,1603 @@
+{
+  "story": "Jordan and Noah were best friends. They loved to play together every day. One sunny afternoon, Jordan had an idea. \"Let's build something fun!\" Jordan said. Noah agreed and ran to get some toys. Jordan built a tall tower with colorful blocks. It was so tall that it almost touched the ceiling! Noah clapped and laughed. \"That's amazing!\" Noah said. Then Noah grabbed a ball and started bouncing it around. Jordan watched the tower, proud of the work. Suddenly, the ball hit the table, and the tower shook. Jordan gasped but the tower stayed up. \"Phew!\" Jordan said. They played until the sun went down. When it was time to go home, Jordan smiled. \"Tomorrow, let's build something even bigger!\" Noah nodded and waved goodbye. They both knew they would have more fun the next day.",
+  "characters": [
+    {
+      "question": "How high was the structure Jordan built?",
+      "character": "Jordan",
+      "story": "Jordan and Noah were best friends. They loved to play together every day. One sunny afternoon, Jordan had an idea. \"Let's build something fun!\" Jordan said. Noah agreed and ran to get some toys. Jordan built a tall tower with colorful blocks. It was so tall that it almost touched the ceiling! Noah clapped and laughed. \"That's amazing!\" Noah said. Then Noah grabbed a ball and started bouncing it around. Jordan watched the tower, proud of the work. Suddenly, the ball hit the table, and the tower shook. Jordan gasped but the tower stayed up. \"Phew!\" Jordan said. They played until the sun went down. When it was time to go home, Jordan smiled. \"Tomorrow, let's build something even bigger!\" Noah nodded and waved goodbye. They both knew they would have more fun the next day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "One.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -3.721666097640991
+            },
+            {
+              "token": ".",
+              "logprob": -4.237115383148193
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.2477855682373047
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Jordan made the tallest structure possible, as tall as they possibly could. (High School Drop Out, College Success, High School Drop Out College Success)",
+          "token_data": [
+            {
+              "token": " Jordan",
+              "logprob": -2.3507020473480225
+            },
+            {
+              "token": " made",
+              "logprob": -3.1490628719329834
+            },
+            {
+              "token": " the",
+              "logprob": -2.679842472076416
+            },
+            {
+              "token": " tallest",
+              "logprob": -2.4206907749176025
+            },
+            {
+              "token": " structure",
+              "logprob": -1.4604973793029785
+            },
+            {
+              "token": " possible",
+              "logprob": -3.0721495151519775
+            },
+            {
+              "token": ",",
+              "logprob": -2.0776758193969727
+            },
+            {
+              "token": " as",
+              "logprob": -4.232010841369629
+            },
+            {
+              "token": " tall",
+              "logprob": -0.4613993763923645
+            },
+            {
+              "token": " as",
+              "logprob": -0.009195949882268906
+            },
+            {
+              "token": " they",
+              "logprob": -3.579345464706421
+            },
+            {
+              "token": " possibly",
+              "logprob": -3.135662317276001
+            },
+            {
+              "token": " could",
+              "logprob": -0.051460813730955124
+            },
+            {
+              "token": ".",
+              "logprob": -0.9775786995887756
+            },
+            {
+              "token": " (",
+              "logprob": -4.211542129516602
+            },
+            {
+              "token": "High",
+              "logprob": -4.860016345977783
+            },
+            {
+              "token": " School",
+              "logprob": -3.1039159297943115
+            },
+            {
+              "token": " Drop",
+              "logprob": -4.196913719177246
+            },
+            {
+              "token": " Out",
+              "logprob": -1.2657426595687866
+            },
+            {
+              "token": ",",
+              "logprob": -3.841383457183838
+            },
+            {
+              "token": " College",
+              "logprob": -4.539518356323242
+            },
+            {
+              "token": " Success",
+              "logprob": -3.5561413764953613
+            },
+            {
+              "token": ",",
+              "logprob": -0.8182367086410522
+            },
+            {
+              "token": " High",
+              "logprob": -4.509921073913574
+            },
+            {
+              "token": " School",
+              "logprob": -0.198280468583107
+            },
+            {
+              "token": " Drop",
+              "logprob": -1.1827651262283325
+            },
+            {
+              "token": " Out",
+              "logprob": -0.10989745706319809
+            },
+            {
+              "token": " College",
+              "logprob": -3.141397476196289
+            },
+            {
+              "token": " Success",
+              "logprob": -0.09475541114807129
+            },
+            {
+              "token": ")\n\n",
+              "logprob": -2.9810895919799805
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "How tall was the tower?",
+          "token_data": [
+            {
+              "token": " How",
+              "logprob": -4.275169372558594
+            },
+            {
+              "token": " tall",
+              "logprob": -0.879612147808075
+            },
+            {
+              "token": " was",
+              "logprob": -0.3664515018463135
+            },
+            {
+              "token": " the",
+              "logprob": -0.19496513903141022
+            },
+            {
+              "token": " tower",
+              "logprob": -2.0066685676574707
+            },
+            {
+              "token": "?\n",
+              "logprob": -3.4073691368103027
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "He built a 6 meter tower.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -4.618735313415527
+            },
+            {
+              "token": " built",
+              "logprob": -0.26911377906799316
+            },
+            {
+              "token": " a",
+              "logprob": -0.18635404109954834
+            },
+            {
+              "token": " ",
+              "logprob": -3.6625959873199463
+            },
+            {
+              "token": "6",
+              "logprob": -3.1898281574249268
+            },
+            {
+              "token": " meter",
+              "logprob": -1.928040862083435
+            },
+            {
+              "token": " tower",
+              "logprob": -1.2316830158233643
+            },
+            {
+              "token": ".",
+              "logprob": -0.6225311756134033
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "3 m. (meters) high",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -2.2342889308929443
+            },
+            {
+              "token": "3",
+              "logprob": -2.2999324798583984
+            },
+            {
+              "token": " m",
+              "logprob": -4.2237548828125
+            },
+            {
+              "token": ".",
+              "logprob": -1.8274366855621338
+            },
+            {
+              "token": " (",
+              "logprob": -2.854625940322876
+            },
+            {
+              "token": "m",
+              "logprob": -2.5256097316741943
+            },
+            {
+              "token": "eters",
+              "logprob": -0.04124941676855087
+            },
+            {
+              "token": ")",
+              "logprob": -0.4048318862915039
+            },
+            {
+              "token": " high",
+              "logprob": -1.5174074172973633
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.4849627017974854
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "I want to know how tall it was, what was it?",
+          "token_data": [
+            {
+              "token": " I",
+              "logprob": -5.094423294067383
+            },
+            {
+              "token": " want",
+              "logprob": -4.462258338928223
+            },
+            {
+              "token": " to",
+              "logprob": -0.8888558745384216
+            },
+            {
+              "token": " know",
+              "logprob": -0.7852100729942322
+            },
+            {
+              "token": " how",
+              "logprob": -0.7648888826370239
+            },
+            {
+              "token": " tall",
+              "logprob": -1.0197168588638306
+            },
+            {
+              "token": " it",
+              "logprob": -1.101304531097412
+            },
+            {
+              "token": " was",
+              "logprob": -0.07225427776575089
+            },
+            {
+              "token": ",",
+              "logprob": -3.6121530532836914
+            },
+            {
+              "token": " what",
+              "logprob": -4.254339694976807
+            },
+            {
+              "token": " was",
+              "logprob": -2.5030572414398193
+            },
+            {
+              "token": " it",
+              "logprob": -1.490397572517395
+            },
+            {
+              "token": "?\n",
+              "logprob": -3.2915234565734863
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "How high was Jordan’s building? It was more than 8 feet (2.4 meters) tall.",
+          "token_data": [
+            {
+              "token": " How",
+              "logprob": -4.275169372558594
+            },
+            {
+              "token": " high",
+              "logprob": -0.822797954082489
+            },
+            {
+              "token": " was",
+              "logprob": -0.3312736749649048
+            },
+            {
+              "token": " Jordan",
+              "logprob": -2.9606335163116455
+            },
+            {
+              "token": "’s",
+              "logprob": -2.457350254058838
+            },
+            {
+              "token": " building",
+              "logprob": -2.972018003463745
+            },
+            {
+              "token": "?",
+              "logprob": -0.38766002655029297
+            },
+            {
+              "token": " It",
+              "logprob": -2.7142176628112793
+            },
+            {
+              "token": " was",
+              "logprob": -0.20080576837062836
+            },
+            {
+              "token": " more",
+              "logprob": -4.763641357421875
+            },
+            {
+              "token": " than",
+              "logprob": -0.049460187554359436
+            },
+            {
+              "token": " ",
+              "logprob": -0.4865599572658539
+            },
+            {
+              "token": "8",
+              "logprob": -3.4337615966796875
+            },
+            {
+              "token": " feet",
+              "logprob": -0.374104380607605
+            },
+            {
+              "token": " (",
+              "logprob": -2.9137539863586426
+            },
+            {
+              "token": "2",
+              "logprob": -0.3367564380168915
+            },
+            {
+              "token": ".",
+              "logprob": -0.03998561576008797
+            },
+            {
+              "token": "4",
+              "logprob": -0.17807000875473022
+            },
+            {
+              "token": " meters",
+              "logprob": -0.9228469133377075
+            },
+            {
+              "token": ")",
+              "logprob": -0.12804313004016876
+            },
+            {
+              "token": " tall",
+              "logprob": -0.47465771436691284
+            },
+            {
+              "token": ".",
+              "logprob": -0.584172785282135
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "That's a good question. But that is also an interesting structure. How about something with lots of layers, and in-between space?",
+          "token_data": [
+            {
+              "token": " That",
+              "logprob": -4.76332950592041
+            },
+            {
+              "token": "'s",
+              "logprob": -3.0361175537109375
+            },
+            {
+              "token": " a",
+              "logprob": -0.5784347653388977
+            },
+            {
+              "token": " good",
+              "logprob": -1.282794713973999
+            },
+            {
+              "token": " question",
+              "logprob": -0.0914861410856247
+            },
+            {
+              "token": ".",
+              "logprob": -0.6657689809799194
+            },
+            {
+              "token": " But",
+              "logprob": -4.313839912414551
+            },
+            {
+              "token": " that",
+              "logprob": -4.499166488647461
+            },
+            {
+              "token": " is",
+              "logprob": -2.361621141433716
+            },
+            {
+              "token": " also",
+              "logprob": -3.3802483081817627
+            },
+            {
+              "token": " an",
+              "logprob": -2.513522148132324
+            },
+            {
+              "token": " interesting",
+              "logprob": -3.394286870956421
+            },
+            {
+              "token": " structure",
+              "logprob": -4.197349548339844
+            },
+            {
+              "token": ".",
+              "logprob": -0.6333641409873962
+            },
+            {
+              "token": " How",
+              "logprob": -3.967895269393921
+            },
+            {
+              "token": " about",
+              "logprob": -3.6172232627868652
+            },
+            {
+              "token": " something",
+              "logprob": -4.776388168334961
+            },
+            {
+              "token": " with",
+              "logprob": -3.6692042350769043
+            },
+            {
+              "token": " lots",
+              "logprob": -4.768592834472656
+            },
+            {
+              "token": " of",
+              "logprob": -0.051084477454423904
+            },
+            {
+              "token": " layers",
+              "logprob": -3.0493719577789307
+            },
+            {
+              "token": ",",
+              "logprob": -3.037858486175537
+            },
+            {
+              "token": " and",
+              "logprob": -2.3461737632751465
+            },
+            {
+              "token": " in",
+              "logprob": -4.7505784034729
+            },
+            {
+              "token": "-between",
+              "logprob": -5.089018821716309
+            },
+            {
+              "token": " space",
+              "logprob": -3.287950038909912
+            },
+            {
+              "token": "?\n",
+              "logprob": -3.6768460273742676
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.160650253295898
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "It was so tall it touched the ceiling.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.261519193649292
+            },
+            {
+              "token": " was",
+              "logprob": -0.21443726122379303
+            },
+            {
+              "token": " so",
+              "logprob": -1.600172996520996
+            },
+            {
+              "token": " tall",
+              "logprob": -0.16874560713768005
+            },
+            {
+              "token": " it",
+              "logprob": -1.714341640472412
+            },
+            {
+              "token": " touched",
+              "logprob": -2.9905099868774414
+            },
+            {
+              "token": " the",
+              "logprob": -0.017091602087020874
+            },
+            {
+              "token": " ceiling",
+              "logprob": -0.03011242114007473
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.344555139541626
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How high was the structure Noah built?",
+      "character": "Noah",
+      "story": "Jordan and Noah were best friends. They loved to play together every day. One sunny afternoon, Jordan had an idea. \"Let's build something fun!\" Jordan said. Noah agreed and ran to get some toys. Jordan built a tall tower with colorful blocks. It was so tall that it almost touched the ceiling! Noah clapped and laughed. \"That's amazing!\" Noah said. Then Noah grabbed a ball and started bouncing it around. Jordan watched the tower, proud of the work. Suddenly, the ball hit the table, and the tower shook. Jordan gasped but the tower stayed up. \"Phew!\" Jordan said. They played until the sun went down. When it was time to go home, Jordan smiled. \"Tomorrow, let's build something even bigger!\" Noah nodded and waved goodbye. They both knew they would have more fun the next day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "How tall was the structure Noah built? Answer: \"Let's build something fun!\" Jordan said. Noah agreed and ran to get some toys. Jordan built a tower taller than the ceiling!",
+          "token_data": [
+            {
+              "token": " How",
+              "logprob": -4.018184185028076
+            },
+            {
+              "token": " tall",
+              "logprob": -1.0428905487060547
+            },
+            {
+              "token": " was",
+              "logprob": -0.34830477833747864
+            },
+            {
+              "token": " the",
+              "logprob": -0.32183900475502014
+            },
+            {
+              "token": " structure",
+              "logprob": -0.18244090676307678
+            },
+            {
+              "token": " Noah",
+              "logprob": -0.08468485623598099
+            },
+            {
+              "token": " built",
+              "logprob": -0.05458221584558487
+            },
+            {
+              "token": "?",
+              "logprob": -0.15718097984790802
+            },
+            {
+              "token": " Answer",
+              "logprob": -3.181825637817383
+            },
+            {
+              "token": ":",
+              "logprob": -0.9947733879089355
+            },
+            {
+              "token": " \"",
+              "logprob": -4.460702896118164
+            },
+            {
+              "token": "Let",
+              "logprob": -3.297494649887085
+            },
+            {
+              "token": "'s",
+              "logprob": -0.016313280910253525
+            },
+            {
+              "token": " build",
+              "logprob": -0.04942082241177559
+            },
+            {
+              "token": " something",
+              "logprob": -0.039125192910432816
+            },
+            {
+              "token": " fun",
+              "logprob": -0.1730349063873291
+            },
+            {
+              "token": "!\"",
+              "logprob": -0.11814229190349579
+            },
+            {
+              "token": " Jordan",
+              "logprob": -0.3067382574081421
+            },
+            {
+              "token": " said",
+              "logprob": -0.32943812012672424
+            },
+            {
+              "token": ".",
+              "logprob": -0.08430614322423935
+            },
+            {
+              "token": " Noah",
+              "logprob": -0.5862757563591003
+            },
+            {
+              "token": " agreed",
+              "logprob": -0.08035124838352203
+            },
+            {
+              "token": " and",
+              "logprob": -0.05059320852160454
+            },
+            {
+              "token": " ran",
+              "logprob": -0.009687790647149086
+            },
+            {
+              "token": " to",
+              "logprob": -0.0028142628725618124
+            },
+            {
+              "token": " get",
+              "logprob": -0.012163391336798668
+            },
+            {
+              "token": " some",
+              "logprob": -0.010375017300248146
+            },
+            {
+              "token": " toys",
+              "logprob": -0.006066243629902601
+            },
+            {
+              "token": ".",
+              "logprob": -0.03660646453499794
+            },
+            {
+              "token": " Jordan",
+              "logprob": -0.06424549967050552
+            },
+            {
+              "token": " built",
+              "logprob": -0.013822663575410843
+            },
+            {
+              "token": " a",
+              "logprob": -0.005450388416647911
+            },
+            {
+              "token": " tower",
+              "logprob": -1.9287852048873901
+            },
+            {
+              "token": " taller",
+              "logprob": -3.601602077484131
+            },
+            {
+              "token": " than",
+              "logprob": -0.0768049880862236
+            },
+            {
+              "token": " the",
+              "logprob": -1.1153796911239624
+            },
+            {
+              "token": " ceiling",
+              "logprob": -0.7331423163414001
+            },
+            {
+              "token": "!",
+              "logprob": -0.9462893009185791
+            },
+            {
+              "token": " ",
+              "logprob": -4.214860916137695
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "As tall as his building.",
+          "token_data": [
+            {
+              "token": " As",
+              "logprob": -3.389455795288086
+            },
+            {
+              "token": " tall",
+              "logprob": -0.4322683811187744
+            },
+            {
+              "token": " as",
+              "logprob": -0.018464231863617897
+            },
+            {
+              "token": " his",
+              "logprob": -3.8282148838043213
+            },
+            {
+              "token": " building",
+              "logprob": -3.253498077392578
+            },
+            {
+              "token": ".",
+              "logprob": -1.0518726110458374
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7512784004211426
+            },
+            {
+              "token": ":",
+              "logprob": -0.0176580511033535
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Jordan and Noah were best friends. They loved to play together every day. One sunny afternoon, Jordan had an idea. \"Let's build something fun!\" Jordan said. Then Noah agreed and ran to get some toys. Jordan built a tower that was tall and beautiful with colorful blocks! The more Jordan and Noah played, the better they got at building their structures! Next, it was time to go home. When it was time to go home, Jordan smiled. \"Tomorrow, let's build something even bigger!\" Noah nodded and waved goodbye. They both knew they would have more fun tomorrow!",
+          "token_data": [
+            {
+              "token": " Jordan",
+              "logprob": -5.111605644226074
+            },
+            {
+              "token": " and",
+              "logprob": -1.1078583002090454
+            },
+            {
+              "token": " Noah",
+              "logprob": -0.005999413784593344
+            },
+            {
+              "token": " were",
+              "logprob": -0.7136735320091248
+            },
+            {
+              "token": " best",
+              "logprob": -0.11722975224256516
+            },
+            {
+              "token": " friends",
+              "logprob": -0.024381551891565323
+            },
+            {
+              "token": ".",
+              "logprob": -0.08241018652915955
+            },
+            {
+              "token": " They",
+              "logprob": -0.1454099416732788
+            },
+            {
+              "token": " loved",
+              "logprob": -0.06587052345275879
+            },
+            {
+              "token": " to",
+              "logprob": -0.013856993988156319
+            },
+            {
+              "token": " play",
+              "logprob": -0.04544462263584137
+            },
+            {
+              "token": " together",
+              "logprob": -0.040752142667770386
+            },
+            {
+              "token": " every",
+              "logprob": -0.056980110704898834
+            },
+            {
+              "token": " day",
+              "logprob": -0.007084487937390804
+            },
+            {
+              "token": ".",
+              "logprob": -0.06736218929290771
+            },
+            {
+              "token": " One",
+              "logprob": -0.03213338553905487
+            },
+            {
+              "token": " sunny",
+              "logprob": -0.012712041847407818
+            },
+            {
+              "token": " afternoon",
+              "logprob": -0.01048131100833416
+            },
+            {
+              "token": ",",
+              "logprob": -0.008768034167587757
+            },
+            {
+              "token": " Jordan",
+              "logprob": -0.012155384756624699
+            },
+            {
+              "token": " had",
+              "logprob": -0.025997111573815346
+            },
+            {
+              "token": " an",
+              "logprob": -0.014053314924240112
+            },
+            {
+              "token": " idea",
+              "logprob": -0.002463046694174409
+            },
+            {
+              "token": ".",
+              "logprob": -0.021746402606368065
+            },
+            {
+              "token": " \"",
+              "logprob": -0.14993874728679657
+            },
+            {
+              "token": "Let",
+              "logprob": -0.005953080952167511
+            },
+            {
+              "token": "'s",
+              "logprob": -0.004358791746199131
+            },
+            {
+              "token": " build",
+              "logprob": -0.006714875344187021
+            },
+            {
+              "token": " something",
+              "logprob": -0.00333574740216136
+            },
+            {
+              "token": " fun",
+              "logprob": -0.010393540374934673
+            },
+            {
+              "token": "!\"",
+              "logprob": -0.01774635538458824
+            },
+            {
+              "token": " Jordan",
+              "logprob": -0.05139116942882538
+            },
+            {
+              "token": " said",
+              "logprob": -0.061838749796152115
+            },
+            {
+              "token": ".",
+              "logprob": -0.05468345060944557
+            },
+            {
+              "token": " Then",
+              "logprob": -4.422590255737305
+            },
+            {
+              "token": " Noah",
+              "logprob": -0.16327479481697083
+            },
+            {
+              "token": " agreed",
+              "logprob": -0.38193777203559875
+            },
+            {
+              "token": " and",
+              "logprob": -0.06669251620769501
+            },
+            {
+              "token": " ran",
+              "logprob": -0.010838094167411327
+            },
+            {
+              "token": " to",
+              "logprob": -0.0022670538164675236
+            },
+            {
+              "token": " get",
+              "logprob": -0.009908538311719894
+            },
+            {
+              "token": " some",
+              "logprob": -0.013370729051530361
+            },
+            {
+              "token": " toys",
+              "logprob": -0.006775854621082544
+            },
+            {
+              "token": ".",
+              "logprob": -0.02988903410732746
+            },
+            {
+              "token": " Jordan",
+              "logprob": -0.1132722720503807
+            },
+            {
+              "token": " built",
+              "logprob": -0.03336033225059509
+            },
+            {
+              "token": " a",
+              "logprob": -0.017094530165195465
+            },
+            {
+              "token": " tower",
+              "logprob": -1.7004625797271729
+            },
+            {
+              "token": " that",
+              "logprob": -2.101881980895996
+            },
+            {
+              "token": " was",
+              "logprob": -0.09584596008062363
+            },
+            {
+              "token": " tall",
+              "logprob": -2.9192986488342285
+            },
+            {
+              "token": " and",
+              "logprob": -1.8732768297195435
+            },
+            {
+              "token": " beautiful",
+              "logprob": -3.7276954650878906
+            },
+            {
+              "token": " with",
+              "logprob": -3.7908456325531006
+            },
+            {
+              "token": " colorful",
+              "logprob": -0.5283361673355103
+            },
+            {
+              "token": " blocks",
+              "logprob": -0.0827033668756485
+            },
+            {
+              "token": "!",
+              "logprob": -2.9741880893707275
+            },
+            {
+              "token": " The",
+              "logprob": -2.7713403701782227
+            },
+            {
+              "token": " more",
+              "logprob": -3.9986019134521484
+            },
+            {
+              "token": " Jordan",
+              "logprob": -1.123463749885559
+            },
+            {
+              "token": " and",
+              "logprob": -1.7431796789169312
+            },
+            {
+              "token": " Noah",
+              "logprob": -0.0031513336580246687
+            },
+            {
+              "token": " played",
+              "logprob": -0.219729483127594
+            },
+            {
+              "token": ",",
+              "logprob": -0.4501156210899353
+            },
+            {
+              "token": " the",
+              "logprob": -0.013448123820126057
+            },
+            {
+              "token": " better",
+              "logprob": -3.1423797607421875
+            },
+            {
+              "token": " they",
+              "logprob": -1.3646787405014038
+            },
+            {
+              "token": " got",
+              "logprob": -1.0308316946029663
+            },
+            {
+              "token": " at",
+              "logprob": -0.9735660552978516
+            },
+            {
+              "token": " building",
+              "logprob": -0.7093454003334045
+            },
+            {
+              "token": " their",
+              "logprob": -3.3081982135772705
+            },
+            {
+              "token": " structures",
+              "logprob": -2.3098528385162354
+            },
+            {
+              "token": "!",
+              "logprob": -1.62074613571167
+            },
+            {
+              "token": " Next",
+              "logprob": -4.732064723968506
+            },
+            {
+              "token": ",",
+              "logprob": -0.5625838041305542
+            },
+            {
+              "token": " it",
+              "logprob": -4.349402904510498
+            },
+            {
+              "token": " was",
+              "logprob": -0.15577785670757294
+            },
+            {
+              "token": " time",
+              "logprob": -0.20519880950450897
+            },
+            {
+              "token": " to",
+              "logprob": -0.3573151230812073
+            },
+            {
+              "token": " go",
+              "logprob": -0.4154280722141266
+            },
+            {
+              "token": " home",
+              "logprob": -0.08193691819906235
+            },
+            {
+              "token": ".",
+              "logprob": -0.42725086212158203
+            },
+            {
+              "token": " When",
+              "logprob": -0.7139759659767151
+            },
+            {
+              "token": " it",
+              "logprob": -0.10749012231826782
+            },
+            {
+              "token": " was",
+              "logprob": -0.006284711882472038
+            },
+            {
+              "token": " time",
+              "logprob": -0.005988867953419685
+            },
+            {
+              "token": " to",
+              "logprob": -0.02490191161632538
+            },
+            {
+              "token": " go",
+              "logprob": -0.033695220947265625
+            },
+            {
+              "token": " home",
+              "logprob": -0.015203074552118778
+            },
+            {
+              "token": ",",
+              "logprob": -0.011709057725965977
+            },
+            {
+              "token": " Jordan",
+              "logprob": -0.027751179412007332
+            },
+            {
+              "token": " smiled",
+              "logprob": -0.06577006727457047
+            },
+            {
+              "token": ".",
+              "logprob": -0.14545951783657074
+            },
+            {
+              "token": " \"",
+              "logprob": -0.03744563087821007
+            },
+            {
+              "token": "Tomorrow",
+              "logprob": -0.05765530467033386
+            },
+            {
+              "token": ",",
+              "logprob": -0.0070516993291676044
+            },
+            {
+              "token": " let",
+              "logprob": -0.011012489907443523
+            },
+            {
+              "token": "'s",
+              "logprob": -0.001450320822186768
+            },
+            {
+              "token": " build",
+              "logprob": -0.005153111647814512
+            },
+            {
+              "token": " something",
+              "logprob": -0.005312966648489237
+            },
+            {
+              "token": " even",
+              "logprob": -0.009836061857640743
+            },
+            {
+              "token": " bigger",
+              "logprob": -0.02085343562066555
+            },
+            {
+              "token": "!\"",
+              "logprob": -0.030477765947580338
+            },
+            {
+              "token": " Noah",
+              "logprob": -0.16779100894927979
+            },
+            {
+              "token": " nodded",
+              "logprob": -0.18727348744869232
+            },
+            {
+              "token": " and",
+              "logprob": -0.047002311795949936
+            },
+            {
+              "token": " waved",
+              "logprob": -0.031354788690805435
+            },
+            {
+              "token": " goodbye",
+              "logprob": -0.03218521922826767
+            },
+            {
+              "token": ".",
+              "logprob": -0.08098819851875305
+            },
+            {
+              "token": " They",
+              "logprob": -0.07589126378297806
+            },
+            {
+              "token": " both",
+              "logprob": -0.010553858242928982
+            },
+            {
+              "token": " knew",
+              "logprob": -0.018150782212615013
+            },
+            {
+              "token": " they",
+              "logprob": -0.05419564247131348
+            },
+            {
+              "token": " would",
+              "logprob": -0.0074911173433065414
+            },
+            {
+              "token": " have",
+              "logprob": -0.0035700174048542976
+            },
+            {
+              "token": " more",
+              "logprob": -0.028484737500548363
+            },
+            {
+              "token": " fun",
+              "logprob": -0.007759074680507183
+            },
+            {
+              "token": " tomorrow",
+              "logprob": -3.276681900024414
+            },
+            {
+              "token": "!",
+              "logprob": -2.1288394927978516
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.9220428466796875
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "He built a very tall tower with colored block. The top was so tall it almost touch the ceiling.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -3.8764915466308594
+            },
+            {
+              "token": " built",
+              "logprob": -0.2774330675601959
+            },
+            {
+              "token": " a",
+              "logprob": -0.1615162342786789
+            },
+            {
+              "token": " very",
+              "logprob": -2.307650089263916
+            },
+            {
+              "token": " tall",
+              "logprob": -0.13180813193321228
+            },
+            {
+              "token": " tower",
+              "logprob": -0.46036338806152344
+            },
+            {
+              "token": " with",
+              "logprob": -2.8631956577301025
+            },
+            {
+              "token": " colored",
+              "logprob": -3.475213050842285
+            },
+            {
+              "token": " block",
+              "logprob": -3.084385633468628
+            },
+            {
+              "token": ".",
+              "logprob": -0.6999282240867615
+            },
+            {
+              "token": " The",
+              "logprob": -2.1663215160369873
+            },
+            {
+              "token": " top",
+              "logprob": -3.9401769638061523
+            },
+            {
+              "token": " was",
+              "logprob": -1.9542051553726196
+            },
+            {
+              "token": " so",
+              "logprob": -0.5857856273651123
+            },
+            {
+              "token": " tall",
+              "logprob": -0.34951478242874146
+            },
+            {
+              "token": " it",
+              "logprob": -1.2583882808685303
+            },
+            {
+              "token": " almost",
+              "logprob": -0.3731498122215271
+            },
+            {
+              "token": " touch",
+              "logprob": -2.257340431213379
+            },
+            {
+              "token": " the",
+              "logprob": -0.05322156473994255
+            },
+            {
+              "token": " ceiling",
+              "logprob": -0.06171929091215134
+            },
+            {
+              "token": ".",
+              "logprob": -0.4838557243347168
+            },
+            {
+              "token": " Q",
+              "logprob": -1.3316043615341187
+            },
+            {
+              "token": ":",
+              "logprob": -0.024312909692525864
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "To high!",
+          "token_data": [
+            {
+              "token": " To",
+              "logprob": -3.840909957885742
+            },
+            {
+              "token": " high",
+              "logprob": -1.8312697410583496
+            },
+            {
+              "token": "!\n",
+              "logprob": -4.166322708129883
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "2 meters.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -2.131288528442383
+            },
+            {
+              "token": "2",
+              "logprob": -1.7939941883087158
+            },
+            {
+              "token": " meters",
+              "logprob": -1.7995021343231201
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.944053888320923
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "To the height of an adult (3') in each step.",
+          "token_data": [
+            {
+              "token": " To",
+              "logprob": -3.840909957885742
+            },
+            {
+              "token": " the",
+              "logprob": -1.3121447563171387
+            },
+            {
+              "token": " height",
+              "logprob": -2.9367449283599854
+            },
+            {
+              "token": " of",
+              "logprob": -0.08447640389204025
+            },
+            {
+              "token": " an",
+              "logprob": -3.7445967197418213
+            },
+            {
+              "token": " adult",
+              "logprob": -1.54880952835083
+            },
+            {
+              "token": " (",
+              "logprob": -3.383776903152466
+            },
+            {
+              "token": "3",
+              "logprob": -4.079470634460449
+            },
+            {
+              "token": "')",
+              "logprob": -4.4421892166137695
+            },
+            {
+              "token": " in",
+              "logprob": -4.14491081237793
+            },
+            {
+              "token": " each",
+              "logprob": -4.8846893310546875
+            },
+            {
+              "token": " step",
+              "logprob": -3.758068084716797
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.475308656692505
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "(The tallest thing Noah could build.)",
+          "token_data": [
+            {
+              "token": " (",
+              "logprob": -4.547679901123047
+            },
+            {
+              "token": "The",
+              "logprob": -4.706170558929443
+            },
+            {
+              "token": " tallest",
+              "logprob": -3.8801426887512207
+            },
+            {
+              "token": " thing",
+              "logprob": -3.538832187652588
+            },
+            {
+              "token": " Noah",
+              "logprob": -0.6378614902496338
+            },
+            {
+              "token": " could",
+              "logprob": -1.6554217338562012
+            },
+            {
+              "token": " build",
+              "logprob": -0.7324550747871399
+            },
+            {
+              "token": ".)",
+              "logprob": -2.672860860824585
+            },
+            {
+              "token": " Q",
+              "logprob": -2.2898366451263428
+            },
+            {
+              "token": ":",
+              "logprob": -0.021616099402308464
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It was quite tall.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.5062971115112305
+            },
+            {
+              "token": " was",
+              "logprob": -0.24841126799583435
+            },
+            {
+              "token": " quite",
+              "logprob": -3.930502414703369
+            },
+            {
+              "token": " tall",
+              "logprob": -0.21792392432689667
+            },
+            {
+              "token": ".",
+              "logprob": -1.2384767532348633
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.0341105461120605
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The tower Noah built was about three feet tall.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.259990692138672
+            },
+            {
+              "token": " tower",
+              "logprob": -1.7138326168060303
+            },
+            {
+              "token": " Noah",
+              "logprob": -2.5231945514678955
+            },
+            {
+              "token": " built",
+              "logprob": -0.1494694948196411
+            },
+            {
+              "token": " was",
+              "logprob": -0.1946461796760559
+            },
+            {
+              "token": " about",
+              "logprob": -2.876948356628418
+            },
+            {
+              "token": " three",
+              "logprob": -3.156900405883789
+            },
+            {
+              "token": " feet",
+              "logprob": -0.538549542427063
+            },
+            {
+              "token": " tall",
+              "logprob": -0.6003382802009583
+            },
+            {
+              "token": ".",
+              "logprob": -0.3099389672279358
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.143246650695801
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

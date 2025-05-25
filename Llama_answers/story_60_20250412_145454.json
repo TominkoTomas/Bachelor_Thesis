@@ -1,0 +1,1407 @@
+{
+  "story": "Jamie and Olivia were best friends. One sunny day, they decided to go on an adventure. Jamie wanted to see the view from the top of a big hill. Olivia preferred to stay at the bottom and look for pretty rocks. Jamie climbed a steep hill. It was hard, but Jamie kept going. At the top, Jamie saw the whole town and waved to Olivia below. Olivia smiled and held up a shiny rock she found. Jamie came back down, and they both laughed about their fun day. They promised to go on more adventures together. The end.",
+  "characters": [
+    {
+      "question": "How would you describe the hill Jamie climbed?",
+      "character": "Jamie",
+      "story": "Jamie and Olivia were best friends. One sunny day, they decided to go on an adventure. Jamie wanted to see the view from the top of a big hill. Olivia preferred to stay at the bottom and look for pretty rocks. Jamie climbed a steep hill. It was hard, but Jamie kept going. At the top, Jamie saw the whole town and waved to Olivia below. Olivia smiled and held up a shiny rock she found. Jamie came back down, and they both laughed about their fun day. They promised to go on more adventures together. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "It was a ___ hill. I will give you two sentences in total (including the one I just gave you).",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.9460148811340332
+            },
+            {
+              "token": " was",
+              "logprob": -0.16700026392936707
+            },
+            {
+              "token": " a",
+              "logprob": -1.189103126525879
+            },
+            {
+              "token": " ___",
+              "logprob": -4.544656276702881
+            },
+            {
+              "token": " hill",
+              "logprob": -1.2719395160675049
+            },
+            {
+              "token": ".",
+              "logprob": -0.4527755677700043
+            },
+            {
+              "token": " I",
+              "logprob": -4.733054161071777
+            },
+            {
+              "token": " will",
+              "logprob": -4.444978713989258
+            },
+            {
+              "token": " give",
+              "logprob": -2.5621702671051025
+            },
+            {
+              "token": " you",
+              "logprob": -0.21129210293293
+            },
+            {
+              "token": " two",
+              "logprob": -2.956791400909424
+            },
+            {
+              "token": " sentences",
+              "logprob": -1.5357078313827515
+            },
+            {
+              "token": " in",
+              "logprob": -4.673773288726807
+            },
+            {
+              "token": " total",
+              "logprob": -2.8123719692230225
+            },
+            {
+              "token": " (",
+              "logprob": -3.9394593238830566
+            },
+            {
+              "token": "including",
+              "logprob": -4.468006610870361
+            },
+            {
+              "token": " the",
+              "logprob": -1.6180047988891602
+            },
+            {
+              "token": " one",
+              "logprob": -1.8259682655334473
+            },
+            {
+              "token": " I",
+              "logprob": -2.878283977508545
+            },
+            {
+              "token": " just",
+              "logprob": -0.8015980124473572
+            },
+            {
+              "token": " gave",
+              "logprob": -0.4889746308326721
+            },
+            {
+              "token": " you",
+              "logprob": -0.11766455322504044
+            },
+            {
+              "token": ").",
+              "logprob": -0.9203476905822754
+            },
+            {
+              "token": " Q",
+              "logprob": -2.4953420162200928
+            },
+            {
+              "token": ":",
+              "logprob": -0.021152034401893616
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.118978500366211
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "One whole sentence describing how the hill looked.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -3.7711610794067383
+            },
+            {
+              "token": " whole",
+              "logprob": -2.2194430828094482
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.22689425945281982
+            },
+            {
+              "token": " describing",
+              "logprob": -1.8555328845977783
+            },
+            {
+              "token": " how",
+              "logprob": -2.642719030380249
+            },
+            {
+              "token": " the",
+              "logprob": -1.5860048532485962
+            },
+            {
+              "token": " hill",
+              "logprob": -0.09239280223846436
+            },
+            {
+              "token": " looked",
+              "logprob": -1.7222875356674194
+            },
+            {
+              "token": ".",
+              "logprob": -0.7201306223869324
+            },
+            {
+              "token": " Q",
+              "logprob": -3.649017572402954
+            },
+            {
+              "token": ":",
+              "logprob": -0.03094341978430748
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It was hard but it helped her understand what to do and made her work.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.9531288146972656
+            },
+            {
+              "token": " was",
+              "logprob": -0.1646326780319214
+            },
+            {
+              "token": " hard",
+              "logprob": -3.0786867141723633
+            },
+            {
+              "token": " but",
+              "logprob": -2.5797271728515625
+            },
+            {
+              "token": " it",
+              "logprob": -3.3912341594696045
+            },
+            {
+              "token": " helped",
+              "logprob": -4.141712665557861
+            },
+            {
+              "token": " her",
+              "logprob": -3.7862720489501953
+            },
+            {
+              "token": " understand",
+              "logprob": -4.1375508308410645
+            },
+            {
+              "token": " what",
+              "logprob": -2.5560359954833984
+            },
+            {
+              "token": " to",
+              "logprob": -3.027620792388916
+            },
+            {
+              "token": " do",
+              "logprob": -0.3910215497016907
+            },
+            {
+              "token": " and",
+              "logprob": -2.8593807220458984
+            },
+            {
+              "token": " made",
+              "logprob": -3.9020678997039795
+            },
+            {
+              "token": " her",
+              "logprob": -0.3893289268016815
+            },
+            {
+              "token": " work",
+              "logprob": -3.4303181171417236
+            },
+            {
+              "token": ".",
+              "logprob": -1.7980706691741943
+            },
+            {
+              "token": " \n",
+              "logprob": -2.180638313293457
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Answer using one whole senten.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.050107002258301
+            },
+            {
+              "token": " using",
+              "logprob": -0.24989628791809082
+            },
+            {
+              "token": " one",
+              "logprob": -0.27966195344924927
+            },
+            {
+              "token": " whole",
+              "logprob": -0.08896584808826447
+            },
+            {
+              "token": " sent",
+              "logprob": -1.2445687055587769
+            },
+            {
+              "token": "en",
+              "logprob": -3.043614149093628
+            },
+            {
+              "token": ".",
+              "logprob": -2.715022087097168
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -2.707012414932251
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "It was steep.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.9531288146972656
+            },
+            {
+              "token": " was",
+              "logprob": -0.1646326780319214
+            },
+            {
+              "token": " steep",
+              "logprob": -2.448868751525879
+            },
+            {
+              "token": ".",
+              "logprob": -1.0515888929367065
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.4719882011413574
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "One paragraph. Include 4 - 8 sentences.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -3.7711610794067383
+            },
+            {
+              "token": " paragraph",
+              "logprob": -4.104520797729492
+            },
+            {
+              "token": ".",
+              "logprob": -2.176046371459961
+            },
+            {
+              "token": " Include",
+              "logprob": -4.519693374633789
+            },
+            {
+              "token": " ",
+              "logprob": -4.531362533569336
+            },
+            {
+              "token": "4",
+              "logprob": -2.609734058380127
+            },
+            {
+              "token": " -",
+              "logprob": -3.3705954551696777
+            },
+            {
+              "token": " ",
+              "logprob": -0.15958751738071442
+            },
+            {
+              "token": "8",
+              "logprob": -1.634242057800293
+            },
+            {
+              "token": " sentences",
+              "logprob": -0.3925436735153198
+            },
+            {
+              "token": ".",
+              "logprob": -0.6777114272117615
+            },
+            {
+              "token": " \n \n",
+              "logprob": -4.509422302246094
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Jamie had to climb a very steep hill.",
+          "token_data": [
+            {
+              "token": " Jamie",
+              "logprob": -3.1396045684814453
+            },
+            {
+              "token": " had",
+              "logprob": -2.389909505844116
+            },
+            {
+              "token": " to",
+              "logprob": -0.10493936389684677
+            },
+            {
+              "token": " climb",
+              "logprob": -0.6751959323883057
+            },
+            {
+              "token": " a",
+              "logprob": -0.44629883766174316
+            },
+            {
+              "token": " very",
+              "logprob": -1.840110421180725
+            },
+            {
+              "token": " steep",
+              "logprob": -0.3722279369831085
+            },
+            {
+              "token": " hill",
+              "logprob": -0.07945496588945389
+            },
+            {
+              "token": ".",
+              "logprob": -0.5810384750366211
+            },
+            {
+              "token": " \n",
+              "logprob": -2.57620906829834
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.623049736022949
+            },
+            {
+              "token": ":",
+              "logprob": -0.11589924991130829
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "It was very, very steep.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.7843780517578125
+            },
+            {
+              "token": " It",
+              "logprob": -2.498490333557129
+            },
+            {
+              "token": " was",
+              "logprob": -0.18049593269824982
+            },
+            {
+              "token": " very",
+              "logprob": -1.855066180229187
+            },
+            {
+              "token": ",",
+              "logprob": -2.706272602081299
+            },
+            {
+              "token": " very",
+              "logprob": -0.05405787378549576
+            },
+            {
+              "token": " steep",
+              "logprob": -0.723316490650177
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.101701259613037
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How would you describe the hill Olivia climbed?",
+      "character": "Olivia",
+      "story": "Jamie and Olivia were best friends. One sunny day, they decided to go on an adventure. Jamie wanted to see the view from the top of a big hill. Olivia preferred to stay at the bottom and look for pretty rocks. Jamie climbed a steep hill. It was hard, but Jamie kept going. At the top, Jamie saw the whole town and waved to Olivia below. Olivia smiled and held up a shiny rock she found. Jamie came back down, and they both laughed about their fun day. They promised to go on more adventures together. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "One word. Two words. Three words? Describe the hill. Be sure to include all the information that was provided in the story context.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -4.023229598999023
+            },
+            {
+              "token": " word",
+              "logprob": -2.471080780029297
+            },
+            {
+              "token": ".",
+              "logprob": -1.4923787117004395
+            },
+            {
+              "token": " Two",
+              "logprob": -4.405496597290039
+            },
+            {
+              "token": " words",
+              "logprob": -0.9833194613456726
+            },
+            {
+              "token": ".",
+              "logprob": -0.2010410577058792
+            },
+            {
+              "token": " Three",
+              "logprob": -0.6706841588020325
+            },
+            {
+              "token": " words",
+              "logprob": -0.3700573146343231
+            },
+            {
+              "token": "?",
+              "logprob": -1.9724082946777344
+            },
+            {
+              "token": " Describe",
+              "logprob": -3.355787515640259
+            },
+            {
+              "token": " the",
+              "logprob": -0.6793210506439209
+            },
+            {
+              "token": " hill",
+              "logprob": -0.45418769121170044
+            },
+            {
+              "token": ".",
+              "logprob": -2.0286221504211426
+            },
+            {
+              "token": " Be",
+              "logprob": -4.202169895172119
+            },
+            {
+              "token": " sure",
+              "logprob": -2.508328914642334
+            },
+            {
+              "token": " to",
+              "logprob": -0.2496296912431717
+            },
+            {
+              "token": " include",
+              "logprob": -1.81476628780365
+            },
+            {
+              "token": " all",
+              "logprob": -2.214198112487793
+            },
+            {
+              "token": " the",
+              "logprob": -1.1903882026672363
+            },
+            {
+              "token": " information",
+              "logprob": -3.573960304260254
+            },
+            {
+              "token": " that",
+              "logprob": -2.7763161659240723
+            },
+            {
+              "token": " was",
+              "logprob": -2.6382694244384766
+            },
+            {
+              "token": " provided",
+              "logprob": -2.831298828125
+            },
+            {
+              "token": " in",
+              "logprob": -1.1079177856445312
+            },
+            {
+              "token": " the",
+              "logprob": -0.13277031481266022
+            },
+            {
+              "token": " story",
+              "logprob": -1.0405055284500122
+            },
+            {
+              "token": " context",
+              "logprob": -1.8069943189620972
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.177535057067871
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "She didn't have to climb very far. B: She was at the bottom and looked down at her sister who was climbing a steep hill.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -3.2326600551605225
+            },
+            {
+              "token": " didn",
+              "logprob": -3.717280864715576
+            },
+            {
+              "token": "'t",
+              "logprob": -0.2924056351184845
+            },
+            {
+              "token": " have",
+              "logprob": -1.880140781402588
+            },
+            {
+              "token": " to",
+              "logprob": -0.13542824983596802
+            },
+            {
+              "token": " climb",
+              "logprob": -0.8004993200302124
+            },
+            {
+              "token": " very",
+              "logprob": -2.1556777954101562
+            },
+            {
+              "token": " far",
+              "logprob": -1.8536710739135742
+            },
+            {
+              "token": ".",
+              "logprob": -0.9605823755264282
+            },
+            {
+              "token": " B",
+              "logprob": -4.625611782073975
+            },
+            {
+              "token": ":",
+              "logprob": -0.015325172804296017
+            },
+            {
+              "token": " She",
+              "logprob": -0.4356757402420044
+            },
+            {
+              "token": " was",
+              "logprob": -3.558838129043579
+            },
+            {
+              "token": " at",
+              "logprob": -3.099545478820801
+            },
+            {
+              "token": " the",
+              "logprob": -0.0890994444489479
+            },
+            {
+              "token": " bottom",
+              "logprob": -0.49620482325553894
+            },
+            {
+              "token": " and",
+              "logprob": -2.7770638465881348
+            },
+            {
+              "token": " looked",
+              "logprob": -2.510885000228882
+            },
+            {
+              "token": " down",
+              "logprob": -2.6557016372680664
+            },
+            {
+              "token": " at",
+              "logprob": -1.473145842552185
+            },
+            {
+              "token": " her",
+              "logprob": -3.1239516735076904
+            },
+            {
+              "token": " sister",
+              "logprob": -4.117812633514404
+            },
+            {
+              "token": " who",
+              "logprob": -3.1559410095214844
+            },
+            {
+              "token": " was",
+              "logprob": -0.5027697086334229
+            },
+            {
+              "token": " climbing",
+              "logprob": -1.5714668035507202
+            },
+            {
+              "token": " a",
+              "logprob": -1.5997869968414307
+            },
+            {
+              "token": " steep",
+              "logprob": -1.3735402822494507
+            },
+            {
+              "token": " hill",
+              "logprob": -0.07095302641391754
+            },
+            {
+              "token": ".",
+              "logprob": -0.24802540242671967
+            },
+            {
+              "token": " Q",
+              "logprob": -3.493053436279297
+            },
+            {
+              "token": ":",
+              "logprob": -0.019922396168112755
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "To me, a big hill is really hard to climb. It’s a challenge for Jamie to try and look down the side. We have to try very hard so we can say things like: I need a bigger rock.",
+          "token_data": [
+            {
+              "token": " To",
+              "logprob": -4.535985946655273
+            },
+            {
+              "token": " me",
+              "logprob": -3.9033682346343994
+            },
+            {
+              "token": ",",
+              "logprob": -0.5010178089141846
+            },
+            {
+              "token": " a",
+              "logprob": -3.6913375854492188
+            },
+            {
+              "token": " big",
+              "logprob": -1.2599503993988037
+            },
+            {
+              "token": " hill",
+              "logprob": -0.061139918863773346
+            },
+            {
+              "token": " is",
+              "logprob": -0.979722797870636
+            },
+            {
+              "token": " really",
+              "logprob": -3.8728652000427246
+            },
+            {
+              "token": " hard",
+              "logprob": -2.256335973739624
+            },
+            {
+              "token": " to",
+              "logprob": -0.3915204107761383
+            },
+            {
+              "token": " climb",
+              "logprob": -0.1663089543581009
+            },
+            {
+              "token": ".",
+              "logprob": -0.5870495438575745
+            },
+            {
+              "token": " It",
+              "logprob": -1.3347066640853882
+            },
+            {
+              "token": "’s",
+              "logprob": -2.732632875442505
+            },
+            {
+              "token": " a",
+              "logprob": -1.782464861869812
+            },
+            {
+              "token": " challenge",
+              "logprob": -3.924257755279541
+            },
+            {
+              "token": " for",
+              "logprob": -3.426668167114258
+            },
+            {
+              "token": " Jamie",
+              "logprob": -2.794245481491089
+            },
+            {
+              "token": " to",
+              "logprob": -1.0377509593963623
+            },
+            {
+              "token": " try",
+              "logprob": -3.5001540184020996
+            },
+            {
+              "token": " and",
+              "logprob": -0.822586178779602
+            },
+            {
+              "token": " look",
+              "logprob": -4.613178253173828
+            },
+            {
+              "token": " down",
+              "logprob": -3.3516316413879395
+            },
+            {
+              "token": " the",
+              "logprob": -3.648682117462158
+            },
+            {
+              "token": " side",
+              "logprob": -3.201089859008789
+            },
+            {
+              "token": ".",
+              "logprob": -2.087697982788086
+            },
+            {
+              "token": " We",
+              "logprob": -4.642836570739746
+            },
+            {
+              "token": " have",
+              "logprob": -1.8141121864318848
+            },
+            {
+              "token": " to",
+              "logprob": -0.563635528087616
+            },
+            {
+              "token": " try",
+              "logprob": -3.8194894790649414
+            },
+            {
+              "token": " very",
+              "logprob": -3.854942798614502
+            },
+            {
+              "token": " hard",
+              "logprob": -0.04922519624233246
+            },
+            {
+              "token": " so",
+              "logprob": -4.371585845947266
+            },
+            {
+              "token": " we",
+              "logprob": -0.5006506443023682
+            },
+            {
+              "token": " can",
+              "logprob": -0.9355499148368835
+            },
+            {
+              "token": " say",
+              "logprob": -3.958634376525879
+            },
+            {
+              "token": " things",
+              "logprob": -4.373269081115723
+            },
+            {
+              "token": " like",
+              "logprob": -0.3763425648212433
+            },
+            {
+              "token": ":",
+              "logprob": -2.939154624938965
+            },
+            {
+              "token": " I",
+              "logprob": -2.819091320037842
+            },
+            {
+              "token": " need",
+              "logprob": -4.419020652770996
+            },
+            {
+              "token": " a",
+              "logprob": -1.9892948865890503
+            },
+            {
+              "token": " bigger",
+              "logprob": -2.941895008087158
+            },
+            {
+              "token": " rock",
+              "logprob": -1.0955698490142822
+            },
+            {
+              "token": ".",
+              "logprob": -0.9679648876190186
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.5760679244995117
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It was hard. Jamie made it to the top because he climbed up and up and up until he couldn't climb any higher.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.6304328441619873
+            },
+            {
+              "token": " was",
+              "logprob": -0.3182007372379303
+            },
+            {
+              "token": " hard",
+              "logprob": -3.6131885051727295
+            },
+            {
+              "token": ".",
+              "logprob": -1.4759259223937988
+            },
+            {
+              "token": " Jamie",
+              "logprob": -3.3471860885620117
+            },
+            {
+              "token": " made",
+              "logprob": -4.372864246368408
+            },
+            {
+              "token": " it",
+              "logprob": -0.09664110839366913
+            },
+            {
+              "token": " to",
+              "logprob": -0.8264040350914001
+            },
+            {
+              "token": " the",
+              "logprob": -0.03034142777323723
+            },
+            {
+              "token": " top",
+              "logprob": -0.047174494713544846
+            },
+            {
+              "token": " because",
+              "logprob": -4.545151710510254
+            },
+            {
+              "token": " he",
+              "logprob": -0.5385102033615112
+            },
+            {
+              "token": " climbed",
+              "logprob": -3.846567392349243
+            },
+            {
+              "token": " up",
+              "logprob": -2.592243194580078
+            },
+            {
+              "token": " and",
+              "logprob": -2.0369796752929688
+            },
+            {
+              "token": " up",
+              "logprob": -0.1975632756948471
+            },
+            {
+              "token": " and",
+              "logprob": -1.6570225954055786
+            },
+            {
+              "token": " up",
+              "logprob": -0.12955334782600403
+            },
+            {
+              "token": " until",
+              "logprob": -2.148782253265381
+            },
+            {
+              "token": " he",
+              "logprob": -0.157859206199646
+            },
+            {
+              "token": " couldn",
+              "logprob": -3.2635176181793213
+            },
+            {
+              "token": "'t",
+              "logprob": -0.22540034353733063
+            },
+            {
+              "token": " climb",
+              "logprob": -1.7750226259231567
+            },
+            {
+              "token": " any",
+              "logprob": -0.9746868014335632
+            },
+            {
+              "token": " higher",
+              "logprob": -2.815983533859253
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.3098695278167725
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "She had a hard time going up because of all the bakers she made, and she did it!",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -3.2326600551605225
+            },
+            {
+              "token": " had",
+              "logprob": -3.318678379058838
+            },
+            {
+              "token": " a",
+              "logprob": -2.2953834533691406
+            },
+            {
+              "token": " hard",
+              "logprob": -1.6075513362884521
+            },
+            {
+              "token": " time",
+              "logprob": -0.11507166922092438
+            },
+            {
+              "token": " going",
+              "logprob": -3.8508238792419434
+            },
+            {
+              "token": " up",
+              "logprob": -0.30475345253944397
+            },
+            {
+              "token": " because",
+              "logprob": -3.781669855117798
+            },
+            {
+              "token": " of",
+              "logprob": -1.73697030544281
+            },
+            {
+              "token": " all",
+              "logprob": -2.5458903312683105
+            },
+            {
+              "token": " the",
+              "logprob": -0.16851931810379028
+            },
+            {
+              "token": " b",
+              "logprob": -3.16325044631958
+            },
+            {
+              "token": "akers",
+              "logprob": -3.6129889488220215
+            },
+            {
+              "token": " she",
+              "logprob": -2.448322296142578
+            },
+            {
+              "token": " made",
+              "logprob": -4.180932998657227
+            },
+            {
+              "token": ",",
+              "logprob": -3.5090839862823486
+            },
+            {
+              "token": " and",
+              "logprob": -1.8445732593536377
+            },
+            {
+              "token": " she",
+              "logprob": -1.4818215370178223
+            },
+            {
+              "token": " did",
+              "logprob": -3.816861629486084
+            },
+            {
+              "token": " it",
+              "logprob": -1.111803412437439
+            },
+            {
+              "token": "!",
+              "logprob": -2.7688817977905273
+            },
+            {
+              "token": " Q",
+              "logprob": -2.137484550476074
+            },
+            {
+              "token": ":",
+              "logprob": -0.021783960983157158
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "It was an easy hill. 2: The big hill was a hard one, but Jamie climbed up and saw the whole town at the bottom.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.6304328441619873
+            },
+            {
+              "token": " was",
+              "logprob": -0.3182007372379303
+            },
+            {
+              "token": " an",
+              "logprob": -3.690490484237671
+            },
+            {
+              "token": " easy",
+              "logprob": -1.6521642208099365
+            },
+            {
+              "token": " hill",
+              "logprob": -1.6499983072280884
+            },
+            {
+              "token": ".",
+              "logprob": -1.066945195198059
+            },
+            {
+              "token": " ",
+              "logprob": -2.7248809337615967
+            },
+            {
+              "token": "2",
+              "logprob": -3.121345043182373
+            },
+            {
+              "token": ":",
+              "logprob": -1.3220596313476562
+            },
+            {
+              "token": " The",
+              "logprob": -3.5045387744903564
+            },
+            {
+              "token": " big",
+              "logprob": -4.130926132202148
+            },
+            {
+              "token": " hill",
+              "logprob": -0.07668807357549667
+            },
+            {
+              "token": " was",
+              "logprob": -2.0371572971343994
+            },
+            {
+              "token": " a",
+              "logprob": -1.9450676441192627
+            },
+            {
+              "token": " hard",
+              "logprob": -3.771719455718994
+            },
+            {
+              "token": " one",
+              "logprob": -3.301746368408203
+            },
+            {
+              "token": ",",
+              "logprob": -3.8177475929260254
+            },
+            {
+              "token": " but",
+              "logprob": -0.6804755330085754
+            },
+            {
+              "token": " Jamie",
+              "logprob": -1.1579036712646484
+            },
+            {
+              "token": " climbed",
+              "logprob": -3.329406499862671
+            },
+            {
+              "token": " up",
+              "logprob": -3.2563345432281494
+            },
+            {
+              "token": " and",
+              "logprob": -2.076239585876465
+            },
+            {
+              "token": " saw",
+              "logprob": -4.222851276397705
+            },
+            {
+              "token": " the",
+              "logprob": -0.28888213634490967
+            },
+            {
+              "token": " whole",
+              "logprob": -0.3872761130332947
+            },
+            {
+              "token": " town",
+              "logprob": -0.0725976750254631
+            },
+            {
+              "token": " at",
+              "logprob": -4.039541244506836
+            },
+            {
+              "token": " the",
+              "logprob": -0.02550451271235943
+            },
+            {
+              "token": " bottom",
+              "logprob": -1.9292218685150146
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.256636619567871
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "To climb the hill, Olivia climbed up a steep hill. (1 word sentence.)",
+          "token_data": [
+            {
+              "token": " To",
+              "logprob": -4.535985946655273
+            },
+            {
+              "token": " climb",
+              "logprob": -2.8604977130889893
+            },
+            {
+              "token": " the",
+              "logprob": -2.0214147567749023
+            },
+            {
+              "token": " hill",
+              "logprob": -0.13378863036632538
+            },
+            {
+              "token": ",",
+              "logprob": -0.5191759467124939
+            },
+            {
+              "token": " Olivia",
+              "logprob": -0.6808115839958191
+            },
+            {
+              "token": " climbed",
+              "logprob": -2.269852638244629
+            },
+            {
+              "token": " up",
+              "logprob": -2.2229721546173096
+            },
+            {
+              "token": " a",
+              "logprob": -2.1526403427124023
+            },
+            {
+              "token": " steep",
+              "logprob": -0.8434370756149292
+            },
+            {
+              "token": " hill",
+              "logprob": -0.37810903787612915
+            },
+            {
+              "token": ".",
+              "logprob": -0.2747473418712616
+            },
+            {
+              "token": " (",
+              "logprob": -4.560039043426514
+            },
+            {
+              "token": "1",
+              "logprob": -3.092186450958252
+            },
+            {
+              "token": " word",
+              "logprob": -1.74338698387146
+            },
+            {
+              "token": " sentence",
+              "logprob": -1.9198404550552368
+            },
+            {
+              "token": ".)",
+              "logprob": -3.3880250453948975
+            },
+            {
+              "token": " \n",
+              "logprob": -1.4804656505584717
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.8982093334198
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "A mountain or a hill.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.9702584743499756
+            },
+            {
+              "token": " mountain",
+              "logprob": -4.308216571807861
+            },
+            {
+              "token": " or",
+              "logprob": -3.0591273307800293
+            },
+            {
+              "token": " a",
+              "logprob": -0.32499557733535767
+            },
+            {
+              "token": " hill",
+              "logprob": -0.7475099563598633
+            },
+            {
+              "token": ".",
+              "logprob": -0.8806090950965881
+            },
+            {
+              "token": " \n",
+              "logprob": -2.1719748973846436
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Olivia climbed up a very steep hill.",
+          "token_data": [
+            {
+              "token": " Olivia",
+              "logprob": -4.408693313598633
+            },
+            {
+              "token": " climbed",
+              "logprob": -0.6279024481773376
+            },
+            {
+              "token": " up",
+              "logprob": -3.1656999588012695
+            },
+            {
+              "token": " a",
+              "logprob": -0.6234300136566162
+            },
+            {
+              "token": " very",
+              "logprob": -2.236865520477295
+            },
+            {
+              "token": " steep",
+              "logprob": -0.45437517762184143
+            },
+            {
+              "token": " hill",
+              "logprob": -0.1522202491760254
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.088980197906494
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

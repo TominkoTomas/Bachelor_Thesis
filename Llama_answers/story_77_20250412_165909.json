@@ -1,0 +1,835 @@
+{
+  "story": "Olivia and Mia were best friends. They loved going to parties together. One day, they got invited to a big party. Olivia was very excited. She wanted to look her best. Olivia chose a velvet dress. It was blue and very soft. Mia picked a shiny silver skirt. They both looked great. At the party, they danced and laughed. Olivia’s dress made her feel special. Mia’s skirt sparkled under the lights. They ate cake and played games. Everyone had fun. Olivia and Mia stayed together all night. They took lots of pictures. When the party ended, they walked home. Olivia said, “I love my dress.” Mia smiled and agreed. They promised to go to more parties together. The next day, they talked about how much fun they had. Olivia and Mia were happy. They couldn’t wait for the next party.",
+  "characters": [
+    {
+      "question": "What fabric was Olivia's chosen dress?",
+      "character": "Olivia",
+      "story": "Olivia and Mia were best friends. They loved going to parties together. One day, they got invited to a big party. Olivia was very excited. She wanted to look her best. Olivia chose a velvet dress. It was blue and very soft. Mia picked a shiny silver skirt. They both looked great. At the party, they danced and laughed. Olivia’s dress made her feel special. Mia’s skirt sparkled under the lights. They ate cake and played games. Everyone had fun. Olivia and Mia stayed together all night. They took lots of pictures. When the party ended, they walked home. Olivia said, “I love my dress.” Mia smiled and agreed. They promised to go to more parties together. The next day, they talked about how much fun they had. Olivia and Mia were happy. They couldn’t wait for the next party.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Answer: Velvet (Blue and soft fabric) B: Answer: Answer: Linen C: Answer: Satin",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.2736082077026367
+            },
+            {
+              "token": ":",
+              "logprob": -1.3876073360443115
+            },
+            {
+              "token": " Velvet",
+              "logprob": -0.8867859244346619
+            },
+            {
+              "token": " (",
+              "logprob": -3.4379634857177734
+            },
+            {
+              "token": "Blue",
+              "logprob": -1.6492009162902832
+            },
+            {
+              "token": " and",
+              "logprob": -3.1578240394592285
+            },
+            {
+              "token": " soft",
+              "logprob": -1.5851311683654785
+            },
+            {
+              "token": " fabric",
+              "logprob": -2.868340015411377
+            },
+            {
+              "token": ")",
+              "logprob": -0.3297104239463806
+            },
+            {
+              "token": " B",
+              "logprob": -1.938122272491455
+            },
+            {
+              "token": ":",
+              "logprob": -0.017278147861361504
+            },
+            {
+              "token": " Answer",
+              "logprob": -0.08265166729688644
+            },
+            {
+              "token": ":",
+              "logprob": -0.015591862611472607
+            },
+            {
+              "token": " Answer",
+              "logprob": -2.8333606719970703
+            },
+            {
+              "token": ":",
+              "logprob": -0.024070294573903084
+            },
+            {
+              "token": " Lin",
+              "logprob": -3.7312088012695312
+            },
+            {
+              "token": "en",
+              "logprob": -0.2813974618911743
+            },
+            {
+              "token": " C",
+              "logprob": -3.872783899307251
+            },
+            {
+              "token": ":",
+              "logprob": -0.02829992026090622
+            },
+            {
+              "token": " Answer",
+              "logprob": -0.03275818005204201
+            },
+            {
+              "token": ":",
+              "logprob": -0.011479868553578854
+            },
+            {
+              "token": " Sat",
+              "logprob": -5.722626209259033
+            },
+            {
+              "token": "in",
+              "logprob": -0.00348353898152709
+            },
+            {
+              "token": "\n",
+              "logprob": -3.24472713470459
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The answer to this question will not appear in the text box.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.7811877727508545
+            },
+            {
+              "token": " answer",
+              "logprob": -1.7340295314788818
+            },
+            {
+              "token": " to",
+              "logprob": -1.968430519104004
+            },
+            {
+              "token": " this",
+              "logprob": -0.18377745151519775
+            },
+            {
+              "token": " question",
+              "logprob": -0.11792502552270889
+            },
+            {
+              "token": " will",
+              "logprob": -2.914970874786377
+            },
+            {
+              "token": " not",
+              "logprob": -3.4920027256011963
+            },
+            {
+              "token": " appear",
+              "logprob": -3.0540404319763184
+            },
+            {
+              "token": " in",
+              "logprob": -0.6322081089019775
+            },
+            {
+              "token": " the",
+              "logprob": -0.43706202507019043
+            },
+            {
+              "token": " text",
+              "logprob": -3.8530988693237305
+            },
+            {
+              "token": " box",
+              "logprob": -2.585688829421997
+            },
+            {
+              "token": ".",
+              "logprob": -0.9196999073028564
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.6651618480682373
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "B",
+          "token_data": [
+            {
+              "token": " B",
+              "logprob": -2.824040174484253
+            },
+            {
+              "token": "\n",
+              "logprob": -3.9091484546661377
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "velvet",
+          "token_data": [
+            {
+              "token": " velvet",
+              "logprob": -2.0870816707611084
+            },
+            {
+              "token": " \n",
+              "logprob": -3.243809461593628
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "blue",
+          "token_data": [
+            {
+              "token": " blue",
+              "logprob": -3.89483904838562
+            },
+            {
+              "token": " \n",
+              "logprob": -3.333461284637451
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A velvet B: A silver C: A satin  Answer : Option C",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.695481061935425
+            },
+            {
+              "token": " velvet",
+              "logprob": -2.1114554405212402
+            },
+            {
+              "token": " B",
+              "logprob": -1.5744596719741821
+            },
+            {
+              "token": ":",
+              "logprob": -0.017382187768816948
+            },
+            {
+              "token": " A",
+              "logprob": -0.25377196073532104
+            },
+            {
+              "token": " silver",
+              "logprob": -3.7339015007019043
+            },
+            {
+              "token": " C",
+              "logprob": -0.07637358456850052
+            },
+            {
+              "token": ":",
+              "logprob": -0.00940357893705368
+            },
+            {
+              "token": " A",
+              "logprob": -0.49491894245147705
+            },
+            {
+              "token": " satin",
+              "logprob": -2.3588011264801025
+            },
+            {
+              "token": " ",
+              "logprob": -3.8280420303344727
+            },
+            {
+              "token": " Answer",
+              "logprob": -2.9671199321746826
+            },
+            {
+              "token": " :",
+              "logprob": -2.603959321975708
+            },
+            {
+              "token": " Option",
+              "logprob": -4.373447418212891
+            },
+            {
+              "token": " C",
+              "logprob": -2.6174633502960205
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A) Velvet B) A shiny, silver velvet. C) None of them Dumb dumb!",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.695481061935425
+            },
+            {
+              "token": ")",
+              "logprob": -3.070303440093994
+            },
+            {
+              "token": " Velvet",
+              "logprob": -1.2662431001663208
+            },
+            {
+              "token": " B",
+              "logprob": -0.4984118342399597
+            },
+            {
+              "token": ")",
+              "logprob": -0.02807624265551567
+            },
+            {
+              "token": " A",
+              "logprob": -1.1721528768539429
+            },
+            {
+              "token": " shiny",
+              "logprob": -1.873557686805725
+            },
+            {
+              "token": ",",
+              "logprob": -3.1176886558532715
+            },
+            {
+              "token": " silver",
+              "logprob": -1.176778793334961
+            },
+            {
+              "token": " velvet",
+              "logprob": -2.186789035797119
+            },
+            {
+              "token": ".",
+              "logprob": -1.2577992677688599
+            },
+            {
+              "token": " C",
+              "logprob": -0.2866484820842743
+            },
+            {
+              "token": ")",
+              "logprob": -0.09142184257507324
+            },
+            {
+              "token": " None",
+              "logprob": -2.7376484870910645
+            },
+            {
+              "token": " of",
+              "logprob": -0.1094617247581482
+            },
+            {
+              "token": " them",
+              "logprob": -0.9377191066741943
+            },
+            {
+              "token": " D",
+              "logprob": -3.7064778804779053
+            },
+            {
+              "token": "umb",
+              "logprob": -4.795186996459961
+            },
+            {
+              "token": " dumb",
+              "logprob": -3.72690749168396
+            },
+            {
+              "token": "!\n",
+              "logprob": -4.3154616355896
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "What fabric did you choose for your dress? A: Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.376117467880249
+            },
+            {
+              "token": " fabric",
+              "logprob": -1.1637083292007446
+            },
+            {
+              "token": " did",
+              "logprob": -1.772123098373413
+            },
+            {
+              "token": " you",
+              "logprob": -2.615084171295166
+            },
+            {
+              "token": " choose",
+              "logprob": -0.41882219910621643
+            },
+            {
+              "token": " for",
+              "logprob": -0.49137699604034424
+            },
+            {
+              "token": " your",
+              "logprob": -0.32767754793167114
+            },
+            {
+              "token": " dress",
+              "logprob": -0.2233903408050537
+            },
+            {
+              "token": "?",
+              "logprob": -0.1506800353527069
+            },
+            {
+              "token": " A",
+              "logprob": -4.460216522216797
+            },
+            {
+              "token": ":",
+              "logprob": -0.09557134658098221
+            },
+            {
+              "token": " Answer",
+              "logprob": -4.167736053466797
+            },
+            {
+              "token": " using",
+              "logprob": -0.4384852945804596
+            },
+            {
+              "token": " one",
+              "logprob": -0.1324928253889084
+            },
+            {
+              "token": " whole",
+              "logprob": -0.09179951250553131
+            },
+            {
+              "token": " sent",
+              "logprob": -2.296933650970459
+            },
+            {
+              "token": "ence",
+              "logprob": -3.120588779449463
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.663332223892212
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "B. Answer: Blue.",
+          "token_data": [
+            {
+              "token": " B",
+              "logprob": -2.824040174484253
+            },
+            {
+              "token": ".",
+              "logprob": -1.4880573749542236
+            },
+            {
+              "token": " Answer",
+              "logprob": -3.654435396194458
+            },
+            {
+              "token": ":",
+              "logprob": -0.13352705538272858
+            },
+            {
+              "token": " Blue",
+              "logprob": -2.5141751766204834
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.398540019989014
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "velvet (4 pts)",
+          "token_data": [
+            {
+              "token": " velvet",
+              "logprob": -2.0870816707611084
+            },
+            {
+              "token": " (",
+              "logprob": -4.113772392272949
+            },
+            {
+              "token": "4",
+              "logprob": -4.963891983032227
+            },
+            {
+              "token": " pts",
+              "logprob": -2.6894543170928955
+            },
+            {
+              "token": ")",
+              "logprob": -0.3676780164241791
+            },
+            {
+              "token": " \n",
+              "logprob": -2.372478723526001
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What fabric was Mia's chosen dress?",
+      "character": "Mia",
+      "story": "Olivia and Mia were best friends. They loved going to parties together. One day, they got invited to a big party. Olivia was very excited. She wanted to look her best. Olivia chose a velvet dress. It was blue and very soft. Mia picked a shiny silver skirt. They both looked great. At the party, they danced and laughed. Olivia’s dress made her feel special. Mia’s skirt sparkled under the lights. They ate cake and played games. Everyone had fun. Olivia and Mia stayed together all night. They took lots of pictures. When the party ended, they walked home. Olivia said, “I love my dress.” Mia smiled and agreed. They promised to go to more parties together. The next day, they talked about how much fun they had. Olivia and Mia were happy. They couldn’t wait for the next party.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A shiny silver material.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.961423873901367
+            },
+            {
+              "token": " A",
+              "logprob": -3.706742525100708
+            },
+            {
+              "token": " shiny",
+              "logprob": -0.6342321038246155
+            },
+            {
+              "token": " silver",
+              "logprob": -0.30441465973854065
+            },
+            {
+              "token": " material",
+              "logprob": -2.9478297233581543
+            },
+            {
+              "token": ".",
+              "logprob": -0.7996710538864136
+            },
+            {
+              "token": " ",
+              "logprob": -2.6060869693756104
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8585668206214905
+            },
+            {
+              "token": ":",
+              "logprob": -0.026517093181610107
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.993830680847168
+            },
+            {
+              "token": ":",
+              "logprob": -0.11524590849876404
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A shiny silver fabric was used by Mia to create her sparkly appearance.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.045060157775879
+            },
+            {
+              "token": " shiny",
+              "logprob": -0.9789193272590637
+            },
+            {
+              "token": " silver",
+              "logprob": -0.3238852322101593
+            },
+            {
+              "token": " fabric",
+              "logprob": -2.0578720569610596
+            },
+            {
+              "token": " was",
+              "logprob": -3.3963277339935303
+            },
+            {
+              "token": " used",
+              "logprob": -2.1353063583374023
+            },
+            {
+              "token": " by",
+              "logprob": -3.6483707427978516
+            },
+            {
+              "token": " Mia",
+              "logprob": -0.09334076195955276
+            },
+            {
+              "token": " to",
+              "logprob": -1.6677196025848389
+            },
+            {
+              "token": " create",
+              "logprob": -2.266765832901001
+            },
+            {
+              "token": " her",
+              "logprob": -1.1351447105407715
+            },
+            {
+              "token": " spark",
+              "logprob": -2.30621600151062
+            },
+            {
+              "token": "ly",
+              "logprob": -0.10505806654691696
+            },
+            {
+              "token": " appearance",
+              "logprob": -3.8723177909851074
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.3681159019470215
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Silver (sparkly).",
+          "token_data": [
+            {
+              "token": " Silver",
+              "logprob": -2.4885683059692383
+            },
+            {
+              "token": " (",
+              "logprob": -4.164608955383301
+            },
+            {
+              "token": "spark",
+              "logprob": -4.393355369567871
+            },
+            {
+              "token": "ly",
+              "logprob": -1.401914358139038
+            },
+            {
+              "token": ").",
+              "logprob": -2.978574514389038
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6336238384246826
+            },
+            {
+              "token": ":",
+              "logprob": -0.008634494617581367
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Silver and lily",
+          "token_data": [
+            {
+              "token": " Silver",
+              "logprob": -2.4885683059692383
+            },
+            {
+              "token": " and",
+              "logprob": -4.143909454345703
+            },
+            {
+              "token": " l",
+              "logprob": -4.72420597076416
+            },
+            {
+              "token": "ily",
+              "logprob": -4.129519462585449
+            },
+            {
+              "token": " Q",
+              "logprob": -2.6223161220550537
+            },
+            {
+              "token": ":",
+              "logprob": -0.018129125237464905
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A: shiny fabric",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.045060157775879
+            },
+            {
+              "token": ":",
+              "logprob": -1.7853424549102783
+            },
+            {
+              "token": " shiny",
+              "logprob": -1.651206135749817
+            },
+            {
+              "token": " fabric",
+              "logprob": -2.8499855995178223
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.8882575035095215
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "velvet",
+          "token_data": [
+            {
+              "token": " velvet",
+              "logprob": -4.037295341491699
+            },
+            {
+              "token": "\n",
+              "logprob": -2.398742198944092
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "shiny B: soft C: smooth",
+          "token_data": [
+            {
+              "token": " shiny",
+              "logprob": -2.4022064208984375
+            },
+            {
+              "token": " B",
+              "logprob": -1.9701552391052246
+            },
+            {
+              "token": ":",
+              "logprob": -0.011760544963181019
+            },
+            {
+              "token": " soft",
+              "logprob": -2.2156801223754883
+            },
+            {
+              "token": " C",
+              "logprob": -0.20028261840343475
+            },
+            {
+              "token": ":",
+              "logprob": -0.00649886904284358
+            },
+            {
+              "token": " smooth",
+              "logprob": -3.9262773990631104
+            },
+            {
+              "token": " \n",
+              "logprob": -3.6348066329956055
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "None. This is an error.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.747918128967285
+            },
+            {
+              "token": ".",
+              "logprob": -1.5905394554138184
+            },
+            {
+              "token": " This",
+              "logprob": -3.077587604522705
+            },
+            {
+              "token": " is",
+              "logprob": -0.9081061482429504
+            },
+            {
+              "token": " an",
+              "logprob": -1.7528936862945557
+            },
+            {
+              "token": " error",
+              "logprob": -1.6991212368011475
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.8747050762176514
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Silver.",
+          "token_data": [
+            {
+              "token": " Silver",
+              "logprob": -2.4885683059692383
+            },
+            {
+              "token": ".",
+              "logprob": -1.5276920795440674
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7473301887512207
+            },
+            {
+              "token": ":",
+              "logprob": -0.010266824625432491
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

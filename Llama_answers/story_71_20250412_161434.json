@@ -1,0 +1,1259 @@
+{
+  "story": "Abigail and Chloe were best friends who loved exploring the woods behind their school. One sunny afternoon, they decided to go on an adventure. They packed snacks and set off into the trees, laughing and talking about their favorite games. As they walked, Abigail noticed something strange—a bush with branches that seemed to move apart when she touched them. Curious, she pushed the branches aside and gasped. \"Chloe, look!\" she said. \"Abigail found a hidden path!\" The path was narrow and winding, lined with tall grass and wildflowers. Chloe shrugged and said, \"Cool!\" but she was more interested in eating her sandwich. Abigail, however, felt excitement bubble up inside her. She wanted to see where the path led. She took a step forward, wondering what secrets the hidden trail might hold. Chloe stayed behind, happily munching on her snack. Abigail waved and said, \"I’ll be right back!\" before disappearing down the mysterious path. Chloe just smiled and kept eating, waiting for her friend to return.",
+  "characters": [
+    {
+      "question": "Where did Abigail discover the path?",
+      "character": "Abigail",
+      "story": "Abigail and Chloe were best friends who loved exploring the woods behind their school. One sunny afternoon, they decided to go on an adventure. They packed snacks and set off into the trees, laughing and talking about their favorite games. As they walked, Abigail noticed something strange—a bush with branches that seemed to move apart when she touched them. Curious, she pushed the branches aside and gasped. \"Chloe, look!\" she said. \"Abigail found a hidden path!\" The path was narrow and winding, lined with tall grass and wildflowers. Chloe shrugged and said, \"Cool!\" but she was more interested in eating her sandwich. Abigail, however, felt excitement bubble up inside her. She wanted to see where the path led. She took a step forward, wondering what secrets the hidden trail might hold. Chloe stayed behind, happily munching on her snack. Abigail waved and said, \"I’ll be right back!\" before disappearing down the mysterious path. Chloe just smiled and kept eating, waiting for her friend to return.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "In a large grassy meadow.",
+          "token_data": [
+            {
+              "token": " In",
+              "logprob": -2.5556137561798096
+            },
+            {
+              "token": " a",
+              "logprob": -1.2213246822357178
+            },
+            {
+              "token": " large",
+              "logprob": -4.415410041809082
+            },
+            {
+              "token": " grass",
+              "logprob": -2.88773775100708
+            },
+            {
+              "token": "y",
+              "logprob": -0.45239898562431335
+            },
+            {
+              "token": " me",
+              "logprob": -1.395434021949768
+            },
+            {
+              "token": "adow",
+              "logprob": -0.0028175916522741318
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.2125437259674072
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Abigail and Chloe were both friends, so they would not be friends if one of the friends was Chloe.",
+          "token_data": [
+            {
+              "token": " Ab",
+              "logprob": -1.5167858600616455
+            },
+            {
+              "token": "igail",
+              "logprob": -0.026955701410770416
+            },
+            {
+              "token": " and",
+              "logprob": -2.309884548187256
+            },
+            {
+              "token": " Chloe",
+              "logprob": -0.01420411467552185
+            },
+            {
+              "token": " were",
+              "logprob": -0.49442020058631897
+            },
+            {
+              "token": " both",
+              "logprob": -3.4048497676849365
+            },
+            {
+              "token": " friends",
+              "logprob": -4.151383876800537
+            },
+            {
+              "token": ",",
+              "logprob": -2.240138530731201
+            },
+            {
+              "token": " so",
+              "logprob": -2.283641815185547
+            },
+            {
+              "token": " they",
+              "logprob": -0.9666172862052917
+            },
+            {
+              "token": " would",
+              "logprob": -3.763615369796753
+            },
+            {
+              "token": " not",
+              "logprob": -3.7830777168273926
+            },
+            {
+              "token": " be",
+              "logprob": -1.5319690704345703
+            },
+            {
+              "token": " friends",
+              "logprob": -2.113035202026367
+            },
+            {
+              "token": " if",
+              "logprob": -1.5057811737060547
+            },
+            {
+              "token": " one",
+              "logprob": -3.0615406036376953
+            },
+            {
+              "token": " of",
+              "logprob": -1.2302435636520386
+            },
+            {
+              "token": " the",
+              "logprob": -2.5338144302368164
+            },
+            {
+              "token": " friends",
+              "logprob": -0.4209725558757782
+            },
+            {
+              "token": " was",
+              "logprob": -1.7732776403427124
+            },
+            {
+              "token": " Chloe",
+              "logprob": -2.534173011779785
+            },
+            {
+              "token": ".",
+              "logprob": -0.5295559167861938
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.9910664558410645
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The hidden path.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.053650140762329
+            },
+            {
+              "token": " hidden",
+              "logprob": -3.4093761444091797
+            },
+            {
+              "token": " path",
+              "logprob": -0.2180483639240265
+            },
+            {
+              "token": ".",
+              "logprob": -2.3331031799316406
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8325414657592773
+            },
+            {
+              "token": ":",
+              "logprob": -0.01643911376595497
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "A bush with branches that seemed to move apart when you touch them. B: The grass around the bushes had moved. C: An archway, with branches to either side of it and a secret door within.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.969456911087036
+            },
+            {
+              "token": " bush",
+              "logprob": -0.8842789530754089
+            },
+            {
+              "token": " with",
+              "logprob": -0.23003408312797546
+            },
+            {
+              "token": " branches",
+              "logprob": -0.15959808230400085
+            },
+            {
+              "token": " that",
+              "logprob": -0.23100535571575165
+            },
+            {
+              "token": " seemed",
+              "logprob": -0.35933446884155273
+            },
+            {
+              "token": " to",
+              "logprob": -0.003314955160021782
+            },
+            {
+              "token": " move",
+              "logprob": -0.025467442348599434
+            },
+            {
+              "token": " apart",
+              "logprob": -0.039110515266656876
+            },
+            {
+              "token": " when",
+              "logprob": -0.05039815232157707
+            },
+            {
+              "token": " you",
+              "logprob": -2.7374136447906494
+            },
+            {
+              "token": " touch",
+              "logprob": -2.2671875953674316
+            },
+            {
+              "token": " them",
+              "logprob": -0.041964687407016754
+            },
+            {
+              "token": ".",
+              "logprob": -0.32538902759552
+            },
+            {
+              "token": " B",
+              "logprob": -2.246659517288208
+            },
+            {
+              "token": ":",
+              "logprob": -0.015549374744296074
+            },
+            {
+              "token": " The",
+              "logprob": -2.8540241718292236
+            },
+            {
+              "token": " grass",
+              "logprob": -2.729881763458252
+            },
+            {
+              "token": " around",
+              "logprob": -3.832942485809326
+            },
+            {
+              "token": " the",
+              "logprob": -0.33375632762908936
+            },
+            {
+              "token": " bushes",
+              "logprob": -1.7166563272476196
+            },
+            {
+              "token": " had",
+              "logprob": -3.6495511531829834
+            },
+            {
+              "token": " moved",
+              "logprob": -4.103914737701416
+            },
+            {
+              "token": ".",
+              "logprob": -2.2762231826782227
+            },
+            {
+              "token": " C",
+              "logprob": -0.3016635477542877
+            },
+            {
+              "token": ":",
+              "logprob": -0.005529822316020727
+            },
+            {
+              "token": " An",
+              "logprob": -4.3472137451171875
+            },
+            {
+              "token": " arch",
+              "logprob": -3.9018630981445312
+            },
+            {
+              "token": "way",
+              "logprob": -0.41741421818733215
+            },
+            {
+              "token": ",",
+              "logprob": -3.2475814819335938
+            },
+            {
+              "token": " with",
+              "logprob": -2.132561683654785
+            },
+            {
+              "token": " branches",
+              "logprob": -3.3134970664978027
+            },
+            {
+              "token": " to",
+              "logprob": -3.379369020462036
+            },
+            {
+              "token": " either",
+              "logprob": -0.79344242811203
+            },
+            {
+              "token": " side",
+              "logprob": -0.005029289051890373
+            },
+            {
+              "token": " of",
+              "logprob": -1.1501045227050781
+            },
+            {
+              "token": " it",
+              "logprob": -0.7751581072807312
+            },
+            {
+              "token": " and",
+              "logprob": -4.560518741607666
+            },
+            {
+              "token": " a",
+              "logprob": -0.8855955004692078
+            },
+            {
+              "token": " secret",
+              "logprob": -4.233580589294434
+            },
+            {
+              "token": " door",
+              "logprob": -1.4337635040283203
+            },
+            {
+              "token": " within",
+              "logprob": -3.9087557792663574
+            },
+            {
+              "token": ".",
+              "logprob": -0.26835739612579346
+            },
+            {
+              "token": " \n",
+              "logprob": -2.8381714820861816
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Behind the tree, and where they lived.",
+          "token_data": [
+            {
+              "token": " Behind",
+              "logprob": -3.7925026416778564
+            },
+            {
+              "token": " the",
+              "logprob": -1.1417121887207031
+            },
+            {
+              "token": " tree",
+              "logprob": -3.3845150470733643
+            },
+            {
+              "token": ",",
+              "logprob": -3.7517921924591064
+            },
+            {
+              "token": " and",
+              "logprob": -4.718539237976074
+            },
+            {
+              "token": " where",
+              "logprob": -4.244596481323242
+            },
+            {
+              "token": " they",
+              "logprob": -3.3851499557495117
+            },
+            {
+              "token": " lived",
+              "logprob": -4.958332538604736
+            },
+            {
+              "token": ".",
+              "logprob": -0.4851631224155426
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8424434661865234
+            },
+            {
+              "token": ":",
+              "logprob": -0.018150310963392258
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A: It was hidden down a trail in a deep forest.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.969456911087036
+            },
+            {
+              "token": ":",
+              "logprob": -1.7957732677459717
+            },
+            {
+              "token": " It",
+              "logprob": -3.602109909057617
+            },
+            {
+              "token": " was",
+              "logprob": -0.4328548014163971
+            },
+            {
+              "token": " hidden",
+              "logprob": -2.2988438606262207
+            },
+            {
+              "token": " down",
+              "logprob": -4.689448833465576
+            },
+            {
+              "token": " a",
+              "logprob": -0.673687219619751
+            },
+            {
+              "token": " trail",
+              "logprob": -3.4315149784088135
+            },
+            {
+              "token": " in",
+              "logprob": -1.3569672107696533
+            },
+            {
+              "token": " a",
+              "logprob": -1.5111892223358154
+            },
+            {
+              "token": " deep",
+              "logprob": -3.976952075958252
+            },
+            {
+              "token": " forest",
+              "logprob": -0.7676676511764526
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.8819854259490967
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "In her back yard.",
+          "token_data": [
+            {
+              "token": " In",
+              "logprob": -2.6180078983306885
+            },
+            {
+              "token": " her",
+              "logprob": -3.72005295753479
+            },
+            {
+              "token": " back",
+              "logprob": -4.113072395324707
+            },
+            {
+              "token": " yard",
+              "logprob": -0.17367121577262878
+            },
+            {
+              "token": ".",
+              "logprob": -0.4865952432155609
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6631953120231628
+            },
+            {
+              "token": ":",
+              "logprob": -0.014991242438554764
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "On her own.",
+          "token_data": [
+            {
+              "token": " On",
+              "logprob": -2.827061891555786
+            },
+            {
+              "token": " her",
+              "logprob": -3.1521294116973877
+            },
+            {
+              "token": " own",
+              "logprob": -1.1620514392852783
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.356846809387207
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "She found a hidden path.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -2.8109467029571533
+            },
+            {
+              "token": " found",
+              "logprob": -1.119213581085205
+            },
+            {
+              "token": " a",
+              "logprob": -0.5911833047866821
+            },
+            {
+              "token": " hidden",
+              "logprob": -0.6221410632133484
+            },
+            {
+              "token": " path",
+              "logprob": -0.37537169456481934
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.3326897621154785
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The path was a bush with branches that seemed to move apart when she touched them.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.053650140762329
+            },
+            {
+              "token": " path",
+              "logprob": -0.5923653841018677
+            },
+            {
+              "token": " was",
+              "logprob": -0.7154459953308105
+            },
+            {
+              "token": " a",
+              "logprob": -1.712555170059204
+            },
+            {
+              "token": " bush",
+              "logprob": -2.244560480117798
+            },
+            {
+              "token": " with",
+              "logprob": -0.34114858508110046
+            },
+            {
+              "token": " branches",
+              "logprob": -0.1655326783657074
+            },
+            {
+              "token": " that",
+              "logprob": -0.1060279905796051
+            },
+            {
+              "token": " seemed",
+              "logprob": -0.550300121307373
+            },
+            {
+              "token": " to",
+              "logprob": -0.0036981781013309956
+            },
+            {
+              "token": " move",
+              "logprob": -0.03938136622309685
+            },
+            {
+              "token": " apart",
+              "logprob": -0.04763675853610039
+            },
+            {
+              "token": " when",
+              "logprob": -0.06284477561712265
+            },
+            {
+              "token": " she",
+              "logprob": -0.2528979778289795
+            },
+            {
+              "token": " touched",
+              "logprob": -0.07213106006383896
+            },
+            {
+              "token": " them",
+              "logprob": -0.019913632422685623
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.7009787559509277
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Where did Chloe discover the path?",
+      "character": "Chloe",
+      "story": "Abigail and Chloe were best friends who loved exploring the woods behind their school. One sunny afternoon, they decided to go on an adventure. They packed snacks and set off into the trees, laughing and talking about their favorite games. As they walked, Abigail noticed something strange—a bush with branches that seemed to move apart when she touched them. Curious, she pushed the branches aside and gasped. \"Chloe, look!\" she said. \"Abigail found a hidden path!\" The path was narrow and winding, lined with tall grass and wildflowers. Chloe shrugged and said, \"Cool!\" but she was more interested in eating her sandwich. Abigail, however, felt excitement bubble up inside her. She wanted to see where the path led. She took a step forward, wondering what secrets the hidden trail might hold. Chloe stayed behind, happily munching on her snack. Abigail waved and said, \"I’ll be right back!\" before disappearing down the mysterious path. Chloe just smiled and kept eating, waiting for her friend to return.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Abigail and Chloe were exploring the woods behind their school when they found a path leading between the tall grass.",
+          "token_data": [
+            {
+              "token": " Ab",
+              "logprob": -2.7034504413604736
+            },
+            {
+              "token": "igail",
+              "logprob": -0.04287508875131607
+            },
+            {
+              "token": " and",
+              "logprob": -0.7642033696174622
+            },
+            {
+              "token": " Chloe",
+              "logprob": -0.007568140514194965
+            },
+            {
+              "token": " were",
+              "logprob": -0.7477191090583801
+            },
+            {
+              "token": " exploring",
+              "logprob": -3.2406296730041504
+            },
+            {
+              "token": " the",
+              "logprob": -0.370160847902298
+            },
+            {
+              "token": " woods",
+              "logprob": -0.08673577010631561
+            },
+            {
+              "token": " behind",
+              "logprob": -0.5464013814926147
+            },
+            {
+              "token": " their",
+              "logprob": -0.07108926773071289
+            },
+            {
+              "token": " school",
+              "logprob": -0.009432394988834858
+            },
+            {
+              "token": " when",
+              "logprob": -1.1016924381256104
+            },
+            {
+              "token": " they",
+              "logprob": -0.22574549913406372
+            },
+            {
+              "token": " found",
+              "logprob": -1.1480493545532227
+            },
+            {
+              "token": " a",
+              "logprob": -0.21050961315631866
+            },
+            {
+              "token": " path",
+              "logprob": -1.8564069271087646
+            },
+            {
+              "token": " leading",
+              "logprob": -3.6139159202575684
+            },
+            {
+              "token": " between",
+              "logprob": -4.2698469161987305
+            },
+            {
+              "token": " the",
+              "logprob": -1.6128435134887695
+            },
+            {
+              "token": " tall",
+              "logprob": -1.9743270874023438
+            },
+            {
+              "token": " grass",
+              "logprob": -0.297964870929718
+            },
+            {
+              "token": ".",
+              "logprob": -2.1714348793029785
+            },
+            {
+              "token": " \n",
+              "logprob": -3.4399032592773438
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "A small bush.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.965827226638794
+            },
+            {
+              "token": " small",
+              "logprob": -3.9000144004821777
+            },
+            {
+              "token": " bush",
+              "logprob": -1.4375205039978027
+            },
+            {
+              "token": ".",
+              "logprob": -1.824302077293396
+            },
+            {
+              "token": " Q",
+              "logprob": -0.5399425029754639
+            },
+            {
+              "token": ":",
+              "logprob": -0.012409498915076256
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "It was inside an apple, which she found after poking the branches of a tree to go exploring the woods.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.705765962600708
+            },
+            {
+              "token": " was",
+              "logprob": -0.43137338757514954
+            },
+            {
+              "token": " inside",
+              "logprob": -4.133714199066162
+            },
+            {
+              "token": " an",
+              "logprob": -2.695103645324707
+            },
+            {
+              "token": " apple",
+              "logprob": -4.160160064697266
+            },
+            {
+              "token": ",",
+              "logprob": -2.9321465492248535
+            },
+            {
+              "token": " which",
+              "logprob": -1.3028498888015747
+            },
+            {
+              "token": " she",
+              "logprob": -1.5876585245132446
+            },
+            {
+              "token": " found",
+              "logprob": -3.082989454269409
+            },
+            {
+              "token": " after",
+              "logprob": -2.945474147796631
+            },
+            {
+              "token": " poking",
+              "logprob": -4.6059136390686035
+            },
+            {
+              "token": " the",
+              "logprob": -1.435328483581543
+            },
+            {
+              "token": " branches",
+              "logprob": -1.4043104648590088
+            },
+            {
+              "token": " of",
+              "logprob": -1.4577441215515137
+            },
+            {
+              "token": " a",
+              "logprob": -0.6894597411155701
+            },
+            {
+              "token": " tree",
+              "logprob": -3.265042304992676
+            },
+            {
+              "token": " to",
+              "logprob": -3.0608768463134766
+            },
+            {
+              "token": " go",
+              "logprob": -4.65346622467041
+            },
+            {
+              "token": " exploring",
+              "logprob": -3.699052333831787
+            },
+            {
+              "token": " the",
+              "logprob": -1.796693205833435
+            },
+            {
+              "token": " woods",
+              "logprob": -0.1726885288953781
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.8186967372894287
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "On a walk in a park with her friends,",
+          "token_data": [
+            {
+              "token": " On",
+              "logprob": -3.4536373615264893
+            },
+            {
+              "token": " a",
+              "logprob": -1.1830825805664062
+            },
+            {
+              "token": " walk",
+              "logprob": -4.87432336807251
+            },
+            {
+              "token": " in",
+              "logprob": -1.8862543106079102
+            },
+            {
+              "token": " a",
+              "logprob": -2.1774237155914307
+            },
+            {
+              "token": " park",
+              "logprob": -1.5195205211639404
+            },
+            {
+              "token": " with",
+              "logprob": -2.974740505218506
+            },
+            {
+              "token": " her",
+              "logprob": -0.27292701601982117
+            },
+            {
+              "token": " friends",
+              "logprob": -2.218841075897217
+            },
+            {
+              "token": ",",
+              "logprob": -2.4454097747802734
+            },
+            {
+              "token": " Q",
+              "logprob": -4.234445571899414
+            },
+            {
+              "token": ":",
+              "logprob": -0.07321731746196747
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "It was a hidden tunnel she didn’t know was there.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.705765962600708
+            },
+            {
+              "token": " was",
+              "logprob": -0.43137338757514954
+            },
+            {
+              "token": " a",
+              "logprob": -1.4621891975402832
+            },
+            {
+              "token": " hidden",
+              "logprob": -2.3882079124450684
+            },
+            {
+              "token": " tunnel",
+              "logprob": -3.2853949069976807
+            },
+            {
+              "token": " she",
+              "logprob": -4.425448417663574
+            },
+            {
+              "token": " didn",
+              "logprob": -4.613796710968018
+            },
+            {
+              "token": "’t",
+              "logprob": -1.4697303771972656
+            },
+            {
+              "token": " know",
+              "logprob": -0.886915385723114
+            },
+            {
+              "token": " was",
+              "logprob": -1.7346277236938477
+            },
+            {
+              "token": " there",
+              "logprob": -0.12084071338176727
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.928455352783203
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "On top of a log pile.",
+          "token_data": [
+            {
+              "token": " On",
+              "logprob": -3.4536373615264893
+            },
+            {
+              "token": " top",
+              "logprob": -2.9874629974365234
+            },
+            {
+              "token": " of",
+              "logprob": -0.06825389713048935
+            },
+            {
+              "token": " a",
+              "logprob": -0.5798152685165405
+            },
+            {
+              "token": " log",
+              "logprob": -3.7067654132843018
+            },
+            {
+              "token": " pile",
+              "logprob": -3.298675537109375
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.1984667778015137
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Chloe was sitting in the grass, enjoying the smell of her new apple. The cool autumn wind swaying through the leaves above was gentle enough that she could barely hear her friend, Abigail’s laughter.",
+          "token_data": [
+            {
+              "token": " Chloe",
+              "logprob": -1.0844395160675049
+            },
+            {
+              "token": " was",
+              "logprob": -2.777170181274414
+            },
+            {
+              "token": " sitting",
+              "logprob": -3.226389169692993
+            },
+            {
+              "token": " in",
+              "logprob": -1.7677314281463623
+            },
+            {
+              "token": " the",
+              "logprob": -0.7983881235122681
+            },
+            {
+              "token": " grass",
+              "logprob": -1.4977449178695679
+            },
+            {
+              "token": ",",
+              "logprob": -1.2904644012451172
+            },
+            {
+              "token": " enjoying",
+              "logprob": -2.4182610511779785
+            },
+            {
+              "token": " the",
+              "logprob": -1.1903553009033203
+            },
+            {
+              "token": " smell",
+              "logprob": -3.9418888092041016
+            },
+            {
+              "token": " of",
+              "logprob": -0.0633438304066658
+            },
+            {
+              "token": " her",
+              "logprob": -3.4957079887390137
+            },
+            {
+              "token": " new",
+              "logprob": -3.2261710166931152
+            },
+            {
+              "token": " apple",
+              "logprob": -5.075558662414551
+            },
+            {
+              "token": ".",
+              "logprob": -0.7110657691955566
+            },
+            {
+              "token": " The",
+              "logprob": -2.6002449989318848
+            },
+            {
+              "token": " cool",
+              "logprob": -5.087534427642822
+            },
+            {
+              "token": " autumn",
+              "logprob": -3.520812511444092
+            },
+            {
+              "token": " wind",
+              "logprob": -2.447443723678589
+            },
+            {
+              "token": " sw",
+              "logprob": -4.652879238128662
+            },
+            {
+              "token": "aying",
+              "logprob": -1.4630597829818726
+            },
+            {
+              "token": " through",
+              "logprob": -1.8228870630264282
+            },
+            {
+              "token": " the",
+              "logprob": -0.5473340749740601
+            },
+            {
+              "token": " leaves",
+              "logprob": -1.5317585468292236
+            },
+            {
+              "token": " above",
+              "logprob": -2.661651611328125
+            },
+            {
+              "token": " was",
+              "logprob": -3.2956111431121826
+            },
+            {
+              "token": " gentle",
+              "logprob": -4.942337512969971
+            },
+            {
+              "token": " enough",
+              "logprob": -3.330373764038086
+            },
+            {
+              "token": " that",
+              "logprob": -1.848300814628601
+            },
+            {
+              "token": " she",
+              "logprob": -0.7676970958709717
+            },
+            {
+              "token": " could",
+              "logprob": -2.349193811416626
+            },
+            {
+              "token": " barely",
+              "logprob": -2.8403661251068115
+            },
+            {
+              "token": " hear",
+              "logprob": -1.3489309549331665
+            },
+            {
+              "token": " her",
+              "logprob": -1.6688262224197388
+            },
+            {
+              "token": " friend",
+              "logprob": -0.48228758573532104
+            },
+            {
+              "token": ",",
+              "logprob": -2.547346830368042
+            },
+            {
+              "token": " Ab",
+              "logprob": -1.2899353504180908
+            },
+            {
+              "token": "igail",
+              "logprob": -0.03313685953617096
+            },
+            {
+              "token": "’s",
+              "logprob": -3.514045000076294
+            },
+            {
+              "token": " laughter",
+              "logprob": -3.882704257965088
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.6517105102539062
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "At the end of a tunnel",
+          "token_data": [
+            {
+              "token": " At",
+              "logprob": -3.5077335834503174
+            },
+            {
+              "token": " the",
+              "logprob": -0.3221070170402527
+            },
+            {
+              "token": " end",
+              "logprob": -1.312422752380371
+            },
+            {
+              "token": " of",
+              "logprob": -0.06474016606807709
+            },
+            {
+              "token": " a",
+              "logprob": -1.712063193321228
+            },
+            {
+              "token": " tunnel",
+              "logprob": -3.1647586822509766
+            },
+            {
+              "token": " Q",
+              "logprob": -3.5088350772857666
+            },
+            {
+              "token": ":",
+              "logprob": -0.02127446047961712
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Chloe found the path",
+          "token_data": [
+            {
+              "token": " Chloe",
+              "logprob": -1.0844395160675049
+            },
+            {
+              "token": " found",
+              "logprob": -2.815427780151367
+            },
+            {
+              "token": " the",
+              "logprob": -0.7684390544891357
+            },
+            {
+              "token": " path",
+              "logprob": -0.15545381605625153
+            },
+            {
+              "token": " Q",
+              "logprob": -4.3044514656066895
+            },
+            {
+              "token": ":",
+              "logprob": -0.058237481862306595
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "In the forest.",
+          "token_data": [
+            {
+              "token": " In",
+              "logprob": -3.0120298862457275
+            },
+            {
+              "token": " the",
+              "logprob": -0.8327707052230835
+            },
+            {
+              "token": " forest",
+              "logprob": -2.5051193237304688
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.784236192703247
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

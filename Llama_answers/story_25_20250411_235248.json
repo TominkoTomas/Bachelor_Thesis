@@ -1,0 +1,875 @@
+{
+  "story": "Sam and Ella were making breakfast. Sam wanted to fry eggs. He put oil in the pan and turned on the stove. The oil got very hot. Sam put the eggs in the pan. The oil splashed and hurt his hand. Sam burned his right hand. He yelled and ran to the sink. He put his hand under cold water. Ella was at the table. She was reading a book. She did not see what happened. Sam wrapped his hand in a towel. The eggs were burnt too. Sam was sad because breakfast was ruined. Ella asked if he was okay. Sam said yes but his hand hurt. Ella went back to reading quietly. Sam decided to make toast instead. It was easier and safer. The end.",
+  "characters": [
+    {
+      "question": "Which hand did Sam injure?",
+      "character": "Sam",
+      "story": "Sam and Ella were making breakfast. Sam wanted to fry eggs. He put oil in the pan and turned on the stove. The oil got very hot. Sam put the eggs in the pan. The oil splashed and hurt his hand. Sam burned his right hand. He yelled and ran to the sink. He put his hand under cold water. Ella was at the table. She was reading a book. She did not see what happened. Sam wrapped his hand in a towel. The eggs were burnt too. Sam was sad because breakfast was ruined. Ella asked if he was okay. Sam said yes but his hand hurt. Ella went back to reading quietly. Sam decided to make toast instead. It was easier and safer. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "His left. Sam burned his right hand because the oil splashed and hurt his hand.",
+          "token_data": [
+            {
+              "token": " His",
+              "logprob": -1.334560751914978
+            },
+            {
+              "token": " left",
+              "logprob": -2.240286350250244
+            },
+            {
+              "token": ".",
+              "logprob": -1.7916600704193115
+            },
+            {
+              "token": " Sam",
+              "logprob": -2.044550895690918
+            },
+            {
+              "token": " burned",
+              "logprob": -2.265557050704956
+            },
+            {
+              "token": " his",
+              "logprob": -0.08679927885532379
+            },
+            {
+              "token": " right",
+              "logprob": -0.16100062429904938
+            },
+            {
+              "token": " hand",
+              "logprob": -0.6624610424041748
+            },
+            {
+              "token": " because",
+              "logprob": -3.958465576171875
+            },
+            {
+              "token": " the",
+              "logprob": -1.2745006084442139
+            },
+            {
+              "token": " oil",
+              "logprob": -0.3106487989425659
+            },
+            {
+              "token": " spl",
+              "logprob": -2.0769288539886475
+            },
+            {
+              "token": "ashed",
+              "logprob": -0.0064134723506867886
+            },
+            {
+              "token": " and",
+              "logprob": -0.30754879117012024
+            },
+            {
+              "token": " hurt",
+              "logprob": -0.45404893159866333
+            },
+            {
+              "token": " his",
+              "logprob": -0.11019816249608994
+            },
+            {
+              "token": " hand",
+              "logprob": -0.10329378396272659
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.682868719100952
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "He burnt his right hand.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -1.9863957166671753
+            },
+            {
+              "token": " burnt",
+              "logprob": -3.520961284637451
+            },
+            {
+              "token": " his",
+              "logprob": -0.12377593666315079
+            },
+            {
+              "token": " right",
+              "logprob": -0.1252625286579132
+            },
+            {
+              "token": " hand",
+              "logprob": -0.12766413390636444
+            },
+            {
+              "token": ".",
+              "logprob": -0.5470070838928223
+            },
+            {
+              "token": " \n",
+              "logprob": -1.6256935596466064
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The left hand.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.3437204360961914
+            },
+            {
+              "token": " left",
+              "logprob": -1.7716717720031738
+            },
+            {
+              "token": " hand",
+              "logprob": -1.1660397052764893
+            },
+            {
+              "token": ".",
+              "logprob": -0.7054018378257751
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.730302333831787
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Your answer may contain one or more sentences, but you can see this is a clear injury.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.7430953979492188
+            },
+            {
+              "token": " Your",
+              "logprob": -5.015079498291016
+            },
+            {
+              "token": " answer",
+              "logprob": -1.0564360618591309
+            },
+            {
+              "token": " may",
+              "logprob": -3.5809571743011475
+            },
+            {
+              "token": " contain",
+              "logprob": -3.339045524597168
+            },
+            {
+              "token": " one",
+              "logprob": -2.345465660095215
+            },
+            {
+              "token": " or",
+              "logprob": -0.5076085329055786
+            },
+            {
+              "token": " more",
+              "logprob": -0.21433418989181519
+            },
+            {
+              "token": " sentences",
+              "logprob": -2.771615505218506
+            },
+            {
+              "token": ",",
+              "logprob": -2.5011887550354004
+            },
+            {
+              "token": " but",
+              "logprob": -0.7726195454597473
+            },
+            {
+              "token": " you",
+              "logprob": -2.2015182971954346
+            },
+            {
+              "token": " can",
+              "logprob": -2.568303108215332
+            },
+            {
+              "token": " see",
+              "logprob": -4.299781322479248
+            },
+            {
+              "token": " this",
+              "logprob": -3.5232529640197754
+            },
+            {
+              "token": " is",
+              "logprob": -1.3736650943756104
+            },
+            {
+              "token": " a",
+              "logprob": -1.005173921585083
+            },
+            {
+              "token": " clear",
+              "logprob": -5.136195182800293
+            },
+            {
+              "token": " injury",
+              "logprob": -3.462296485900879
+            },
+            {
+              "token": ".",
+              "logprob": -0.8059167265892029
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.071382761001587
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "His left.",
+          "token_data": [
+            {
+              "token": " His",
+              "logprob": -1.347329020500183
+            },
+            {
+              "token": " left",
+              "logprob": -2.1940932273864746
+            },
+            {
+              "token": ".",
+              "logprob": -1.8108904361724854
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.1831250190734863
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The one on his right arm.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.3437204360961914
+            },
+            {
+              "token": " one",
+              "logprob": -3.4161438941955566
+            },
+            {
+              "token": " on",
+              "logprob": -1.0216984748840332
+            },
+            {
+              "token": " his",
+              "logprob": -0.8292105793952942
+            },
+            {
+              "token": " right",
+              "logprob": -0.47882771492004395
+            },
+            {
+              "token": " arm",
+              "logprob": -2.3564703464508057
+            },
+            {
+              "token": ".\n",
+              "logprob": -1.7679705619812012
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Sam and Ella were making breakfast. He was puting eggs in the pan. The oil got very hot. The end.",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -1.7724522352218628
+            },
+            {
+              "token": " and",
+              "logprob": -4.238931655883789
+            },
+            {
+              "token": " Ella",
+              "logprob": -0.04870213195681572
+            },
+            {
+              "token": " were",
+              "logprob": -0.2354126274585724
+            },
+            {
+              "token": " making",
+              "logprob": -0.079414002597332
+            },
+            {
+              "token": " breakfast",
+              "logprob": -0.04335612431168556
+            },
+            {
+              "token": ".",
+              "logprob": -0.0518629290163517
+            },
+            {
+              "token": " He",
+              "logprob": -3.4894907474517822
+            },
+            {
+              "token": " was",
+              "logprob": -2.562807083129883
+            },
+            {
+              "token": " put",
+              "logprob": -5.014870643615723
+            },
+            {
+              "token": "ing",
+              "logprob": -2.9225857257843018
+            },
+            {
+              "token": " eggs",
+              "logprob": -2.86413836479187
+            },
+            {
+              "token": " in",
+              "logprob": -0.420762300491333
+            },
+            {
+              "token": " the",
+              "logprob": -0.4769313335418701
+            },
+            {
+              "token": " pan",
+              "logprob": -0.04125502333045006
+            },
+            {
+              "token": ".",
+              "logprob": -0.5706413984298706
+            },
+            {
+              "token": " The",
+              "logprob": -0.520350456237793
+            },
+            {
+              "token": " oil",
+              "logprob": -0.15899090468883514
+            },
+            {
+              "token": " got",
+              "logprob": -0.479192852973938
+            },
+            {
+              "token": " very",
+              "logprob": -0.16286727786064148
+            },
+            {
+              "token": " hot",
+              "logprob": -0.012384655885398388
+            },
+            {
+              "token": ".",
+              "logprob": -0.13568735122680664
+            },
+            {
+              "token": " The",
+              "logprob": -2.307710647583008
+            },
+            {
+              "token": " end",
+              "logprob": -3.451988697052002
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -1.6854422092437744
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Right",
+          "token_data": [
+            {
+              "token": " Right",
+              "logprob": -2.856051445007324
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.848543882369995
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The right hand. He is a man to avoid the injury, he would be an engineer or doctor to treat the wound.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.3437204360961914
+            },
+            {
+              "token": " right",
+              "logprob": -0.4840053915977478
+            },
+            {
+              "token": " hand",
+              "logprob": -0.8019551038742065
+            },
+            {
+              "token": ".",
+              "logprob": -0.7490241527557373
+            },
+            {
+              "token": " He",
+              "logprob": -4.3342390060424805
+            },
+            {
+              "token": " is",
+              "logprob": -4.112393379211426
+            },
+            {
+              "token": " a",
+              "logprob": -2.700349807739258
+            },
+            {
+              "token": " man",
+              "logprob": -4.023425579071045
+            },
+            {
+              "token": " to",
+              "logprob": -4.28508186340332
+            },
+            {
+              "token": " avoid",
+              "logprob": -3.054238796234131
+            },
+            {
+              "token": " the",
+              "logprob": -2.7159838676452637
+            },
+            {
+              "token": " injury",
+              "logprob": -1.9581599235534668
+            },
+            {
+              "token": ",",
+              "logprob": -3.693007230758667
+            },
+            {
+              "token": " he",
+              "logprob": -1.484317421913147
+            },
+            {
+              "token": " would",
+              "logprob": -1.9318922758102417
+            },
+            {
+              "token": " be",
+              "logprob": -3.4145243167877197
+            },
+            {
+              "token": " an",
+              "logprob": -4.0923752784729
+            },
+            {
+              "token": " engineer",
+              "logprob": -3.6394920349121094
+            },
+            {
+              "token": " or",
+              "logprob": -2.619669198989868
+            },
+            {
+              "token": " doctor",
+              "logprob": -2.431992530822754
+            },
+            {
+              "token": " to",
+              "logprob": -3.4601616859436035
+            },
+            {
+              "token": " treat",
+              "logprob": -3.893568515777588
+            },
+            {
+              "token": " the",
+              "logprob": -0.6800166964530945
+            },
+            {
+              "token": " wound",
+              "logprob": -3.7833194732666016
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.7477667331695557
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "His right.",
+          "token_data": [
+            {
+              "token": " His",
+              "logprob": -1.347329020500183
+            },
+            {
+              "token": " right",
+              "logprob": -0.24176928400993347
+            },
+            {
+              "token": ".",
+              "logprob": -2.240236282348633
+            },
+            {
+              "token": " Q",
+              "logprob": -2.157388687133789
+            },
+            {
+              "token": ":",
+              "logprob": -0.020703984424471855
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Which hand did Ella injure?",
+      "character": "Ella",
+      "story": "Sam and Ella were making breakfast. Sam wanted to fry eggs. He put oil in the pan and turned on the stove. The oil got very hot. Sam put the eggs in the pan. The oil splashed and hurt his hand. Sam burned his right hand. He yelled and ran to the sink. He put his hand under cold water. Ella was at the table. She was reading a book. She did not see what happened. Sam wrapped his hand in a towel. The eggs were burnt too. Sam was sad because breakfast was ruined. Ella asked if he was okay. Sam said yes but his hand hurt. Ella went back to reading quietly. Sam decided to make toast instead. It was easier and safer. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Sam B: Ella C: None of these",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -1.3633415699005127
+            },
+            {
+              "token": " B",
+              "logprob": -3.353508949279785
+            },
+            {
+              "token": ":",
+              "logprob": -0.07371000200510025
+            },
+            {
+              "token": " Ella",
+              "logprob": -0.4237770140171051
+            },
+            {
+              "token": " C",
+              "logprob": -0.7385527491569519
+            },
+            {
+              "token": ":",
+              "logprob": -0.016145789995789528
+            },
+            {
+              "token": " None",
+              "logprob": -1.9433557987213135
+            },
+            {
+              "token": " of",
+              "logprob": -0.3585330843925476
+            },
+            {
+              "token": " these",
+              "logprob": -2.4800827503204346
+            },
+            {
+              "token": "\n",
+              "logprob": -2.151785135269165
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Her right hand.",
+          "token_data": [
+            {
+              "token": " Her",
+              "logprob": -1.6462997198104858
+            },
+            {
+              "token": " right",
+              "logprob": -0.8692337870597839
+            },
+            {
+              "token": " hand",
+              "logprob": -0.3383690118789673
+            },
+            {
+              "token": ".",
+              "logprob": -0.6572357416152954
+            },
+            {
+              "token": " Q",
+              "logprob": -1.7513792514801025
+            },
+            {
+              "token": ":",
+              "logprob": -0.01704343408346176
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Sam's right hand.",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -1.3415340185165405
+            },
+            {
+              "token": "'s",
+              "logprob": -1.0893981456756592
+            },
+            {
+              "token": " right",
+              "logprob": -1.0034090280532837
+            },
+            {
+              "token": " hand",
+              "logprob": -0.18077097833156586
+            },
+            {
+              "token": ".",
+              "logprob": -0.7306244969367981
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.9668329954147339
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "$4.00",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.8493266105651855
+            },
+            {
+              "token": " $",
+              "logprob": -3.94469952583313
+            },
+            {
+              "token": "4",
+              "logprob": -5.4462971687316895
+            },
+            {
+              "token": ".",
+              "logprob": -0.7243548035621643
+            },
+            {
+              "token": "00",
+              "logprob": -0.3968258798122406
+            },
+            {
+              "token": "\n",
+              "logprob": -3.7299485206604004
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Ella put her right hand under cold water.",
+          "token_data": [
+            {
+              "token": " Ella",
+              "logprob": -2.898186206817627
+            },
+            {
+              "token": " put",
+              "logprob": -3.3675575256347656
+            },
+            {
+              "token": " her",
+              "logprob": -0.3859209418296814
+            },
+            {
+              "token": " right",
+              "logprob": -1.5594557523727417
+            },
+            {
+              "token": " hand",
+              "logprob": -0.11345916986465454
+            },
+            {
+              "token": " under",
+              "logprob": -1.4825303554534912
+            },
+            {
+              "token": " cold",
+              "logprob": -0.3077356517314911
+            },
+            {
+              "token": " water",
+              "logprob": -0.034435488283634186
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.9163787364959717
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.97059965133667
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.97059965133667
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "She injured her right hand.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -3.326016902923584
+            },
+            {
+              "token": " injured",
+              "logprob": -1.127020001411438
+            },
+            {
+              "token": " her",
+              "logprob": -0.07250399142503738
+            },
+            {
+              "token": " right",
+              "logprob": -0.5587956309318542
+            },
+            {
+              "token": " hand",
+              "logprob": -0.13137118518352509
+            },
+            {
+              "token": ".",
+              "logprob": -0.5582335591316223
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "her left",
+          "token_data": [
+            {
+              "token": " her",
+              "logprob": -4.027407169342041
+            },
+            {
+              "token": " left",
+              "logprob": -0.9675717353820801
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.4483697414398193
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Sam’s. Sam burnt his right hand when trying to fry eggs in a pan.",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -1.3415340185165405
+            },
+            {
+              "token": "’s",
+              "logprob": -2.3074862957000732
+            },
+            {
+              "token": ".",
+              "logprob": -2.5909104347229004
+            },
+            {
+              "token": " Sam",
+              "logprob": -3.0691933631896973
+            },
+            {
+              "token": " burnt",
+              "logprob": -4.923296928405762
+            },
+            {
+              "token": " his",
+              "logprob": -0.10128776729106903
+            },
+            {
+              "token": " right",
+              "logprob": -0.6824706196784973
+            },
+            {
+              "token": " hand",
+              "logprob": -0.07555486261844635
+            },
+            {
+              "token": " when",
+              "logprob": -2.8747620582580566
+            },
+            {
+              "token": " trying",
+              "logprob": -3.1322247982025146
+            },
+            {
+              "token": " to",
+              "logprob": -0.010849297977983952
+            },
+            {
+              "token": " fry",
+              "logprob": -0.1715877205133438
+            },
+            {
+              "token": " eggs",
+              "logprob": -0.16595607995986938
+            },
+            {
+              "token": " in",
+              "logprob": -3.870093822479248
+            },
+            {
+              "token": " a",
+              "logprob": -1.3341505527496338
+            },
+            {
+              "token": " pan",
+              "logprob": -0.6489592790603638
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.734105348587036
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

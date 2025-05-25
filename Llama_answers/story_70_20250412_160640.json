@@ -1,0 +1,1103 @@
+{
+  "story": "Henry and Scarlett were best friends. One day, they decided to go on an adventure to find a hidden treasure. They packed a bag with snacks and a paper map Henry had drawn. The map showed the way to a big tree where treasures were buried. They walked through the woods, following the map. Henry was leading the way when suddenly, he tripped over a root. Henry tore a paper map as he fell. Scarlett helped him up and said, \"Don’t worry, we can still find the treasure.\" They carefully taped the map back together. The map was a little messy now, but they could still read it. They kept walking until they found the big tree. Under the tree, they dug a small hole and found a shiny box. Inside was a note that said, \"The real treasure is friendship.\" Henry and Scarlett laughed and agreed. They knew they didn’t need gold or gems. Being friends was the best treasure of all.",
+  "characters": [
+    {
+      "question": "What item did Henry rip?",
+      "character": "Henry",
+      "story": "Henry and Scarlett were best friends. One day, they decided to go on an adventure to find a hidden treasure. They packed a bag with snacks and a paper map Henry had drawn. The map showed the way to a big tree where treasures were buried. They walked through the woods, following the map. Henry was leading the way when suddenly, he tripped over a root. Henry tore a paper map as he fell. Scarlett helped him up and said, \"Don’t worry, we can still find the treasure.\" They carefully taped the map back together. The map was a little messy now, but they could still read it. They kept walking until they found the big tree. Under the tree, they dug a small hole and found a shiny box. Inside was a note that said, \"The real treasure is friendship.\" Henry and Scarlett laughed and agreed. They knew they didn’t need gold or gems. Being friends was the best treasure of all.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "He ripped a piece of paper map.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -2.5495896339416504
+            },
+            {
+              "token": " ripped",
+              "logprob": -0.693722665309906
+            },
+            {
+              "token": " a",
+              "logprob": -0.2602597177028656
+            },
+            {
+              "token": " piece",
+              "logprob": -2.544814109802246
+            },
+            {
+              "token": " of",
+              "logprob": -0.028678787872195244
+            },
+            {
+              "token": " paper",
+              "logprob": -0.9890214800834656
+            },
+            {
+              "token": " map",
+              "logprob": -1.214345097541809
+            },
+            {
+              "token": ".",
+              "logprob": -0.4229322075843811
+            },
+            {
+              "token": " Q",
+              "logprob": -1.4097681045532227
+            },
+            {
+              "token": ":",
+              "logprob": -0.01695459708571434
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "He ripped the map as he tripped over a root.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -2.4754037857055664
+            },
+            {
+              "token": " ripped",
+              "logprob": -0.7142803072929382
+            },
+            {
+              "token": " the",
+              "logprob": -1.828665018081665
+            },
+            {
+              "token": " map",
+              "logprob": -0.8920859098434448
+            },
+            {
+              "token": " as",
+              "logprob": -3.106448173522949
+            },
+            {
+              "token": " he",
+              "logprob": -0.1596764326095581
+            },
+            {
+              "token": " tri",
+              "logprob": -2.229973793029785
+            },
+            {
+              "token": "pped",
+              "logprob": -0.0012036466505378485
+            },
+            {
+              "token": " over",
+              "logprob": -0.8627643585205078
+            },
+            {
+              "token": " a",
+              "logprob": -0.2535763382911682
+            },
+            {
+              "token": " root",
+              "logprob": -0.09190683811903
+            },
+            {
+              "token": ".",
+              "logprob": -0.2509312033653259
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.9850753545761108
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "a paper map",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.8190269470214844
+            },
+            {
+              "token": " paper",
+              "logprob": -2.0130269527435303
+            },
+            {
+              "token": " map",
+              "logprob": -0.3039892017841339
+            },
+            {
+              "token": "\n",
+              "logprob": -2.2190937995910645
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "A small note",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.560427665710449
+            },
+            {
+              "token": " A",
+              "logprob": -1.6978094577789307
+            },
+            {
+              "token": " small",
+              "logprob": -2.51444935798645
+            },
+            {
+              "token": " note",
+              "logprob": -3.5210795402526855
+            },
+            {
+              "token": "\n",
+              "logprob": -3.32845139503479
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "They tripped over a root.",
+          "token_data": [
+            {
+              "token": " They",
+              "logprob": -3.6237754821777344
+            },
+            {
+              "token": " tri",
+              "logprob": -1.8954899311065674
+            },
+            {
+              "token": "pped",
+              "logprob": -0.0042188456282019615
+            },
+            {
+              "token": " over",
+              "logprob": -0.3139694333076477
+            },
+            {
+              "token": " a",
+              "logprob": -0.0465090349316597
+            },
+            {
+              "token": " root",
+              "logprob": -0.13370248675346375
+            },
+            {
+              "token": ".",
+              "logprob": -0.366577684879303
+            },
+            {
+              "token": " Q",
+              "logprob": -1.3328479528427124
+            },
+            {
+              "token": ":",
+              "logprob": -0.018881818279623985
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.7985286712646484
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "None of the above.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.956404685974121
+            },
+            {
+              "token": " of",
+              "logprob": -1.3445134162902832
+            },
+            {
+              "token": " the",
+              "logprob": -0.2429569959640503
+            },
+            {
+              "token": " above",
+              "logprob": -0.20252932608127594
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.9175655841827393
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "a root.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.8190269470214844
+            },
+            {
+              "token": " root",
+              "logprob": -0.5125138759613037
+            },
+            {
+              "token": ".",
+              "logprob": -0.6999810338020325
+            },
+            {
+              "token": " \n",
+              "logprob": -1.5222094058990479
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "He tripped over a root. Henry tore a paper map. .",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -2.4754037857055664
+            },
+            {
+              "token": " tri",
+              "logprob": -1.5479938983917236
+            },
+            {
+              "token": "pped",
+              "logprob": -0.001666705938987434
+            },
+            {
+              "token": " over",
+              "logprob": -0.2977572977542877
+            },
+            {
+              "token": " a",
+              "logprob": -0.0577072910964489
+            },
+            {
+              "token": " root",
+              "logprob": -0.1277388483285904
+            },
+            {
+              "token": ".",
+              "logprob": -0.37867650389671326
+            },
+            {
+              "token": " Henry",
+              "logprob": -3.629291534423828
+            },
+            {
+              "token": " tore",
+              "logprob": -0.16117669641971588
+            },
+            {
+              "token": " a",
+              "logprob": -0.046744439750909805
+            },
+            {
+              "token": " paper",
+              "logprob": -0.10334847867488861
+            },
+            {
+              "token": " map",
+              "logprob": -0.029375780373811722
+            },
+            {
+              "token": ".",
+              "logprob": -0.6625977754592896
+            },
+            {
+              "token": " ",
+              "logprob": -2.5991668701171875
+            },
+            {
+              "token": ".\n\n\n",
+              "logprob": -3.2987935543060303
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "He ripped the map.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -2.4754037857055664
+            },
+            {
+              "token": " ripped",
+              "logprob": -0.7142803072929382
+            },
+            {
+              "token": " the",
+              "logprob": -1.828665018081665
+            },
+            {
+              "token": " map",
+              "logprob": -0.8920859098434448
+            },
+            {
+              "token": ".",
+              "logprob": -0.4971228837966919
+            },
+            {
+              "token": " \n",
+              "logprob": -1.9258062839508057
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What item did Scarlett rip?",
+      "character": "Scarlett",
+      "story": "Henry and Scarlett were best friends. One day, they decided to go on an adventure to find a hidden treasure. They packed a bag with snacks and a paper map Henry had drawn. The map showed the way to a big tree where treasures were buried. They walked through the woods, following the map. Henry was leading the way when suddenly, he tripped over a root. Henry tore a paper map as he fell. Scarlett helped him up and said, \"Don’t worry, we can still find the treasure.\" They carefully taped the map back together. The map was a little messy now, but they could still read it. They kept walking until they found the big tree. Under the tree, they dug a small hole and found a shiny box. Inside was a note that said, \"The real treasure is friendship.\" Henry and Scarlett laughed and agreed. They knew they didn’t need gold or gems. Being friends was the best treasure of all.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "What items did they rip?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.1600492000579834
+            },
+            {
+              "token": " items",
+              "logprob": -3.0163064002990723
+            },
+            {
+              "token": " did",
+              "logprob": -0.21495583653450012
+            },
+            {
+              "token": " they",
+              "logprob": -1.5544488430023193
+            },
+            {
+              "token": " rip",
+              "logprob": -0.4112257659435272
+            },
+            {
+              "token": "?",
+              "logprob": -0.41647908091545105
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.651998519897461
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Henry fell and ripped a paper map.",
+          "token_data": [
+            {
+              "token": " Henry",
+              "logprob": -2.6502208709716797
+            },
+            {
+              "token": " fell",
+              "logprob": -2.601414680480957
+            },
+            {
+              "token": " and",
+              "logprob": -3.381300926208496
+            },
+            {
+              "token": " ripped",
+              "logprob": -0.878422200679779
+            },
+            {
+              "token": " a",
+              "logprob": -0.5663981437683105
+            },
+            {
+              "token": " paper",
+              "logprob": -1.8027691841125488
+            },
+            {
+              "token": " map",
+              "logprob": -0.16752055287361145
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.655043840408325
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A paper map",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.6254940032958984
+            },
+            {
+              "token": " paper",
+              "logprob": -2.1186723709106445
+            },
+            {
+              "token": " map",
+              "logprob": -0.5127809047698975
+            },
+            {
+              "token": "\n",
+              "logprob": -2.7673778533935547
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "A root.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.6254940032958984
+            },
+            {
+              "token": " root",
+              "logprob": -0.6173163056373596
+            },
+            {
+              "token": ".",
+              "logprob": -0.5467684864997864
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9825215339660645
+            },
+            {
+              "token": ":",
+              "logprob": -0.0170424971729517
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Henry.",
+          "token_data": [
+            {
+              "token": " Henry",
+              "logprob": -2.6502208709716797
+            },
+            {
+              "token": ".",
+              "logprob": -2.1116151809692383
+            },
+            {
+              "token": " Q",
+              "logprob": -1.0059056282043457
+            },
+            {
+              "token": ":",
+              "logprob": -0.013516457751393318
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "a root",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.3826379776000977
+            },
+            {
+              "token": " root",
+              "logprob": -0.6562865972518921
+            },
+            {
+              "token": "\n",
+              "logprob": -2.7698895931243896
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Nothing, as it wasn't a root but a very big tree root. Scarlett helped Henry get up because of the \"don’t worry,\" phrase which said, \"I’m so glad our friendship doesn't make sense.\" These phrases help to understand their friendship's purpose, that friendship means you have friends even if they're sometimes confusing! It can be confusing to look at a map where the paper is torn, but you have a good friend who helps you when you get tripped up in real life too. (Example: \"The map was a little messy now.\" vs \"I ripped the wrong note.\" )",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -4.299375534057617
+            },
+            {
+              "token": ",",
+              "logprob": -1.6926192045211792
+            },
+            {
+              "token": " as",
+              "logprob": -2.883490800857544
+            },
+            {
+              "token": " it",
+              "logprob": -2.1842041015625
+            },
+            {
+              "token": " wasn",
+              "logprob": -3.3427276611328125
+            },
+            {
+              "token": "'t",
+              "logprob": -0.37826213240623474
+            },
+            {
+              "token": " a",
+              "logprob": -1.029069185256958
+            },
+            {
+              "token": " root",
+              "logprob": -0.672102153301239
+            },
+            {
+              "token": " but",
+              "logprob": -2.253201484680176
+            },
+            {
+              "token": " a",
+              "logprob": -0.278654009103775
+            },
+            {
+              "token": " very",
+              "logprob": -4.7130889892578125
+            },
+            {
+              "token": " big",
+              "logprob": -1.7141852378845215
+            },
+            {
+              "token": " tree",
+              "logprob": -2.5797131061553955
+            },
+            {
+              "token": " root",
+              "logprob": -2.3854246139526367
+            },
+            {
+              "token": ".",
+              "logprob": -0.39260002970695496
+            },
+            {
+              "token": " Scarlett",
+              "logprob": -4.3132734298706055
+            },
+            {
+              "token": " helped",
+              "logprob": -1.7329715490341187
+            },
+            {
+              "token": " Henry",
+              "logprob": -0.28604087233543396
+            },
+            {
+              "token": " get",
+              "logprob": -2.6347291469573975
+            },
+            {
+              "token": " up",
+              "logprob": -0.19346672296524048
+            },
+            {
+              "token": " because",
+              "logprob": -2.100525140762329
+            },
+            {
+              "token": " of",
+              "logprob": -2.3801050186157227
+            },
+            {
+              "token": " the",
+              "logprob": -1.3191975355148315
+            },
+            {
+              "token": " \"",
+              "logprob": -3.7150018215179443
+            },
+            {
+              "token": "don",
+              "logprob": -3.3310704231262207
+            },
+            {
+              "token": "’t",
+              "logprob": -1.6127467155456543
+            },
+            {
+              "token": " worry",
+              "logprob": -0.02238902449607849
+            },
+            {
+              "token": ",\"",
+              "logprob": -3.3316214084625244
+            },
+            {
+              "token": " phrase",
+              "logprob": -4.2459397315979
+            },
+            {
+              "token": " which",
+              "logprob": -4.349246978759766
+            },
+            {
+              "token": " said",
+              "logprob": -3.2611193656921387
+            },
+            {
+              "token": ",",
+              "logprob": -1.2123113870620728
+            },
+            {
+              "token": " \"",
+              "logprob": -0.14594970643520355
+            },
+            {
+              "token": "I",
+              "logprob": -3.338409662246704
+            },
+            {
+              "token": "’m",
+              "logprob": -1.4434148073196411
+            },
+            {
+              "token": " so",
+              "logprob": -3.8070626258850098
+            },
+            {
+              "token": " glad",
+              "logprob": -1.180618405342102
+            },
+            {
+              "token": " our",
+              "logprob": -3.8103179931640625
+            },
+            {
+              "token": " friendship",
+              "logprob": -0.5057527422904968
+            },
+            {
+              "token": " doesn",
+              "logprob": -3.72696590423584
+            },
+            {
+              "token": "'t",
+              "logprob": -1.4069068431854248
+            },
+            {
+              "token": " make",
+              "logprob": -4.15242338180542
+            },
+            {
+              "token": " sense",
+              "logprob": -2.2756547927856445
+            },
+            {
+              "token": ".\"",
+              "logprob": -1.1509369611740112
+            },
+            {
+              "token": " These",
+              "logprob": -5.079164505004883
+            },
+            {
+              "token": " phrases",
+              "logprob": -1.4371023178100586
+            },
+            {
+              "token": " help",
+              "logprob": -3.3490614891052246
+            },
+            {
+              "token": " to",
+              "logprob": -2.247779369354248
+            },
+            {
+              "token": " understand",
+              "logprob": -3.0076334476470947
+            },
+            {
+              "token": " their",
+              "logprob": -3.1517224311828613
+            },
+            {
+              "token": " friendship",
+              "logprob": -0.7752082943916321
+            },
+            {
+              "token": "'s",
+              "logprob": -4.223411560058594
+            },
+            {
+              "token": " purpose",
+              "logprob": -4.485991477966309
+            },
+            {
+              "token": ",",
+              "logprob": -2.670536994934082
+            },
+            {
+              "token": " that",
+              "logprob": -3.7778549194335938
+            },
+            {
+              "token": " friendship",
+              "logprob": -1.4937114715576172
+            },
+            {
+              "token": " means",
+              "logprob": -3.658895492553711
+            },
+            {
+              "token": " you",
+              "logprob": -4.04360294342041
+            },
+            {
+              "token": " have",
+              "logprob": -3.5997769832611084
+            },
+            {
+              "token": " friends",
+              "logprob": -3.8446426391601562
+            },
+            {
+              "token": " even",
+              "logprob": -3.964413642883301
+            },
+            {
+              "token": " if",
+              "logprob": -0.5941082239151001
+            },
+            {
+              "token": " they",
+              "logprob": -2.0561957359313965
+            },
+            {
+              "token": "'re",
+              "logprob": -2.7431228160858154
+            },
+            {
+              "token": " sometimes",
+              "logprob": -3.420786142349243
+            },
+            {
+              "token": " confusing",
+              "logprob": -4.357179164886475
+            },
+            {
+              "token": "!",
+              "logprob": -4.303442001342773
+            },
+            {
+              "token": " It",
+              "logprob": -3.9916934967041016
+            },
+            {
+              "token": " can",
+              "logprob": -3.5779685974121094
+            },
+            {
+              "token": " be",
+              "logprob": -1.2867002487182617
+            },
+            {
+              "token": " confusing",
+              "logprob": -1.2675154209136963
+            },
+            {
+              "token": " to",
+              "logprob": -1.2197922468185425
+            },
+            {
+              "token": " look",
+              "logprob": -4.947168827056885
+            },
+            {
+              "token": " at",
+              "logprob": -0.5749508142471313
+            },
+            {
+              "token": " a",
+              "logprob": -1.7450398206710815
+            },
+            {
+              "token": " map",
+              "logprob": -1.3519766330718994
+            },
+            {
+              "token": " where",
+              "logprob": -4.479926586151123
+            },
+            {
+              "token": " the",
+              "logprob": -1.5638415813446045
+            },
+            {
+              "token": " paper",
+              "logprob": -3.0235137939453125
+            },
+            {
+              "token": " is",
+              "logprob": -0.3523886799812317
+            },
+            {
+              "token": " torn",
+              "logprob": -1.605556845664978
+            },
+            {
+              "token": ",",
+              "logprob": -1.1756418943405151
+            },
+            {
+              "token": " but",
+              "logprob": -0.2675953805446625
+            },
+            {
+              "token": " you",
+              "logprob": -1.8750863075256348
+            },
+            {
+              "token": " have",
+              "logprob": -2.9840588569641113
+            },
+            {
+              "token": " a",
+              "logprob": -1.7845511436462402
+            },
+            {
+              "token": " good",
+              "logprob": -3.0593552589416504
+            },
+            {
+              "token": " friend",
+              "logprob": -0.282747358083725
+            },
+            {
+              "token": " who",
+              "logprob": -1.6715203523635864
+            },
+            {
+              "token": " helps",
+              "logprob": -2.154951333999634
+            },
+            {
+              "token": " you",
+              "logprob": -0.15353073179721832
+            },
+            {
+              "token": " when",
+              "logprob": -3.4149575233459473
+            },
+            {
+              "token": " you",
+              "logprob": -0.19103862345218658
+            },
+            {
+              "token": " get",
+              "logprob": -2.239884376525879
+            },
+            {
+              "token": " tri",
+              "logprob": -3.292917013168335
+            },
+            {
+              "token": "pped",
+              "logprob": -0.013846178539097309
+            },
+            {
+              "token": " up",
+              "logprob": -0.13379165530204773
+            },
+            {
+              "token": " in",
+              "logprob": -3.639248847961426
+            },
+            {
+              "token": " real",
+              "logprob": -4.4389543533325195
+            },
+            {
+              "token": " life",
+              "logprob": -0.058187197893857956
+            },
+            {
+              "token": " too",
+              "logprob": -3.7575955390930176
+            },
+            {
+              "token": ".",
+              "logprob": -0.9175211787223816
+            },
+            {
+              "token": " (",
+              "logprob": -4.747518062591553
+            },
+            {
+              "token": "Example",
+              "logprob": -5.258333683013916
+            },
+            {
+              "token": ":",
+              "logprob": -0.508821964263916
+            },
+            {
+              "token": " \"",
+              "logprob": -2.572479248046875
+            },
+            {
+              "token": "The",
+              "logprob": -2.829519271850586
+            },
+            {
+              "token": " map",
+              "logprob": -2.9779725074768066
+            },
+            {
+              "token": " was",
+              "logprob": -0.5498645305633545
+            },
+            {
+              "token": " a",
+              "logprob": -0.02839181013405323
+            },
+            {
+              "token": " little",
+              "logprob": -0.008329413831233978
+            },
+            {
+              "token": " messy",
+              "logprob": -0.08759914338588715
+            },
+            {
+              "token": " now",
+              "logprob": -0.17604634165763855
+            },
+            {
+              "token": ".\"",
+              "logprob": -4.318367958068848
+            },
+            {
+              "token": " vs",
+              "logprob": -4.532033920288086
+            },
+            {
+              "token": " \"",
+              "logprob": -1.3219952583312988
+            },
+            {
+              "token": "I",
+              "logprob": -3.5697131156921387
+            },
+            {
+              "token": " ripped",
+              "logprob": -3.0442023277282715
+            },
+            {
+              "token": " the",
+              "logprob": -1.4393469095230103
+            },
+            {
+              "token": " wrong",
+              "logprob": -4.312502861022949
+            },
+            {
+              "token": " note",
+              "logprob": -3.694291114807129
+            },
+            {
+              "token": ".\"",
+              "logprob": -2.0081169605255127
+            },
+            {
+              "token": " )",
+              "logprob": -2.0544066429138184
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "The note.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.029417037963867
+            },
+            {
+              "token": " note",
+              "logprob": -2.77728009223938
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.7605137825012207
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "She tore the paper.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -3.880679130554199
+            },
+            {
+              "token": " tore",
+              "logprob": -1.5922088623046875
+            },
+            {
+              "token": " the",
+              "logprob": -1.8689489364624023
+            },
+            {
+              "token": " paper",
+              "logprob": -1.4939782619476318
+            },
+            {
+              "token": ".",
+              "logprob": -2.1684494018554688
+            },
+            {
+              "token": " \n",
+              "logprob": -1.5379914045333862
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The map.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.029417037963867
+            },
+            {
+              "token": " map",
+              "logprob": -0.8798572421073914
+            },
+            {
+              "token": ".",
+              "logprob": -0.651624858379364
+            },
+            {
+              "token": " ",
+              "logprob": -2.727051258087158
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9987577795982361
+            },
+            {
+              "token": ":",
+              "logprob": -0.018804727122187614
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

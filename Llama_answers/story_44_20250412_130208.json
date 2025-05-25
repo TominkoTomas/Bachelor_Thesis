@@ -1,0 +1,931 @@
+{
+  "story": "Ava and Chloe were best friends. One day, they decided to have a sleepover at Ava's house. It was a cold night, and the wind howled outside. Ava grabbed a warm blanket and wrapped it around herself. Chloe laughed and said, \"You always get cold so easily!\" Ava smiled and replied, \"I just like being cozy.\" Chloe jumped on the bed and started telling a funny story about her day. Ava listened while snuggling under the blanket. Suddenly, they heard a noise outside. Chloe wanted to check, but Ava was too scared. \"Don’t worry,\" Chloe said. \"It’s probably just a squirrel.\" They both laughed and went back to talking. Later, they ate popcorn and watched a movie. Ava kept the blanket around her the whole time. Chloe teased her but didn’t mind. They had a fun night together, and soon they fell asleep, happy and warm.",
+  "characters": [
+    {
+      "question": "What temperature was the blanket Ava grabbed?",
+      "character": "Ava",
+      "story": "Ava and Chloe were best friends. One day, they decided to have a sleepover at Ava's house. It was a cold night, and the wind howled outside. Ava grabbed a warm blanket and wrapped it around herself. Chloe laughed and said, \"You always get cold so easily!\" Ava smiled and replied, \"I just like being cozy.\" Chloe jumped on the bed and started telling a funny story about her day. Ava listened while snuggling under the blanket. Suddenly, they heard a noise outside. Chloe wanted to check, but Ava was too scared. \"Don’t worry,\" Chloe said. \"It’s probably just a squirrel.\" They both laughed and went back to talking. Later, they ate popcorn and watched a movie. Ava kept the blanket around her the whole time. Chloe teased her but didn’t mind. They had a fun night together, and soon they fell asleep, happy and warm.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The answer should be around 1.0F (Or Celsius)",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.5848822593688965
+            },
+            {
+              "token": " answer",
+              "logprob": -3.0387091636657715
+            },
+            {
+              "token": " should",
+              "logprob": -2.06657075881958
+            },
+            {
+              "token": " be",
+              "logprob": -0.44805020093917847
+            },
+            {
+              "token": " around",
+              "logprob": -3.537980556488037
+            },
+            {
+              "token": " ",
+              "logprob": -0.26220181584358215
+            },
+            {
+              "token": "1",
+              "logprob": -4.308183670043945
+            },
+            {
+              "token": ".",
+              "logprob": -1.5554893016815186
+            },
+            {
+              "token": "0",
+              "logprob": -3.3669495582580566
+            },
+            {
+              "token": "F",
+              "logprob": -4.130086898803711
+            },
+            {
+              "token": " (",
+              "logprob": -2.25783109664917
+            },
+            {
+              "token": "Or",
+              "logprob": -4.823733329772949
+            },
+            {
+              "token": " Celsius",
+              "logprob": -2.982367753982544
+            },
+            {
+              "token": ")",
+              "logprob": -1.0448182821273804
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.9674510955810547
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Hot",
+          "token_data": [
+            {
+              "token": " Hot",
+              "logprob": -4.341166019439697
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.0128836631774902
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "6 Celsius B: 7 Celsius C: 5 Celsius",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -1.9095940589904785
+            },
+            {
+              "token": "6",
+              "logprob": -4.26691198348999
+            },
+            {
+              "token": " Celsius",
+              "logprob": -2.8178720474243164
+            },
+            {
+              "token": " B",
+              "logprob": -2.2674129009246826
+            },
+            {
+              "token": ":",
+              "logprob": -0.015948353335261345
+            },
+            {
+              "token": " ",
+              "logprob": -0.062288131564855576
+            },
+            {
+              "token": "7",
+              "logprob": -2.013051986694336
+            },
+            {
+              "token": " Celsius",
+              "logprob": -0.2104693502187729
+            },
+            {
+              "token": " C",
+              "logprob": -0.07520727813243866
+            },
+            {
+              "token": ":",
+              "logprob": -0.00650100177153945
+            },
+            {
+              "token": " ",
+              "logprob": -0.046677540987730026
+            },
+            {
+              "token": "5",
+              "logprob": -2.612826347351074
+            },
+            {
+              "token": " Celsius",
+              "logprob": -0.04413957893848419
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.7589354515075684
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It was a cold night and the wind howled outside. Ava grabbed a warm blanket and wrapped it around herself.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.2898879051208496
+            },
+            {
+              "token": " was",
+              "logprob": -0.20796412229537964
+            },
+            {
+              "token": " a",
+              "logprob": -1.0023558139801025
+            },
+            {
+              "token": " cold",
+              "logprob": -0.612136721611023
+            },
+            {
+              "token": " night",
+              "logprob": -0.1763583868741989
+            },
+            {
+              "token": " and",
+              "logprob": -2.6361842155456543
+            },
+            {
+              "token": " the",
+              "logprob": -0.8044515252113342
+            },
+            {
+              "token": " wind",
+              "logprob": -0.35771235823631287
+            },
+            {
+              "token": " how",
+              "logprob": -0.11038468778133392
+            },
+            {
+              "token": "led",
+              "logprob": -0.005608655977994204
+            },
+            {
+              "token": " outside",
+              "logprob": -0.08644869923591614
+            },
+            {
+              "token": ".",
+              "logprob": -0.25287672877311707
+            },
+            {
+              "token": " Ava",
+              "logprob": -1.1504390239715576
+            },
+            {
+              "token": " grabbed",
+              "logprob": -0.07716570794582367
+            },
+            {
+              "token": " a",
+              "logprob": -0.03284447267651558
+            },
+            {
+              "token": " warm",
+              "logprob": -0.062353651970624924
+            },
+            {
+              "token": " blanket",
+              "logprob": -0.023060593754053116
+            },
+            {
+              "token": " and",
+              "logprob": -0.1363731175661087
+            },
+            {
+              "token": " wrapped",
+              "logprob": -0.013881799764931202
+            },
+            {
+              "token": " it",
+              "logprob": -0.006550980266183615
+            },
+            {
+              "token": " around",
+              "logprob": -0.0036180056631565094
+            },
+            {
+              "token": " herself",
+              "logprob": -0.059069715440273285
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.889738082885742
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Hot (Answer should be \"It was very hot! \")",
+          "token_data": [
+            {
+              "token": " Hot",
+              "logprob": -4.341166019439697
+            },
+            {
+              "token": " (",
+              "logprob": -3.7930655479431152
+            },
+            {
+              "token": "Answer",
+              "logprob": -3.1667792797088623
+            },
+            {
+              "token": " should",
+              "logprob": -4.1423211097717285
+            },
+            {
+              "token": " be",
+              "logprob": -0.38186994194984436
+            },
+            {
+              "token": " \"",
+              "logprob": -3.512340784072876
+            },
+            {
+              "token": "It",
+              "logprob": -2.861827850341797
+            },
+            {
+              "token": " was",
+              "logprob": -0.3728676736354828
+            },
+            {
+              "token": " very",
+              "logprob": -3.032872438430786
+            },
+            {
+              "token": " hot",
+              "logprob": -0.5850405693054199
+            },
+            {
+              "token": "!",
+              "logprob": -3.89174747467041
+            },
+            {
+              "token": " \")",
+              "logprob": -4.155699729919434
+            },
+            {
+              "token": " ",
+              "logprob": -3.209181785583496
+            },
+            {
+              "token": " Q",
+              "logprob": -1.477636694908142
+            },
+            {
+              "token": ":",
+              "logprob": -0.02637672983109951
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "21 Celsius.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -1.9095940589904785
+            },
+            {
+              "token": "21",
+              "logprob": -5.152896404266357
+            },
+            {
+              "token": " Celsius",
+              "logprob": -1.9276859760284424
+            },
+            {
+              "token": ".",
+              "logprob": -2.0871007442474365
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9715003967285156
+            },
+            {
+              "token": ":",
+              "logprob": -0.028580432757735252
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Cold",
+          "token_data": [
+            {
+              "token": " Cold",
+              "logprob": -3.527561664581299
+            },
+            {
+              "token": "\n",
+              "logprob": -2.165139675140381
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Ava wrapped the blanket around her body, which made her feel comfortable.",
+          "token_data": [
+            {
+              "token": " Ava",
+              "logprob": -4.773812770843506
+            },
+            {
+              "token": " wrapped",
+              "logprob": -2.3175711631774902
+            },
+            {
+              "token": " the",
+              "logprob": -1.0941174030303955
+            },
+            {
+              "token": " blanket",
+              "logprob": -0.1684834361076355
+            },
+            {
+              "token": " around",
+              "logprob": -0.15606088936328888
+            },
+            {
+              "token": " her",
+              "logprob": -0.9236406087875366
+            },
+            {
+              "token": " body",
+              "logprob": -2.5032010078430176
+            },
+            {
+              "token": ",",
+              "logprob": -2.72233247756958
+            },
+            {
+              "token": " which",
+              "logprob": -1.7633891105651855
+            },
+            {
+              "token": " made",
+              "logprob": -2.113433361053467
+            },
+            {
+              "token": " her",
+              "logprob": -0.5490338802337646
+            },
+            {
+              "token": " feel",
+              "logprob": -0.5649102926254272
+            },
+            {
+              "token": " comfortable",
+              "logprob": -3.489131450653076
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.4420974254608154
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "3 B: -2 C: +5",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -1.9095940589904785
+            },
+            {
+              "token": "3",
+              "logprob": -4.009545803070068
+            },
+            {
+              "token": " B",
+              "logprob": -4.318709373474121
+            },
+            {
+              "token": ":",
+              "logprob": -0.030148625373840332
+            },
+            {
+              "token": " -",
+              "logprob": -3.9140405654907227
+            },
+            {
+              "token": "2",
+              "logprob": -2.464693069458008
+            },
+            {
+              "token": " C",
+              "logprob": -0.25488194823265076
+            },
+            {
+              "token": ":",
+              "logprob": -0.013093211688101292
+            },
+            {
+              "token": " +",
+              "logprob": -4.054577827453613
+            },
+            {
+              "token": "5",
+              "logprob": -0.8871850967407227
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.097121477127075
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "It was too cold!",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.2898879051208496
+            },
+            {
+              "token": " was",
+              "logprob": -0.20796412229537964
+            },
+            {
+              "token": " too",
+              "logprob": -2.7289087772369385
+            },
+            {
+              "token": " cold",
+              "logprob": -0.19703589379787445
+            },
+            {
+              "token": "!\n",
+              "logprob": -4.222333908081055
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What temperature was the blanket Chloe grabbed?",
+      "character": "Chloe",
+      "story": "Ava and Chloe were best friends. One day, they decided to have a sleepover at Ava's house. It was a cold night, and the wind howled outside. Ava grabbed a warm blanket and wrapped it around herself. Chloe laughed and said, \"You always get cold so easily!\" Ava smiled and replied, \"I just like being cozy.\" Chloe jumped on the bed and started telling a funny story about her day. Ava listened while snuggling under the blanket. Suddenly, they heard a noise outside. Chloe wanted to check, but Ava was too scared. \"Don’t worry,\" Chloe said. \"It’s probably just a squirrel.\" They both laughed and went back to talking. Later, they ate popcorn and watched a movie. Ava kept the blanket around her the whole time. Chloe teased her but didn’t mind. They had a fun night together, and soon they fell asleep, happy and warm.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n\n",
+              "logprob": -3.7082879543304443
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "They both got a cold temperature and they grabbed it to stay warm.",
+          "token_data": [
+            {
+              "token": " They",
+              "logprob": -4.52277946472168
+            },
+            {
+              "token": " both",
+              "logprob": -2.135671854019165
+            },
+            {
+              "token": " got",
+              "logprob": -3.1219985485076904
+            },
+            {
+              "token": " a",
+              "logprob": -2.186004400253296
+            },
+            {
+              "token": " cold",
+              "logprob": -2.2937967777252197
+            },
+            {
+              "token": " temperature",
+              "logprob": -1.9974231719970703
+            },
+            {
+              "token": " and",
+              "logprob": -3.329399824142456
+            },
+            {
+              "token": " they",
+              "logprob": -3.067725658416748
+            },
+            {
+              "token": " grabbed",
+              "logprob": -4.191686630249023
+            },
+            {
+              "token": " it",
+              "logprob": -2.3645176887512207
+            },
+            {
+              "token": " to",
+              "logprob": -1.8059368133544922
+            },
+            {
+              "token": " stay",
+              "logprob": -3.0901482105255127
+            },
+            {
+              "token": " warm",
+              "logprob": -0.14217108488082886
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.6043307781219482
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "They are not equal.",
+          "token_data": [
+            {
+              "token": " They",
+              "logprob": -4.52277946472168
+            },
+            {
+              "token": " are",
+              "logprob": -3.6689341068267822
+            },
+            {
+              "token": " not",
+              "logprob": -4.023165225982666
+            },
+            {
+              "token": " equal",
+              "logprob": -4.962541580200195
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.3490381240844727
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "A: None.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.8470802307128906
+            },
+            {
+              "token": ":",
+              "logprob": -2.6219406127929688
+            },
+            {
+              "token": " None",
+              "logprob": -4.397585391998291
+            },
+            {
+              "token": ".",
+              "logprob": -2.99131178855896
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.5888915061950684
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "What temperature did Chloe grab the blanket? The correct answer is \"Too cold!\"",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.213359832763672
+            },
+            {
+              "token": " temperature",
+              "logprob": -0.38728466629981995
+            },
+            {
+              "token": " did",
+              "logprob": -2.7484090328216553
+            },
+            {
+              "token": " Chloe",
+              "logprob": -1.0762355327606201
+            },
+            {
+              "token": " grab",
+              "logprob": -0.21737408638000488
+            },
+            {
+              "token": " the",
+              "logprob": -1.1945343017578125
+            },
+            {
+              "token": " blanket",
+              "logprob": -0.10737995058298111
+            },
+            {
+              "token": "?",
+              "logprob": -0.5406486392021179
+            },
+            {
+              "token": " The",
+              "logprob": -3.286182165145874
+            },
+            {
+              "token": " correct",
+              "logprob": -3.9423575401306152
+            },
+            {
+              "token": " answer",
+              "logprob": -0.3714364469051361
+            },
+            {
+              "token": " is",
+              "logprob": -0.2686668336391449
+            },
+            {
+              "token": " \"",
+              "logprob": -2.867713451385498
+            },
+            {
+              "token": "Too",
+              "logprob": -5.1372575759887695
+            },
+            {
+              "token": " cold",
+              "logprob": -0.18677712976932526
+            },
+            {
+              "token": "!\"\n",
+              "logprob": -3.8248744010925293
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "32 Degrees Fahrenheit (Fahrenheit)",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -1.8265458345413208
+            },
+            {
+              "token": "32",
+              "logprob": -3.9491851329803467
+            },
+            {
+              "token": " Degrees",
+              "logprob": -2.7834136486053467
+            },
+            {
+              "token": " Fahrenheit",
+              "logprob": -1.5177464485168457
+            },
+            {
+              "token": " (",
+              "logprob": -2.2804477214813232
+            },
+            {
+              "token": "F",
+              "logprob": -0.5312363505363464
+            },
+            {
+              "token": "ahrenheit",
+              "logprob": -3.3251986503601074
+            },
+            {
+              "token": ")\n",
+              "logprob": -2.5216596126556396
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The answer is 65 Fahrenheit (F)",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.560032844543457
+            },
+            {
+              "token": " answer",
+              "logprob": -2.782811164855957
+            },
+            {
+              "token": " is",
+              "logprob": -1.0246849060058594
+            },
+            {
+              "token": " ",
+              "logprob": -1.25078284740448
+            },
+            {
+              "token": "65",
+              "logprob": -5.082304954528809
+            },
+            {
+              "token": " Fahrenheit",
+              "logprob": -3.586475133895874
+            },
+            {
+              "token": " (",
+              "logprob": -2.267756938934326
+            },
+            {
+              "token": "F",
+              "logprob": -0.7309733033180237
+            },
+            {
+              "token": ")\n",
+              "logprob": -3.393627166748047
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -2.9586076736450195
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Warm.",
+          "token_data": [
+            {
+              "token": " Warm",
+              "logprob": -4.721686363220215
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.257530212402344
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The temperature of the blanket was not hot or cold. It was a bit warm, and they could have made it feel cozier with their talk.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.560032844543457
+            },
+            {
+              "token": " temperature",
+              "logprob": -0.927278459072113
+            },
+            {
+              "token": " of",
+              "logprob": -1.0099393129348755
+            },
+            {
+              "token": " the",
+              "logprob": -0.139301136136055
+            },
+            {
+              "token": " blanket",
+              "logprob": -0.21743671596050262
+            },
+            {
+              "token": " was",
+              "logprob": -0.6538172960281372
+            },
+            {
+              "token": " not",
+              "logprob": -3.353018283843994
+            },
+            {
+              "token": " hot",
+              "logprob": -2.909224510192871
+            },
+            {
+              "token": " or",
+              "logprob": -1.6778862476348877
+            },
+            {
+              "token": " cold",
+              "logprob": -0.13446487486362457
+            },
+            {
+              "token": ".",
+              "logprob": -0.7461800575256348
+            },
+            {
+              "token": " It",
+              "logprob": -0.6964452862739563
+            },
+            {
+              "token": " was",
+              "logprob": -0.2148991972208023
+            },
+            {
+              "token": " a",
+              "logprob": -2.525156021118164
+            },
+            {
+              "token": " bit",
+              "logprob": -4.312982559204102
+            },
+            {
+              "token": " warm",
+              "logprob": -2.2750797271728516
+            },
+            {
+              "token": ",",
+              "logprob": -1.4058107137680054
+            },
+            {
+              "token": " and",
+              "logprob": -1.9735023975372314
+            },
+            {
+              "token": " they",
+              "logprob": -2.9985814094543457
+            },
+            {
+              "token": " could",
+              "logprob": -4.078967094421387
+            },
+            {
+              "token": " have",
+              "logprob": -2.459120035171509
+            },
+            {
+              "token": " made",
+              "logprob": -3.258380651473999
+            },
+            {
+              "token": " it",
+              "logprob": -0.5650337338447571
+            },
+            {
+              "token": " feel",
+              "logprob": -4.767059803009033
+            },
+            {
+              "token": " co",
+              "logprob": -4.2648820877075195
+            },
+            {
+              "token": "zier",
+              "logprob": -0.010176438838243484
+            },
+            {
+              "token": " with",
+              "logprob": -1.8650853633880615
+            },
+            {
+              "token": " their",
+              "logprob": -1.433074712753296
+            },
+            {
+              "token": " talk",
+              "logprob": -3.010179281234741
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.0939884185791016
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

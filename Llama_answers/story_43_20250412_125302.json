@@ -1,0 +1,875 @@
+{
+  "story": "Mason and Ryan were best friends. They loved to play outside after school. One day, they went to the park near their house. Mason brought a red ball to play with. Ryan forgot his toys at home, but he didn’t mind. The ball was old and a little flat, but they still wanted to have fun. Mason kicked a deflated ball, and it didn’t go very far. Ryan laughed and said, \"That ball needs some air!\" Mason agreed and tried to kick it again. The ball just rolled slowly on the ground. Ryan looked around and found a stick to play with instead. They spent the rest of the afternoon pretending the stick was a sword. Mason forgot about the ball and joined Ryan’s game. They had a great time together, even without the ball. When the sun started to set, they walked home side by side, talking about their adventures.",
+  "characters": [
+    {
+      "question": "What was the condition of the ball Mason kicked?",
+      "character": "Mason",
+      "story": "Mason and Ryan were best friends. They loved to play outside after school. One day, they went to the park near their house. Mason brought a red ball to play with. Ryan forgot his toys at home, but he didn’t mind. The ball was old and a little flat, but they still wanted to have fun. Mason kicked a deflated ball, and it didn’t go very far. Ryan laughed and said, \"That ball needs some air!\" Mason agreed and tried to kick it again. The ball just rolled slowly on the ground. Ryan looked around and found a stick to play with instead. They spent the rest of the afternoon pretending the stick was a sword. Mason forgot about the ball and joined Ryan’s game. They had a great time together, even without the ball. When the sun started to set, they walked home side by side, talking about their adventures.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Red Ball",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.368974447250366
+            },
+            {
+              "token": " Ball",
+              "logprob": -2.513779401779175
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.964954376220703
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "That was a flat deflaced ball.",
+          "token_data": [
+            {
+              "token": " That",
+              "logprob": -3.9926371574401855
+            },
+            {
+              "token": " was",
+              "logprob": -2.6895337104797363
+            },
+            {
+              "token": " a",
+              "logprob": -0.7043975591659546
+            },
+            {
+              "token": " flat",
+              "logprob": -2.2176437377929688
+            },
+            {
+              "token": " def",
+              "logprob": -2.6730499267578125
+            },
+            {
+              "token": "l",
+              "logprob": -2.21492862701416
+            },
+            {
+              "token": "aced",
+              "logprob": -3.324751377105713
+            },
+            {
+              "token": " ball",
+              "logprob": -0.07725343108177185
+            },
+            {
+              "token": ".",
+              "logprob": -0.4183671176433563
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9408193826675415
+            },
+            {
+              "token": ":",
+              "logprob": -0.02736140787601471
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Red and flat.",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.3620076179504395
+            },
+            {
+              "token": " and",
+              "logprob": -1.3242758512496948
+            },
+            {
+              "token": " flat",
+              "logprob": -1.1837618350982666
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.428224563598633
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Flat",
+          "token_data": [
+            {
+              "token": " Flat",
+              "logprob": -2.627506732940674
+            },
+            {
+              "token": "\n",
+              "logprob": -3.5073068141937256
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Flat",
+          "token_data": [
+            {
+              "token": " Flat",
+              "logprob": -2.627506732940674
+            },
+            {
+              "token": " Q",
+              "logprob": -2.180222272872925
+            },
+            {
+              "token": ":",
+              "logprob": -0.01413347665220499
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A little flat.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.6095662117004395
+            },
+            {
+              "token": " little",
+              "logprob": -0.2698284089565277
+            },
+            {
+              "token": " flat",
+              "logprob": -0.0968051478266716
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.618530750274658
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The ball was old.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.6005538702011108
+            },
+            {
+              "token": " ball",
+              "logprob": -0.3551570475101471
+            },
+            {
+              "token": " was",
+              "logprob": -0.23839548230171204
+            },
+            {
+              "token": " old",
+              "logprob": -1.229653000831604
+            },
+            {
+              "token": ".",
+              "logprob": -3.0098414421081543
+            },
+            {
+              "token": " \n",
+              "logprob": -2.6947903633117676
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Red ball.",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.3620076179504395
+            },
+            {
+              "token": " ball",
+              "logprob": -2.872621536254883
+            },
+            {
+              "token": ".",
+              "logprob": -1.1836907863616943
+            },
+            {
+              "token": " ",
+              "logprob": -2.7894954681396484
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "What happened? What caused it?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.1047348976135254
+            },
+            {
+              "token": " happened",
+              "logprob": -2.4236578941345215
+            },
+            {
+              "token": "?",
+              "logprob": -2.7709288597106934
+            },
+            {
+              "token": " What",
+              "logprob": -2.5329160690307617
+            },
+            {
+              "token": " caused",
+              "logprob": -2.6715381145477295
+            },
+            {
+              "token": " it",
+              "logprob": -0.7474270462989807
+            },
+            {
+              "token": "?",
+              "logprob": -0.23235799372196198
+            },
+            {
+              "token": " \n",
+              "logprob": -2.670156955718994
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "That the ball was a little flat and deflated.",
+          "token_data": [
+            {
+              "token": " That",
+              "logprob": -3.9926371574401855
+            },
+            {
+              "token": " the",
+              "logprob": -0.6386532187461853
+            },
+            {
+              "token": " ball",
+              "logprob": -0.06590556353330612
+            },
+            {
+              "token": " was",
+              "logprob": -0.42535343766212463
+            },
+            {
+              "token": " a",
+              "logprob": -1.9991865158081055
+            },
+            {
+              "token": " little",
+              "logprob": -0.038550928235054016
+            },
+            {
+              "token": " flat",
+              "logprob": -0.14522407948970795
+            },
+            {
+              "token": " and",
+              "logprob": -1.8413944244384766
+            },
+            {
+              "token": " def",
+              "logprob": -2.024564743041992
+            },
+            {
+              "token": "lated",
+              "logprob": -0.06039133295416832
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.4363255500793457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What was the condition of the ball Ryan kicked?",
+      "character": "Ryan",
+      "story": "Mason and Ryan were best friends. They loved to play outside after school. One day, they went to the park near their house. Mason brought a red ball to play with. Ryan forgot his toys at home, but he didn’t mind. The ball was old and a little flat, but they still wanted to have fun. Mason kicked a deflated ball, and it didn’t go very far. Ryan laughed and said, \"That ball needs some air!\" Mason agreed and tried to kick it again. The ball just rolled slowly on the ground. Ryan looked around and found a stick to play with instead. They spent the rest of the afternoon pretending the stick was a sword. Mason forgot about the ball and joined Ryan’s game. They had a great time together, even without the ball. When the sun started to set, they walked home side by side, talking about their adventures.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Deflated",
+          "token_data": [
+            {
+              "token": " Def",
+              "logprob": -3.435637950897217
+            },
+            {
+              "token": "lated",
+              "logprob": -0.07348816096782684
+            },
+            {
+              "token": " \n",
+              "logprob": -3.7182912826538086
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Flat (Deflated) B: Not so Flat (deflately) C: A Little Flatter (a bit less deflated) D: The Condition was not flat",
+          "token_data": [
+            {
+              "token": " Flat",
+              "logprob": -2.518195152282715
+            },
+            {
+              "token": " (",
+              "logprob": -3.1379051208496094
+            },
+            {
+              "token": "Def",
+              "logprob": -4.173410415649414
+            },
+            {
+              "token": "lated",
+              "logprob": -0.4252243936061859
+            },
+            {
+              "token": ")",
+              "logprob": -0.45293548703193665
+            },
+            {
+              "token": " B",
+              "logprob": -1.4776250123977661
+            },
+            {
+              "token": ":",
+              "logprob": -0.013609834015369415
+            },
+            {
+              "token": " Not",
+              "logprob": -4.256961822509766
+            },
+            {
+              "token": " so",
+              "logprob": -4.803378105163574
+            },
+            {
+              "token": " Flat",
+              "logprob": -2.4456074237823486
+            },
+            {
+              "token": " (",
+              "logprob": -0.3727985620498657
+            },
+            {
+              "token": "def",
+              "logprob": -3.699148654937744
+            },
+            {
+              "token": "l",
+              "logprob": -1.3161156177520752
+            },
+            {
+              "token": "ately",
+              "logprob": -3.99027681350708
+            },
+            {
+              "token": ")",
+              "logprob": -0.18199221789836884
+            },
+            {
+              "token": " C",
+              "logprob": -0.1856575608253479
+            },
+            {
+              "token": ":",
+              "logprob": -0.008842714130878448
+            },
+            {
+              "token": " A",
+              "logprob": -4.423079967498779
+            },
+            {
+              "token": " Little",
+              "logprob": -1.3824341297149658
+            },
+            {
+              "token": " Fl",
+              "logprob": -4.0941481590271
+            },
+            {
+              "token": "atter",
+              "logprob": -0.4192778170108795
+            },
+            {
+              "token": " (",
+              "logprob": -0.21680696308612823
+            },
+            {
+              "token": "a",
+              "logprob": -3.2280397415161133
+            },
+            {
+              "token": " bit",
+              "logprob": -2.9980661869049072
+            },
+            {
+              "token": " less",
+              "logprob": -4.385890483856201
+            },
+            {
+              "token": " def",
+              "logprob": -2.445767879486084
+            },
+            {
+              "token": "lated",
+              "logprob": -0.9154755473136902
+            },
+            {
+              "token": ")",
+              "logprob": -0.19366437196731567
+            },
+            {
+              "token": " D",
+              "logprob": -0.28880575299263
+            },
+            {
+              "token": ":",
+              "logprob": -0.011641898192465305
+            },
+            {
+              "token": " The",
+              "logprob": -4.1566081047058105
+            },
+            {
+              "token": " Condition",
+              "logprob": -3.2143192291259766
+            },
+            {
+              "token": " was",
+              "logprob": -2.5769262313842773
+            },
+            {
+              "token": " not",
+              "logprob": -2.9293439388275146
+            },
+            {
+              "token": " flat",
+              "logprob": -2.321671724319458
+            },
+            {
+              "token": "\n\n",
+              "logprob": -4.228397369384766
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Red, Flat",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.3409109115600586
+            },
+            {
+              "token": ",",
+              "logprob": -2.2228574752807617
+            },
+            {
+              "token": " Flat",
+              "logprob": -2.9706618785858154
+            },
+            {
+              "token": "\n",
+              "logprob": -4.185267448425293
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Deflatted.",
+          "token_data": [
+            {
+              "token": " Def",
+              "logprob": -3.4339895248413086
+            },
+            {
+              "token": "l",
+              "logprob": -2.807729721069336
+            },
+            {
+              "token": "atted",
+              "logprob": -1.8304712772369385
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.088080406188965
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The ball was deflated.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.7021808624267578
+            },
+            {
+              "token": " ball",
+              "logprob": -0.3460671007633209
+            },
+            {
+              "token": " was",
+              "logprob": -0.3337222933769226
+            },
+            {
+              "token": " def",
+              "logprob": -2.6906862258911133
+            },
+            {
+              "token": "lated",
+              "logprob": -0.0571216456592083
+            },
+            {
+              "token": ".",
+              "logprob": -0.81443190574646
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6832542419433594
+            },
+            {
+              "token": ":",
+              "logprob": -0.020464938133955002
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Red and flat.",
+          "token_data": [
+            {
+              "token": " Red",
+              "logprob": -2.3409109115600586
+            },
+            {
+              "token": " and",
+              "logprob": -1.4263783693313599
+            },
+            {
+              "token": " flat",
+              "logprob": -1.0128147602081299
+            },
+            {
+              "token": ".",
+              "logprob": -0.45786651968955994
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.6762545108795166
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Flat.",
+          "token_data": [
+            {
+              "token": " Flat",
+              "logprob": -2.518195152282715
+            },
+            {
+              "token": ".",
+              "logprob": -1.1073923110961914
+            },
+            {
+              "token": " Q",
+              "logprob": -0.5624139904975891
+            },
+            {
+              "token": ":",
+              "logprob": -0.01873687282204628
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.657210350036621
+            },
+            {
+              "token": ":",
+              "logprob": -0.21817968785762787
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The condition of the ball Ryan kicked is that the ball was old and flat. The redness of the ball shows how it got this way. It looked as if the sun had beat it into a very good shape for the ball to rest upon.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.7021808624267578
+            },
+            {
+              "token": " condition",
+              "logprob": -1.881818413734436
+            },
+            {
+              "token": " of",
+              "logprob": -0.08288531005382538
+            },
+            {
+              "token": " the",
+              "logprob": -0.05861484259366989
+            },
+            {
+              "token": " ball",
+              "logprob": -0.023421652615070343
+            },
+            {
+              "token": " Ryan",
+              "logprob": -2.238100528717041
+            },
+            {
+              "token": " kicked",
+              "logprob": -0.03416663408279419
+            },
+            {
+              "token": " is",
+              "logprob": -2.393789052963257
+            },
+            {
+              "token": " that",
+              "logprob": -0.8206660747528076
+            },
+            {
+              "token": " the",
+              "logprob": -0.9515292048454285
+            },
+            {
+              "token": " ball",
+              "logprob": -0.06135610491037369
+            },
+            {
+              "token": " was",
+              "logprob": -0.632819414138794
+            },
+            {
+              "token": " old",
+              "logprob": -1.5988351106643677
+            },
+            {
+              "token": " and",
+              "logprob": -0.1263655126094818
+            },
+            {
+              "token": " flat",
+              "logprob": -2.4321305751800537
+            },
+            {
+              "token": ".",
+              "logprob": -0.5326669216156006
+            },
+            {
+              "token": " The",
+              "logprob": -2.465243339538574
+            },
+            {
+              "token": " red",
+              "logprob": -4.170784950256348
+            },
+            {
+              "token": "ness",
+              "logprob": -3.3141684532165527
+            },
+            {
+              "token": " of",
+              "logprob": -0.4490233361721039
+            },
+            {
+              "token": " the",
+              "logprob": -0.08484651148319244
+            },
+            {
+              "token": " ball",
+              "logprob": -0.05437494441866875
+            },
+            {
+              "token": " shows",
+              "logprob": -3.3458471298217773
+            },
+            {
+              "token": " how",
+              "logprob": -2.5312509536743164
+            },
+            {
+              "token": " it",
+              "logprob": -3.6109986305236816
+            },
+            {
+              "token": " got",
+              "logprob": -3.1487576961517334
+            },
+            {
+              "token": " this",
+              "logprob": -4.270998001098633
+            },
+            {
+              "token": " way",
+              "logprob": -0.3169310688972473
+            },
+            {
+              "token": ".",
+              "logprob": -0.22137464582920074
+            },
+            {
+              "token": " It",
+              "logprob": -2.3826756477355957
+            },
+            {
+              "token": " looked",
+              "logprob": -4.342633247375488
+            },
+            {
+              "token": " as",
+              "logprob": -1.9469294548034668
+            },
+            {
+              "token": " if",
+              "logprob": -0.360038697719574
+            },
+            {
+              "token": " the",
+              "logprob": -1.1782721281051636
+            },
+            {
+              "token": " sun",
+              "logprob": -4.154583930969238
+            },
+            {
+              "token": " had",
+              "logprob": -0.9394645094871521
+            },
+            {
+              "token": " beat",
+              "logprob": -4.184025287628174
+            },
+            {
+              "token": " it",
+              "logprob": -1.6286065578460693
+            },
+            {
+              "token": " into",
+              "logprob": -3.137448787689209
+            },
+            {
+              "token": " a",
+              "logprob": -2.1725659370422363
+            },
+            {
+              "token": " very",
+              "logprob": -4.364821910858154
+            },
+            {
+              "token": " good",
+              "logprob": -2.6726198196411133
+            },
+            {
+              "token": " shape",
+              "logprob": -1.6274086236953735
+            },
+            {
+              "token": " for",
+              "logprob": -4.092602729797363
+            },
+            {
+              "token": " the",
+              "logprob": -1.9273111820220947
+            },
+            {
+              "token": " ball",
+              "logprob": -2.196682929992676
+            },
+            {
+              "token": " to",
+              "logprob": -2.3877270221710205
+            },
+            {
+              "token": " rest",
+              "logprob": -3.709512710571289
+            },
+            {
+              "token": " upon",
+              "logprob": -3.4329910278320312
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.951916217803955
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "A little flat, and not too deflated.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.456509590148926
+            },
+            {
+              "token": " little",
+              "logprob": -0.2614454925060272
+            },
+            {
+              "token": " flat",
+              "logprob": -0.12818042933940887
+            },
+            {
+              "token": ",",
+              "logprob": -2.9520111083984375
+            },
+            {
+              "token": " and",
+              "logprob": -2.7567551136016846
+            },
+            {
+              "token": " not",
+              "logprob": -3.1669163703918457
+            },
+            {
+              "token": " too",
+              "logprob": -3.191692352294922
+            },
+            {
+              "token": " def",
+              "logprob": -2.6768035888671875
+            },
+            {
+              "token": "lated",
+              "logprob": -0.1372784525156021
+            },
+            {
+              "token": ".",
+              "logprob": -0.44865697622299194
+            },
+            {
+              "token": " Q",
+              "logprob": -1.009169340133667
+            },
+            {
+              "token": ":",
+              "logprob": -0.027465907856822014
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

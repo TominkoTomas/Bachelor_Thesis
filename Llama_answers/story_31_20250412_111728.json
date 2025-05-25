@@ -1,0 +1,659 @@
+{
+  "story": "Chloe and Henry were best friends. One day, they decided to go to the park. Chloe wore a shiny necklace that sparkled in the sun. Henry brought a ball to play with. They ran around and laughed together. The park was full of kids playing. Chloe showed her necklace to Henry, and he said it was pretty. Then they sat on the grass to rest. Henry threw the ball high in the air. Chloe tried to catch it but missed. They both laughed again. After a while, they got hungry and went home. Chloe’s mom made sandwiches for them. Henry ate his quickly and asked for more. Chloe shared her cookies with him. They had a fun day together. Before Henry left, he said he would come back tomorrow. Chloe waved goodbye, her shiny necklace still around her neck.",
+  "characters": [
+    {
+      "question": "What kind of necklace did Chloe wear?",
+      "character": "Chloe",
+      "story": "Chloe and Henry were best friends. One day, they decided to go to the park. Chloe wore a shiny necklace that sparkled in the sun. Henry brought a ball to play with. They ran around and laughed together. The park was full of kids playing. Chloe showed her necklace to Henry, and he said it was pretty. Then they sat on the grass to rest. Henry threw the ball high in the air. Chloe tried to catch it but missed. They both laughed again. After a while, they got hungry and went home. Chloe’s mom made sandwiches for them. Henry ate his quickly and asked for more. Chloe shared her cookies with him. They had a fun day together. Before Henry left, he said he would come back tomorrow. Chloe waved goodbye, her shiny necklace still around her neck.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The necklace was shiny and sparkled.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.8907361030578613
+            },
+            {
+              "token": " necklace",
+              "logprob": -1.0316405296325684
+            },
+            {
+              "token": " was",
+              "logprob": -0.6989631652832031
+            },
+            {
+              "token": " shiny",
+              "logprob": -0.3616194427013397
+            },
+            {
+              "token": " and",
+              "logprob": -2.3919460773468018
+            },
+            {
+              "token": " spark",
+              "logprob": -0.04668072983622551
+            },
+            {
+              "token": "led",
+              "logprob": -0.05778571590781212
+            },
+            {
+              "token": ".",
+              "logprob": -3.095731019973755
+            },
+            {
+              "token": " Q",
+              "logprob": -1.2099032402038574
+            },
+            {
+              "token": ":",
+              "logprob": -0.018976449966430664
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.61217999458313
+            },
+            {
+              "token": ":",
+              "logprob": -0.13242389261722565
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "a sparkly one",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.7676002979278564
+            },
+            {
+              "token": " spark",
+              "logprob": -1.9259727001190186
+            },
+            {
+              "token": "ly",
+              "logprob": -0.2288956642150879
+            },
+            {
+              "token": " one",
+              "logprob": -1.4046788215637207
+            },
+            {
+              "token": "\n",
+              "logprob": -3.091970443725586
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "a sparkly necklace.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -2.7676002979278564
+            },
+            {
+              "token": " spark",
+              "logprob": -1.9259727001190186
+            },
+            {
+              "token": "ly",
+              "logprob": -0.2288956642150879
+            },
+            {
+              "token": " necklace",
+              "logprob": -0.4535679221153259
+            },
+            {
+              "token": ".",
+              "logprob": -0.9294154047966003
+            },
+            {
+              "token": " \n",
+              "logprob": -1.6047577857971191
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Chloe wore a shiny necklace.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.441030740737915
+            },
+            {
+              "token": " Chloe",
+              "logprob": -2.414022922515869
+            },
+            {
+              "token": " wore",
+              "logprob": -0.2746429145336151
+            },
+            {
+              "token": " a",
+              "logprob": -0.04738268628716469
+            },
+            {
+              "token": " shiny",
+              "logprob": -0.2871975600719452
+            },
+            {
+              "token": " necklace",
+              "logprob": -0.07928109169006348
+            },
+            {
+              "token": ".",
+              "logprob": -1.452789306640625
+            },
+            {
+              "token": " Q",
+              "logprob": -1.2864658832550049
+            },
+            {
+              "token": ":",
+              "logprob": -0.019814295694231987
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A: Shiny necklace",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.0669281482696533
+            },
+            {
+              "token": ":",
+              "logprob": -2.650538682937622
+            },
+            {
+              "token": " Sh",
+              "logprob": -3.282345771789551
+            },
+            {
+              "token": "iny",
+              "logprob": -0.05996188521385193
+            },
+            {
+              "token": " necklace",
+              "logprob": -0.9178606867790222
+            },
+            {
+              "token": "\n",
+              "logprob": -2.046229124069214
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Answer using one whole sentance.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.6803486347198486
+            },
+            {
+              "token": " using",
+              "logprob": -0.3894025683403015
+            },
+            {
+              "token": " one",
+              "logprob": -0.15095068514347076
+            },
+            {
+              "token": " whole",
+              "logprob": -0.09732886403799057
+            },
+            {
+              "token": " sent",
+              "logprob": -1.2960684299468994
+            },
+            {
+              "token": "ance",
+              "logprob": -0.06708956509828568
+            },
+            {
+              "token": ".",
+              "logprob": -0.195433109998703
+            },
+            {
+              "token": " \n\n",
+              "logprob": -0.8895358443260193
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Answer using one whole sentance.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.6803486347198486
+            },
+            {
+              "token": " using",
+              "logprob": -0.3894025683403015
+            },
+            {
+              "token": " one",
+              "logprob": -0.15095068514347076
+            },
+            {
+              "token": " whole",
+              "logprob": -0.09732886403799057
+            },
+            {
+              "token": " sent",
+              "logprob": -1.2960684299468994
+            },
+            {
+              "token": "ance",
+              "logprob": -0.06708956509828568
+            },
+            {
+              "token": ".",
+              "logprob": -0.195433109998703
+            },
+            {
+              "token": " \n",
+              "logprob": -0.8230437636375427
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The necklace was shiny, but Henry told her that he thought it was pretty.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.9824726581573486
+            },
+            {
+              "token": " necklace",
+              "logprob": -1.008408784866333
+            },
+            {
+              "token": " was",
+              "logprob": -0.6850476861000061
+            },
+            {
+              "token": " shiny",
+              "logprob": -0.36550676822662354
+            },
+            {
+              "token": ",",
+              "logprob": -3.179405689239502
+            },
+            {
+              "token": " but",
+              "logprob": -2.330296039581299
+            },
+            {
+              "token": " Henry",
+              "logprob": -2.03365421295166
+            },
+            {
+              "token": " told",
+              "logprob": -4.128207683563232
+            },
+            {
+              "token": " her",
+              "logprob": -0.5552501082420349
+            },
+            {
+              "token": " that",
+              "logprob": -1.5707616806030273
+            },
+            {
+              "token": " he",
+              "logprob": -3.158571481704712
+            },
+            {
+              "token": " thought",
+              "logprob": -0.2791019380092621
+            },
+            {
+              "token": " it",
+              "logprob": -0.3847976326942444
+            },
+            {
+              "token": " was",
+              "logprob": -0.044690124690532684
+            },
+            {
+              "token": " pretty",
+              "logprob": -0.06348089128732681
+            },
+            {
+              "token": ".",
+              "logprob": -0.44413548707962036
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.9937005043029785
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "A:",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.0669281482696533
+            },
+            {
+              "token": ":",
+              "logprob": -2.650538682937622
+            },
+            {
+              "token": " \n",
+              "logprob": -3.7136878967285156
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What kind of necklace did Henry wear?",
+      "character": "Henry",
+      "story": "Chloe and Henry were best friends. One day, they decided to go to the park. Chloe wore a shiny necklace that sparkled in the sun. Henry brought a ball to play with. They ran around and laughed together. The park was full of kids playing. Chloe showed her necklace to Henry, and he said it was pretty. Then they sat on the grass to rest. Henry threw the ball high in the air. Chloe tried to catch it but missed. They both laughed again. After a while, they got hungry and went home. Chloe’s mom made sandwiches for them. Henry ate his quickly and asked for more. Chloe shared her cookies with him. They had a fun day together. Before Henry left, he said he would come back tomorrow. Chloe waved goodbye, her shiny necklace still around her neck.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.072668552398682
+            },
+            {
+              "token": ":",
+              "logprob": -0.10347986221313477
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.6108832359313965
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "He wore a ball to catch.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -2.649437427520752
+            },
+            {
+              "token": " wore",
+              "logprob": -0.23925988376140594
+            },
+            {
+              "token": " a",
+              "logprob": -0.09666609764099121
+            },
+            {
+              "token": " ball",
+              "logprob": -1.5791356563568115
+            },
+            {
+              "token": " to",
+              "logprob": -2.9213805198669434
+            },
+            {
+              "token": " catch",
+              "logprob": -3.1918773651123047
+            },
+            {
+              "token": ".",
+              "logprob": -0.9212391376495361
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8451405167579651
+            },
+            {
+              "token": ":",
+              "logprob": -0.019840357825160027
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Henry wore a ball to show Chloe. He asked for more at the end of the day.",
+          "token_data": [
+            {
+              "token": " Henry",
+              "logprob": -2.0266261100769043
+            },
+            {
+              "token": " wore",
+              "logprob": -0.407466858625412
+            },
+            {
+              "token": " a",
+              "logprob": -0.0689365342259407
+            },
+            {
+              "token": " ball",
+              "logprob": -1.2556419372558594
+            },
+            {
+              "token": " to",
+              "logprob": -2.6430909633636475
+            },
+            {
+              "token": " show",
+              "logprob": -3.398322820663452
+            },
+            {
+              "token": " Chloe",
+              "logprob": -3.5097603797912598
+            },
+            {
+              "token": ".",
+              "logprob": -1.0181455612182617
+            },
+            {
+              "token": " He",
+              "logprob": -2.9839329719543457
+            },
+            {
+              "token": " asked",
+              "logprob": -4.32480525970459
+            },
+            {
+              "token": " for",
+              "logprob": -0.8553003668785095
+            },
+            {
+              "token": " more",
+              "logprob": -0.2446257472038269
+            },
+            {
+              "token": " at",
+              "logprob": -3.8492488861083984
+            },
+            {
+              "token": " the",
+              "logprob": -0.0796356275677681
+            },
+            {
+              "token": " end",
+              "logprob": -0.04490533098578453
+            },
+            {
+              "token": " of",
+              "logprob": -0.2026110142469406
+            },
+            {
+              "token": " the",
+              "logprob": -0.09728959947824478
+            },
+            {
+              "token": " day",
+              "logprob": -0.12184906750917435
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.135845899581909
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "A ball",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -1.339328408241272
+            },
+            {
+              "token": " ball",
+              "logprob": -1.4192924499511719
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.4582631587982178
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "None.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.955562114715576
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.7926323413848877
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.716055393218994
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "The answer is Henry wore a ball.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.7948756217956543
+            },
+            {
+              "token": " answer",
+              "logprob": -2.6658167839050293
+            },
+            {
+              "token": " is",
+              "logprob": -1.1241260766983032
+            },
+            {
+              "token": " Henry",
+              "logprob": -3.0571203231811523
+            },
+            {
+              "token": " wore",
+              "logprob": -0.430195152759552
+            },
+            {
+              "token": " a",
+              "logprob": -0.10516861081123352
+            },
+            {
+              "token": " ball",
+              "logprob": -1.2328760623931885
+            },
+            {
+              "token": ".",
+              "logprob": -0.6864966154098511
+            },
+            {
+              "token": " \n",
+              "logprob": -1.9055982828140259
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Henry wore a ball.",
+          "token_data": [
+            {
+              "token": " Henry",
+              "logprob": -2.0266261100769043
+            },
+            {
+              "token": " wore",
+              "logprob": -0.407466858625412
+            },
+            {
+              "token": " a",
+              "logprob": -0.0689365342259407
+            },
+            {
+              "token": " ball",
+              "logprob": -1.2556419372558594
+            },
+            {
+              "token": ".",
+              "logprob": -0.6550529599189758
+            },
+            {
+              "token": " Q",
+              "logprob": -0.7763946652412415
+            },
+            {
+              "token": ":",
+              "logprob": -0.01506416779011488
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The ball.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.7948756217956543
+            },
+            {
+              "token": " ball",
+              "logprob": -1.1151204109191895
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.170046329498291
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

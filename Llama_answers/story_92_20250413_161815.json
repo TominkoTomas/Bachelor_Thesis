@@ -1,0 +1,731 @@
+{
+  "story": "Ava and Alex were best friends. One sunny day, they decided to go to the park. Ava brought her favorite ice cream, and Alex brought a soccer ball. They played for hours, laughing and having fun. The sun was very hot, and Ava’s ice cream started to melt. She didn’t want to waste it, so she ate it quickly. Ava ate a melted ice cream. Alex kicked the soccer ball high into the air and chased after it. They stayed at the park until the sun began to set. Ava said, \"That was the best day ever!\" Alex agreed and smiled. They walked home together, talking about all the fun they had. Ava was happy she ate her ice cream, even if it was melted. Alex was happy too, just because they spent time together. Their day was perfect.",
+  "characters": [
+    {
+      "question": "What condition was the ice cream Ava ate?",
+      "character": "Ava",
+      "story": "Ava and Alex were best friends. One sunny day, they decided to go to the park. Ava brought her favorite ice cream, and Alex brought a soccer ball. They played for hours, laughing and having fun. The sun was very hot, and Ava’s ice cream started to melt. She didn’t want to waste it, so she ate it quickly. Ava ate a melted ice cream. Alex kicked the soccer ball high into the air and chased after it. They stayed at the park until the sun began to set. Ava said, \"That was the best day ever!\" Alex agreed and smiled. They walked home together, talking about all the fun they had. Ava was happy she ate her ice cream, even if it was melted. Alex was happy too, just because they spent time together. Their day was perfect.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The sun was very hot, and Ava’s ice cream started to melt.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.0113357305526733
+            },
+            {
+              "token": " sun",
+              "logprob": -2.820486307144165
+            },
+            {
+              "token": " was",
+              "logprob": -0.5444236397743225
+            },
+            {
+              "token": " very",
+              "logprob": -0.18389728665351868
+            },
+            {
+              "token": " hot",
+              "logprob": -0.036648642271757126
+            },
+            {
+              "token": ",",
+              "logprob": -1.6474583148956299
+            },
+            {
+              "token": " and",
+              "logprob": -0.15411314368247986
+            },
+            {
+              "token": " Ava",
+              "logprob": -0.30547067523002625
+            },
+            {
+              "token": "’s",
+              "logprob": -0.8180743455886841
+            },
+            {
+              "token": " ice",
+              "logprob": -0.015836890786886215
+            },
+            {
+              "token": " cream",
+              "logprob": -0.005312017630785704
+            },
+            {
+              "token": " started",
+              "logprob": -0.049736760556697845
+            },
+            {
+              "token": " to",
+              "logprob": -0.0033400245010852814
+            },
+            {
+              "token": " melt",
+              "logprob": -0.005001414567232132
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.658444404602051
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "the sun.",
+          "token_data": [
+            {
+              "token": " the",
+              "logprob": -3.6304497718811035
+            },
+            {
+              "token": " sun",
+              "logprob": -1.9528448581695557
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.6087284088134766
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The temperature of the ice cream.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.035768985748291
+            },
+            {
+              "token": " temperature",
+              "logprob": -2.543243169784546
+            },
+            {
+              "token": " of",
+              "logprob": -0.41473525762557983
+            },
+            {
+              "token": " the",
+              "logprob": -0.11718150973320007
+            },
+            {
+              "token": " ice",
+              "logprob": -0.04332759231328964
+            },
+            {
+              "token": " cream",
+              "logprob": -0.03065212443470955
+            },
+            {
+              "token": ".",
+              "logprob": -1.6115527153015137
+            },
+            {
+              "token": " \n",
+              "logprob": -1.4580001831054688
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The ice cream was melting and Ava ate it quickly.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.035768985748291
+            },
+            {
+              "token": " ice",
+              "logprob": -0.4375112056732178
+            },
+            {
+              "token": " cream",
+              "logprob": -0.028383813798427582
+            },
+            {
+              "token": " was",
+              "logprob": -1.0140866041183472
+            },
+            {
+              "token": " melting",
+              "logprob": -1.6402661800384521
+            },
+            {
+              "token": " and",
+              "logprob": -3.4458603858947754
+            },
+            {
+              "token": " Ava",
+              "logprob": -1.9432510137557983
+            },
+            {
+              "token": " ate",
+              "logprob": -1.2687034606933594
+            },
+            {
+              "token": " it",
+              "logprob": -0.24127021431922913
+            },
+            {
+              "token": " quickly",
+              "logprob": -0.8207961320877075
+            },
+            {
+              "token": ".",
+              "logprob": -0.5946955680847168
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.5883073806762695
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "the weather.",
+          "token_data": [
+            {
+              "token": " the",
+              "logprob": -3.6304497718811035
+            },
+            {
+              "token": " weather",
+              "logprob": -3.1996090412139893
+            },
+            {
+              "token": ".",
+              "logprob": -1.1789010763168335
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.2476089000701904
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The melted ice cream.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.035768985748291
+            },
+            {
+              "token": " melted",
+              "logprob": -3.415015935897827
+            },
+            {
+              "token": " ice",
+              "logprob": -0.14890821278095245
+            },
+            {
+              "token": " cream",
+              "logprob": -0.02892306074500084
+            },
+            {
+              "token": ".",
+              "logprob": -1.0420753955841064
+            },
+            {
+              "token": " \n",
+              "logprob": -1.562840461730957
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It was melting.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.6989998817443848
+            },
+            {
+              "token": " was",
+              "logprob": -0.4663844406604767
+            },
+            {
+              "token": " melting",
+              "logprob": -1.1168391704559326
+            },
+            {
+              "token": ".",
+              "logprob": -0.6939556002616882
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.781318426132202
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "the ice cream had melted.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.005606174468994
+            },
+            {
+              "token": " the",
+              "logprob": -3.5500664710998535
+            },
+            {
+              "token": " ice",
+              "logprob": -0.480869323015213
+            },
+            {
+              "token": " cream",
+              "logprob": -0.041804518550634384
+            },
+            {
+              "token": " had",
+              "logprob": -3.1737146377563477
+            },
+            {
+              "token": " melted",
+              "logprob": -0.22150379419326782
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.339052677154541
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The ice cream began to melt.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.035768985748291
+            },
+            {
+              "token": " ice",
+              "logprob": -0.4375112056732178
+            },
+            {
+              "token": " cream",
+              "logprob": -0.028383813798427582
+            },
+            {
+              "token": " began",
+              "logprob": -3.6255311965942383
+            },
+            {
+              "token": " to",
+              "logprob": -0.008325040340423584
+            },
+            {
+              "token": " melt",
+              "logprob": -0.012547831982374191
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.379575729370117
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The temperature of the ice cream",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.035768985748291
+            },
+            {
+              "token": " temperature",
+              "logprob": -2.543243169784546
+            },
+            {
+              "token": " of",
+              "logprob": -0.41473525762557983
+            },
+            {
+              "token": " the",
+              "logprob": -0.11718150973320007
+            },
+            {
+              "token": " ice",
+              "logprob": -0.04332759231328964
+            },
+            {
+              "token": " cream",
+              "logprob": -0.03065212443470955
+            },
+            {
+              "token": "\n",
+              "logprob": -3.7289767265319824
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What condition was the ice cream Alex ate?",
+      "character": "Alex",
+      "story": "Ava and Alex were best friends. One sunny day, they decided to go to the park. Ava brought her favorite ice cream, and Alex brought a soccer ball. They played for hours, laughing and having fun. The sun was very hot, and Ava’s ice cream started to melt. She didn’t want to waste it, so she ate it quickly. Ava ate a melted ice cream. Alex kicked the soccer ball high into the air and chased after it. They stayed at the park until the sun began to set. Ava said, \"That was the best day ever!\" Alex agreed and smiled. They walked home together, talking about all the fun they had. Ava was happy she ate her ice cream, even if it was melted. Alex was happy too, just because they spent time together. Their day was perfect.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Alex had an ice cream",
+          "token_data": [
+            {
+              "token": " Alex",
+              "logprob": -3.360414505004883
+            },
+            {
+              "token": " had",
+              "logprob": -3.837001323699951
+            },
+            {
+              "token": " an",
+              "logprob": -1.1376196146011353
+            },
+            {
+              "token": " ice",
+              "logprob": -2.1153178215026855
+            },
+            {
+              "token": " cream",
+              "logprob": -0.09629449248313904
+            },
+            {
+              "token": "\n",
+              "logprob": -3.939631223678589
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "the ice cream started to melt.",
+          "token_data": [
+            {
+              "token": " the",
+              "logprob": -3.7866666316986084
+            },
+            {
+              "token": " ice",
+              "logprob": -1.1674776077270508
+            },
+            {
+              "token": " cream",
+              "logprob": -0.09336694329977036
+            },
+            {
+              "token": " started",
+              "logprob": -1.9109578132629395
+            },
+            {
+              "token": " to",
+              "logprob": -0.016919083893299103
+            },
+            {
+              "token": " melt",
+              "logprob": -0.013006256893277168
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.0283799171447754
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "the weather .",
+          "token_data": [
+            {
+              "token": " the",
+              "logprob": -3.7866666316986084
+            },
+            {
+              "token": " weather",
+              "logprob": -3.0931406021118164
+            },
+            {
+              "token": " ",
+              "logprob": -4.050851821899414
+            },
+            {
+              "token": ".\n\n\n",
+              "logprob": -3.2787868976593018
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "He ate the melted ice cream.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -3.5032565593719482
+            },
+            {
+              "token": " ate",
+              "logprob": -1.2718182802200317
+            },
+            {
+              "token": " the",
+              "logprob": -1.886480450630188
+            },
+            {
+              "token": " melted",
+              "logprob": -1.0257911682128906
+            },
+            {
+              "token": " ice",
+              "logprob": -0.0433695949614048
+            },
+            {
+              "token": " cream",
+              "logprob": -0.03490609675645828
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.5573902130126953
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "What was the first step? A: Why is it good? B: Explain.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.9939448833465576
+            },
+            {
+              "token": " was",
+              "logprob": -2.458815574645996
+            },
+            {
+              "token": " the",
+              "logprob": -0.30661338567733765
+            },
+            {
+              "token": " first",
+              "logprob": -4.220280170440674
+            },
+            {
+              "token": " step",
+              "logprob": -2.3323874473571777
+            },
+            {
+              "token": "?",
+              "logprob": -2.185899257659912
+            },
+            {
+              "token": " A",
+              "logprob": -2.083176612854004
+            },
+            {
+              "token": ":",
+              "logprob": -0.0597727969288826
+            },
+            {
+              "token": " Why",
+              "logprob": -2.838334560394287
+            },
+            {
+              "token": " is",
+              "logprob": -2.3572771549224854
+            },
+            {
+              "token": " it",
+              "logprob": -1.299797534942627
+            },
+            {
+              "token": " good",
+              "logprob": -3.296886920928955
+            },
+            {
+              "token": "?",
+              "logprob": -2.384408712387085
+            },
+            {
+              "token": " B",
+              "logprob": -3.831127643585205
+            },
+            {
+              "token": ":",
+              "logprob": -0.02207108773291111
+            },
+            {
+              "token": " Explain",
+              "logprob": -4.8836469650268555
+            },
+            {
+              "token": ".",
+              "logprob": -2.019916534423828
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.873436450958252
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The ice cream melted.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.1844985485076904
+            },
+            {
+              "token": " ice",
+              "logprob": -0.4402625858783722
+            },
+            {
+              "token": " cream",
+              "logprob": -0.029242876917123795
+            },
+            {
+              "token": " melted",
+              "logprob": -1.829834222793579
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.194948196411133
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It melted.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.9037177562713623
+            },
+            {
+              "token": " melted",
+              "logprob": -2.0906777381896973
+            },
+            {
+              "token": ".",
+              "logprob": -0.7389798164367676
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8356536626815796
+            },
+            {
+              "token": ":",
+              "logprob": -0.02046937309205532
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "It was a little too warm outside.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.9037177562713623
+            },
+            {
+              "token": " was",
+              "logprob": -0.47907495498657227
+            },
+            {
+              "token": " a",
+              "logprob": -2.918766736984253
+            },
+            {
+              "token": " little",
+              "logprob": -2.541658878326416
+            },
+            {
+              "token": " too",
+              "logprob": -2.361678123474121
+            },
+            {
+              "token": " warm",
+              "logprob": -1.5241070985794067
+            },
+            {
+              "token": " outside",
+              "logprob": -1.0280218124389648
+            },
+            {
+              "token": ".",
+              "logprob": -0.7096789479255676
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.228398084640503
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "the ice cream did not melt.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.942049741744995
+            },
+            {
+              "token": " the",
+              "logprob": -3.7748122215270996
+            },
+            {
+              "token": " ice",
+              "logprob": -0.4454546868801117
+            },
+            {
+              "token": " cream",
+              "logprob": -0.05257697403430939
+            },
+            {
+              "token": " did",
+              "logprob": -3.9354665279388428
+            },
+            {
+              "token": " not",
+              "logprob": -0.0723533034324646
+            },
+            {
+              "token": " melt",
+              "logprob": -0.3422839641571045
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.4950294494628906
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "It was melting.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.9037177562713623
+            },
+            {
+              "token": " was",
+              "logprob": -0.47907495498657227
+            },
+            {
+              "token": " melting",
+              "logprob": -1.2744624614715576
+            },
+            {
+              "token": ".",
+              "logprob": -0.7833922505378723
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.1228294372558594
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

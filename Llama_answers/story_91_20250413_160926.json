@@ -1,0 +1,811 @@
+{
+  "story": "Ava and Wyatt were walking home from school one day. The sun was bright, and the breeze felt nice. Ava looked down at the ground as she walked. Suddenly, she saw something small and round shining in the sunlight. Ava found a shiny coin. She picked it up and showed it to Wyatt. \"Look what I found!\" she said. Wyatt smiled and said, \"Cool! Maybe it's lucky.\" Ava rubbed the coin with her fingers. It was old but still sparkled. She put it in her pocket and kept walking. Wyatt talked about the game he played at recess. Ava half-listened, still thinking about the coin. When they got to Ava's house, she waved goodbye to Wyatt. Inside, she took out the coin and placed it on her shelf. She wondered where it came from. Maybe it was part of a treasure. That night, Ava dreamed of pirates and secret maps. The next morning, the coin was still there, shiny as ever. Ava smiled and got ready for school, excited to tell Wyatt about her dream.",
+  "characters": [
+    {
+      "question": "What feature did the coin Ava found have?",
+      "character": "Ava",
+      "story": "Ava and Wyatt were walking home from school one day. The sun was bright, and the breeze felt nice. Ava looked down at the ground as she walked. Suddenly, she saw something small and round shining in the sunlight. Ava found a shiny coin. She picked it up and showed it to Wyatt. \"Look what I found!\" she said. Wyatt smiled and said, \"Cool! Maybe it's lucky.\" Ava rubbed the coin with her fingers. It was old but still sparkled. She put it in her pocket and kept walking. Wyatt talked about the game he played at recess. Ava half-listened, still thinking about the coin. When they got to Ava's house, she waved goodbye to Wyatt. Inside, she took out the coin and placed it on her shelf. She wondered where it came from. Maybe it was part of a treasure. That night, Ava dreamed of pirates and secret maps. The next morning, the coin was still there, shiny as ever. Ava smiled and got ready for school, excited to tell Wyatt about her dream.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A feature",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.640303611755371
+            },
+            {
+              "token": " feature",
+              "logprob": -2.949552059173584
+            },
+            {
+              "token": "\n",
+              "logprob": -4.223709583282471
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.877047061920166
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A shiny surface",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.631392002105713
+            },
+            {
+              "token": " shiny",
+              "logprob": -1.1617648601531982
+            },
+            {
+              "token": " surface",
+              "logprob": -2.3148202896118164
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.9776463508605957
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "What did you find the sparkly coin to do?",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.390169620513916
+            },
+            {
+              "token": " What",
+              "logprob": -4.080493927001953
+            },
+            {
+              "token": " did",
+              "logprob": -2.9366180896759033
+            },
+            {
+              "token": " you",
+              "logprob": -1.6291038990020752
+            },
+            {
+              "token": " find",
+              "logprob": -2.892749071121216
+            },
+            {
+              "token": " the",
+              "logprob": -3.696746349334717
+            },
+            {
+              "token": " spark",
+              "logprob": -3.1501717567443848
+            },
+            {
+              "token": "ly",
+              "logprob": -0.28915438055992126
+            },
+            {
+              "token": " coin",
+              "logprob": -0.5995296835899353
+            },
+            {
+              "token": " to",
+              "logprob": -3.0700783729553223
+            },
+            {
+              "token": " do",
+              "logprob": -1.337483286857605
+            },
+            {
+              "token": "?",
+              "logprob": -0.2365538328886032
+            },
+            {
+              "token": " \n",
+              "logprob": -2.2037272453308105
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Sparkle",
+          "token_data": [
+            {
+              "token": " Spark",
+              "logprob": -2.841125965118408
+            },
+            {
+              "token": "le",
+              "logprob": -1.0410000085830688
+            },
+            {
+              "token": " Q",
+              "logprob": -2.5389552116394043
+            },
+            {
+              "token": ":",
+              "logprob": -0.030544022098183632
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "it is old",
+          "token_data": [
+            {
+              "token": " it",
+              "logprob": -3.4529013633728027
+            },
+            {
+              "token": " is",
+              "logprob": -3.4447038173675537
+            },
+            {
+              "token": " old",
+              "logprob": -2.1044647693634033
+            },
+            {
+              "token": "\n",
+              "logprob": -3.7018983364105225
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It sparkled",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.6026712656021118
+            },
+            {
+              "token": " spark",
+              "logprob": -0.5671650171279907
+            },
+            {
+              "token": "led",
+              "logprob": -0.18607975542545319
+            },
+            {
+              "token": "\n",
+              "logprob": -3.7645740509033203
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Sparkles",
+          "token_data": [
+            {
+              "token": " Spark",
+              "logprob": -2.841125965118408
+            },
+            {
+              "token": "les",
+              "logprob": -3.0827136039733887
+            },
+            {
+              "token": "\n",
+              "logprob": -2.075993776321411
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "it sparkles",
+          "token_data": [
+            {
+              "token": " it",
+              "logprob": -3.4529013633728027
+            },
+            {
+              "token": " spark",
+              "logprob": -0.8053433895111084
+            },
+            {
+              "token": "les",
+              "logprob": -1.9111415147781372
+            },
+            {
+              "token": " \n",
+              "logprob": -2.9992637634277344
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.877047061920166
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What feature did the coin Wyatt found have?",
+      "character": "Wyatt",
+      "story": "Ava and Wyatt were walking home from school one day. The sun was bright, and the breeze felt nice. Ava looked down at the ground as she walked. Suddenly, she saw something small and round shining in the sunlight. Ava found a shiny coin. She picked it up and showed it to Wyatt. \"Look what I found!\" she said. Wyatt smiled and said, \"Cool! Maybe it's lucky.\" Ava rubbed the coin with her fingers. It was old but still sparkled. She put it in her pocket and kept walking. Wyatt talked about the game he played at recess. Ava half-listened, still thinking about the coin. When they got to Ava's house, she waved goodbye to Wyatt. Inside, she took out the coin and placed it on her shelf. She wondered where it came from. Maybe it was part of a treasure. That night, Ava dreamed of pirates and secret maps. The next morning, the coin was still there, shiny as ever. Ava smiled and got ready for school, excited to tell Wyatt about her dream.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.692317008972168
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Sparkle",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.358896017074585
+            },
+            {
+              "token": " Spark",
+              "logprob": -3.2561142444610596
+            },
+            {
+              "token": "le",
+              "logprob": -1.3319053649902344
+            },
+            {
+              "token": "\n",
+              "logprob": -1.8846715688705444
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Sparkling",
+          "token_data": [
+            {
+              "token": " Spark",
+              "logprob": -2.977843999862671
+            },
+            {
+              "token": "ling",
+              "logprob": -1.0576152801513672
+            },
+            {
+              "token": " \n",
+              "logprob": -3.0887064933776855
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "a) the sparkled light from the sun B: b) its sparkled color C: c) its shiny luster D: d) its round shape. E: e) its glisten.",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -3.7464654445648193
+            },
+            {
+              "token": ")",
+              "logprob": -3.8669090270996094
+            },
+            {
+              "token": " the",
+              "logprob": -3.545271635055542
+            },
+            {
+              "token": " spark",
+              "logprob": -4.3709516525268555
+            },
+            {
+              "token": "led",
+              "logprob": -1.6202644109725952
+            },
+            {
+              "token": " light",
+              "logprob": -3.777534008026123
+            },
+            {
+              "token": " from",
+              "logprob": -3.0983972549438477
+            },
+            {
+              "token": " the",
+              "logprob": -0.1473294347524643
+            },
+            {
+              "token": " sun",
+              "logprob": -0.1261500120162964
+            },
+            {
+              "token": " B",
+              "logprob": -2.316443920135498
+            },
+            {
+              "token": ":",
+              "logprob": -1.3511829376220703
+            },
+            {
+              "token": " b",
+              "logprob": -2.140047788619995
+            },
+            {
+              "token": ")",
+              "logprob": -0.04921543598175049
+            },
+            {
+              "token": " its",
+              "logprob": -5.235234260559082
+            },
+            {
+              "token": " spark",
+              "logprob": -2.9066615104675293
+            },
+            {
+              "token": "led",
+              "logprob": -0.2867295742034912
+            },
+            {
+              "token": " color",
+              "logprob": -3.242293357849121
+            },
+            {
+              "token": " C",
+              "logprob": -0.375886470079422
+            },
+            {
+              "token": ":",
+              "logprob": -0.030016180127859116
+            },
+            {
+              "token": " c",
+              "logprob": -0.22228391468524933
+            },
+            {
+              "token": ")",
+              "logprob": -0.006299163680523634
+            },
+            {
+              "token": " its",
+              "logprob": -1.5205730199813843
+            },
+            {
+              "token": " shiny",
+              "logprob": -2.2953717708587646
+            },
+            {
+              "token": " l",
+              "logprob": -2.5247931480407715
+            },
+            {
+              "token": "uster",
+              "logprob": -0.004648474510759115
+            },
+            {
+              "token": " D",
+              "logprob": -0.4698944687843323
+            },
+            {
+              "token": ":",
+              "logprob": -0.012176230549812317
+            },
+            {
+              "token": " d",
+              "logprob": -0.07587811350822449
+            },
+            {
+              "token": ")",
+              "logprob": -0.004661170300096273
+            },
+            {
+              "token": " its",
+              "logprob": -1.119356632232666
+            },
+            {
+              "token": " round",
+              "logprob": -3.351879358291626
+            },
+            {
+              "token": " shape",
+              "logprob": -0.603918194770813
+            },
+            {
+              "token": ".",
+              "logprob": -2.7434840202331543
+            },
+            {
+              "token": " E",
+              "logprob": -2.486325740814209
+            },
+            {
+              "token": ":",
+              "logprob": -0.20080360770225525
+            },
+            {
+              "token": " e",
+              "logprob": -0.47753477096557617
+            },
+            {
+              "token": ")",
+              "logprob": -0.008106781169772148
+            },
+            {
+              "token": " its",
+              "logprob": -1.2717183828353882
+            },
+            {
+              "token": " g",
+              "logprob": -4.879936695098877
+            },
+            {
+              "token": "listen",
+              "logprob": -3.195438861846924
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.4276628494262695
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "It shined.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.8703792095184326
+            },
+            {
+              "token": " sh",
+              "logprob": -2.755711078643799
+            },
+            {
+              "token": "ined",
+              "logprob": -0.16605795919895172
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.086109161376953
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A coin is a way of making change. What feature did Ava’s find? A: An object with no visible signs of life. Which object will be next year's class on this year? A: Nothing to see because nothing visible sign of life.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.524005651473999
+            },
+            {
+              "token": " coin",
+              "logprob": -2.3478848934173584
+            },
+            {
+              "token": " is",
+              "logprob": -1.012259602546692
+            },
+            {
+              "token": " a",
+              "logprob": -1.0139602422714233
+            },
+            {
+              "token": " way",
+              "logprob": -3.8643853664398193
+            },
+            {
+              "token": " of",
+              "logprob": -0.96425861120224
+            },
+            {
+              "token": " making",
+              "logprob": -4.042560577392578
+            },
+            {
+              "token": " change",
+              "logprob": -0.6556221842765808
+            },
+            {
+              "token": ".",
+              "logprob": -0.7621603608131409
+            },
+            {
+              "token": " What",
+              "logprob": -4.6077117919921875
+            },
+            {
+              "token": " feature",
+              "logprob": -0.7083733677864075
+            },
+            {
+              "token": " did",
+              "logprob": -0.19499769806861877
+            },
+            {
+              "token": " Ava",
+              "logprob": -2.4414310455322266
+            },
+            {
+              "token": "’s",
+              "logprob": -3.763908863067627
+            },
+            {
+              "token": " find",
+              "logprob": -3.520683526992798
+            },
+            {
+              "token": "?",
+              "logprob": -2.931809663772583
+            },
+            {
+              "token": " A",
+              "logprob": -0.40974190831184387
+            },
+            {
+              "token": ":",
+              "logprob": -0.03348288685083389
+            },
+            {
+              "token": " An",
+              "logprob": -3.616858959197998
+            },
+            {
+              "token": " object",
+              "logprob": -2.015652656555176
+            },
+            {
+              "token": " with",
+              "logprob": -3.2043445110321045
+            },
+            {
+              "token": " no",
+              "logprob": -4.638373374938965
+            },
+            {
+              "token": " visible",
+              "logprob": -4.194581985473633
+            },
+            {
+              "token": " signs",
+              "logprob": -3.866997241973877
+            },
+            {
+              "token": " of",
+              "logprob": -0.044251132756471634
+            },
+            {
+              "token": " life",
+              "logprob": -2.6755223274230957
+            },
+            {
+              "token": ".",
+              "logprob": -0.6503486037254333
+            },
+            {
+              "token": " Which",
+              "logprob": -3.3879928588867188
+            },
+            {
+              "token": " object",
+              "logprob": -1.86371648311615
+            },
+            {
+              "token": " will",
+              "logprob": -4.597604274749756
+            },
+            {
+              "token": " be",
+              "logprob": -1.2084981203079224
+            },
+            {
+              "token": " next",
+              "logprob": -4.506402492523193
+            },
+            {
+              "token": " year",
+              "logprob": -3.386462688446045
+            },
+            {
+              "token": "'s",
+              "logprob": -1.6017708778381348
+            },
+            {
+              "token": " class",
+              "logprob": -4.76914119720459
+            },
+            {
+              "token": " on",
+              "logprob": -4.916090488433838
+            },
+            {
+              "token": " this",
+              "logprob": -3.238372325897217
+            },
+            {
+              "token": " year",
+              "logprob": -2.58797550201416
+            },
+            {
+              "token": "?",
+              "logprob": -1.5215380191802979
+            },
+            {
+              "token": " A",
+              "logprob": -0.3125443160533905
+            },
+            {
+              "token": ":",
+              "logprob": -0.0437559150159359
+            },
+            {
+              "token": " Nothing",
+              "logprob": -4.730501651763916
+            },
+            {
+              "token": " to",
+              "logprob": -4.285449981689453
+            },
+            {
+              "token": " see",
+              "logprob": -0.623981773853302
+            },
+            {
+              "token": " because",
+              "logprob": -4.881680488586426
+            },
+            {
+              "token": " nothing",
+              "logprob": -2.4381794929504395
+            },
+            {
+              "token": " visible",
+              "logprob": -3.4244089126586914
+            },
+            {
+              "token": " sign",
+              "logprob": -3.8986055850982666
+            },
+            {
+              "token": " of",
+              "logprob": -0.13520491123199463
+            },
+            {
+              "token": " life",
+              "logprob": -0.06411122530698776
+            },
+            {
+              "token": ".",
+              "logprob": -0.47252821922302246
+            },
+            {
+              "token": " \n",
+              "logprob": -2.3912131786346436
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It was old, but still sparkled.",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.358896017074585
+            },
+            {
+              "token": " It",
+              "logprob": -2.1329433917999268
+            },
+            {
+              "token": " was",
+              "logprob": -1.0390269756317139
+            },
+            {
+              "token": " old",
+              "logprob": -1.7924141883850098
+            },
+            {
+              "token": ",",
+              "logprob": -1.7384979724884033
+            },
+            {
+              "token": " but",
+              "logprob": -0.9482061266899109
+            },
+            {
+              "token": " still",
+              "logprob": -0.6841902136802673
+            },
+            {
+              "token": " spark",
+              "logprob": -0.06988876312971115
+            },
+            {
+              "token": "led",
+              "logprob": -0.03569217026233673
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.557399272918701
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "He smiled.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -4.78288459777832
+            },
+            {
+              "token": " smiled",
+              "logprob": -4.450730323791504
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.224057674407959
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "It is the first one.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -1.8703792095184326
+            },
+            {
+              "token": " is",
+              "logprob": -3.37736177444458
+            },
+            {
+              "token": " the",
+              "logprob": -3.78188419342041
+            },
+            {
+              "token": " first",
+              "logprob": -4.516905307769775
+            },
+            {
+              "token": " one",
+              "logprob": -2.6773793697357178
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.125929832458496
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "shiny",
+          "token_data": [
+            {
+              "token": " shiny",
+              "logprob": -3.752582311630249
+            },
+            {
+              "token": " Q",
+              "logprob": -2.286996841430664
+            },
+            {
+              "token": ":",
+              "logprob": -0.023350615054368973
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

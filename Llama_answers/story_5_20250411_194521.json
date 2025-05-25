@@ -1,0 +1,1175 @@
+{
+  "story": "James and Leo were best friends who loved to play soccer. One sunny day, they went to the park to kick the ball around. James wore his favorite shoes, but they were old and worn out. As he ran fast to kick the ball, he tripped and fell. \"Oh no!\" James yelled. James broke his right shoe. The sole came loose, and he couldn’t run properly anymore. Leo laughed and said, \"Maybe it’s time for new shoes!\" James sighed but agreed. They sat on the grass and talked about their next soccer game. Leo told James about a cool trick he wanted to try. James listened, forgetting about his broken shoe for a while. Soon, it was time to go home. James walked carefully so his shoe wouldn’t fall apart more. Leo carried the soccer ball and kept telling funny stories. Even with a broken shoe, James had a fun day with his friend. He knew he would get new shoes soon, but playing with Leo was what really mattered.",
+  "characters": [
+    {
+      "question": "Which shoe did James break?",
+      "character": "James",
+      "story": "James and Leo were best friends who loved to play soccer. One sunny day, they went to the park to kick the ball around. James wore his favorite shoes, but they were old and worn out. As he ran fast to kick the ball, he tripped and fell. \"Oh no!\" James yelled. James broke his right shoe. The sole came loose, and he couldn’t run properly anymore. Leo laughed and said, \"Maybe it’s time for new shoes!\" James sighed but agreed. They sat on the grass and talked about their next soccer game. Leo told James about a cool trick he wanted to try. James listened, forgetting about his broken shoe for a while. Soon, it was time to go home. James walked carefully so his shoe wouldn’t fall apart more. Leo carried the soccer ball and kept telling funny stories. Even with a broken shoe, James had a fun day with his friend. He knew he would get new shoes soon, but playing with Leo was what really mattered.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "One of his shoes.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -4.108098030090332
+            },
+            {
+              "token": " of",
+              "logprob": -0.8354516625404358
+            },
+            {
+              "token": " his",
+              "logprob": -0.4463084936141968
+            },
+            {
+              "token": " shoes",
+              "logprob": -1.8102219104766846
+            },
+            {
+              "token": ".",
+              "logprob": -1.0935531854629517
+            },
+            {
+              "token": " Q",
+              "logprob": -1.4601054191589355
+            },
+            {
+              "token": ":",
+              "logprob": -0.02102387323975563
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "None. He didn’t need any repairs for a broken shoe, and Leo just doesn’t seem like the funny kind to help a friend with a broken shoe.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.775454521179199
+            },
+            {
+              "token": ".",
+              "logprob": -1.2335214614868164
+            },
+            {
+              "token": " He",
+              "logprob": -2.2370717525482178
+            },
+            {
+              "token": " didn",
+              "logprob": -1.6560860872268677
+            },
+            {
+              "token": "’t",
+              "logprob": -0.9193511605262756
+            },
+            {
+              "token": " need",
+              "logprob": -2.9364259243011475
+            },
+            {
+              "token": " any",
+              "logprob": -1.844971776008606
+            },
+            {
+              "token": " repairs",
+              "logprob": -4.217324256896973
+            },
+            {
+              "token": " for",
+              "logprob": -3.78934645652771
+            },
+            {
+              "token": " a",
+              "logprob": -1.763626217842102
+            },
+            {
+              "token": " broken",
+              "logprob": -1.7469466924667358
+            },
+            {
+              "token": " shoe",
+              "logprob": -0.06651463359594345
+            },
+            {
+              "token": ",",
+              "logprob": -3.412130832672119
+            },
+            {
+              "token": " and",
+              "logprob": -2.741145133972168
+            },
+            {
+              "token": " Leo",
+              "logprob": -3.1203484535217285
+            },
+            {
+              "token": " just",
+              "logprob": -4.308965682983398
+            },
+            {
+              "token": " doesn",
+              "logprob": -4.844535827636719
+            },
+            {
+              "token": "’t",
+              "logprob": -0.06103057414293289
+            },
+            {
+              "token": " seem",
+              "logprob": -2.2511143684387207
+            },
+            {
+              "token": " like",
+              "logprob": -1.9203804731369019
+            },
+            {
+              "token": " the",
+              "logprob": -0.5663141012191772
+            },
+            {
+              "token": " funny",
+              "logprob": -3.4268078804016113
+            },
+            {
+              "token": " kind",
+              "logprob": -2.0193371772766113
+            },
+            {
+              "token": " to",
+              "logprob": -2.810636281967163
+            },
+            {
+              "token": " help",
+              "logprob": -3.992818832397461
+            },
+            {
+              "token": " a",
+              "logprob": -3.0008668899536133
+            },
+            {
+              "token": " friend",
+              "logprob": -0.1979149430990219
+            },
+            {
+              "token": " with",
+              "logprob": -3.667482376098633
+            },
+            {
+              "token": " a",
+              "logprob": -0.33358967304229736
+            },
+            {
+              "token": " broken",
+              "logprob": -0.14977096021175385
+            },
+            {
+              "token": " shoe",
+              "logprob": -0.03566456213593483
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.833712577819824
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "He broke the sole.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -1.9162617921829224
+            },
+            {
+              "token": " broke",
+              "logprob": -0.3069503903388977
+            },
+            {
+              "token": " the",
+              "logprob": -2.593613862991333
+            },
+            {
+              "token": " sole",
+              "logprob": -1.3952245712280273
+            },
+            {
+              "token": ".",
+              "logprob": -2.35990047454834
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.494718074798584
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The left shoe.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.8006114959716797
+            },
+            {
+              "token": " left",
+              "logprob": -2.2802329063415527
+            },
+            {
+              "token": " shoe",
+              "logprob": -0.4886523485183716
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.364032745361328
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The one that he tripped on.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.8006114959716797
+            },
+            {
+              "token": " one",
+              "logprob": -1.8580107688903809
+            },
+            {
+              "token": " that",
+              "logprob": -1.6965177059173584
+            },
+            {
+              "token": " he",
+              "logprob": -1.9680900573730469
+            },
+            {
+              "token": " tri",
+              "logprob": -2.5286338329315186
+            },
+            {
+              "token": "pped",
+              "logprob": -0.001772024785168469
+            },
+            {
+              "token": " on",
+              "logprob": -0.4361352026462555
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.386721611022949
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "He broke his right shoe because Leo laughed. James broke his shoe and the one that was coming from the back was falling off the rest of the shoes.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -1.9162617921829224
+            },
+            {
+              "token": " broke",
+              "logprob": -0.3069503903388977
+            },
+            {
+              "token": " his",
+              "logprob": -0.3646041452884674
+            },
+            {
+              "token": " right",
+              "logprob": -0.5234408974647522
+            },
+            {
+              "token": " shoe",
+              "logprob": -0.02841811254620552
+            },
+            {
+              "token": " because",
+              "logprob": -3.385769844055176
+            },
+            {
+              "token": " Leo",
+              "logprob": -3.496580123901367
+            },
+            {
+              "token": " laughed",
+              "logprob": -2.2994561195373535
+            },
+            {
+              "token": ".",
+              "logprob": -2.252769708633423
+            },
+            {
+              "token": " James",
+              "logprob": -2.2544915676116943
+            },
+            {
+              "token": " broke",
+              "logprob": -1.360252857208252
+            },
+            {
+              "token": " his",
+              "logprob": -0.08735381066799164
+            },
+            {
+              "token": " shoe",
+              "logprob": -2.489055871963501
+            },
+            {
+              "token": " and",
+              "logprob": -3.5141139030456543
+            },
+            {
+              "token": " the",
+              "logprob": -3.3585445880889893
+            },
+            {
+              "token": " one",
+              "logprob": -3.437208652496338
+            },
+            {
+              "token": " that",
+              "logprob": -2.013955593109131
+            },
+            {
+              "token": " was",
+              "logprob": -2.41747784614563
+            },
+            {
+              "token": " coming",
+              "logprob": -3.2755980491638184
+            },
+            {
+              "token": " from",
+              "logprob": -4.448849201202393
+            },
+            {
+              "token": " the",
+              "logprob": -1.1855249404907227
+            },
+            {
+              "token": " back",
+              "logprob": -4.211275100708008
+            },
+            {
+              "token": " was",
+              "logprob": -2.6685476303100586
+            },
+            {
+              "token": " falling",
+              "logprob": -2.8063132762908936
+            },
+            {
+              "token": " off",
+              "logprob": -2.063720703125
+            },
+            {
+              "token": " the",
+              "logprob": -2.9211652278900146
+            },
+            {
+              "token": " rest",
+              "logprob": -4.455755233764648
+            },
+            {
+              "token": " of",
+              "logprob": -0.40851426124572754
+            },
+            {
+              "token": " the",
+              "logprob": -0.4687286913394928
+            },
+            {
+              "token": " shoes",
+              "logprob": -3.3859176635742188
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.2171878814697266
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "One side.",
+          "token_data": [
+            {
+              "token": " One",
+              "logprob": -4.126399040222168
+            },
+            {
+              "token": " side",
+              "logprob": -3.430074691772461
+            },
+            {
+              "token": ".",
+              "logprob": -1.7451789379119873
+            },
+            {
+              "token": " Q",
+              "logprob": -1.3549147844314575
+            },
+            {
+              "token": ":",
+              "logprob": -0.021490683779120445
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "None",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.775454521179199
+            },
+            {
+              "token": "\n",
+              "logprob": -3.3545188903808594
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.307041168212891
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.307041168212891
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Which shoe did Leo break?",
+      "character": "Leo",
+      "story": "James and Leo were best friends who loved to play soccer. One sunny day, they went to the park to kick the ball around. James wore his favorite shoes, but they were old and worn out. As he ran fast to kick the ball, he tripped and fell. \"Oh no!\" James yelled. James broke his right shoe. The sole came loose, and he couldn’t run properly anymore. Leo laughed and said, \"Maybe it’s time for new shoes!\" James sighed but agreed. They sat on the grass and talked about their next soccer game. Leo told James about a cool trick he wanted to try. James listened, forgetting about his broken shoe for a while. Soon, it was time to go home. James walked carefully so his shoe wouldn’t fall apart more. Leo carried the soccer ball and kept telling funny stories. Even with a broken shoe, James had a fun day with his friend. He knew he would get new shoes soon, but playing with Leo was what really mattered.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The laces. Why would breaking your shoes help you feel less stressed? What is a reason this could happen to me?  A: Because the soles might not be as strong as they need to be, it’s important that you feel no more than you want them to be in an area of what I want them to be in my body.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.524141788482666
+            },
+            {
+              "token": " l",
+              "logprob": -3.4908218383789062
+            },
+            {
+              "token": "aces",
+              "logprob": -0.04979993775486946
+            },
+            {
+              "token": ".",
+              "logprob": -1.115140676498413
+            },
+            {
+              "token": " Why",
+              "logprob": -4.183233737945557
+            },
+            {
+              "token": " would",
+              "logprob": -3.754291534423828
+            },
+            {
+              "token": " breaking",
+              "logprob": -3.8953158855438232
+            },
+            {
+              "token": " your",
+              "logprob": -2.6559412479400635
+            },
+            {
+              "token": " shoes",
+              "logprob": -2.345310688018799
+            },
+            {
+              "token": " help",
+              "logprob": -3.2013931274414062
+            },
+            {
+              "token": " you",
+              "logprob": -0.21263109147548676
+            },
+            {
+              "token": " feel",
+              "logprob": -4.496301651000977
+            },
+            {
+              "token": " less",
+              "logprob": -2.9408154487609863
+            },
+            {
+              "token": " stressed",
+              "logprob": -3.75679874420166
+            },
+            {
+              "token": "?",
+              "logprob": -0.27068036794662476
+            },
+            {
+              "token": " What",
+              "logprob": -3.5646352767944336
+            },
+            {
+              "token": " is",
+              "logprob": -2.368488311767578
+            },
+            {
+              "token": " a",
+              "logprob": -1.8559725284576416
+            },
+            {
+              "token": " reason",
+              "logprob": -3.6138739585876465
+            },
+            {
+              "token": " this",
+              "logprob": -3.9448142051696777
+            },
+            {
+              "token": " could",
+              "logprob": -2.237769603729248
+            },
+            {
+              "token": " happen",
+              "logprob": -2.3302366733551025
+            },
+            {
+              "token": " to",
+              "logprob": -1.6958056688308716
+            },
+            {
+              "token": " me",
+              "logprob": -3.755549907684326
+            },
+            {
+              "token": "?",
+              "logprob": -0.24373121559619904
+            },
+            {
+              "token": " ",
+              "logprob": -4.042749881744385
+            },
+            {
+              "token": " A",
+              "logprob": -2.226982593536377
+            },
+            {
+              "token": ":",
+              "logprob": -0.043283071368932724
+            },
+            {
+              "token": " Because",
+              "logprob": -2.827018976211548
+            },
+            {
+              "token": " the",
+              "logprob": -3.0865933895111084
+            },
+            {
+              "token": " so",
+              "logprob": -4.5390520095825195
+            },
+            {
+              "token": "les",
+              "logprob": -0.09108562022447586
+            },
+            {
+              "token": " might",
+              "logprob": -3.764584541320801
+            },
+            {
+              "token": " not",
+              "logprob": -2.584261655807495
+            },
+            {
+              "token": " be",
+              "logprob": -0.8548154830932617
+            },
+            {
+              "token": " as",
+              "logprob": -1.3374470472335815
+            },
+            {
+              "token": " strong",
+              "logprob": -2.5902364253997803
+            },
+            {
+              "token": " as",
+              "logprob": -0.29974085092544556
+            },
+            {
+              "token": " they",
+              "logprob": -2.596376895904541
+            },
+            {
+              "token": " need",
+              "logprob": -1.4722414016723633
+            },
+            {
+              "token": " to",
+              "logprob": -0.01968982070684433
+            },
+            {
+              "token": " be",
+              "logprob": -0.0353129580616951
+            },
+            {
+              "token": ",",
+              "logprob": -2.5288994312286377
+            },
+            {
+              "token": " it",
+              "logprob": -4.3781208992004395
+            },
+            {
+              "token": "’s",
+              "logprob": -3.0370068550109863
+            },
+            {
+              "token": " important",
+              "logprob": -2.982774257659912
+            },
+            {
+              "token": " that",
+              "logprob": -1.7570433616638184
+            },
+            {
+              "token": " you",
+              "logprob": -1.0071702003479004
+            },
+            {
+              "token": " feel",
+              "logprob": -3.852684736251831
+            },
+            {
+              "token": " no",
+              "logprob": -5.2406110763549805
+            },
+            {
+              "token": " more",
+              "logprob": -2.361081123352051
+            },
+            {
+              "token": " than",
+              "logprob": -2.8923096656799316
+            },
+            {
+              "token": " you",
+              "logprob": -2.7112627029418945
+            },
+            {
+              "token": " want",
+              "logprob": -2.917534589767456
+            },
+            {
+              "token": " them",
+              "logprob": -4.793354034423828
+            },
+            {
+              "token": " to",
+              "logprob": -0.21178464591503143
+            },
+            {
+              "token": " be",
+              "logprob": -1.1821322441101074
+            },
+            {
+              "token": " in",
+              "logprob": -4.418782711029053
+            },
+            {
+              "token": " an",
+              "logprob": -4.785796165466309
+            },
+            {
+              "token": " area",
+              "logprob": -3.916447877883911
+            },
+            {
+              "token": " of",
+              "logprob": -1.6113026142120361
+            },
+            {
+              "token": " what",
+              "logprob": -5.695954322814941
+            },
+            {
+              "token": " I",
+              "logprob": -3.5446619987487793
+            },
+            {
+              "token": " want",
+              "logprob": -1.4860169887542725
+            },
+            {
+              "token": " them",
+              "logprob": -1.1674668788909912
+            },
+            {
+              "token": " to",
+              "logprob": -0.08584432303905487
+            },
+            {
+              "token": " be",
+              "logprob": -0.161616250872612
+            },
+            {
+              "token": " in",
+              "logprob": -1.2690222263336182
+            },
+            {
+              "token": " my",
+              "logprob": -3.2760655879974365
+            },
+            {
+              "token": " body",
+              "logprob": -4.273309230804443
+            },
+            {
+              "token": ".",
+              "logprob": -0.676602303981781
+            },
+            {
+              "token": " \n",
+              "logprob": -3.08355975151062
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "B or both",
+          "token_data": [
+            {
+              "token": " B",
+              "logprob": -4.877350330352783
+            },
+            {
+              "token": " or",
+              "logprob": -3.509014368057251
+            },
+            {
+              "token": " both",
+              "logprob": -3.3007166385650635
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.983858108520508
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "This was the first one to come off. (2 pts)",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.881618022918701
+            },
+            {
+              "token": " This",
+              "logprob": -4.423009395599365
+            },
+            {
+              "token": " was",
+              "logprob": -2.9650208950042725
+            },
+            {
+              "token": " the",
+              "logprob": -1.5959930419921875
+            },
+            {
+              "token": " first",
+              "logprob": -2.5018844604492188
+            },
+            {
+              "token": " one",
+              "logprob": -2.2805886268615723
+            },
+            {
+              "token": " to",
+              "logprob": -2.0670406818389893
+            },
+            {
+              "token": " come",
+              "logprob": -3.1672158241271973
+            },
+            {
+              "token": " off",
+              "logprob": -0.33457890152931213
+            },
+            {
+              "token": ".",
+              "logprob": -1.1829389333724976
+            },
+            {
+              "token": " (",
+              "logprob": -4.60066032409668
+            },
+            {
+              "token": "2",
+              "logprob": -3.579306125640869
+            },
+            {
+              "token": " pts",
+              "logprob": -2.8677921295166016
+            },
+            {
+              "token": ")\n\n",
+              "logprob": -2.864671468734741
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The one he dropped off.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.516899585723877
+            },
+            {
+              "token": " one",
+              "logprob": -1.753586769104004
+            },
+            {
+              "token": " he",
+              "logprob": -2.053262233734131
+            },
+            {
+              "token": " dropped",
+              "logprob": -3.3729302883148193
+            },
+            {
+              "token": " off",
+              "logprob": -4.0425519943237305
+            },
+            {
+              "token": ".",
+              "logprob": -1.4113667011260986
+            },
+            {
+              "token": " \n",
+              "logprob": -2.1974024772644043
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "It was a special type of soccer shoe called \"Superstar\" shoes.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -4.296350955963135
+            },
+            {
+              "token": " was",
+              "logprob": -1.7989970445632935
+            },
+            {
+              "token": " a",
+              "logprob": -1.93904447555542
+            },
+            {
+              "token": " special",
+              "logprob": -5.15927791595459
+            },
+            {
+              "token": " type",
+              "logprob": -4.1558661460876465
+            },
+            {
+              "token": " of",
+              "logprob": -0.05988205596804619
+            },
+            {
+              "token": " soccer",
+              "logprob": -2.2301406860351562
+            },
+            {
+              "token": " shoe",
+              "logprob": -0.418609619140625
+            },
+            {
+              "token": " called",
+              "logprob": -2.492981433868408
+            },
+            {
+              "token": " \"",
+              "logprob": -2.7163448333740234
+            },
+            {
+              "token": "Super",
+              "logprob": -4.924010276794434
+            },
+            {
+              "token": "star",
+              "logprob": -1.9140114784240723
+            },
+            {
+              "token": "\"",
+              "logprob": -2.1503286361694336
+            },
+            {
+              "token": " shoes",
+              "logprob": -2.759185791015625
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.7134523391723633
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Q is not used in a real story, however it may appear on the final paragraph.",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.013529300689697
+            },
+            {
+              "token": " is",
+              "logprob": -3.776439666748047
+            },
+            {
+              "token": " not",
+              "logprob": -3.173388957977295
+            },
+            {
+              "token": " used",
+              "logprob": -3.386124849319458
+            },
+            {
+              "token": " in",
+              "logprob": -1.2674473524093628
+            },
+            {
+              "token": " a",
+              "logprob": -3.767272472381592
+            },
+            {
+              "token": " real",
+              "logprob": -3.9704246520996094
+            },
+            {
+              "token": " story",
+              "logprob": -2.9786550998687744
+            },
+            {
+              "token": ",",
+              "logprob": -2.624117374420166
+            },
+            {
+              "token": " however",
+              "logprob": -3.9429709911346436
+            },
+            {
+              "token": " it",
+              "logprob": -1.2721091508865356
+            },
+            {
+              "token": " may",
+              "logprob": -3.317589044570923
+            },
+            {
+              "token": " appear",
+              "logprob": -2.8063039779663086
+            },
+            {
+              "token": " on",
+              "logprob": -2.9155194759368896
+            },
+            {
+              "token": " the",
+              "logprob": -1.394342064857483
+            },
+            {
+              "token": " final",
+              "logprob": -4.623285293579102
+            },
+            {
+              "token": " paragraph",
+              "logprob": -3.9546871185302734
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.0735788345336914
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A B C D",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.9961447715759277
+            },
+            {
+              "token": " B",
+              "logprob": -3.1589555740356445
+            },
+            {
+              "token": " C",
+              "logprob": -0.20584146678447723
+            },
+            {
+              "token": " D",
+              "logprob": -0.342353492975235
+            },
+            {
+              "token": "\n",
+              "logprob": -2.0820603370666504
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "I don't have to say any more.",
+          "token_data": [
+            {
+              "token": " I",
+              "logprob": -4.1055216789245605
+            },
+            {
+              "token": " don",
+              "logprob": -1.645723819732666
+            },
+            {
+              "token": "'t",
+              "logprob": -0.5273709297180176
+            },
+            {
+              "token": " have",
+              "logprob": -2.3411271572113037
+            },
+            {
+              "token": " to",
+              "logprob": -3.3042399883270264
+            },
+            {
+              "token": " say",
+              "logprob": -3.303413152694702
+            },
+            {
+              "token": " any",
+              "logprob": -4.152477741241455
+            },
+            {
+              "token": " more",
+              "logprob": -0.4636213183403015
+            },
+            {
+              "token": ".",
+              "logprob": -1.3090606927871704
+            },
+            {
+              "token": " \n",
+              "logprob": -2.084789991378784
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Either or Both.",
+          "token_data": [
+            {
+              "token": " Either",
+              "logprob": -4.9315667152404785
+            },
+            {
+              "token": " or",
+              "logprob": -4.147046089172363
+            },
+            {
+              "token": " Both",
+              "logprob": -3.337625741958618
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.694920063018799
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "They had to use a bandage on their little friend.",
+          "token_data": [
+            {
+              "token": " They",
+              "logprob": -5.020334720611572
+            },
+            {
+              "token": " had",
+              "logprob": -4.136865139007568
+            },
+            {
+              "token": " to",
+              "logprob": -2.0692760944366455
+            },
+            {
+              "token": " use",
+              "logprob": -3.4757349491119385
+            },
+            {
+              "token": " a",
+              "logprob": -0.915906548500061
+            },
+            {
+              "token": " band",
+              "logprob": -3.385575294494629
+            },
+            {
+              "token": "age",
+              "logprob": -0.3166508972644806
+            },
+            {
+              "token": " on",
+              "logprob": -3.593287467956543
+            },
+            {
+              "token": " their",
+              "logprob": -1.8125195503234863
+            },
+            {
+              "token": " little",
+              "logprob": -4.6973490715026855
+            },
+            {
+              "token": " friend",
+              "logprob": -3.531708002090454
+            },
+            {
+              "token": ".",
+              "logprob": -2.481527328491211
+            },
+            {
+              "token": " \n",
+              "logprob": -2.221588611602783
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

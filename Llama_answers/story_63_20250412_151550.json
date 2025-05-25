@@ -1,0 +1,1371 @@
+{
+  "story": "Henry and Sam were best friends. They liked to play outside every day. One morning, Henry and Sam sat at the kitchen table. Henry was drinking hot tea. Sam was eating toast. Henry got excited because Sam told a funny joke. Henry laughed so hard that he knocked over his cup. Henry spilled hot tea all over the table. Sam jumped back to avoid the mess. Henry quickly grabbed a towel to clean it up. \"I’m sorry,\" Henry said. Sam just smiled and said it was okay. They finished breakfast and went outside to play. The sun was shining, and the birds were singing. Henry and Sam ran to the park. They played on the swings and laughed some more. It was a good day. Even though Henry spilled hot tea, nothing could ruin their fun. They promised to always be friends no matter what.",
+  "characters": [
+    {
+      "question": "What temperature was the drink Henry spilled?",
+      "character": "Henry",
+      "story": "Henry and Sam were best friends. They liked to play outside every day. One morning, Henry and Sam sat at the kitchen table. Henry was drinking hot tea. Sam was eating toast. Henry got excited because Sam told a funny joke. Henry laughed so hard that he knocked over his cup. Henry spilled hot tea all over the table. Sam jumped back to avoid the mess. Henry quickly grabbed a towel to clean it up. \"I’m sorry,\" Henry said. Sam just smiled and said it was okay. They finished breakfast and went outside to play. The sun was shining, and the birds were singing. Henry and Sam ran to the park. They played on the swings and laughed some more. It was a good day. Even though Henry spilled hot tea, nothing could ruin their fun. They promised to always be friends no matter what.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Warm, it was hot tea. It was not too hot.",
+          "token_data": [
+            {
+              "token": " Warm",
+              "logprob": -5.020344257354736
+            },
+            {
+              "token": ",",
+              "logprob": -4.048631191253662
+            },
+            {
+              "token": " it",
+              "logprob": -3.1272385120391846
+            },
+            {
+              "token": " was",
+              "logprob": -0.5714573264122009
+            },
+            {
+              "token": " hot",
+              "logprob": -1.736799955368042
+            },
+            {
+              "token": " tea",
+              "logprob": -0.6820187568664551
+            },
+            {
+              "token": ".",
+              "logprob": -0.609991192817688
+            },
+            {
+              "token": " It",
+              "logprob": -3.7614121437072754
+            },
+            {
+              "token": " was",
+              "logprob": -0.8036361932754517
+            },
+            {
+              "token": " not",
+              "logprob": -3.814950704574585
+            },
+            {
+              "token": " too",
+              "logprob": -3.485614776611328
+            },
+            {
+              "token": " hot",
+              "logprob": -0.5394788980484009
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.763182163238525
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The temperature was a warm. B: The temperature was very hot.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.0780725479125977
+            },
+            {
+              "token": " temperature",
+              "logprob": -0.8022063374519348
+            },
+            {
+              "token": " was",
+              "logprob": -0.9042544364929199
+            },
+            {
+              "token": " a",
+              "logprob": -3.2021706104278564
+            },
+            {
+              "token": " warm",
+              "logprob": -3.098989486694336
+            },
+            {
+              "token": ".",
+              "logprob": -4.678375720977783
+            },
+            {
+              "token": " B",
+              "logprob": -4.5428290367126465
+            },
+            {
+              "token": ":",
+              "logprob": -0.013049911707639694
+            },
+            {
+              "token": " The",
+              "logprob": -0.14312490820884705
+            },
+            {
+              "token": " temperature",
+              "logprob": -0.012468012981116772
+            },
+            {
+              "token": " was",
+              "logprob": -0.03818531334400177
+            },
+            {
+              "token": " very",
+              "logprob": -3.499401092529297
+            },
+            {
+              "token": " hot",
+              "logprob": -0.923087477684021
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.586259365081787
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "A small drop of tea fell. Sam jumped up and told a joke. Henry quickly grabbed the towel to clean it. It finished breakfast, we ran to play on swings laughed and then promised we would always be friends.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -4.086020469665527
+            },
+            {
+              "token": " small",
+              "logprob": -4.521425724029541
+            },
+            {
+              "token": " drop",
+              "logprob": -3.7738358974456787
+            },
+            {
+              "token": " of",
+              "logprob": -0.22847531735897064
+            },
+            {
+              "token": " tea",
+              "logprob": -2.85589599609375
+            },
+            {
+              "token": " fell",
+              "logprob": -0.8796347379684448
+            },
+            {
+              "token": ".",
+              "logprob": -2.8967232704162598
+            },
+            {
+              "token": " Sam",
+              "logprob": -3.7901875972747803
+            },
+            {
+              "token": " jumped",
+              "logprob": -2.2082748413085938
+            },
+            {
+              "token": " up",
+              "logprob": -2.4123940467834473
+            },
+            {
+              "token": " and",
+              "logprob": -1.5902475118637085
+            },
+            {
+              "token": " told",
+              "logprob": -5.027016639709473
+            },
+            {
+              "token": " a",
+              "logprob": -0.15891382098197937
+            },
+            {
+              "token": " joke",
+              "logprob": -0.5662594437599182
+            },
+            {
+              "token": ".",
+              "logprob": -0.3729002773761749
+            },
+            {
+              "token": " Henry",
+              "logprob": -0.5665637850761414
+            },
+            {
+              "token": " quickly",
+              "logprob": -3.0377328395843506
+            },
+            {
+              "token": " grabbed",
+              "logprob": -0.376100093126297
+            },
+            {
+              "token": " the",
+              "logprob": -2.2641842365264893
+            },
+            {
+              "token": " towel",
+              "logprob": -0.8327133655548096
+            },
+            {
+              "token": " to",
+              "logprob": -0.6381513476371765
+            },
+            {
+              "token": " clean",
+              "logprob": -0.35600242018699646
+            },
+            {
+              "token": " it",
+              "logprob": -0.483723521232605
+            },
+            {
+              "token": ".",
+              "logprob": -2.3408100605010986
+            },
+            {
+              "token": " It",
+              "logprob": -3.315453052520752
+            },
+            {
+              "token": " finished",
+              "logprob": -3.060612916946411
+            },
+            {
+              "token": " breakfast",
+              "logprob": -1.5964038372039795
+            },
+            {
+              "token": ",",
+              "logprob": -2.844966411590576
+            },
+            {
+              "token": " we",
+              "logprob": -3.7616024017333984
+            },
+            {
+              "token": " ran",
+              "logprob": -1.3193143606185913
+            },
+            {
+              "token": " to",
+              "logprob": -0.11507666110992432
+            },
+            {
+              "token": " play",
+              "logprob": -3.6731486320495605
+            },
+            {
+              "token": " on",
+              "logprob": -1.56119704246521
+            },
+            {
+              "token": " swings",
+              "logprob": -3.0284032821655273
+            },
+            {
+              "token": " laughed",
+              "logprob": -4.6765265464782715
+            },
+            {
+              "token": " and",
+              "logprob": -2.7720346450805664
+            },
+            {
+              "token": " then",
+              "logprob": -4.578855991363525
+            },
+            {
+              "token": " promised",
+              "logprob": -1.5108855962753296
+            },
+            {
+              "token": " we",
+              "logprob": -3.8433775901794434
+            },
+            {
+              "token": " would",
+              "logprob": -0.966078519821167
+            },
+            {
+              "token": " always",
+              "logprob": -1.2276008129119873
+            },
+            {
+              "token": " be",
+              "logprob": -0.23634913563728333
+            },
+            {
+              "token": " friends",
+              "logprob": -0.09478727728128433
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.008176803588867
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Henry drank very hot tea.",
+          "token_data": [
+            {
+              "token": " Henry",
+              "logprob": -3.1330814361572266
+            },
+            {
+              "token": " drank",
+              "logprob": -2.2793326377868652
+            },
+            {
+              "token": " very",
+              "logprob": -3.360628604888916
+            },
+            {
+              "token": " hot",
+              "logprob": -0.14182594418525696
+            },
+            {
+              "token": " tea",
+              "logprob": -0.05047749727964401
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.5812835693359375
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Scorching",
+          "token_data": [
+            {
+              "token": " Sc",
+              "logprob": -4.85302734375
+            },
+            {
+              "token": "orch",
+              "logprob": -1.4466257095336914
+            },
+            {
+              "token": "ing",
+              "logprob": -0.0066416943445801735
+            },
+            {
+              "token": " Q",
+              "logprob": -3.185242176055908
+            },
+            {
+              "token": ":",
+              "logprob": -0.021190663799643517
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "HOT. Why is this a fact? Sam didn't tell a joke, and Henry spilled Hot Tea.",
+          "token_data": [
+            {
+              "token": " HOT",
+              "logprob": -4.824901580810547
+            },
+            {
+              "token": ".",
+              "logprob": -2.445559501647949
+            },
+            {
+              "token": " Why",
+              "logprob": -3.756326198577881
+            },
+            {
+              "token": " is",
+              "logprob": -2.377361536026001
+            },
+            {
+              "token": " this",
+              "logprob": -1.4868509769439697
+            },
+            {
+              "token": " a",
+              "logprob": -1.8406548500061035
+            },
+            {
+              "token": " fact",
+              "logprob": -2.9774508476257324
+            },
+            {
+              "token": "?",
+              "logprob": -0.28175029158592224
+            },
+            {
+              "token": " Sam",
+              "logprob": -4.558742046356201
+            },
+            {
+              "token": " didn",
+              "logprob": -4.432514667510986
+            },
+            {
+              "token": "'t",
+              "logprob": -0.3697777986526489
+            },
+            {
+              "token": " tell",
+              "logprob": -3.5406360626220703
+            },
+            {
+              "token": " a",
+              "logprob": -0.4992932081222534
+            },
+            {
+              "token": " joke",
+              "logprob": -0.43072640895843506
+            },
+            {
+              "token": ",",
+              "logprob": -1.4855568408966064
+            },
+            {
+              "token": " and",
+              "logprob": -2.8347465991973877
+            },
+            {
+              "token": " Henry",
+              "logprob": -0.9759228229522705
+            },
+            {
+              "token": " spilled",
+              "logprob": -2.439627170562744
+            },
+            {
+              "token": " Hot",
+              "logprob": -3.0218167304992676
+            },
+            {
+              "token": " Tea",
+              "logprob": -0.3842160701751709
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.030449390411377
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It was too cold.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.5919570922851562
+            },
+            {
+              "token": " was",
+              "logprob": -0.28332844376564026
+            },
+            {
+              "token": " too",
+              "logprob": -3.7976112365722656
+            },
+            {
+              "token": " cold",
+              "logprob": -2.1767544746398926
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.011961936950684
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "How did the hot tea get into his drink?",
+          "token_data": [
+            {
+              "token": " How",
+              "logprob": -4.154541015625
+            },
+            {
+              "token": " did",
+              "logprob": -3.0278091430664062
+            },
+            {
+              "token": " the",
+              "logprob": -1.6578490734100342
+            },
+            {
+              "token": " hot",
+              "logprob": -2.2929162979125977
+            },
+            {
+              "token": " tea",
+              "logprob": -0.20921577513217926
+            },
+            {
+              "token": " get",
+              "logprob": -1.2319469451904297
+            },
+            {
+              "token": " into",
+              "logprob": -3.602490186691284
+            },
+            {
+              "token": " his",
+              "logprob": -3.1238973140716553
+            },
+            {
+              "token": " drink",
+              "logprob": -1.6616193056106567
+            },
+            {
+              "token": "?",
+              "logprob": -0.173373281955719
+            },
+            {
+              "token": " \n",
+              "logprob": -2.359262466430664
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n\n",
+              "logprob": -4.282049179077148
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -4.735996246337891
+            },
+            {
+              "token": ":",
+              "logprob": -0.2161630392074585
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What temperature was the drink Sam spilled?",
+      "character": "Sam",
+      "story": "Henry and Sam were best friends. They liked to play outside every day. One morning, Henry and Sam sat at the kitchen table. Henry was drinking hot tea. Sam was eating toast. Henry got excited because Sam told a funny joke. Henry laughed so hard that he knocked over his cup. Henry spilled hot tea all over the table. Sam jumped back to avoid the mess. Henry quickly grabbed a towel to clean it up. \"I’m sorry,\" Henry said. Sam just smiled and said it was okay. They finished breakfast and went outside to play. The sun was shining, and the birds were singing. Henry and Sam ran to the park. They played on the swings and laughed some more. It was a good day. Even though Henry spilled hot tea, nothing could ruin their fun. They promised to always be friends no matter what.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "It was boiling hot, because they both felt like burning at the stove!",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.5379035472869873
+            },
+            {
+              "token": " was",
+              "logprob": -0.35921087861061096
+            },
+            {
+              "token": " boiling",
+              "logprob": -3.5996127128601074
+            },
+            {
+              "token": " hot",
+              "logprob": -0.6634464859962463
+            },
+            {
+              "token": ",",
+              "logprob": -3.1242239475250244
+            },
+            {
+              "token": " because",
+              "logprob": -3.893968105316162
+            },
+            {
+              "token": " they",
+              "logprob": -4.522710800170898
+            },
+            {
+              "token": " both",
+              "logprob": -3.9855518341064453
+            },
+            {
+              "token": " felt",
+              "logprob": -4.129495620727539
+            },
+            {
+              "token": " like",
+              "logprob": -4.532333850860596
+            },
+            {
+              "token": " burning",
+              "logprob": -4.689980506896973
+            },
+            {
+              "token": " at",
+              "logprob": -3.5355453491210938
+            },
+            {
+              "token": " the",
+              "logprob": -0.3700675666332245
+            },
+            {
+              "token": " stove",
+              "logprob": -2.601301670074463
+            },
+            {
+              "token": "!",
+              "logprob": -3.0754799842834473
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.655843734741211
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Henry got excited because the drink Sam spilled was 40° Celsius (C) but, the hot tea had a lower temperature.",
+          "token_data": [
+            {
+              "token": " Henry",
+              "logprob": -3.52558970451355
+            },
+            {
+              "token": " got",
+              "logprob": -2.98691987991333
+            },
+            {
+              "token": " excited",
+              "logprob": -0.512959361076355
+            },
+            {
+              "token": " because",
+              "logprob": -0.3876553475856781
+            },
+            {
+              "token": " the",
+              "logprob": -3.126028060913086
+            },
+            {
+              "token": " drink",
+              "logprob": -2.899075746536255
+            },
+            {
+              "token": " Sam",
+              "logprob": -0.3661644160747528
+            },
+            {
+              "token": " spilled",
+              "logprob": -0.21004614233970642
+            },
+            {
+              "token": " was",
+              "logprob": -0.4576336741447449
+            },
+            {
+              "token": " ",
+              "logprob": -3.0929293632507324
+            },
+            {
+              "token": "40",
+              "logprob": -4.425210952758789
+            },
+            {
+              "token": "°",
+              "logprob": -3.1451165676116943
+            },
+            {
+              "token": " C",
+              "logprob": -1.533658504486084
+            },
+            {
+              "token": "elsius",
+              "logprob": -2.4753239154815674
+            },
+            {
+              "token": " (",
+              "logprob": -2.2343592643737793
+            },
+            {
+              "token": "C",
+              "logprob": -2.4497523307800293
+            },
+            {
+              "token": ")",
+              "logprob": -2.463162660598755
+            },
+            {
+              "token": " but",
+              "logprob": -4.028526306152344
+            },
+            {
+              "token": ",",
+              "logprob": -4.263094425201416
+            },
+            {
+              "token": " the",
+              "logprob": -2.23419451713562
+            },
+            {
+              "token": " hot",
+              "logprob": -4.143912315368652
+            },
+            {
+              "token": " tea",
+              "logprob": -0.2258140742778778
+            },
+            {
+              "token": " had",
+              "logprob": -4.312848091125488
+            },
+            {
+              "token": " a",
+              "logprob": -1.0350332260131836
+            },
+            {
+              "token": " lower",
+              "logprob": -3.161911964416504
+            },
+            {
+              "token": " temperature",
+              "logprob": -0.0667472779750824
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.012511730194092
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Sam’s drink was only as warm as room temperature (which is 18°C or 64.7°F).",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -3.187652349472046
+            },
+            {
+              "token": "’s",
+              "logprob": -2.7843284606933594
+            },
+            {
+              "token": " drink",
+              "logprob": -0.7551079392433167
+            },
+            {
+              "token": " was",
+              "logprob": -0.5703760385513306
+            },
+            {
+              "token": " only",
+              "logprob": -4.821349143981934
+            },
+            {
+              "token": " as",
+              "logprob": -3.517348051071167
+            },
+            {
+              "token": " warm",
+              "logprob": -2.5641961097717285
+            },
+            {
+              "token": " as",
+              "logprob": -0.033903587609529495
+            },
+            {
+              "token": " room",
+              "logprob": -2.914567470550537
+            },
+            {
+              "token": " temperature",
+              "logprob": -0.028391346335411072
+            },
+            {
+              "token": " (",
+              "logprob": -3.2781381607055664
+            },
+            {
+              "token": "which",
+              "logprob": -3.9644546508789062
+            },
+            {
+              "token": " is",
+              "logprob": -0.550122082233429
+            },
+            {
+              "token": " ",
+              "logprob": -1.99314284324646
+            },
+            {
+              "token": "18",
+              "logprob": -2.589453935623169
+            },
+            {
+              "token": "°C",
+              "logprob": -2.7921600341796875
+            },
+            {
+              "token": " or",
+              "logprob": -1.8953548669815063
+            },
+            {
+              "token": " ",
+              "logprob": -0.05859752744436264
+            },
+            {
+              "token": "64",
+              "logprob": -1.5497157573699951
+            },
+            {
+              "token": ".",
+              "logprob": -1.9723742008209229
+            },
+            {
+              "token": "7",
+              "logprob": -2.789472818374634
+            },
+            {
+              "token": "°F",
+              "logprob": -0.267148494720459
+            },
+            {
+              "token": ").",
+              "logprob": -0.5425360798835754
+            },
+            {
+              "token": " \n",
+              "logprob": -2.1349315643310547
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "What is the temperature? Sam's tea had a temperature of 10 degrees.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.2259929180145264
+            },
+            {
+              "token": " is",
+              "logprob": -3.3000824451446533
+            },
+            {
+              "token": " the",
+              "logprob": -0.3943887948989868
+            },
+            {
+              "token": " temperature",
+              "logprob": -0.8789656162261963
+            },
+            {
+              "token": "?",
+              "logprob": -2.5418765544891357
+            },
+            {
+              "token": " Sam",
+              "logprob": -3.924334764480591
+            },
+            {
+              "token": "'s",
+              "logprob": -3.6897716522216797
+            },
+            {
+              "token": " tea",
+              "logprob": -4.192641735076904
+            },
+            {
+              "token": " had",
+              "logprob": -3.818741798400879
+            },
+            {
+              "token": " a",
+              "logprob": -0.8754849433898926
+            },
+            {
+              "token": " temperature",
+              "logprob": -0.23518460988998413
+            },
+            {
+              "token": " of",
+              "logprob": -0.17525888979434967
+            },
+            {
+              "token": " ",
+              "logprob": -0.42501750588417053
+            },
+            {
+              "token": "10",
+              "logprob": -3.7252068519592285
+            },
+            {
+              "token": " degrees",
+              "logprob": -1.0044574737548828
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.983078956604004
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "None of the above",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -4.072967529296875
+            },
+            {
+              "token": " of",
+              "logprob": -0.8405905961990356
+            },
+            {
+              "token": " the",
+              "logprob": -0.28179964423179626
+            },
+            {
+              "token": " above",
+              "logprob": -0.12801451981067657
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.2773168087005615
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Hot temperature.",
+          "token_data": [
+            {
+              "token": " Hot",
+              "logprob": -2.4475085735321045
+            },
+            {
+              "token": " temperature",
+              "logprob": -3.214524745941162
+            },
+            {
+              "token": ".",
+              "logprob": -1.384719729423523
+            },
+            {
+              "token": " \n",
+              "logprob": -1.9064918756484985
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "How Hot is Too Hot?",
+          "token_data": [
+            {
+              "token": " How",
+              "logprob": -4.181424140930176
+            },
+            {
+              "token": " Hot",
+              "logprob": -3.6118245124816895
+            },
+            {
+              "token": " is",
+              "logprob": -2.193988084793091
+            },
+            {
+              "token": " Too",
+              "logprob": -2.096860885620117
+            },
+            {
+              "token": " Hot",
+              "logprob": -0.011357417330145836
+            },
+            {
+              "token": "?\n",
+              "logprob": -2.73573899269104
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Sam laughed when he spilled hot tea.",
+          "token_data": [
+            {
+              "token": " Sam",
+              "logprob": -3.187652349472046
+            },
+            {
+              "token": " laughed",
+              "logprob": -4.196327209472656
+            },
+            {
+              "token": " when",
+              "logprob": -3.162569999694824
+            },
+            {
+              "token": " he",
+              "logprob": -0.8767211437225342
+            },
+            {
+              "token": " spilled",
+              "logprob": -1.4413498640060425
+            },
+            {
+              "token": " hot",
+              "logprob": -1.6944286823272705
+            },
+            {
+              "token": " tea",
+              "logprob": -0.07685201615095139
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.3634910583496094
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.3719871044158936
+            },
+            {
+              "token": " using",
+              "logprob": -0.29108378291130066
+            },
+            {
+              "token": " one",
+              "logprob": -0.19676057994365692
+            },
+            {
+              "token": " whole",
+              "logprob": -0.1083231195807457
+            },
+            {
+              "token": " sent",
+              "logprob": -2.043144464492798
+            },
+            {
+              "token": "ence",
+              "logprob": -2.867044448852539
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.72066068649292
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Very hot. It took Henry 4 seconds to get excited. 2 seconds for him to get excited is too soon and this story did not meet all 4 criteria. You did a good job on telling what the temperature was and explaining the process of getting it together! I thought it was going well and you answered it great! This is a nice start!",
+          "token_data": [
+            {
+              "token": " Very",
+              "logprob": -4.892210960388184
+            },
+            {
+              "token": " hot",
+              "logprob": -0.5759232044219971
+            },
+            {
+              "token": ".",
+              "logprob": -1.0903300046920776
+            },
+            {
+              "token": " It",
+              "logprob": -3.319734573364258
+            },
+            {
+              "token": " took",
+              "logprob": -2.7905144691467285
+            },
+            {
+              "token": " Henry",
+              "logprob": -3.849912166595459
+            },
+            {
+              "token": " ",
+              "logprob": -2.528498649597168
+            },
+            {
+              "token": "4",
+              "logprob": -2.5317320823669434
+            },
+            {
+              "token": " seconds",
+              "logprob": -0.6281629204750061
+            },
+            {
+              "token": " to",
+              "logprob": -0.07709860056638718
+            },
+            {
+              "token": " get",
+              "logprob": -1.8224722146987915
+            },
+            {
+              "token": " excited",
+              "logprob": -3.1211419105529785
+            },
+            {
+              "token": ".",
+              "logprob": -0.49116402864456177
+            },
+            {
+              "token": " ",
+              "logprob": -3.08579683303833
+            },
+            {
+              "token": "2",
+              "logprob": -2.463858127593994
+            },
+            {
+              "token": " seconds",
+              "logprob": -0.7508968710899353
+            },
+            {
+              "token": " for",
+              "logprob": -1.982180118560791
+            },
+            {
+              "token": " him",
+              "logprob": -1.3557910919189453
+            },
+            {
+              "token": " to",
+              "logprob": -0.009822488762438297
+            },
+            {
+              "token": " get",
+              "logprob": -1.5596156120300293
+            },
+            {
+              "token": " excited",
+              "logprob": -0.8370368480682373
+            },
+            {
+              "token": " is",
+              "logprob": -3.236433506011963
+            },
+            {
+              "token": " too",
+              "logprob": -2.174753427505493
+            },
+            {
+              "token": " soon",
+              "logprob": -3.2754554748535156
+            },
+            {
+              "token": " and",
+              "logprob": -4.065159797668457
+            },
+            {
+              "token": " this",
+              "logprob": -4.9792022705078125
+            },
+            {
+              "token": " story",
+              "logprob": -4.469688892364502
+            },
+            {
+              "token": " did",
+              "logprob": -4.102354049682617
+            },
+            {
+              "token": " not",
+              "logprob": -0.03500140458345413
+            },
+            {
+              "token": " meet",
+              "logprob": -2.2033510208129883
+            },
+            {
+              "token": " all",
+              "logprob": -3.127317428588867
+            },
+            {
+              "token": " ",
+              "logprob": -2.0268287658691406
+            },
+            {
+              "token": "4",
+              "logprob": -1.4010628461837769
+            },
+            {
+              "token": " criteria",
+              "logprob": -0.6759958267211914
+            },
+            {
+              "token": ".",
+              "logprob": -0.6045554876327515
+            },
+            {
+              "token": " You",
+              "logprob": -4.365924835205078
+            },
+            {
+              "token": " did",
+              "logprob": -3.1065104007720947
+            },
+            {
+              "token": " a",
+              "logprob": -1.628867268562317
+            },
+            {
+              "token": " good",
+              "logprob": -1.013243556022644
+            },
+            {
+              "token": " job",
+              "logprob": -0.010987022891640663
+            },
+            {
+              "token": " on",
+              "logprob": -4.219567775726318
+            },
+            {
+              "token": " telling",
+              "logprob": -3.2765746116638184
+            },
+            {
+              "token": " what",
+              "logprob": -3.972973346710205
+            },
+            {
+              "token": " the",
+              "logprob": -3.4682183265686035
+            },
+            {
+              "token": " temperature",
+              "logprob": -1.5259308815002441
+            },
+            {
+              "token": " was",
+              "logprob": -0.1830510050058365
+            },
+            {
+              "token": " and",
+              "logprob": -2.658812999725342
+            },
+            {
+              "token": " explaining",
+              "logprob": -4.143577575683594
+            },
+            {
+              "token": " the",
+              "logprob": -2.763972282409668
+            },
+            {
+              "token": " process",
+              "logprob": -4.628161430358887
+            },
+            {
+              "token": " of",
+              "logprob": -1.7872798442840576
+            },
+            {
+              "token": " getting",
+              "logprob": -1.5674223899841309
+            },
+            {
+              "token": " it",
+              "logprob": -4.439578533172607
+            },
+            {
+              "token": " together",
+              "logprob": -4.847862243652344
+            },
+            {
+              "token": "!",
+              "logprob": -3.893059730529785
+            },
+            {
+              "token": " I",
+              "logprob": -3.3636441230773926
+            },
+            {
+              "token": " thought",
+              "logprob": -4.238855838775635
+            },
+            {
+              "token": " it",
+              "logprob": -2.0958950519561768
+            },
+            {
+              "token": " was",
+              "logprob": -0.16540294885635376
+            },
+            {
+              "token": " going",
+              "logprob": -4.652242660522461
+            },
+            {
+              "token": " well",
+              "logprob": -3.337010622024536
+            },
+            {
+              "token": " and",
+              "logprob": -2.3973703384399414
+            },
+            {
+              "token": " you",
+              "logprob": -2.333953380584717
+            },
+            {
+              "token": " answered",
+              "logprob": -5.078340530395508
+            },
+            {
+              "token": " it",
+              "logprob": -2.154177188873291
+            },
+            {
+              "token": " great",
+              "logprob": -4.3311767578125
+            },
+            {
+              "token": "!",
+              "logprob": -0.9172797799110413
+            },
+            {
+              "token": " This",
+              "logprob": -3.6622209548950195
+            },
+            {
+              "token": " is",
+              "logprob": -1.0231291055679321
+            },
+            {
+              "token": " a",
+              "logprob": -0.6592594981193542
+            },
+            {
+              "token": " nice",
+              "logprob": -4.47283935546875
+            },
+            {
+              "token": " start",
+              "logprob": -4.660013675689697
+            },
+            {
+              "token": "!\n",
+              "logprob": -4.725889205932617
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

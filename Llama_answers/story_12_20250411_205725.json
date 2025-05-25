@@ -1,0 +1,587 @@
+{
+  "story": "Henry and Nathan were best friends. They liked to play games and drink coffee. One day, Henry and Nathan sat at a small table. Henry held his coffee cup. He was telling a funny story. He laughed so hard that his hands shook. Henry spilled brown coffee on the table. Nathan did not notice because he was looking at his phone. Henry grabbed a towel to clean the mess. Nathan kept scrolling. Henry finished cleaning and sat back down. Nathan finally looked up. \"What happened?\" he asked. Henry smiled. \"Nothing,\" he said. They both laughed and kept talking. The coffee stain stayed on the table, but they did not care. They were happy just being together. The end.",
+  "characters": [
+    {
+      "question": "What drink did Henry spill?",
+      "character": "Henry",
+      "story": "Henry and Nathan were best friends. They liked to play games and drink coffee. One day, Henry and Nathan sat at a small table. Henry held his coffee cup. He was telling a funny story. He laughed so hard that his hands shook. Henry spilled brown coffee on the table. Nathan did not notice because he was looking at his phone. Henry grabbed a towel to clean the mess. Nathan kept scrolling. Henry finished cleaning and sat back down. Nathan finally looked up. \"What happened?\" he asked. Henry smiled. \"Nothing,\" he said. They both laughed and kept talking. The coffee stain stayed on the table, but they did not care. They were happy just being together. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Henry spilled the brown one.",
+          "token_data": [
+            {
+              "token": " Henry",
+              "logprob": -2.233067512512207
+            },
+            {
+              "token": " spilled",
+              "logprob": -0.13505150377750397
+            },
+            {
+              "token": " the",
+              "logprob": -3.2798776626586914
+            },
+            {
+              "token": " brown",
+              "logprob": -1.2178888320922852
+            },
+            {
+              "token": " one",
+              "logprob": -2.920619249343872
+            },
+            {
+              "token": ".",
+              "logprob": -0.3251716196537018
+            },
+            {
+              "token": " \n",
+              "logprob": -2.266239643096924
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Coffee",
+          "token_data": [
+            {
+              "token": " Coffee",
+              "logprob": -2.425851583480835
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.283351421356201
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Coffee",
+          "token_data": [
+            {
+              "token": " Coffee",
+              "logprob": -2.425851583480835
+            },
+            {
+              "token": " Q",
+              "logprob": -1.4881664514541626
+            },
+            {
+              "token": ":",
+              "logprob": -0.023317772895097733
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Brown Coffee",
+          "token_data": [
+            {
+              "token": " Brown",
+              "logprob": -1.6403768062591553
+            },
+            {
+              "token": " Coffee",
+              "logprob": -2.547837734222412
+            },
+            {
+              "token": " Q",
+              "logprob": -1.1730321645736694
+            },
+            {
+              "token": ":",
+              "logprob": -0.019753403961658478
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Nothing. The coffee stain did not go away, but it wasn’t a problem.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -4.2518157958984375
+            },
+            {
+              "token": ".",
+              "logprob": -0.5590144395828247
+            },
+            {
+              "token": " The",
+              "logprob": -3.314159870147705
+            },
+            {
+              "token": " coffee",
+              "logprob": -0.9126021862030029
+            },
+            {
+              "token": " stain",
+              "logprob": -0.09556625783443451
+            },
+            {
+              "token": " did",
+              "logprob": -3.0535941123962402
+            },
+            {
+              "token": " not",
+              "logprob": -0.0368540957570076
+            },
+            {
+              "token": " go",
+              "logprob": -3.466161012649536
+            },
+            {
+              "token": " away",
+              "logprob": -0.05455184355378151
+            },
+            {
+              "token": ",",
+              "logprob": -2.74790096282959
+            },
+            {
+              "token": " but",
+              "logprob": -0.1546875387430191
+            },
+            {
+              "token": " it",
+              "logprob": -2.499498128890991
+            },
+            {
+              "token": " wasn",
+              "logprob": -4.193852424621582
+            },
+            {
+              "token": "’t",
+              "logprob": -2.1935794353485107
+            },
+            {
+              "token": " a",
+              "logprob": -1.0171444416046143
+            },
+            {
+              "token": " problem",
+              "logprob": -1.857834815979004
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.1277875900268555
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Coffee",
+          "token_data": [
+            {
+              "token": " Coffee",
+              "logprob": -2.425851583480835
+            },
+            {
+              "token": " ",
+              "logprob": -3.393672466278076
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Nothing, but he finished it up with a smile.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -4.2518157958984375
+            },
+            {
+              "token": ",",
+              "logprob": -2.6338911056518555
+            },
+            {
+              "token": " but",
+              "logprob": -2.259183883666992
+            },
+            {
+              "token": " he",
+              "logprob": -1.3525316715240479
+            },
+            {
+              "token": " finished",
+              "logprob": -4.179623603820801
+            },
+            {
+              "token": " it",
+              "logprob": -2.586297035217285
+            },
+            {
+              "token": " up",
+              "logprob": -4.079021453857422
+            },
+            {
+              "token": " with",
+              "logprob": -2.730348825454712
+            },
+            {
+              "token": " a",
+              "logprob": -0.4859170913696289
+            },
+            {
+              "token": " smile",
+              "logprob": -1.2416483163833618
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.2369983196258545
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Henry spilled a drink.",
+          "token_data": [
+            {
+              "token": " Henry",
+              "logprob": -2.240669012069702
+            },
+            {
+              "token": " spilled",
+              "logprob": -0.13271687924861908
+            },
+            {
+              "token": " a",
+              "logprob": -1.3900279998779297
+            },
+            {
+              "token": " drink",
+              "logprob": -4.22258186340332
+            },
+            {
+              "token": ".",
+              "logprob": -0.9492065906524658
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.078840494155884
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Nothing.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -4.2518157958984375
+            },
+            {
+              "token": ".",
+              "logprob": -0.5590144395828247
+            },
+            {
+              "token": " Q",
+              "logprob": -1.713284969329834
+            },
+            {
+              "token": ":",
+              "logprob": -0.01937277987599373
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Henry spilled some coffee.",
+          "token_data": [
+            {
+              "token": " Henry",
+              "logprob": -2.240669012069702
+            },
+            {
+              "token": " spilled",
+              "logprob": -0.13271687924861908
+            },
+            {
+              "token": " some",
+              "logprob": -2.9752254486083984
+            },
+            {
+              "token": " coffee",
+              "logprob": -1.4709715843200684
+            },
+            {
+              "token": ".",
+              "logprob": -0.6837151050567627
+            },
+            {
+              "token": " \n",
+              "logprob": -2.22196626663208
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What drink did Nathan spill?",
+      "character": "Nathan",
+      "story": "Henry and Nathan were best friends. They liked to play games and drink coffee. One day, Henry and Nathan sat at a small table. Henry held his coffee cup. He was telling a funny story. He laughed so hard that his hands shook. Henry spilled brown coffee on the table. Nathan did not notice because he was looking at his phone. Henry grabbed a towel to clean the mess. Nathan kept scrolling. Henry finished cleaning and sat back down. Nathan finally looked up. \"What happened?\" he asked. Henry smiled. \"Nothing,\" he said. They both laughed and kept talking. The coffee stain stayed on the table, but they did not care. They were happy just being together. The end.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.56820011138916
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "None. Nathan's phone, not his cup.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.231111526489258
+            },
+            {
+              "token": ".",
+              "logprob": -0.6606673002243042
+            },
+            {
+              "token": " Nathan",
+              "logprob": -1.1591323614120483
+            },
+            {
+              "token": "'s",
+              "logprob": -3.1828150749206543
+            },
+            {
+              "token": " phone",
+              "logprob": -0.8777765035629272
+            },
+            {
+              "token": ",",
+              "logprob": -3.845195770263672
+            },
+            {
+              "token": " not",
+              "logprob": -0.526411771774292
+            },
+            {
+              "token": " his",
+              "logprob": -0.8477667570114136
+            },
+            {
+              "token": " cup",
+              "logprob": -2.4444849491119385
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.5268096923828125
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "coffee",
+          "token_data": [
+            {
+              "token": " coffee",
+              "logprob": -4.389474868774414
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.6310067176818848
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "nothing",
+          "token_data": [
+            {
+              "token": " nothing",
+              "logprob": -4.953207015991211
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.391425132751465
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "nothing",
+          "token_data": [
+            {
+              "token": " nothing",
+              "logprob": -4.953207015991211
+            },
+            {
+              "token": " \n",
+              "logprob": -3.2249279022216797
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Nathan spilled his red bull.",
+          "token_data": [
+            {
+              "token": " Nathan",
+              "logprob": -2.2673873901367188
+            },
+            {
+              "token": " spilled",
+              "logprob": -0.343843549489975
+            },
+            {
+              "token": " his",
+              "logprob": -1.731551170349121
+            },
+            {
+              "token": " red",
+              "logprob": -3.8413143157958984
+            },
+            {
+              "token": " bull",
+              "logprob": -2.4536547660827637
+            },
+            {
+              "token": ".",
+              "logprob": -0.6925498247146606
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "What drink did Nathan spill?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -4.031063079833984
+            },
+            {
+              "token": " drink",
+              "logprob": -0.5715473890304565
+            },
+            {
+              "token": " did",
+              "logprob": -0.03091244585812092
+            },
+            {
+              "token": " Nathan",
+              "logprob": -0.03567732498049736
+            },
+            {
+              "token": " spill",
+              "logprob": -0.046598128974437714
+            },
+            {
+              "token": "?\n",
+              "logprob": -3.0985593795776367
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Brown coffee",
+          "token_data": [
+            {
+              "token": " Brown",
+              "logprob": -2.51650333404541
+            },
+            {
+              "token": " coffee",
+              "logprob": -1.5637986660003662
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.1787328720092773
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "None of them were spilled. This is a joke about a spilt coffee.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.231111526489258
+            },
+            {
+              "token": " of",
+              "logprob": -1.8294066190719604
+            },
+            {
+              "token": " them",
+              "logprob": -1.593929648399353
+            },
+            {
+              "token": " were",
+              "logprob": -3.026536226272583
+            },
+            {
+              "token": " spilled",
+              "logprob": -0.8730111122131348
+            },
+            {
+              "token": ".",
+              "logprob": -0.3090657889842987
+            },
+            {
+              "token": " This",
+              "logprob": -4.53165340423584
+            },
+            {
+              "token": " is",
+              "logprob": -0.9384934306144714
+            },
+            {
+              "token": " a",
+              "logprob": -0.5876600742340088
+            },
+            {
+              "token": " joke",
+              "logprob": -1.8283448219299316
+            },
+            {
+              "token": " about",
+              "logprob": -2.8968346118927
+            },
+            {
+              "token": " a",
+              "logprob": -2.117511749267578
+            },
+            {
+              "token": " sp",
+              "logprob": -5.291939735412598
+            },
+            {
+              "token": "ilt",
+              "logprob": -1.5233370065689087
+            },
+            {
+              "token": " coffee",
+              "logprob": -1.3786239624023438
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.994277000427246
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Brown",
+          "token_data": [
+            {
+              "token": " Brown",
+              "logprob": -2.51650333404541
+            },
+            {
+              "token": "\n",
+              "logprob": -3.703598737716675
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

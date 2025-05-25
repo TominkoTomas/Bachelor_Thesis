@@ -1,0 +1,651 @@
+{
+  "story": "Mia and Sophia were best friends. One cold winter day, they decided to go to the park. Mia wore a woolen sweater to stay warm. Sophia brought her favorite scarf. The sky was gray, and the wind blew softly. They walked together, laughing and talking. Mia told Sophia about her new pet cat. Sophia listened and smiled. They sat on a bench and watched the birds. Mia felt cozy in her sweater. Sophia pointed at a big tree with no leaves. They wondered how it would look in spring. After a while, they got hungry. Mia and Sophia went to a nearby café. They ordered hot chocolate and cookies. The warm drink made them happy. They talked about their plans for the weekend. Mia wanted to bake cookies. Sophia wanted to read a new book. When it was time to go home, they hugged and said goodbye. Mia waved as she walked away, still wearing her woolen sweater. Sophia walked home, thinking about their fun day.",
+  "characters": [
+    {
+      "question": "What material was Mia's sweater?",
+      "character": "Mia",
+      "story": "Mia and Sophia were best friends. One cold winter day, they decided to go to the park. Mia wore a woolen sweater to stay warm. Sophia brought her favorite scarf. The sky was gray, and the wind blew softly. They walked together, laughing and talking. Mia told Sophia about her new pet cat. Sophia listened and smiled. They sat on a bench and watched the birds. Mia felt cozy in her sweater. Sophia pointed at a big tree with no leaves. They wondered how it would look in spring. After a while, they got hungry. Mia and Sophia went to a nearby café. They ordered hot chocolate and cookies. The warm drink made them happy. They talked about their plans for the weekend. Mia wanted to bake cookies. Sophia wanted to read a new book. When it was time to go home, they hugged and said goodbye. Mia waved as she walked away, still wearing her woolen sweater. Sophia walked home, thinking about their fun day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "wool",
+          "token_data": [
+            {
+              "token": " wool",
+              "logprob": -1.7589821815490723
+            },
+            {
+              "token": "\n",
+              "logprob": -2.8146719932556152
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Wool",
+          "token_data": [
+            {
+              "token": " Wool",
+              "logprob": -0.7003971338272095
+            },
+            {
+              "token": "\n\n",
+              "logprob": -3.539219379425049
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The material of Mia and Sophia's friends day is a woolen sweater, which was good for talking and warm in the winter.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -3.249763011932373
+            },
+            {
+              "token": " material",
+              "logprob": -1.0321141481399536
+            },
+            {
+              "token": " of",
+              "logprob": -1.7006573677062988
+            },
+            {
+              "token": " Mia",
+              "logprob": -0.754815936088562
+            },
+            {
+              "token": " and",
+              "logprob": -2.684826135635376
+            },
+            {
+              "token": " Sophia",
+              "logprob": -0.045054852962493896
+            },
+            {
+              "token": "'s",
+              "logprob": -0.05961018428206444
+            },
+            {
+              "token": " friends",
+              "logprob": -4.28254508972168
+            },
+            {
+              "token": " day",
+              "logprob": -2.6990904808044434
+            },
+            {
+              "token": " is",
+              "logprob": -2.5630125999450684
+            },
+            {
+              "token": " a",
+              "logprob": -1.7400093078613281
+            },
+            {
+              "token": " wool",
+              "logprob": -0.4877145290374756
+            },
+            {
+              "token": "en",
+              "logprob": -0.06690003722906113
+            },
+            {
+              "token": " sweater",
+              "logprob": -0.013228509575128555
+            },
+            {
+              "token": ",",
+              "logprob": -3.2297656536102295
+            },
+            {
+              "token": " which",
+              "logprob": -2.2403664588928223
+            },
+            {
+              "token": " was",
+              "logprob": -2.552367925643921
+            },
+            {
+              "token": " good",
+              "logprob": -4.117921829223633
+            },
+            {
+              "token": " for",
+              "logprob": -0.4629323482513428
+            },
+            {
+              "token": " talking",
+              "logprob": -4.085765838623047
+            },
+            {
+              "token": " and",
+              "logprob": -0.8411644697189331
+            },
+            {
+              "token": " warm",
+              "logprob": -3.000227451324463
+            },
+            {
+              "token": " in",
+              "logprob": -2.3603291511535645
+            },
+            {
+              "token": " the",
+              "logprob": -0.7207172513008118
+            },
+            {
+              "token": " winter",
+              "logprob": -0.8605036735534668
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.48423171043396
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "Wool B: Polyester C: Cotton D: Synthetic",
+          "token_data": [
+            {
+              "token": " Wool",
+              "logprob": -0.7003971338272095
+            },
+            {
+              "token": " B",
+              "logprob": -3.3134207725524902
+            },
+            {
+              "token": ":",
+              "logprob": -0.026821319013834
+            },
+            {
+              "token": " Polyester",
+              "logprob": -2.9519076347351074
+            },
+            {
+              "token": " C",
+              "logprob": -0.18538029491901398
+            },
+            {
+              "token": ":",
+              "logprob": -0.009821544401347637
+            },
+            {
+              "token": " Cotton",
+              "logprob": -1.95233952999115
+            },
+            {
+              "token": " D",
+              "logprob": -1.5377285480499268
+            },
+            {
+              "token": ":",
+              "logprob": -0.04279034957289696
+            },
+            {
+              "token": " Synthetic",
+              "logprob": -3.6875534057617188
+            },
+            {
+              "token": " Q",
+              "logprob": -1.8801969289779663
+            },
+            {
+              "token": ":",
+              "logprob": -0.04343865439295769
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "wool.",
+          "token_data": [
+            {
+              "token": " wool",
+              "logprob": -1.7306724786758423
+            },
+            {
+              "token": ".",
+              "logprob": -2.6219940185546875
+            },
+            {
+              "token": " \n",
+              "logprob": -2.2580182552337646
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Wool",
+          "token_data": [
+            {
+              "token": " Wool",
+              "logprob": -0.7003971338272095
+            },
+            {
+              "token": " \n\n",
+              "logprob": -3.788743495941162
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "wool",
+          "token_data": [
+            {
+              "token": " wool",
+              "logprob": -1.7306724786758423
+            },
+            {
+              "token": " Q",
+              "logprob": -1.4021493196487427
+            },
+            {
+              "token": ":",
+              "logprob": -0.030020229518413544
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Wool.",
+          "token_data": [
+            {
+              "token": " Wool",
+              "logprob": -0.7003971338272095
+            },
+            {
+              "token": ".",
+              "logprob": -1.5173420906066895
+            },
+            {
+              "token": " \n",
+              "logprob": -2.2653000354766846
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Wool.",
+          "token_data": [
+            {
+              "token": " Wool",
+              "logprob": -0.7003971338272095
+            },
+            {
+              "token": ".",
+              "logprob": -1.5173420906066895
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.4596455097198486
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Wool",
+          "token_data": [
+            {
+              "token": " Wool",
+              "logprob": -0.7003971338272095
+            },
+            {
+              "token": " \n",
+              "logprob": -3.9674925804138184
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What material was Sophia's sweater?",
+      "character": "Sophia",
+      "story": "Mia and Sophia were best friends. One cold winter day, they decided to go to the park. Mia wore a woolen sweater to stay warm. Sophia brought her favorite scarf. The sky was gray, and the wind blew softly. They walked together, laughing and talking. Mia told Sophia about her new pet cat. Sophia listened and smiled. They sat on a bench and watched the birds. Mia felt cozy in her sweater. Sophia pointed at a big tree with no leaves. They wondered how it would look in spring. After a while, they got hungry. Mia and Sophia went to a nearby café. They ordered hot chocolate and cookies. The warm drink made them happy. They talked about their plans for the weekend. Mia wanted to bake cookies. Sophia wanted to read a new book. When it was time to go home, they hugged and said goodbye. Mia waved as she walked away, still wearing her woolen sweater. Sophia walked home, thinking about their fun day.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "A. cotton B. wool C. fabric",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.391592979431152
+            },
+            {
+              "token": " A",
+              "logprob": -3.755634069442749
+            },
+            {
+              "token": ".",
+              "logprob": -1.8038737773895264
+            },
+            {
+              "token": " cotton",
+              "logprob": -3.7024288177490234
+            },
+            {
+              "token": " B",
+              "logprob": -0.5947715044021606
+            },
+            {
+              "token": ".",
+              "logprob": -0.03541180118918419
+            },
+            {
+              "token": " wool",
+              "logprob": -0.5835615396499634
+            },
+            {
+              "token": " C",
+              "logprob": -0.33233538269996643
+            },
+            {
+              "token": ".",
+              "logprob": -0.028348704800009727
+            },
+            {
+              "token": " fabric",
+              "logprob": -4.395985126495361
+            },
+            {
+              "token": " \n",
+              "logprob": -2.8106350898742676
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.295948028564453
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.0781209468841553
+            },
+            {
+              "token": ":",
+              "logprob": -0.18316523730754852
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "woolen",
+          "token_data": [
+            {
+              "token": " wool",
+              "logprob": -1.8874976634979248
+            },
+            {
+              "token": "en",
+              "logprob": -1.2653919458389282
+            },
+            {
+              "token": "\n",
+              "logprob": -2.2227702140808105
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "What material did Mia wear?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.6532609462738037
+            },
+            {
+              "token": " material",
+              "logprob": -0.2361477017402649
+            },
+            {
+              "token": " did",
+              "logprob": -2.305842399597168
+            },
+            {
+              "token": " Mia",
+              "logprob": -1.756978988647461
+            },
+            {
+              "token": " wear",
+              "logprob": -0.3308793306350708
+            },
+            {
+              "token": "?",
+              "logprob": -0.6102389097213745
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.779621124267578
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Answer: a b wool.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.3381669521331787
+            },
+            {
+              "token": ":",
+              "logprob": -1.120030403137207
+            },
+            {
+              "token": " a",
+              "logprob": -3.0074737071990967
+            },
+            {
+              "token": " b",
+              "logprob": -3.831284523010254
+            },
+            {
+              "token": " wool",
+              "logprob": -2.7981667518615723
+            },
+            {
+              "token": ".",
+              "logprob": -3.581620693206787
+            },
+            {
+              "token": " Q",
+              "logprob": -1.802246332168579
+            },
+            {
+              "token": ":",
+              "logprob": -0.04390595853328705
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "A.  Linan and Silk  B. C ot and Linan C.  Linan and Nylon",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -4.400204658508301
+            },
+            {
+              "token": " A",
+              "logprob": -3.786586284637451
+            },
+            {
+              "token": ".",
+              "logprob": -1.7769663333892822
+            },
+            {
+              "token": " ",
+              "logprob": -2.457909107208252
+            },
+            {
+              "token": " Lin",
+              "logprob": -4.22043514251709
+            },
+            {
+              "token": "an",
+              "logprob": -2.4109020233154297
+            },
+            {
+              "token": " and",
+              "logprob": -4.032749176025391
+            },
+            {
+              "token": " Silk",
+              "logprob": -3.500469207763672
+            },
+            {
+              "token": " ",
+              "logprob": -2.443751811981201
+            },
+            {
+              "token": " B",
+              "logprob": -0.47316282987594604
+            },
+            {
+              "token": ".",
+              "logprob": -0.021765880286693573
+            },
+            {
+              "token": " C",
+              "logprob": -4.850871562957764
+            },
+            {
+              "token": " ot",
+              "logprob": -4.712857246398926
+            },
+            {
+              "token": " and",
+              "logprob": -1.6293292045593262
+            },
+            {
+              "token": " Lin",
+              "logprob": -1.2691069841384888
+            },
+            {
+              "token": "an",
+              "logprob": -0.04697069153189659
+            },
+            {
+              "token": " C",
+              "logprob": -1.6936897039413452
+            },
+            {
+              "token": ".",
+              "logprob": -0.12524737417697906
+            },
+            {
+              "token": " ",
+              "logprob": -0.9237372875213623
+            },
+            {
+              "token": " Lin",
+              "logprob": -1.356407642364502
+            },
+            {
+              "token": "an",
+              "logprob": -0.018386641517281532
+            },
+            {
+              "token": " and",
+              "logprob": -0.41041114926338196
+            },
+            {
+              "token": " Nylon",
+              "logprob": -4.895216941833496
+            },
+            {
+              "token": " \n",
+              "logprob": -3.407012462615967
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "wool",
+          "token_data": [
+            {
+              "token": " wool",
+              "logprob": -1.8874976634979248
+            },
+            {
+              "token": " \n",
+              "logprob": -3.426114559173584
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Woolen.",
+          "token_data": [
+            {
+              "token": " Wool",
+              "logprob": -1.4247910976409912
+            },
+            {
+              "token": "en",
+              "logprob": -1.1367316246032715
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.8526313304901123
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "wool B: plastic C: fabric",
+          "token_data": [
+            {
+              "token": " wool",
+              "logprob": -1.8874976634979248
+            },
+            {
+              "token": " B",
+              "logprob": -3.023425579071045
+            },
+            {
+              "token": ":",
+              "logprob": -0.018437081947922707
+            },
+            {
+              "token": " plastic",
+              "logprob": -3.4417033195495605
+            },
+            {
+              "token": " C",
+              "logprob": -0.14479263126850128
+            },
+            {
+              "token": ":",
+              "logprob": -0.008710484020411968
+            },
+            {
+              "token": " fabric",
+              "logprob": -2.8939273357391357
+            },
+            {
+              "token": " Q",
+              "logprob": -1.183803677558899
+            },
+            {
+              "token": ":",
+              "logprob": -0.08087308704853058
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

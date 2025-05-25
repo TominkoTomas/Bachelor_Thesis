@@ -1,0 +1,607 @@
+{
+  "story": "Grace and Alexander were friends who lived in a small town. One day, they decided to have lunch together at Grace’s house. Grace made sandwiches and poured juice for both of them. After they finished eating, Grace washed a dirty plate while Alexander sat at the table and told her about his plans for the weekend. He wanted to go fishing at the nearby lake. Grace listened as she cleaned the dishes. She thought fishing sounded fun and asked if she could join him. Alexander smiled and said yes. They agreed to meet at the lake early the next morning. Grace finished washing the dishes and dried her hands. She was excited for their adventure. The next day, they had a great time fishing and even caught a big fish. They laughed and promised to do it again soon. It was a simple day, but it made them both happy.",
+  "characters": [
+    {
+      "question": "What did Grace clean?",
+      "character": "Grace",
+      "story": "Grace and Alexander were friends who lived in a small town. One day, they decided to have lunch together at Grace’s house. Grace made sandwiches and poured juice for both of them. After they finished eating, Grace washed a dirty plate while Alexander sat at the table and told her about his plans for the weekend. He wanted to go fishing at the nearby lake. Grace listened as she cleaned the dishes. She thought fishing sounded fun and asked if she could join him. Alexander smiled and said yes. They agreed to meet at the lake early the next morning. Grace finished washing the dishes and dried her hands. She was excited for their adventure. The next day, they had a great time fishing and even caught a big fish. They laughed and promised to do it again soon. It was a simple day, but it made them both happy.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "a dirty plate",
+          "token_data": [
+            {
+              "token": " a",
+              "logprob": -4.354257583618164
+            },
+            {
+              "token": " dirty",
+              "logprob": -0.566989004611969
+            },
+            {
+              "token": " plate",
+              "logprob": -0.06651586294174194
+            },
+            {
+              "token": " Q",
+              "logprob": -2.4684202671051025
+            },
+            {
+              "token": ":",
+              "logprob": -0.02723090909421444
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The plates.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.159665584564209
+            },
+            {
+              "token": " plates",
+              "logprob": -2.160508632659912
+            },
+            {
+              "token": ".",
+              "logprob": -0.6810844540596008
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6976057887077332
+            },
+            {
+              "token": ":",
+              "logprob": -0.015541629865765572
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "She washed a dirty plate.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -1.788861632347107
+            },
+            {
+              "token": " washed",
+              "logprob": -1.1984999179840088
+            },
+            {
+              "token": " a",
+              "logprob": -0.9647610187530518
+            },
+            {
+              "token": " dirty",
+              "logprob": -0.12195036560297012
+            },
+            {
+              "token": " plate",
+              "logprob": -0.07018508017063141
+            },
+            {
+              "token": ".",
+              "logprob": -0.4578849673271179
+            },
+            {
+              "token": " ",
+              "logprob": -2.778144359588623
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9332647919654846
+            },
+            {
+              "token": ":",
+              "logprob": -0.03129078075289726
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "A dirty plate",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -3.296329975128174
+            },
+            {
+              "token": " dirty",
+              "logprob": -0.5796833038330078
+            },
+            {
+              "token": " plate",
+              "logprob": -0.06741712987422943
+            },
+            {
+              "token": " \n",
+              "logprob": -2.9046435356140137
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "The dishes.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.159665584564209
+            },
+            {
+              "token": " dishes",
+              "logprob": -0.4617094397544861
+            },
+            {
+              "token": ".",
+              "logprob": -0.6342569589614868
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8095269203186035
+            },
+            {
+              "token": ":",
+              "logprob": -0.017816152423620224
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "She cleaned the dishes.",
+          "token_data": [
+            {
+              "token": " She",
+              "logprob": -1.788861632347107
+            },
+            {
+              "token": " cleaned",
+              "logprob": -0.7338373064994812
+            },
+            {
+              "token": " the",
+              "logprob": -0.40693238377571106
+            },
+            {
+              "token": " dishes",
+              "logprob": -0.3440386950969696
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.3010342121124268
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Dirty Plates B: Dirty Dishes",
+          "token_data": [
+            {
+              "token": " Dirty",
+              "logprob": -3.8740744590759277
+            },
+            {
+              "token": " Plates",
+              "logprob": -2.8528382778167725
+            },
+            {
+              "token": " B",
+              "logprob": -3.0434446334838867
+            },
+            {
+              "token": ":",
+              "logprob": -0.01898300275206566
+            },
+            {
+              "token": " Dirty",
+              "logprob": -0.7132108211517334
+            },
+            {
+              "token": " D",
+              "logprob": -0.8618661165237427
+            },
+            {
+              "token": "ishes",
+              "logprob": -0.00010752100206445903
+            },
+            {
+              "token": " Q",
+              "logprob": -2.136935234069824
+            },
+            {
+              "token": ":",
+              "logprob": -0.05436411127448082
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "The plates.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.159665584564209
+            },
+            {
+              "token": " plates",
+              "logprob": -2.160508632659912
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.826200246810913
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.192664623260498
+            },
+            {
+              "token": " using",
+              "logprob": -0.4504196345806122
+            },
+            {
+              "token": " one",
+              "logprob": -0.2264403998851776
+            },
+            {
+              "token": " whole",
+              "logprob": -0.10665158927440643
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.2162531167268753
+            },
+            {
+              "token": ".",
+              "logprob": -0.33849433064460754
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.1425132751464844
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Answer: They had a simple day, but it made them both happy.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -4.192664623260498
+            },
+            {
+              "token": ":",
+              "logprob": -2.092231035232544
+            },
+            {
+              "token": " They",
+              "logprob": -3.987762928009033
+            },
+            {
+              "token": " had",
+              "logprob": -3.9908924102783203
+            },
+            {
+              "token": " a",
+              "logprob": -0.5838490128517151
+            },
+            {
+              "token": " simple",
+              "logprob": -1.4313335418701172
+            },
+            {
+              "token": " day",
+              "logprob": -0.25684815645217896
+            },
+            {
+              "token": ",",
+              "logprob": -1.756413459777832
+            },
+            {
+              "token": " but",
+              "logprob": -0.06980115920305252
+            },
+            {
+              "token": " it",
+              "logprob": -0.08487028628587723
+            },
+            {
+              "token": " made",
+              "logprob": -0.04835190251469612
+            },
+            {
+              "token": " them",
+              "logprob": -0.38015615940093994
+            },
+            {
+              "token": " both",
+              "logprob": -0.027197495102882385
+            },
+            {
+              "token": " happy",
+              "logprob": -0.04398946091532707
+            },
+            {
+              "token": ".",
+              "logprob": -0.4430442154407501
+            },
+            {
+              "token": " \n\n\n",
+              "logprob": -3.389828681945801
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What did Alexander clean?",
+      "character": "Alexander",
+      "story": "Grace and Alexander were friends who lived in a small town. One day, they decided to have lunch together at Grace’s house. Grace made sandwiches and poured juice for both of them. After they finished eating, Grace washed a dirty plate while Alexander sat at the table and told her about his plans for the weekend. He wanted to go fishing at the nearby lake. Grace listened as she cleaned the dishes. She thought fishing sounded fun and asked if she could join him. Alexander smiled and said yes. They agreed to meet at the lake early the next morning. Grace finished washing the dishes and dried her hands. She was excited for their adventure. The next day, they had a great time fishing and even caught a big fish. They laughed and promised to do it again soon. It was a simple day, but it made them both happy.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "He made sandwiches for him and his friend.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -0.9599570035934448
+            },
+            {
+              "token": " made",
+              "logprob": -3.175408363342285
+            },
+            {
+              "token": " sandwiches",
+              "logprob": -1.3364455699920654
+            },
+            {
+              "token": " for",
+              "logprob": -2.7951512336730957
+            },
+            {
+              "token": " him",
+              "logprob": -3.3690738677978516
+            },
+            {
+              "token": " and",
+              "logprob": -0.03587815538048744
+            },
+            {
+              "token": " his",
+              "logprob": -2.2656619548797607
+            },
+            {
+              "token": " friend",
+              "logprob": -0.1938171684741974
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.33974552154541
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "None. They wanted to have lunch.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -3.7527382373809814
+            },
+            {
+              "token": ".",
+              "logprob": -1.6306549310684204
+            },
+            {
+              "token": " They",
+              "logprob": -4.274912357330322
+            },
+            {
+              "token": " wanted",
+              "logprob": -4.332871437072754
+            },
+            {
+              "token": " to",
+              "logprob": -0.11469557881355286
+            },
+            {
+              "token": " have",
+              "logprob": -2.146686315536499
+            },
+            {
+              "token": " lunch",
+              "logprob": -0.11943957209587097
+            },
+            {
+              "token": ".",
+              "logprob": -1.5728082656860352
+            },
+            {
+              "token": " Q",
+              "logprob": -1.268194317817688
+            },
+            {
+              "token": ":",
+              "logprob": -0.03102802112698555
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The dirty plate",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.8979122638702393
+            },
+            {
+              "token": " dirty",
+              "logprob": -1.7264529466629028
+            },
+            {
+              "token": " plate",
+              "logprob": -2.2881698608398438
+            },
+            {
+              "token": " Q",
+              "logprob": -2.6788668632507324
+            },
+            {
+              "token": ":",
+              "logprob": -0.020638009533286095
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "He cleaned his shoes.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -0.9782535433769226
+            },
+            {
+              "token": " cleaned",
+              "logprob": -1.2516497373580933
+            },
+            {
+              "token": " his",
+              "logprob": -1.172937273979187
+            },
+            {
+              "token": " shoes",
+              "logprob": -3.372828960418701
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.168198347091675
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Nothing.",
+          "token_data": [
+            {
+              "token": " Nothing",
+              "logprob": -3.74596905708313
+            },
+            {
+              "token": ".",
+              "logprob": -0.5149738788604736
+            },
+            {
+              "token": " \n",
+              "logprob": -2.306126832962036
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The plates",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.8979122638702393
+            },
+            {
+              "token": " plates",
+              "logprob": -2.067864418029785
+            },
+            {
+              "token": "\n",
+              "logprob": -3.0374038219451904
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "He washed the dishes.",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -0.9782535433769226
+            },
+            {
+              "token": " washed",
+              "logprob": -1.7248057126998901
+            },
+            {
+              "token": " the",
+              "logprob": -1.0702532529830933
+            },
+            {
+              "token": " dishes",
+              "logprob": -0.5193784236907959
+            },
+            {
+              "token": ".",
+              "logprob": -0.3618547022342682
+            },
+            {
+              "token": " Q",
+              "logprob": -0.6751787066459656
+            },
+            {
+              "token": ":",
+              "logprob": -0.01718394085764885
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "A dirty plate",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.9817955493927
+            },
+            {
+              "token": " dirty",
+              "logprob": -0.7646846771240234
+            },
+            {
+              "token": " plate",
+              "logprob": -0.06513328850269318
+            },
+            {
+              "token": " Q",
+              "logprob": -2.1966795921325684
+            },
+            {
+              "token": ":",
+              "logprob": -0.0198585856705904
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.9334137439727783
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -3.9334137439727783
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

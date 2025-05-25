@@ -1,0 +1,1379 @@
+{
+  "story": "Chloe and Mia were best friends who loved to play together. One day, they were at Chloe's house, running around the living room. Chloe was pretending to be a superhero, and Mia was laughing at her silly moves. Suddenly, Chloe tripped over the rug and fell. \"Oh no!\" she shouted. Chloe broke a ceramic vase that was on the table. It shattered into many pieces. Mia gasped but didn't say anything. Chloe felt bad and started to clean up the mess. Mia helped her pick up the big pieces. Chloe's mom came in and asked what happened. Chloe told the truth and said she was sorry. Her mom smiled and said it was okay, but to be more careful next time. After that, Chloe and Mia went outside to play, making sure to be safe. They had fun the rest of the day, and Chloe promised to be less clumsy. Mia just giggled and said, \"You're still my best friend, even if you break things.\" They both laughed and hugged.",
+  "characters": [
+    {
+      "question": "What material was the vase Chloe broke?",
+      "character": "Chloe",
+      "story": "Chloe and Mia were best friends who loved to play together. One day, they were at Chloe's house, running around the living room. Chloe was pretending to be a superhero, and Mia was laughing at her silly moves. Suddenly, Chloe tripped over the rug and fell. \"Oh no!\" she shouted. Chloe broke a ceramic vase that was on the table. It shattered into many pieces. Mia gasped but didn't say anything. Chloe felt bad and started to clean up the mess. Mia helped her pick up the big pieces. Chloe's mom came in and asked what happened. Chloe told the truth and said she was sorry. Her mom smiled and said it was okay, but to be more careful next time. After that, Chloe and Mia went outside to play, making sure to be safe. They had fun the rest of the day, and Chloe promised to be less clumsy. Mia just giggled and said, \"You're still my best friend, even if you break things.\" They both laughed and hugged.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.062514781951904
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The vase was made of ceramic. It broke because Chloe fell over the rug, breaking the ceramic. This means that you must think critically about what material a ceramic is made of.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.21181058883667
+            },
+            {
+              "token": " vase",
+              "logprob": -0.5480034351348877
+            },
+            {
+              "token": " was",
+              "logprob": -0.4648270905017853
+            },
+            {
+              "token": " made",
+              "logprob": -0.864277184009552
+            },
+            {
+              "token": " of",
+              "logprob": -0.2853146493434906
+            },
+            {
+              "token": " ceramic",
+              "logprob": -0.40446847677230835
+            },
+            {
+              "token": ".",
+              "logprob": -0.5534625053405762
+            },
+            {
+              "token": " It",
+              "logprob": -2.769665002822876
+            },
+            {
+              "token": " broke",
+              "logprob": -1.4957399368286133
+            },
+            {
+              "token": " because",
+              "logprob": -2.66888427734375
+            },
+            {
+              "token": " Chloe",
+              "logprob": -1.2363636493682861
+            },
+            {
+              "token": " fell",
+              "logprob": -1.8485580682754517
+            },
+            {
+              "token": " over",
+              "logprob": -1.796045184135437
+            },
+            {
+              "token": " the",
+              "logprob": -1.0681018829345703
+            },
+            {
+              "token": " rug",
+              "logprob": -0.22484555840492249
+            },
+            {
+              "token": ",",
+              "logprob": -2.864798069000244
+            },
+            {
+              "token": " breaking",
+              "logprob": -2.1589558124542236
+            },
+            {
+              "token": " the",
+              "logprob": -0.4962282180786133
+            },
+            {
+              "token": " ceramic",
+              "logprob": -2.4646012783050537
+            },
+            {
+              "token": ".",
+              "logprob": -2.1834912300109863
+            },
+            {
+              "token": " This",
+              "logprob": -4.014744758605957
+            },
+            {
+              "token": " means",
+              "logprob": -4.067291259765625
+            },
+            {
+              "token": " that",
+              "logprob": -0.6836828589439392
+            },
+            {
+              "token": " you",
+              "logprob": -3.892371416091919
+            },
+            {
+              "token": " must",
+              "logprob": -2.875948190689087
+            },
+            {
+              "token": " think",
+              "logprob": -4.299543380737305
+            },
+            {
+              "token": " critically",
+              "logprob": -3.2677786350250244
+            },
+            {
+              "token": " about",
+              "logprob": -1.2338840961456299
+            },
+            {
+              "token": " what",
+              "logprob": -1.8560465574264526
+            },
+            {
+              "token": " material",
+              "logprob": -2.71022367477417
+            },
+            {
+              "token": " a",
+              "logprob": -3.2643790245056152
+            },
+            {
+              "token": " ceramic",
+              "logprob": -1.8489906787872314
+            },
+            {
+              "token": " is",
+              "logprob": -1.640899658203125
+            },
+            {
+              "token": " made",
+              "logprob": -0.6922154426574707
+            },
+            {
+              "token": " of",
+              "logprob": -0.24385976791381836
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.295573711395264
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "The vase was broken.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.21181058883667
+            },
+            {
+              "token": " vase",
+              "logprob": -0.5480034351348877
+            },
+            {
+              "token": " was",
+              "logprob": -0.4648270905017853
+            },
+            {
+              "token": " broken",
+              "logprob": -2.870109796524048
+            },
+            {
+              "token": ".",
+              "logprob": -2.1994967460632324
+            },
+            {
+              "token": "  \n",
+              "logprob": -4.393527507781982
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "It is the same, because this kind of information is not necessary. I would like you to tell the truth, and we do need to talk more. That would be an unacceptable behavior if you wanted to do a good job in the company.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -3.2313590049743652
+            },
+            {
+              "token": " is",
+              "logprob": -2.712528705596924
+            },
+            {
+              "token": " the",
+              "logprob": -3.4876062870025635
+            },
+            {
+              "token": " same",
+              "logprob": -2.910452365875244
+            },
+            {
+              "token": ",",
+              "logprob": -4.051731586456299
+            },
+            {
+              "token": " because",
+              "logprob": -3.5355381965637207
+            },
+            {
+              "token": " this",
+              "logprob": -3.3752598762512207
+            },
+            {
+              "token": " kind",
+              "logprob": -4.788561820983887
+            },
+            {
+              "token": " of",
+              "logprob": -0.03802156075835228
+            },
+            {
+              "token": " information",
+              "logprob": -3.4466910362243652
+            },
+            {
+              "token": " is",
+              "logprob": -0.5573714375495911
+            },
+            {
+              "token": " not",
+              "logprob": -1.6856600046157837
+            },
+            {
+              "token": " necessary",
+              "logprob": -3.1954941749572754
+            },
+            {
+              "token": ".",
+              "logprob": -1.7295165061950684
+            },
+            {
+              "token": " I",
+              "logprob": -4.406801223754883
+            },
+            {
+              "token": " would",
+              "logprob": -2.947262763977051
+            },
+            {
+              "token": " like",
+              "logprob": -0.5750070214271545
+            },
+            {
+              "token": " you",
+              "logprob": -2.696016311645508
+            },
+            {
+              "token": " to",
+              "logprob": -0.05272264406085014
+            },
+            {
+              "token": " tell",
+              "logprob": -3.1881251335144043
+            },
+            {
+              "token": " the",
+              "logprob": -1.8974648714065552
+            },
+            {
+              "token": " truth",
+              "logprob": -2.237727403640747
+            },
+            {
+              "token": ",",
+              "logprob": -1.720646858215332
+            },
+            {
+              "token": " and",
+              "logprob": -1.9791587591171265
+            },
+            {
+              "token": " we",
+              "logprob": -4.332638740539551
+            },
+            {
+              "token": " do",
+              "logprob": -4.477235794067383
+            },
+            {
+              "token": " need",
+              "logprob": -3.7975051403045654
+            },
+            {
+              "token": " to",
+              "logprob": -0.5701605081558228
+            },
+            {
+              "token": " talk",
+              "logprob": -3.6937055587768555
+            },
+            {
+              "token": " more",
+              "logprob": -3.1121833324432373
+            },
+            {
+              "token": ".",
+              "logprob": -1.7051239013671875
+            },
+            {
+              "token": " That",
+              "logprob": -4.600698471069336
+            },
+            {
+              "token": " would",
+              "logprob": -2.9244236946105957
+            },
+            {
+              "token": " be",
+              "logprob": -0.26537448167800903
+            },
+            {
+              "token": " an",
+              "logprob": -3.308985948562622
+            },
+            {
+              "token": " unacceptable",
+              "logprob": -5.090885639190674
+            },
+            {
+              "token": " behavior",
+              "logprob": -3.6753125190734863
+            },
+            {
+              "token": " if",
+              "logprob": -4.853677272796631
+            },
+            {
+              "token": " you",
+              "logprob": -0.9368702173233032
+            },
+            {
+              "token": " wanted",
+              "logprob": -4.59291934967041
+            },
+            {
+              "token": " to",
+              "logprob": -0.2129034698009491
+            },
+            {
+              "token": " do",
+              "logprob": -3.591954231262207
+            },
+            {
+              "token": " a",
+              "logprob": -3.185744047164917
+            },
+            {
+              "token": " good",
+              "logprob": -1.0886256694793701
+            },
+            {
+              "token": " job",
+              "logprob": -0.2630941569805145
+            },
+            {
+              "token": " in",
+              "logprob": -3.5959746837615967
+            },
+            {
+              "token": " the",
+              "logprob": -1.2204378843307495
+            },
+            {
+              "token": " company",
+              "logprob": -3.8782877922058105
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.5946273803710938
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Break more to this sentence.",
+          "token_data": [
+            {
+              "token": " Break",
+              "logprob": -4.954574108123779
+            },
+            {
+              "token": " more",
+              "logprob": -3.822261333465576
+            },
+            {
+              "token": " to",
+              "logprob": -2.9684739112854004
+            },
+            {
+              "token": " this",
+              "logprob": -3.699091672897339
+            },
+            {
+              "token": " sentence",
+              "logprob": -2.910985231399536
+            },
+            {
+              "token": ".",
+              "logprob": -0.597547173500061
+            },
+            {
+              "token": " ",
+              "logprob": -2.891301155090332
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.061761379241943
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Answer using one whole sentence.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.604735851287842
+            },
+            {
+              "token": " using",
+              "logprob": -0.3583626449108124
+            },
+            {
+              "token": " one",
+              "logprob": -0.21533700823783875
+            },
+            {
+              "token": " whole",
+              "logprob": -0.1295391172170639
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.3901292383670807
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.4436697959899902
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "What material was the vase? A: a ceramic vase.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.2395033836364746
+            },
+            {
+              "token": " material",
+              "logprob": -0.2747950851917267
+            },
+            {
+              "token": " was",
+              "logprob": -0.28458940982818604
+            },
+            {
+              "token": " the",
+              "logprob": -0.042893026024103165
+            },
+            {
+              "token": " vase",
+              "logprob": -0.03026752918958664
+            },
+            {
+              "token": "?",
+              "logprob": -2.3002095222473145
+            },
+            {
+              "token": " A",
+              "logprob": -1.0892794132232666
+            },
+            {
+              "token": ":",
+              "logprob": -0.077791228890419
+            },
+            {
+              "token": " a",
+              "logprob": -4.950277328491211
+            },
+            {
+              "token": " ceramic",
+              "logprob": -0.6966577768325806
+            },
+            {
+              "token": " vase",
+              "logprob": -0.45958220958709717
+            },
+            {
+              "token": ".",
+              "logprob": -0.500889778137207
+            },
+            {
+              "token": " \n",
+              "logprob": -2.4511752128601074
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The vase was a piece of pottery that broke and shattered.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.21181058883667
+            },
+            {
+              "token": " vase",
+              "logprob": -0.5480034351348877
+            },
+            {
+              "token": " was",
+              "logprob": -0.4648270905017853
+            },
+            {
+              "token": " a",
+              "logprob": -1.2129919528961182
+            },
+            {
+              "token": " piece",
+              "logprob": -1.4550814628601074
+            },
+            {
+              "token": " of",
+              "logprob": -0.019599229097366333
+            },
+            {
+              "token": " pottery",
+              "logprob": -3.2974119186401367
+            },
+            {
+              "token": " that",
+              "logprob": -2.7259671688079834
+            },
+            {
+              "token": " broke",
+              "logprob": -1.7760486602783203
+            },
+            {
+              "token": " and",
+              "logprob": -4.340976238250732
+            },
+            {
+              "token": " shattered",
+              "logprob": -0.3874550759792328
+            },
+            {
+              "token": ".",
+              "logprob": -1.4564300775527954
+            },
+            {
+              "token": " Q",
+              "logprob": -1.512446403503418
+            },
+            {
+              "token": ":",
+              "logprob": -0.02807716652750969
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "Ceramic",
+          "token_data": [
+            {
+              "token": " Ceramic",
+              "logprob": -2.441009998321533
+            },
+            {
+              "token": " Q",
+              "logprob": -1.9059441089630127
+            },
+            {
+              "token": ":",
+              "logprob": -0.03482113033533096
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What material was the vase Mia broke?",
+      "character": "Mia",
+      "story": "Chloe and Mia were best friends who loved to play together. One day, they were at Chloe's house, running around the living room. Chloe was pretending to be a superhero, and Mia was laughing at her silly moves. Suddenly, Chloe tripped over the rug and fell. \"Oh no!\" she shouted. Chloe broke a ceramic vase that was on the table. It shattered into many pieces. Mia gasped but didn't say anything. Chloe felt bad and started to clean up the mess. Mia helped her pick up the big pieces. Chloe's mom came in and asked what happened. Chloe told the truth and said she was sorry. Her mom smiled and said it was okay, but to be more careful next time. After that, Chloe and Mia went outside to play, making sure to be safe. They had fun the rest of the day, and Chloe promised to be less clumsy. Mia just giggled and said, \"You're still my best friend, even if you break things.\" They both laughed and hugged.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The ceramic vase was broken.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.3109002113342285
+            },
+            {
+              "token": " ceramic",
+              "logprob": -3.2220962047576904
+            },
+            {
+              "token": " vase",
+              "logprob": -0.2695330083370209
+            },
+            {
+              "token": " was",
+              "logprob": -1.2343286275863647
+            },
+            {
+              "token": " broken",
+              "logprob": -2.088026523590088
+            },
+            {
+              "token": ".",
+              "logprob": -1.207973599433899
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9516991376876831
+            },
+            {
+              "token": ":",
+              "logprob": -0.023386014625430107
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "What material is the vase made out of?  A: Ceramic vases are made out of a very hard clay, often mixed with other materials like gold. This allows the vessel to be strong and breakable at the same time.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.2961902618408203
+            },
+            {
+              "token": " material",
+              "logprob": -0.2667476534843445
+            },
+            {
+              "token": " is",
+              "logprob": -2.781296730041504
+            },
+            {
+              "token": " the",
+              "logprob": -0.15646354854106903
+            },
+            {
+              "token": " vase",
+              "logprob": -0.12658748030662537
+            },
+            {
+              "token": " made",
+              "logprob": -2.3616929054260254
+            },
+            {
+              "token": " out",
+              "logprob": -1.2834885120391846
+            },
+            {
+              "token": " of",
+              "logprob": -0.020158886909484863
+            },
+            {
+              "token": "?",
+              "logprob": -0.12277490645647049
+            },
+            {
+              "token": " ",
+              "logprob": -3.1357462406158447
+            },
+            {
+              "token": " A",
+              "logprob": -2.4742684364318848
+            },
+            {
+              "token": ":",
+              "logprob": -0.3163806200027466
+            },
+            {
+              "token": " Ceramic",
+              "logprob": -3.5878167152404785
+            },
+            {
+              "token": " v",
+              "logprob": -4.18605899810791
+            },
+            {
+              "token": "ases",
+              "logprob": -0.12431056052446365
+            },
+            {
+              "token": " are",
+              "logprob": -0.5979242324829102
+            },
+            {
+              "token": " made",
+              "logprob": -1.1763288974761963
+            },
+            {
+              "token": " out",
+              "logprob": -0.6062839031219482
+            },
+            {
+              "token": " of",
+              "logprob": -0.008705283515155315
+            },
+            {
+              "token": " a",
+              "logprob": -2.985879898071289
+            },
+            {
+              "token": " very",
+              "logprob": -2.3583884239196777
+            },
+            {
+              "token": " hard",
+              "logprob": -0.8205937147140503
+            },
+            {
+              "token": " clay",
+              "logprob": -2.9279985427856445
+            },
+            {
+              "token": ",",
+              "logprob": -2.4904887676239014
+            },
+            {
+              "token": " often",
+              "logprob": -3.7054972648620605
+            },
+            {
+              "token": " mixed",
+              "logprob": -3.288555145263672
+            },
+            {
+              "token": " with",
+              "logprob": -0.06927206367254257
+            },
+            {
+              "token": " other",
+              "logprob": -1.601596474647522
+            },
+            {
+              "token": " materials",
+              "logprob": -0.2885211110115051
+            },
+            {
+              "token": " like",
+              "logprob": -1.8051347732543945
+            },
+            {
+              "token": " gold",
+              "logprob": -4.663316249847412
+            },
+            {
+              "token": ".",
+              "logprob": -1.4383039474487305
+            },
+            {
+              "token": " This",
+              "logprob": -2.969341278076172
+            },
+            {
+              "token": " allows",
+              "logprob": -3.482226848602295
+            },
+            {
+              "token": " the",
+              "logprob": -0.9375308752059937
+            },
+            {
+              "token": " vessel",
+              "logprob": -5.042970657348633
+            },
+            {
+              "token": " to",
+              "logprob": -0.046629417687654495
+            },
+            {
+              "token": " be",
+              "logprob": -0.381386935710907
+            },
+            {
+              "token": " strong",
+              "logprob": -1.6713941097259521
+            },
+            {
+              "token": " and",
+              "logprob": -0.8316251039505005
+            },
+            {
+              "token": " break",
+              "logprob": -1.9430543184280396
+            },
+            {
+              "token": "able",
+              "logprob": -2.1850836277008057
+            },
+            {
+              "token": " at",
+              "logprob": -1.741072416305542
+            },
+            {
+              "token": " the",
+              "logprob": -0.021533852443099022
+            },
+            {
+              "token": " same",
+              "logprob": -0.014157571829855442
+            },
+            {
+              "token": " time",
+              "logprob": -0.008182927966117859
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.2004823684692383
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Breaks, Not Brings",
+          "token_data": [
+            {
+              "token": " Break",
+              "logprob": -5.1430768966674805
+            },
+            {
+              "token": "s",
+              "logprob": -3.9062559604644775
+            },
+            {
+              "token": ",",
+              "logprob": -2.949073314666748
+            },
+            {
+              "token": " Not",
+              "logprob": -5.329413890838623
+            },
+            {
+              "token": " Br",
+              "logprob": -4.532893180847168
+            },
+            {
+              "token": "ings",
+              "logprob": -1.617932915687561
+            },
+            {
+              "token": "\n",
+              "logprob": -2.1951887607574463
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "4 points",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.69781494140625
+            },
+            {
+              "token": "4",
+              "logprob": -4.624630928039551
+            },
+            {
+              "token": " points",
+              "logprob": -3.657078742980957
+            },
+            {
+              "token": "\n",
+              "logprob": -2.6243739128112793
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Why or why not? Give two examples of one whole sentences.",
+          "token_data": [
+            {
+              "token": " Why",
+              "logprob": -5.2118072509765625
+            },
+            {
+              "token": " or",
+              "logprob": -2.3206241130828857
+            },
+            {
+              "token": " why",
+              "logprob": -0.4401223659515381
+            },
+            {
+              "token": " not",
+              "logprob": -0.06400332599878311
+            },
+            {
+              "token": "?",
+              "logprob": -0.21670731902122498
+            },
+            {
+              "token": " Give",
+              "logprob": -4.769764423370361
+            },
+            {
+              "token": " two",
+              "logprob": -4.3156609535217285
+            },
+            {
+              "token": " examples",
+              "logprob": -1.4221006631851196
+            },
+            {
+              "token": " of",
+              "logprob": -1.6565215587615967
+            },
+            {
+              "token": " one",
+              "logprob": -4.772128105163574
+            },
+            {
+              "token": " whole",
+              "logprob": -0.74883633852005
+            },
+            {
+              "token": " sentences",
+              "logprob": -1.548194408416748
+            },
+            {
+              "token": ".",
+              "logprob": -0.48434409499168396
+            },
+            {
+              "token": " \n",
+              "logprob": -0.9975000619888306
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "A ceramic vase.",
+          "token_data": [
+            {
+              "token": " A",
+              "logprob": -2.3924055099487305
+            },
+            {
+              "token": " ceramic",
+              "logprob": -1.6141148805618286
+            },
+            {
+              "token": " vase",
+              "logprob": -0.32891035079956055
+            },
+            {
+              "token": ".",
+              "logprob": -0.5979539155960083
+            },
+            {
+              "token": " \n",
+              "logprob": -2.2234368324279785
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "Ceramic",
+          "token_data": [
+            {
+              "token": " Ceramic",
+              "logprob": -2.7521286010742188
+            },
+            {
+              "token": " \n",
+              "logprob": -3.941080093383789
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "What material did you use? (Answer using one whole sentence. Do NOT say \"What was that?\" because this does not count.)",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -3.2961902618408203
+            },
+            {
+              "token": " material",
+              "logprob": -0.2667476534843445
+            },
+            {
+              "token": " did",
+              "logprob": -2.9005727767944336
+            },
+            {
+              "token": " you",
+              "logprob": -2.812802791595459
+            },
+            {
+              "token": " use",
+              "logprob": -1.214913010597229
+            },
+            {
+              "token": "?",
+              "logprob": -1.859933853149414
+            },
+            {
+              "token": " (",
+              "logprob": -3.5626449584960938
+            },
+            {
+              "token": "Answer",
+              "logprob": -4.419795036315918
+            },
+            {
+              "token": " using",
+              "logprob": -1.256446123123169
+            },
+            {
+              "token": " one",
+              "logprob": -0.24210068583488464
+            },
+            {
+              "token": " whole",
+              "logprob": -0.18711671233177185
+            },
+            {
+              "token": " sentence",
+              "logprob": -0.3652447462081909
+            },
+            {
+              "token": ".",
+              "logprob": -2.5410027503967285
+            },
+            {
+              "token": " Do",
+              "logprob": -3.3607888221740723
+            },
+            {
+              "token": " NOT",
+              "logprob": -2.509077310562134
+            },
+            {
+              "token": " say",
+              "logprob": -4.430809497833252
+            },
+            {
+              "token": " \"",
+              "logprob": -1.76156747341156
+            },
+            {
+              "token": "What",
+              "logprob": -3.1046533584594727
+            },
+            {
+              "token": " was",
+              "logprob": -3.9777350425720215
+            },
+            {
+              "token": " that",
+              "logprob": -3.56607985496521
+            },
+            {
+              "token": "?\"",
+              "logprob": -1.7923572063446045
+            },
+            {
+              "token": " because",
+              "logprob": -3.8935792446136475
+            },
+            {
+              "token": " this",
+              "logprob": -2.1757659912109375
+            },
+            {
+              "token": " does",
+              "logprob": -3.8565006256103516
+            },
+            {
+              "token": " not",
+              "logprob": -0.13110417127609253
+            },
+            {
+              "token": " count",
+              "logprob": -4.4371442794799805
+            },
+            {
+              "token": ".)",
+              "logprob": -2.7843008041381836
+            },
+            {
+              "token": " \n\n",
+              "logprob": -1.9756684303283691
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "Break anything else.",
+          "token_data": [
+            {
+              "token": " Break",
+              "logprob": -5.1430768966674805
+            },
+            {
+              "token": " anything",
+              "logprob": -4.704525947570801
+            },
+            {
+              "token": " else",
+              "logprob": -4.56892728805542
+            },
+            {
+              "token": ".",
+              "logprob": -2.0005385875701904
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.1692395210266113
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The vase Mia broke was a ceramic. Why are we looking for the material of a broken vase? To show how the 5 W's help students explain the details of their story, which in turn can help to better understand or interpret the central ideas and key ideas.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.321990966796875
+            },
+            {
+              "token": " vase",
+              "logprob": -0.5329139232635498
+            },
+            {
+              "token": " Mia",
+              "logprob": -1.5800426006317139
+            },
+            {
+              "token": " broke",
+              "logprob": -0.06423968076705933
+            },
+            {
+              "token": " was",
+              "logprob": -0.14367613196372986
+            },
+            {
+              "token": " a",
+              "logprob": -0.7930545806884766
+            },
+            {
+              "token": " ceramic",
+              "logprob": -1.2359979152679443
+            },
+            {
+              "token": ".",
+              "logprob": -2.095874547958374
+            },
+            {
+              "token": " Why",
+              "logprob": -3.9989266395568848
+            },
+            {
+              "token": " are",
+              "logprob": -4.553483009338379
+            },
+            {
+              "token": " we",
+              "logprob": -2.3127663135528564
+            },
+            {
+              "token": " looking",
+              "logprob": -3.820708751678467
+            },
+            {
+              "token": " for",
+              "logprob": -1.9187861680984497
+            },
+            {
+              "token": " the",
+              "logprob": -0.8029257655143738
+            },
+            {
+              "token": " material",
+              "logprob": -3.609605312347412
+            },
+            {
+              "token": " of",
+              "logprob": -1.4055455923080444
+            },
+            {
+              "token": " a",
+              "logprob": -2.3685808181762695
+            },
+            {
+              "token": " broken",
+              "logprob": -0.8772338628768921
+            },
+            {
+              "token": " vase",
+              "logprob": -0.5435919165611267
+            },
+            {
+              "token": "?",
+              "logprob": -0.21036213636398315
+            },
+            {
+              "token": " To",
+              "logprob": -3.852621555328369
+            },
+            {
+              "token": " show",
+              "logprob": -3.3943731784820557
+            },
+            {
+              "token": " how",
+              "logprob": -1.8483161926269531
+            },
+            {
+              "token": " the",
+              "logprob": -2.9827539920806885
+            },
+            {
+              "token": " ",
+              "logprob": -5.048812389373779
+            },
+            {
+              "token": "5",
+              "logprob": -1.082165241241455
+            },
+            {
+              "token": " W",
+              "logprob": -1.6166212558746338
+            },
+            {
+              "token": "'s",
+              "logprob": -0.3918381631374359
+            },
+            {
+              "token": " help",
+              "logprob": -2.6439144611358643
+            },
+            {
+              "token": " students",
+              "logprob": -3.417011022567749
+            },
+            {
+              "token": " explain",
+              "logprob": -4.831787109375
+            },
+            {
+              "token": " the",
+              "logprob": -1.9348936080932617
+            },
+            {
+              "token": " details",
+              "logprob": -4.266331672668457
+            },
+            {
+              "token": " of",
+              "logprob": -0.29146501421928406
+            },
+            {
+              "token": " their",
+              "logprob": -1.8134815692901611
+            },
+            {
+              "token": " story",
+              "logprob": -1.2404731512069702
+            },
+            {
+              "token": ",",
+              "logprob": -3.0119996070861816
+            },
+            {
+              "token": " which",
+              "logprob": -3.349360227584839
+            },
+            {
+              "token": " in",
+              "logprob": -1.9197568893432617
+            },
+            {
+              "token": " turn",
+              "logprob": -0.5859084725379944
+            },
+            {
+              "token": " can",
+              "logprob": -2.413285732269287
+            },
+            {
+              "token": " help",
+              "logprob": -0.4588414132595062
+            },
+            {
+              "token": " to",
+              "logprob": -3.8639392852783203
+            },
+            {
+              "token": " better",
+              "logprob": -4.1267852783203125
+            },
+            {
+              "token": " understand",
+              "logprob": -1.3051868677139282
+            },
+            {
+              "token": " or",
+              "logprob": -4.321124076843262
+            },
+            {
+              "token": " interpret",
+              "logprob": -2.5003092288970947
+            },
+            {
+              "token": " the",
+              "logprob": -0.7009021043777466
+            },
+            {
+              "token": " central",
+              "logprob": -5.273346424102783
+            },
+            {
+              "token": " ideas",
+              "logprob": -1.9307312965393066
+            },
+            {
+              "token": " and",
+              "logprob": -3.411543130874634
+            },
+            {
+              "token": " key",
+              "logprob": -4.5118560791015625
+            },
+            {
+              "token": " ideas",
+              "logprob": -2.1906051635742188
+            },
+            {
+              "token": ".\n",
+              "logprob": -4.745779037475586
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

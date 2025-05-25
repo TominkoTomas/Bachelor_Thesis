@@ -1,0 +1,1199 @@
+{
+  "story": "Evelyn and Sam were best friends. One day, they went to the mall together. Evelyn loved shopping, but Sam just wanted to eat ice cream. Evelyn saw a store with colorful clothes. She went inside while Sam waited outside. Inside, Evelyn found a pair of bright orange socks. She thought they were fun and decided to buy them. Evelyn bought orange socks. She came out of the store happy with her purchase. Sam was still eating ice cream and didn’t notice the socks. They walked around the mall some more. Sam told Evelyn about a new movie he wanted to see. Evelyn agreed to go with him next week. They had a great time together and promised to hang out again soon. The orange socks made Evelyn smile every time she wore them. Sam never knew why, but he was glad his friend was happy.",
+  "characters": [
+    {
+      "question": "What color are Evelyn's new socks?",
+      "character": "Evelyn",
+      "story": "Evelyn and Sam were best friends. One day, they went to the mall together. Evelyn loved shopping, but Sam just wanted to eat ice cream. Evelyn saw a store with colorful clothes. She went inside while Sam waited outside. Inside, Evelyn found a pair of bright orange socks. She thought they were fun and decided to buy them. Evelyn bought orange socks. She came out of the store happy with her purchase. Sam was still eating ice cream and didn’t notice the socks. They walked around the mall some more. Sam told Evelyn about a new movie he wanted to see. Evelyn agreed to go with him next week. They had a great time together and promised to hang out again soon. The orange socks made Evelyn smile every time she wore them. Sam never knew why, but he was glad his friend was happy.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "The socks Evelyn got were orange because they made her smile.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.759027361869812
+            },
+            {
+              "token": " socks",
+              "logprob": -1.036340355873108
+            },
+            {
+              "token": " Evelyn",
+              "logprob": -3.0938639640808105
+            },
+            {
+              "token": " got",
+              "logprob": -2.59011173248291
+            },
+            {
+              "token": " were",
+              "logprob": -0.6652116775512695
+            },
+            {
+              "token": " orange",
+              "logprob": -1.7232424020767212
+            },
+            {
+              "token": " because",
+              "logprob": -3.3438236713409424
+            },
+            {
+              "token": " they",
+              "logprob": -1.7210841178894043
+            },
+            {
+              "token": " made",
+              "logprob": -4.473657608032227
+            },
+            {
+              "token": " her",
+              "logprob": -0.07731125503778458
+            },
+            {
+              "token": " smile",
+              "logprob": -1.0342483520507812
+            },
+            {
+              "token": ".",
+              "logprob": -0.7658904194831848
+            },
+            {
+              "token": " Q",
+              "logprob": -2.6981334686279297
+            },
+            {
+              "token": ":",
+              "logprob": -0.01960565894842148
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "Evelyn bought a pair of bright orange socks.",
+          "token_data": [
+            {
+              "token": " Evelyn",
+              "logprob": -4.076401710510254
+            },
+            {
+              "token": " bought",
+              "logprob": -1.0986247062683105
+            },
+            {
+              "token": " a",
+              "logprob": -1.8512829542160034
+            },
+            {
+              "token": " pair",
+              "logprob": -0.477350115776062
+            },
+            {
+              "token": " of",
+              "logprob": -0.02346928045153618
+            },
+            {
+              "token": " bright",
+              "logprob": -0.26097506284713745
+            },
+            {
+              "token": " orange",
+              "logprob": -0.04440416768193245
+            },
+            {
+              "token": " socks",
+              "logprob": -0.014661076478660107
+            },
+            {
+              "token": ".",
+              "logprob": -0.42613381147384644
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Purple",
+          "token_data": [
+            {
+              "token": " Purple",
+              "logprob": -4.332895278930664
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.9415340423583984
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "What color are Sam's new socks? A: What color is Evelyn wearing when she buys orange socks? A: What color socks do Evelyn and Sam each decide to get for themselves in order to please one of their friends?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.743967056274414
+            },
+            {
+              "token": " color",
+              "logprob": -0.17111003398895264
+            },
+            {
+              "token": " are",
+              "logprob": -0.4706857204437256
+            },
+            {
+              "token": " Sam",
+              "logprob": -2.686993360519409
+            },
+            {
+              "token": "'s",
+              "logprob": -0.04411745443940163
+            },
+            {
+              "token": " new",
+              "logprob": -0.7234123945236206
+            },
+            {
+              "token": " socks",
+              "logprob": -0.07622779160737991
+            },
+            {
+              "token": "?",
+              "logprob": -0.15277455747127533
+            },
+            {
+              "token": " A",
+              "logprob": -1.8289432525634766
+            },
+            {
+              "token": ":",
+              "logprob": -0.0651497095823288
+            },
+            {
+              "token": " What",
+              "logprob": -0.43002790212631226
+            },
+            {
+              "token": " color",
+              "logprob": -0.054137829691171646
+            },
+            {
+              "token": " is",
+              "logprob": -2.97798752784729
+            },
+            {
+              "token": " Evelyn",
+              "logprob": -1.2951252460479736
+            },
+            {
+              "token": " wearing",
+              "logprob": -2.958430290222168
+            },
+            {
+              "token": " when",
+              "logprob": -4.542067050933838
+            },
+            {
+              "token": " she",
+              "logprob": -0.317535936832428
+            },
+            {
+              "token": " buys",
+              "logprob": -3.585691452026367
+            },
+            {
+              "token": " orange",
+              "logprob": -2.4492974281311035
+            },
+            {
+              "token": " socks",
+              "logprob": -0.013491406105458736
+            },
+            {
+              "token": "?",
+              "logprob": -0.20063908398151398
+            },
+            {
+              "token": " A",
+              "logprob": -0.35365304350852966
+            },
+            {
+              "token": ":",
+              "logprob": -0.019055519253015518
+            },
+            {
+              "token": " What",
+              "logprob": -0.22270028293132782
+            },
+            {
+              "token": " color",
+              "logprob": -0.05696018040180206
+            },
+            {
+              "token": " socks",
+              "logprob": -2.8567419052124023
+            },
+            {
+              "token": " do",
+              "logprob": -2.6587038040161133
+            },
+            {
+              "token": " Evelyn",
+              "logprob": -2.3881733417510986
+            },
+            {
+              "token": " and",
+              "logprob": -1.8602046966552734
+            },
+            {
+              "token": " Sam",
+              "logprob": -0.02161329984664917
+            },
+            {
+              "token": " each",
+              "logprob": -3.7720861434936523
+            },
+            {
+              "token": " decide",
+              "logprob": -4.099830150604248
+            },
+            {
+              "token": " to",
+              "logprob": -0.20233334600925446
+            },
+            {
+              "token": " get",
+              "logprob": -2.408104658126831
+            },
+            {
+              "token": " for",
+              "logprob": -2.699808359146118
+            },
+            {
+              "token": " themselves",
+              "logprob": -0.7746822834014893
+            },
+            {
+              "token": " in",
+              "logprob": -4.497848987579346
+            },
+            {
+              "token": " order",
+              "logprob": -2.98241925239563
+            },
+            {
+              "token": " to",
+              "logprob": -0.10748272389173508
+            },
+            {
+              "token": " please",
+              "logprob": -3.195896863937378
+            },
+            {
+              "token": " one",
+              "logprob": -3.005394220352173
+            },
+            {
+              "token": " of",
+              "logprob": -1.816511869430542
+            },
+            {
+              "token": " their",
+              "logprob": -1.122518539428711
+            },
+            {
+              "token": " friends",
+              "logprob": -0.23979593813419342
+            },
+            {
+              "token": "?",
+              "logprob": -0.2713082730770111
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.5146641731262207
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "They are orange.",
+          "token_data": [
+            {
+              "token": " They",
+              "logprob": -2.13525390625
+            },
+            {
+              "token": " are",
+              "logprob": -0.1295798420906067
+            },
+            {
+              "token": " orange",
+              "logprob": -1.5457576513290405
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.0822794437408447
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The answer goes here.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.8308219909667969
+            },
+            {
+              "token": " answer",
+              "logprob": -3.0389225482940674
+            },
+            {
+              "token": " goes",
+              "logprob": -3.0837225914001465
+            },
+            {
+              "token": " here",
+              "logprob": -0.5132300853729248
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -2.2909040451049805
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "They are bright orange.",
+          "token_data": [
+            {
+              "token": " They",
+              "logprob": -2.13525390625
+            },
+            {
+              "token": " are",
+              "logprob": -0.1295798420906067
+            },
+            {
+              "token": " bright",
+              "logprob": -0.7573055028915405
+            },
+            {
+              "token": " orange",
+              "logprob": -0.11373753845691681
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.797832489013672
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "orange. 1. The color of the socks is what it is. We know you're up for a challenge but, your answers were all over the place this semester! Good job!! To all students that did not show up: I get it you probably are in the mood for the end of class and want to go out with your friends... However, I just didn't see any of my friends leaving. Hopefully, we can find another excuse for me to stay alive until 3 weeks before we graduate from highschool (hopefully a year early).",
+          "token_data": [
+            {
+              "token": " orange",
+              "logprob": -3.631378173828125
+            },
+            {
+              "token": ".",
+              "logprob": -2.322476863861084
+            },
+            {
+              "token": " ",
+              "logprob": -2.8429031372070312
+            },
+            {
+              "token": "1",
+              "logprob": -3.4144675731658936
+            },
+            {
+              "token": ".",
+              "logprob": -1.7560632228851318
+            },
+            {
+              "token": " The",
+              "logprob": -3.102778673171997
+            },
+            {
+              "token": " color",
+              "logprob": -1.934407114982605
+            },
+            {
+              "token": " of",
+              "logprob": -0.30486297607421875
+            },
+            {
+              "token": " the",
+              "logprob": -1.0716633796691895
+            },
+            {
+              "token": " socks",
+              "logprob": -0.4061734080314636
+            },
+            {
+              "token": " is",
+              "logprob": -1.3144575357437134
+            },
+            {
+              "token": " what",
+              "logprob": -4.854179859161377
+            },
+            {
+              "token": " it",
+              "logprob": -2.9359302520751953
+            },
+            {
+              "token": " is",
+              "logprob": -0.4176231324672699
+            },
+            {
+              "token": ".",
+              "logprob": -0.5758752822875977
+            },
+            {
+              "token": " We",
+              "logprob": -4.3899407386779785
+            },
+            {
+              "token": " know",
+              "logprob": -3.641955852508545
+            },
+            {
+              "token": " you",
+              "logprob": -2.507599115371704
+            },
+            {
+              "token": "'re",
+              "logprob": -2.846738576889038
+            },
+            {
+              "token": " up",
+              "logprob": -4.7600579261779785
+            },
+            {
+              "token": " for",
+              "logprob": -2.842287302017212
+            },
+            {
+              "token": " a",
+              "logprob": -0.726414144039154
+            },
+            {
+              "token": " challenge",
+              "logprob": -0.18519912660121918
+            },
+            {
+              "token": " but",
+              "logprob": -3.2771525382995605
+            },
+            {
+              "token": ",",
+              "logprob": -3.7498655319213867
+            },
+            {
+              "token": " your",
+              "logprob": -5.151155471801758
+            },
+            {
+              "token": " answers",
+              "logprob": -4.9141035079956055
+            },
+            {
+              "token": " were",
+              "logprob": -2.9761743545532227
+            },
+            {
+              "token": " all",
+              "logprob": -3.1553032398223877
+            },
+            {
+              "token": " over",
+              "logprob": -3.798882007598877
+            },
+            {
+              "token": " the",
+              "logprob": -0.056182652711868286
+            },
+            {
+              "token": " place",
+              "logprob": -0.09899326413869858
+            },
+            {
+              "token": " this",
+              "logprob": -4.311509132385254
+            },
+            {
+              "token": " semester",
+              "logprob": -3.567521333694458
+            },
+            {
+              "token": "!",
+              "logprob": -2.455404043197632
+            },
+            {
+              "token": " Good",
+              "logprob": -4.820562839508057
+            },
+            {
+              "token": " job",
+              "logprob": -1.440317153930664
+            },
+            {
+              "token": "!!",
+              "logprob": -4.0487961769104
+            },
+            {
+              "token": " To",
+              "logprob": -4.933175563812256
+            },
+            {
+              "token": " all",
+              "logprob": -2.847229242324829
+            },
+            {
+              "token": " students",
+              "logprob": -4.395348072052002
+            },
+            {
+              "token": " that",
+              "logprob": -4.228354454040527
+            },
+            {
+              "token": " did",
+              "logprob": -3.711021661758423
+            },
+            {
+              "token": " not",
+              "logprob": -0.8145775198936462
+            },
+            {
+              "token": " show",
+              "logprob": -3.847895622253418
+            },
+            {
+              "token": " up",
+              "logprob": -0.4320603609085083
+            },
+            {
+              "token": ":",
+              "logprob": -3.0453503131866455
+            },
+            {
+              "token": " I",
+              "logprob": -2.21415638923645
+            },
+            {
+              "token": " get",
+              "logprob": -4.223050117492676
+            },
+            {
+              "token": " it",
+              "logprob": -0.18070371448993683
+            },
+            {
+              "token": " you",
+              "logprob": -2.2369937896728516
+            },
+            {
+              "token": " probably",
+              "logprob": -3.476942539215088
+            },
+            {
+              "token": " are",
+              "logprob": -3.071223735809326
+            },
+            {
+              "token": " in",
+              "logprob": -4.000399589538574
+            },
+            {
+              "token": " the",
+              "logprob": -2.2186927795410156
+            },
+            {
+              "token": " mood",
+              "logprob": -2.9166908264160156
+            },
+            {
+              "token": " for",
+              "logprob": -1.3391878604888916
+            },
+            {
+              "token": " the",
+              "logprob": -2.8867387771606445
+            },
+            {
+              "token": " end",
+              "logprob": -3.31203031539917
+            },
+            {
+              "token": " of",
+              "logprob": -0.2410079389810562
+            },
+            {
+              "token": " class",
+              "logprob": -4.936042308807373
+            },
+            {
+              "token": " and",
+              "logprob": -2.7820746898651123
+            },
+            {
+              "token": " want",
+              "logprob": -3.5740044116973877
+            },
+            {
+              "token": " to",
+              "logprob": -0.04496562108397484
+            },
+            {
+              "token": " go",
+              "logprob": -2.7042062282562256
+            },
+            {
+              "token": " out",
+              "logprob": -1.8861212730407715
+            },
+            {
+              "token": " with",
+              "logprob": -1.630527377128601
+            },
+            {
+              "token": " your",
+              "logprob": -0.7240318655967712
+            },
+            {
+              "token": " friends",
+              "logprob": -0.12640690803527832
+            },
+            {
+              "token": "...",
+              "logprob": -4.930356502532959
+            },
+            {
+              "token": " However",
+              "logprob": -4.10512638092041
+            },
+            {
+              "token": ",",
+              "logprob": -0.3620285987854004
+            },
+            {
+              "token": " I",
+              "logprob": -1.8259611129760742
+            },
+            {
+              "token": " just",
+              "logprob": -4.45246696472168
+            },
+            {
+              "token": " didn",
+              "logprob": -4.746274471282959
+            },
+            {
+              "token": "'t",
+              "logprob": -0.05222154036164284
+            },
+            {
+              "token": " see",
+              "logprob": -3.123044729232788
+            },
+            {
+              "token": " any",
+              "logprob": -1.5394256114959717
+            },
+            {
+              "token": " of",
+              "logprob": -1.4978424310684204
+            },
+            {
+              "token": " my",
+              "logprob": -3.3014519214630127
+            },
+            {
+              "token": " friends",
+              "logprob": -0.6394115090370178
+            },
+            {
+              "token": " leaving",
+              "logprob": -5.23133659362793
+            },
+            {
+              "token": ".",
+              "logprob": -2.4522006511688232
+            },
+            {
+              "token": " Hopefully",
+              "logprob": -5.330374717712402
+            },
+            {
+              "token": ",",
+              "logprob": -1.5733168125152588
+            },
+            {
+              "token": " we",
+              "logprob": -3.5488193035125732
+            },
+            {
+              "token": " can",
+              "logprob": -1.2164249420166016
+            },
+            {
+              "token": " find",
+              "logprob": -3.870354175567627
+            },
+            {
+              "token": " another",
+              "logprob": -2.8966145515441895
+            },
+            {
+              "token": " excuse",
+              "logprob": -3.3383498191833496
+            },
+            {
+              "token": " for",
+              "logprob": -1.8840155601501465
+            },
+            {
+              "token": " me",
+              "logprob": -4.304579734802246
+            },
+            {
+              "token": " to",
+              "logprob": -0.4404955208301544
+            },
+            {
+              "token": " stay",
+              "logprob": -2.9653525352478027
+            },
+            {
+              "token": " alive",
+              "logprob": -4.92069149017334
+            },
+            {
+              "token": " until",
+              "logprob": -4.754901885986328
+            },
+            {
+              "token": " ",
+              "logprob": -3.7820520401000977
+            },
+            {
+              "token": "3",
+              "logprob": -3.197831630706787
+            },
+            {
+              "token": " weeks",
+              "logprob": -2.539555549621582
+            },
+            {
+              "token": " before",
+              "logprob": -2.9832143783569336
+            },
+            {
+              "token": " we",
+              "logprob": -3.582308053970337
+            },
+            {
+              "token": " graduate",
+              "logprob": -2.5205416679382324
+            },
+            {
+              "token": " from",
+              "logprob": -3.6918089389801025
+            },
+            {
+              "token": " high",
+              "logprob": -0.991702675819397
+            },
+            {
+              "token": "school",
+              "logprob": -2.732335329055786
+            },
+            {
+              "token": " (",
+              "logprob": -4.203888893127441
+            },
+            {
+              "token": "hopefully",
+              "logprob": -5.183262348175049
+            },
+            {
+              "token": " a",
+              "logprob": -4.4151763916015625
+            },
+            {
+              "token": " year",
+              "logprob": -2.9476490020751953
+            },
+            {
+              "token": " early",
+              "logprob": -4.6761794090271
+            },
+            {
+              "token": ").\n\n",
+              "logprob": -3.907142400741577
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The answer will vary.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.8308219909667969
+            },
+            {
+              "token": " answer",
+              "logprob": -3.0389225482940674
+            },
+            {
+              "token": " will",
+              "logprob": -3.5517735481262207
+            },
+            {
+              "token": " vary",
+              "logprob": -2.868894100189209
+            },
+            {
+              "token": ".",
+              "logprob": -1.20427668094635
+            },
+            {
+              "token": " \n",
+              "logprob": -1.9894163608551025
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.443381309509277
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What color are Sam's new socks?",
+      "character": "Sam",
+      "story": "Evelyn and Sam were best friends. One day, they went to the mall together. Evelyn loved shopping, but Sam just wanted to eat ice cream. Evelyn saw a store with colorful clothes. She went inside while Sam waited outside. Inside, Evelyn found a pair of bright orange socks. She thought they were fun and decided to buy them. Evelyn bought orange socks. She came out of the store happy with her purchase. Sam was still eating ice cream and didn’t notice the socks. They walked around the mall some more. Sam told Evelyn about a new movie he wanted to see. Evelyn agreed to go with him next week. They had a great time together and promised to hang out again soon. The orange socks made Evelyn smile every time she wore them. Sam never knew why, but he was glad his friend was happy.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "None",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.8870739936828613
+            },
+            {
+              "token": "\n",
+              "logprob": -2.9208505153656006
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "None of these answers are right.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.9190738201141357
+            },
+            {
+              "token": " of",
+              "logprob": -0.8202986717224121
+            },
+            {
+              "token": " these",
+              "logprob": -1.5744251012802124
+            },
+            {
+              "token": " answers",
+              "logprob": -3.030421733856201
+            },
+            {
+              "token": " are",
+              "logprob": -0.5360995531082153
+            },
+            {
+              "token": " right",
+              "logprob": -2.6057584285736084
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.612189769744873
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "Black & White B: Grey and Blue C: Purple",
+          "token_data": [
+            {
+              "token": " Black",
+              "logprob": -3.8087680339813232
+            },
+            {
+              "token": " &",
+              "logprob": -3.6542582511901855
+            },
+            {
+              "token": " White",
+              "logprob": -0.45406848192214966
+            },
+            {
+              "token": " B",
+              "logprob": -2.6228060722351074
+            },
+            {
+              "token": ":",
+              "logprob": -0.012586681172251701
+            },
+            {
+              "token": " Grey",
+              "logprob": -4.301889896392822
+            },
+            {
+              "token": " and",
+              "logprob": -3.545797348022461
+            },
+            {
+              "token": " Blue",
+              "logprob": -2.2281949520111084
+            },
+            {
+              "token": " C",
+              "logprob": -0.17846859991550446
+            },
+            {
+              "token": ":",
+              "logprob": -0.015995867550373077
+            },
+            {
+              "token": " Purple",
+              "logprob": -2.3254706859588623
+            },
+            {
+              "token": " \n",
+              "logprob": -3.865178108215332
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " \n",
+              "logprob": -4.402958869934082
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "Orange",
+          "token_data": [
+            {
+              "token": " Orange",
+              "logprob": -2.344674825668335
+            },
+            {
+              "token": "\n\n",
+              "logprob": -2.5864202976226807
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "Answer using one whole sentance.",
+          "token_data": [
+            {
+              "token": " Answer",
+              "logprob": -3.8112952709198
+            },
+            {
+              "token": " using",
+              "logprob": -0.35555779933929443
+            },
+            {
+              "token": " one",
+              "logprob": -0.21695664525032043
+            },
+            {
+              "token": " whole",
+              "logprob": -0.10796362906694412
+            },
+            {
+              "token": " sent",
+              "logprob": -1.8999494314193726
+            },
+            {
+              "token": "ance",
+              "logprob": -0.08972812443971634
+            },
+            {
+              "token": ".",
+              "logprob": -0.35535627603530884
+            },
+            {
+              "token": " Q",
+              "logprob": -3.8127899169921875
+            },
+            {
+              "token": ":",
+              "logprob": -0.08159022778272629
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The new color for orange socks is pink.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -2.681342840194702
+            },
+            {
+              "token": " new",
+              "logprob": -2.8580451011657715
+            },
+            {
+              "token": " color",
+              "logprob": -2.6419801712036133
+            },
+            {
+              "token": " for",
+              "logprob": -2.8640151023864746
+            },
+            {
+              "token": " orange",
+              "logprob": -3.4674458503723145
+            },
+            {
+              "token": " socks",
+              "logprob": -0.18301594257354736
+            },
+            {
+              "token": " is",
+              "logprob": -0.6940314173698425
+            },
+            {
+              "token": " pink",
+              "logprob": -4.0093994140625
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.052117347717285
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "He had bright orange socks. They were colorful and fun. .",
+          "token_data": [
+            {
+              "token": " He",
+              "logprob": -5.109251976013184
+            },
+            {
+              "token": " had",
+              "logprob": -4.270390510559082
+            },
+            {
+              "token": " bright",
+              "logprob": -2.58687686920166
+            },
+            {
+              "token": " orange",
+              "logprob": -0.17054004967212677
+            },
+            {
+              "token": " socks",
+              "logprob": -0.20902062952518463
+            },
+            {
+              "token": ".",
+              "logprob": -0.6054883003234863
+            },
+            {
+              "token": " They",
+              "logprob": -3.4684102535247803
+            },
+            {
+              "token": " were",
+              "logprob": -0.8661999702453613
+            },
+            {
+              "token": " colorful",
+              "logprob": -3.411912679672241
+            },
+            {
+              "token": " and",
+              "logprob": -1.9412955045700073
+            },
+            {
+              "token": " fun",
+              "logprob": -0.61865234375
+            },
+            {
+              "token": ".",
+              "logprob": -0.572648823261261
+            },
+            {
+              "token": " ",
+              "logprob": -3.4992241859436035
+            },
+            {
+              "token": ".\n\n\n",
+              "logprob": -4.040680408477783
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "None",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.9190738201141357
+            },
+            {
+              "token": "\n",
+              "logprob": -2.958688259124756
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "None of these.",
+          "token_data": [
+            {
+              "token": " None",
+              "logprob": -2.9190738201141357
+            },
+            {
+              "token": " of",
+              "logprob": -0.8202986717224121
+            },
+            {
+              "token": " these",
+              "logprob": -1.5744251012802124
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -4.306788921356201
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

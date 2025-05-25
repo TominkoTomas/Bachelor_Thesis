@@ -1,0 +1,799 @@
+{
+  "story": "Zoe and Alexander were best friends who loved to play in the park. One sunny day, they decided to bring some snacks and sit on a bench. While Alexander was busy throwing a ball, Zoe noticed a small, skinny cat hiding under the bench. The cat looked very hungry. Zoe felt sad and wanted to help. She took some of her sandwich and tore it into small pieces. Zoe fed a hungry cat, and the cat ate everything quickly. Alexander came back and saw the cat licking its paws. \"What’s going on?\" he asked. Zoe smiled and said, \"I just helped this little cat.\" Alexander nodded and went back to his game. The cat rubbed against Zoe’s leg and purred. Zoe felt happy knowing she did something kind. The two friends played until the sun went down, then walked home together. The cat followed them for a little while before disappearing into the bushes. Zoe hoped to see it again someday.",
+  "characters": [
+    {
+      "question": "What was the cat's state when Zoe fed it?",
+      "character": "Zoe",
+      "story": "Zoe and Alexander were best friends who loved to play in the park. One sunny day, they decided to bring some snacks and sit on a bench. While Alexander was busy throwing a ball, Zoe noticed a small, skinny cat hiding under the bench. The cat looked very hungry. Zoe felt sad and wanted to help. She took some of her sandwich and tore it into small pieces. Zoe fed a hungry cat, and the cat ate everything quickly. Alexander came back and saw the cat licking its paws. \"What’s going on?\" he asked. Zoe smiled and said, \"I just helped this little cat.\" Alexander nodded and went back to his game. The cat rubbed against Zoe’s leg and purred. Zoe felt happy knowing she did something kind. The two friends played until the sun went down, then walked home together. The cat followed them for a little while before disappearing into the bushes. Zoe hoped to see it again someday.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "Hungry.",
+          "token_data": [
+            {
+              "token": " Hung",
+              "logprob": -3.286078453063965
+            },
+            {
+              "token": "ry",
+              "logprob": -0.020843513309955597
+            },
+            {
+              "token": ".",
+              "logprob": -1.5013278722763062
+            },
+            {
+              "token": " Q",
+              "logprob": -0.5300627946853638
+            },
+            {
+              "token": ":",
+              "logprob": -0.015483763068914413
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "The cat looked happy, contented and very hungry.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.0004034042358398
+            },
+            {
+              "token": " cat",
+              "logprob": -0.1871137171983719
+            },
+            {
+              "token": " looked",
+              "logprob": -1.6774218082427979
+            },
+            {
+              "token": " happy",
+              "logprob": -2.510403633117676
+            },
+            {
+              "token": ",",
+              "logprob": -2.7016990184783936
+            },
+            {
+              "token": " content",
+              "logprob": -3.5346364974975586
+            },
+            {
+              "token": "ed",
+              "logprob": -2.942861318588257
+            },
+            {
+              "token": " and",
+              "logprob": -0.9831624031066895
+            },
+            {
+              "token": " very",
+              "logprob": -2.4768142700195312
+            },
+            {
+              "token": " hungry",
+              "logprob": -0.9215841889381409
+            },
+            {
+              "token": ".",
+              "logprob": -0.34701645374298096
+            },
+            {
+              "token": " Q",
+              "logprob": -0.8925008773803711
+            },
+            {
+              "token": ":",
+              "logprob": -0.02339719422161579
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "What was the cat's state?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.843743324279785
+            },
+            {
+              "token": " was",
+              "logprob": -0.6454206705093384
+            },
+            {
+              "token": " the",
+              "logprob": -0.08450082689523697
+            },
+            {
+              "token": " cat",
+              "logprob": -0.11321596056222916
+            },
+            {
+              "token": "'s",
+              "logprob": -0.14995217323303223
+            },
+            {
+              "token": " state",
+              "logprob": -0.08016565442085266
+            },
+            {
+              "token": "?",
+              "logprob": -1.6151645183563232
+            },
+            {
+              "token": " \n",
+              "logprob": -2.924560785293579
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.1656017303466797
+            },
+            {
+              "token": ":",
+              "logprob": -0.3676070272922516
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " ",
+              "logprob": -3.760056495666504
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The cat's state changed because of the food it ate.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.0004034042358398
+            },
+            {
+              "token": " cat",
+              "logprob": -0.1871137171983719
+            },
+            {
+              "token": "'s",
+              "logprob": -2.785227060317993
+            },
+            {
+              "token": " state",
+              "logprob": -0.3231630325317383
+            },
+            {
+              "token": " changed",
+              "logprob": -2.637101650238037
+            },
+            {
+              "token": " because",
+              "logprob": -2.3966808319091797
+            },
+            {
+              "token": " of",
+              "logprob": -2.3115479946136475
+            },
+            {
+              "token": " the",
+              "logprob": -0.82769376039505
+            },
+            {
+              "token": " food",
+              "logprob": -1.654563546180725
+            },
+            {
+              "token": " it",
+              "logprob": -2.4969241619110107
+            },
+            {
+              "token": " ate",
+              "logprob": -0.46998512744903564
+            },
+            {
+              "token": ".",
+              "logprob": -0.3953579366207123
+            },
+            {
+              "token": " \n",
+              "logprob": -2.1355080604553223
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "The cat looked very hungry.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.0004034042358398
+            },
+            {
+              "token": " cat",
+              "logprob": -0.1871137171983719
+            },
+            {
+              "token": " looked",
+              "logprob": -1.6774218082427979
+            },
+            {
+              "token": " very",
+              "logprob": -0.4486970901489258
+            },
+            {
+              "token": " hungry",
+              "logprob": -0.06796102225780487
+            },
+            {
+              "token": ".",
+              "logprob": -0.37278932332992554
+            },
+            {
+              "token": " \n",
+              "logprob": -2.3346621990203857
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "Starving",
+          "token_data": [
+            {
+              "token": " Star",
+              "logprob": -3.9721946716308594
+            },
+            {
+              "token": "ving",
+              "logprob": -0.5738324522972107
+            },
+            {
+              "token": " Q",
+              "logprob": -1.8117023706436157
+            },
+            {
+              "token": ":",
+              "logprob": -0.021677576005458832
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The cat's state when it ate was very happy and contented because it was very hungry and soothed his feelings.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.0004034042358398
+            },
+            {
+              "token": " cat",
+              "logprob": -0.1871137171983719
+            },
+            {
+              "token": "'s",
+              "logprob": -2.785227060317993
+            },
+            {
+              "token": " state",
+              "logprob": -0.3231630325317383
+            },
+            {
+              "token": " when",
+              "logprob": -3.046576976776123
+            },
+            {
+              "token": " it",
+              "logprob": -2.288243293762207
+            },
+            {
+              "token": " ate",
+              "logprob": -1.224640130996704
+            },
+            {
+              "token": " was",
+              "logprob": -1.7621190547943115
+            },
+            {
+              "token": " very",
+              "logprob": -1.7686958312988281
+            },
+            {
+              "token": " happy",
+              "logprob": -1.1388980150222778
+            },
+            {
+              "token": " and",
+              "logprob": -2.35314679145813
+            },
+            {
+              "token": " content",
+              "logprob": -2.4141769409179688
+            },
+            {
+              "token": "ed",
+              "logprob": -1.5710794925689697
+            },
+            {
+              "token": " because",
+              "logprob": -2.802441358566284
+            },
+            {
+              "token": " it",
+              "logprob": -0.643812894821167
+            },
+            {
+              "token": " was",
+              "logprob": -0.8173104524612427
+            },
+            {
+              "token": " very",
+              "logprob": -1.8315191268920898
+            },
+            {
+              "token": " hungry",
+              "logprob": -0.18252016603946686
+            },
+            {
+              "token": " and",
+              "logprob": -1.7803488969802856
+            },
+            {
+              "token": " so",
+              "logprob": -4.890923500061035
+            },
+            {
+              "token": "oth",
+              "logprob": -5.10544490814209
+            },
+            {
+              "token": "ed",
+              "logprob": -0.006291583646088839
+            },
+            {
+              "token": " his",
+              "logprob": -3.876227378845215
+            },
+            {
+              "token": " feelings",
+              "logprob": -1.7464590072631836
+            },
+            {
+              "token": ".\n\n",
+              "logprob": -3.1728711128234863
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -3.1656017303466797
+            },
+            {
+              "token": ":",
+              "logprob": -0.3676070272922516
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What was the cat's state when Alexander fed it?",
+      "character": "Alexander",
+      "story": "Zoe and Alexander were best friends who loved to play in the park. One sunny day, they decided to bring some snacks and sit on a bench. While Alexander was busy throwing a ball, Zoe noticed a small, skinny cat hiding under the bench. The cat looked very hungry. Zoe felt sad and wanted to help. She took some of her sandwich and tore it into small pieces. Zoe fed a hungry cat, and the cat ate everything quickly. Alexander came back and saw the cat licking its paws. \"What’s going on?\" he asked. Zoe smiled and said, \"I just helped this little cat.\" Alexander nodded and went back to his game. The cat rubbed against Zoe’s leg and purred. Zoe felt happy knowing she did something kind. The two friends played until the sun went down, then walked home together. The cat followed them for a little while before disappearing into the bushes. Zoe hoped to see it again someday.",
+      "answers": [
+        {
+          "run_number": 1,
+          "answer": "What was the cat's state? After I feed it, the cat’s state got worse.",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.6631643772125244
+            },
+            {
+              "token": " was",
+              "logprob": -0.597027063369751
+            },
+            {
+              "token": " the",
+              "logprob": -0.09413465112447739
+            },
+            {
+              "token": " cat",
+              "logprob": -0.097255639731884
+            },
+            {
+              "token": "'s",
+              "logprob": -0.1106460690498352
+            },
+            {
+              "token": " state",
+              "logprob": -0.07428146153688431
+            },
+            {
+              "token": "?",
+              "logprob": -1.8647429943084717
+            },
+            {
+              "token": " After",
+              "logprob": -4.110958576202393
+            },
+            {
+              "token": " I",
+              "logprob": -2.8806095123291016
+            },
+            {
+              "token": " feed",
+              "logprob": -4.088338851928711
+            },
+            {
+              "token": " it",
+              "logprob": -1.4296958446502686
+            },
+            {
+              "token": ",",
+              "logprob": -0.7706918716430664
+            },
+            {
+              "token": " the",
+              "logprob": -1.2974824905395508
+            },
+            {
+              "token": " cat",
+              "logprob": -0.10864098370075226
+            },
+            {
+              "token": "’s",
+              "logprob": -3.3127636909484863
+            },
+            {
+              "token": " state",
+              "logprob": -0.2018526792526245
+            },
+            {
+              "token": " got",
+              "logprob": -4.356633186340332
+            },
+            {
+              "token": " worse",
+              "logprob": -1.8252060413360596
+            },
+            {
+              "token": ".",
+              "logprob": -0.5502036809921265
+            }
+          ]
+        },
+        {
+          "run_number": 2,
+          "answer": "What was the cat's state when Alexander fed it?",
+          "token_data": [
+            {
+              "token": " What",
+              "logprob": -2.6625328063964844
+            },
+            {
+              "token": " was",
+              "logprob": -0.6063467860221863
+            },
+            {
+              "token": " the",
+              "logprob": -0.09415602684020996
+            },
+            {
+              "token": " cat",
+              "logprob": -0.0976436510682106
+            },
+            {
+              "token": "'s",
+              "logprob": -0.1079099103808403
+            },
+            {
+              "token": " state",
+              "logprob": -0.07650842517614365
+            },
+            {
+              "token": " when",
+              "logprob": -0.3782138526439667
+            },
+            {
+              "token": " Alexander",
+              "logprob": -0.06434454768896103
+            },
+            {
+              "token": " fed",
+              "logprob": -0.14671526849269867
+            },
+            {
+              "token": " it",
+              "logprob": -0.03213523328304291
+            },
+            {
+              "token": "?\n\n",
+              "logprob": -2.139984607696533
+            }
+          ]
+        },
+        {
+          "run_number": 3,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -2.9789905548095703
+            },
+            {
+              "token": ":",
+              "logprob": -0.28336983919143677
+            }
+          ]
+        },
+        {
+          "run_number": 4,
+          "answer": "The cat was starving.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.1005116701126099
+            },
+            {
+              "token": " cat",
+              "logprob": -0.17114560306072235
+            },
+            {
+              "token": " was",
+              "logprob": -0.5645881295204163
+            },
+            {
+              "token": " starving",
+              "logprob": -4.145369529724121
+            },
+            {
+              "token": ".\n",
+              "logprob": -3.037930488586426
+            }
+          ]
+        },
+        {
+          "run_number": 5,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -2.9789905548095703
+            },
+            {
+              "token": ":",
+              "logprob": -0.28336983919143677
+            }
+          ]
+        },
+        {
+          "run_number": 6,
+          "answer": "The cat was hungry and licking its paws.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.1005116701126099
+            },
+            {
+              "token": " cat",
+              "logprob": -0.17114560306072235
+            },
+            {
+              "token": " was",
+              "logprob": -0.5645881295204163
+            },
+            {
+              "token": " hungry",
+              "logprob": -2.496480941772461
+            },
+            {
+              "token": " and",
+              "logprob": -1.7817362546920776
+            },
+            {
+              "token": " licking",
+              "logprob": -3.3830623626708984
+            },
+            {
+              "token": " its",
+              "logprob": -0.4110998809337616
+            },
+            {
+              "token": " p",
+              "logprob": -0.02976442128419876
+            },
+            {
+              "token": "aws",
+              "logprob": -0.0007252446375787258
+            },
+            {
+              "token": ".",
+              "logprob": -0.521262526512146
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.522094249725342
+            }
+          ]
+        },
+        {
+          "run_number": 7,
+          "answer": "It was very happy.",
+          "token_data": [
+            {
+              "token": " It",
+              "logprob": -2.2313108444213867
+            },
+            {
+              "token": " was",
+              "logprob": -0.3455181121826172
+            },
+            {
+              "token": " very",
+              "logprob": -2.007296562194824
+            },
+            {
+              "token": " happy",
+              "logprob": -1.3267526626586914
+            },
+            {
+              "token": ".",
+              "logprob": -1.0331312417984009
+            },
+            {
+              "token": " \n\n",
+              "logprob": -2.552347183227539
+            }
+          ]
+        },
+        {
+          "run_number": 8,
+          "answer": "",
+          "token_data": [
+            {
+              "token": " Q",
+              "logprob": -2.9789905548095703
+            },
+            {
+              "token": ":",
+              "logprob": -0.28336983919143677
+            }
+          ]
+        },
+        {
+          "run_number": 9,
+          "answer": "The cat was very hungry because it didn’t have anything to eat for a little while.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.1005116701126099
+            },
+            {
+              "token": " cat",
+              "logprob": -0.17114560306072235
+            },
+            {
+              "token": " was",
+              "logprob": -0.5645881295204163
+            },
+            {
+              "token": " very",
+              "logprob": -1.4276676177978516
+            },
+            {
+              "token": " hungry",
+              "logprob": -0.6524513959884644
+            },
+            {
+              "token": " because",
+              "logprob": -3.012449264526367
+            },
+            {
+              "token": " it",
+              "logprob": -0.5365904569625854
+            },
+            {
+              "token": " didn",
+              "logprob": -3.054398536682129
+            },
+            {
+              "token": "’t",
+              "logprob": -2.0601696968078613
+            },
+            {
+              "token": " have",
+              "logprob": -1.0167909860610962
+            },
+            {
+              "token": " anything",
+              "logprob": -2.302222490310669
+            },
+            {
+              "token": " to",
+              "logprob": -0.1865137219429016
+            },
+            {
+              "token": " eat",
+              "logprob": -0.03781118243932724
+            },
+            {
+              "token": " for",
+              "logprob": -1.4459035396575928
+            },
+            {
+              "token": " a",
+              "logprob": -0.2557612955570221
+            },
+            {
+              "token": " little",
+              "logprob": -3.3621931076049805
+            },
+            {
+              "token": " while",
+              "logprob": -0.19503575563430786
+            },
+            {
+              "token": ".\n",
+              "logprob": -2.973721742630005
+            }
+          ]
+        },
+        {
+          "run_number": 10,
+          "answer": "The cat looked very happy.",
+          "token_data": [
+            {
+              "token": " The",
+              "logprob": -1.1005116701126099
+            },
+            {
+              "token": " cat",
+              "logprob": -0.17114560306072235
+            },
+            {
+              "token": " looked",
+              "logprob": -2.262671947479248
+            },
+            {
+              "token": " very",
+              "logprob": -0.5997282862663269
+            },
+            {
+              "token": " happy",
+              "logprob": -2.7243235111236572
+            },
+            {
+              "token": ".",
+              "logprob": -1.245107650756836
+            },
+            {
+              "token": " ",
+              "logprob": -2.825183153152466
+            },
+            {
+              "token": " Q",
+              "logprob": -0.9015235900878906
+            },
+            {
+              "token": ":",
+              "logprob": -0.021896278485655785
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
